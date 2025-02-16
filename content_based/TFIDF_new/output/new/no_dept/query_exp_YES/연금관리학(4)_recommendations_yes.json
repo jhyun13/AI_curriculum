@@ -1,0 +1,194 @@
+{
+    "meta_info": {
+        "user_query": "사회복지 정책이 효과적으로 실행되려면 행정 조직 운영과 재정 관리가 필수적으로 뒷받침되어야 합니다. 복지 실천뿐만 아니라 정책 기획, 재정 조달, 공공 조직의 운영을 함께 연구하여 실무에 적용하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "사회복지 정책이 효과적으로 실행되려면 행정 조직 운영과 재정 관리가 필수적으로 뒷받침되어야 합니다. 복지 실천뿐만 아니라 정책 기획, 재정 조달, 공공 조직의 운영을 함께 연구하여 실무에 적용하려면 어떤 학습 과정이 필요할까요? 사회복지 정책의 효과적인 실행을 위한 복지 실천, 정책 기획, 재정 조달 및 공공 조직 운영에 대한 통합적 이해 및 응용 능력 개발 사회복지 정책의 기획, 실행 및 관리 전문가 공공 행정 및 사회복지 사회복지 정책 관리자 사회복지 정책의 기획, 실행, 평가를 총괄하며, 행정 조직 운영과 재정 관리를 통해 정책의 효과적인 수행을 도모하는 역할 사회복지 정책 개발, 재정 계획 및 관리, 공공 조직 운영 및 관리, 정책 평가 및 개선 정책 기획 능력, 재정 관리 능력, 조직 관리 능력 정책 분석 및 평가 능력 재무 계획 및 예산 편성 능력 조직 운영 및 리더십 정책학 이론, 재정학 기초, 행정학의 원리 사회복지 정책 분석 및 기획 방법론, 공공 재정 관리, 조직 관리 이론 사회복지 실천 전략, 예산 관리 및 운영 기술, 정책 실행 및 평가 프레임워크",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 4156,
+            "name": "사회문제론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.21811798082895362
+        },
+        {
+            "id": 2723,
+            "name": "도서관정보센타경영론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.215262638471447
+        },
+        {
+            "id": 2444,
+            "name": "정신건강론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.1806102047332593
+        },
+        {
+            "id": 1518,
+            "name": "금속조직학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "신소재공학부(금속시스템공학)",
+            "similarity": 0.1516058931506817
+        },
+        {
+            "id": 1868,
+            "name": "교통운영",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.10082524792559515
+        },
+        {
+            "id": 818,
+            "name": "리눅스프로그래밍",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.10073484498781594
+        },
+        {
+            "id": 4811,
+            "name": "특용수재배학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "산림환경과학과",
+            "similarity": 0.1444265091159626
+        },
+        {
+            "id": 2846,
+            "name": "건축재료학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "건축공학과",
+            "similarity": 0.11968707500043957
+        },
+        {
+            "id": 4491,
+            "name": "금속공학실험 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "신소재공학부(금속시스템공학)",
+            "similarity": 0.10507308468145965
+        },
+        {
+            "id": 4536,
+            "name": "재무행정론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.10299660123138958
+        },
+        {
+            "id": 432,
+            "name": "사회복지윤리와철학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.312761412925035
+        },
+        {
+            "id": 1920,
+            "name": "사회복지행정론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.20688151976582936
+        },
+        {
+            "id": 2165,
+            "name": "공공도서관경영",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.1782752548981867
+        },
+        {
+            "id": 1953,
+            "name": "사회복지자료분석론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.16372236484256725
+        },
+        {
+            "id": 1934,
+            "name": "산업및조직심리학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "심리학과",
+            "similarity": 0.15909099332788706
+        },
+        {
+            "id": 3146,
+            "name": "사회복지현장실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.2940489393170432
+        },
+        {
+            "id": 2819,
+            "name": "소프트웨어공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.12605976928306165
+        },
+        {
+            "id": 4292,
+            "name": "조경관리학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.1173872842328007
+        },
+        {
+            "id": 4106,
+            "name": "스마트농업프로그래밍",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.11043291221078129
+        },
+        {
+            "id": 1435,
+            "name": "식사요법및실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "식품영양학과",
+            "similarity": 0.2262519686758343
+        },
+        {
+            "id": 3593,
+            "name": "사회복지법제와실천",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.19397479714288954
+        },
+        {
+            "id": 3876,
+            "name": "자연자원관리론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.17801834684437448
+        },
+        {
+            "id": 3555,
+            "name": "사회복지와문화다양성",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.1286415285976648
+        }
+    ]
+}

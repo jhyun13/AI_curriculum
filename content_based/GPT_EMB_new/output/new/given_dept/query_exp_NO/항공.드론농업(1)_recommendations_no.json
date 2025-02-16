@@ -1,0 +1,354 @@
+{
+    "meta_info": {
+        "user_query": "스마트 농업이 발전하면서 드론, 정밀 센서, 데이터 분석, 인공지능 기술이 결합되어 더욱 효율적인 농업 시스템이 구축되고 있습니다. 예를 들어, 드론이 실시간으로 농장 환경을 분석하고, 최적의 작물 관리 방법을 제공하며, 자동으로 방제를 수행하는 기술들이 연구되고 있습니다. 이러한 변화에 대비하여 농업용 드론 개발자가 갖춰야 할 필수적인 기술과 지식은 무엇이며, 이를 효과적으로 익히기 위해 어떤 학습 경로를 따라야 할까요?",
+        "expanded_query": null,
+        "given_departments": [
+            "생물산업기계공학과",
+            "항공우주공학과"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 4287,
+            "name": "디지털농업기계개론",
+            "description": "수강생들은 본 강의에서 다음 내용을 습득한다\no. 디지털 농업 및 농업기계의 개념을 이해함\no. 다양한 디지털 농업기계 시스템 개발에 필요한 핵심 기술을 이해함\no. 보고서 작성에 필요한 자료 탐색 방법과 보고서 작성 요령을 익힘",
+            "curriculum": "디지털 농업기계 이해 및 활용 능력 배양YUMMI4차산업혁명기술 이해 및 활용 능력 배양YUMMI디지털 농업 이해 YUMMI농업기계와 디지털 기술 이해YUMMI스마트팜 이해 YUMMI농업용 로봇 이해 YUMMI농업용 로봇 활용 능력 배양YUMMI중간시험YUMMI디지털 농업 핵심기술-컨트롤러 이해YUMMI디지털 농업 핵심기술-센서 이해YUMMI디지털 농업 핵심기술-구동기 이해YUMMI디지털 농업 핵심기술-SW 이해YUMMI프로젝트 발표-1YUMMI프로젝트 발표-2YUMMI보고서 제출YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "full_text": "디지털농업기계개론 수강생들은 본 강의에서 다음 내용을 습득한다\no. 디지털 농업 및 농업기계의 개념을 이해함\no. 다양한 디지털 농업기계 시스템 개발에 필요한 핵심 기술을 이해함\no. 보고서 작성에 필요한 자료 탐색 방법과 보고서 작성 요령을 익힘",
+            "similarity": 0.5055880504499068
+        },
+        {
+            "id": 3888,
+            "name": "디지털농업프로그래밍개론",
+            "description": "- 생물산업기계 분야의 디지털화에 필요한 프로그래밍 이해에 목표가 있음\n- 프로그래밍을 처음 접하는 수강생을 대상으로 하며, 코드가 간결하고 활용 가능성이 높은 파이썬 언어에 대해 학습\n- 생물산업기계의 자동화, 지능화를 위한 소프트웨어 측면의 공학적 능력을 이끌어내고자 함\n(해당 학년 우선 수강)",
+            "curriculum": "과목소개 및 개론YUMMI프로그래밍 기초YUMMI프로그래밍 기초YUMMI프로그램의 구조YUMMI프로그램의 구조YUMMI프로그램의 구조YUMMI파이썬 입출력YUMMI중간고사YUMMI파이썬 날개 달기YUMMI파이썬 날개 달기YUMMI파이썬 날개 달기YUMMI파이썬 날개 달기YUMMI파이썬 실력 키우기YUMMI파이썬 실력 키우기YUMMI기말고사YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "full_text": "디지털농업프로그래밍개론 - 생물산업기계 분야의 디지털화에 필요한 프로그래밍 이해에 목표가 있음\n- 프로그래밍을 처음 접하는 수강생을 대상으로 하며, 코드가 간결하고 활용 가능성이 높은 파이썬 언어에 대해 학습\n- 생물산업기계의 자동화, 지능화를 위한 소프트웨어 측면의 공학적 능력을 이끌어내고자 함\n(해당 학년 우선 수강)",
+            "similarity": 0.41501228411811747
+        },
+        {
+            "id": 3,
+            "name": "항공드론기초설계",
+            "description": "창의적 엔지니어 양성을 위해 공학설계원리, 모델링 및 구형, 상세설계, 설계관리 자료수집 및 지시기법에 대한 기본 사항 학습 ",
+            "curriculum": "강의 소개. YUMMI공학과 기술YUMMI공학설계 기본원리YUMMI공학설계 과정 개요, 설계주제제시YUMMI공학설계 과정 1YUMMI공학설계 과정 2YUMMI공학설계 과정 3YUMMI공학설계 과정 관리YUMMI설계중간점검YUMMI공학설계 과정 4YUMMI의사결정YUMMI엔지니어링 커뮤니케이션YUMMI공학설게 과정 5YUMMI공학설계 과정 6YUMMI기말고사, 최종 보고서 및 설계품 팜플릿 제출 YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론기초설계 창의적 엔지니어 양성을 위해 공학설계원리, 모델링 및 구형, 상세설계, 설계관리 자료수집 및 지시기법에 대한 기본 사항 학습 ",
+            "similarity": 0.4461994492915419
+        },
+        {
+            "id": 420,
+            "name": "전산항공드론기초",
+            "description": "창의적 엔지니어 양성을 위해 공학설계원리, 모델링 및 구형, 상세설계, 설계관리 자료수집 및 지시기법에 대한 기본 사항 학습 ",
+            "curriculum": "강의 소개. YUMMIMATLAB 기초/응용 (1)YUMMIMATLAB 기초/응용 (2)YUMMI선형시스템의 풀이 (1)YUMMI선형시스템의 풀이 (2)YUMMI테일러 다항식YUMMI보간법YUMMI중간고사YUMMI보간법YUMMI수치해석을 이용한 근 찾기YUMMI수치 적분 (1)YUMMI수치 적분 (2)YUMMI수치 미분 (1)YUMMI수치 미분 (2)YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "전산항공드론기초 창의적 엔지니어 양성을 위해 공학설계원리, 모델링 및 구형, 상세설계, 설계관리 자료수집 및 지시기법에 대한 기본 사항 학습 ",
+            "similarity": 0.4208780569604167
+        },
+        {
+            "id": 1993,
+            "name": "농업기계통계학",
+            "description": "농업기계통계학은 농학 연구에 적용할 수 있는 실용적인 통계적 방법을 강의하며,\n이론 강의와 실습을 통하여 데이터를 분석할 수 있는 능력을 함양한다. ",
+            "curriculum": "통계의 기본 개념YUMMI표본추출과 데이터 수집YUMMI도수분포표와 그래프YUMMI대표값과 산포도YUMMI확률분포YUMMI표본분포YUMMI모수추정YUMMI가설검정YUMMI중간시험YUMMI두 집단의 비교YUMMI분산분석YUMMI평균의 다중비교YUMMI회귀분석YUMMI상관분석YUMMI교차분석 , 기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "full_text": "농업기계통계학 농업기계통계학은 농학 연구에 적용할 수 있는 실용적인 통계적 방법을 강의하며,\n이론 강의와 실습을 통하여 데이터를 분석할 수 있는 능력을 함양한다. ",
+            "similarity": 0.41152147474655404
+        },
+        {
+            "id": 755,
+            "name": "원예산물시스템공학",
+            "description": "식물생산 공학, 원예산물 저장, 시설원예, 생물생산기계 및 시스템의 설계와 관련된 원예산물의 생리, 광합성 및 호흡 특성 등을 공학적인 관점에서 소개한다. 아울러 차세대 식물생산시스템의 기계화, 자동화 및 정보화 개념을 소개한다.",
+            "curriculum": "서론YUMMI원예산물시스템 관련 공학 기초 I YUMMI원예산물시스템 관련 공학 기초 IIYUMMI생장 및 발육 특성 YUMMI광합성, 호흡 및 전류YUMMI증산 작용YUMMI시설원예 개요YUMMI중간고사 YUMMI시설원예 피복재YUMMI수경재배 시스템YUMMI원예산물 수확과 저장 YUMMI원예산물 품질기준과 관리YUMMIAPCYUMMI 식물생산시스템의 기계화 및 자동화YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "full_text": "원예산물시스템공학 식물생산 공학, 원예산물 저장, 시설원예, 생물생산기계 및 시스템의 설계와 관련된 원예산물의 생리, 광합성 및 호흡 특성 등을 공학적인 관점에서 소개한다. 아울러 차세대 식물생산시스템의 기계화, 자동화 및 정보화 개념을 소개한다.",
+            "similarity": 0.3707550078252642
+        },
+        {
+            "id": 2033,
+            "name": "생물전기전자공학및실습",
+            "description": "- 생물산업기계 분야에 필요한 전기전자 공학의 전반적인 내용 이해에 목표가 있음\n- 직류 및 교류의 회로분석, 연산증폭기, 반도체, 다이오드, 트랜지스터 등의 기초 지식과 실습, 시뮬레이션을 활용한 분석 기법을 습득\n- 생물산업기계의 자동화, 지능화를 위한 제어, 계측에 필요한 전기전자시스템의 이해, 설계 및 응용 능력을 학습",
+            "curriculum": "과목소개 및 개론YUMMI직류회로YUMMI등가회로YUMMI교류회로1YUMMI교류회로2YUMMI교류해석YUMMI교류심화YUMMI중간고사YUMMI연산증폭기YUMMI반도체YUMMI다이오드YUMMI트랜지스터 BJTYUMMI트랜지스터 FETYUMMI트랜지스터 심화YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "full_text": "생물전기전자공학및실습 - 생물산업기계 분야에 필요한 전기전자 공학의 전반적인 내용 이해에 목표가 있음\n- 직류 및 교류의 회로분석, 연산증폭기, 반도체, 다이오드, 트랜지스터 등의 기초 지식과 실습, 시뮬레이션을 활용한 분석 기법을 습득\n- 생물산업기계의 자동화, 지능화를 위한 제어, 계측에 필요한 전기전자시스템의 이해, 설계 및 응용 능력을 학습",
+            "similarity": 0.30079441096334647
+        },
+        {
+            "id": 3539,
+            "name": "농업인공지능개론",
+            "description": "- 4차 산업혁명의 핵심기술인 인공지능의 전반적인 내용 이해와 이를 생물산업기계 분야에 활용하는데 목표가 있음\n- 인공지능부터 머신러닝, 딥러닝에 이르는 전반적인 부분에 대해 기초 수준의 학습\n- 첨단 기술에 대한 학습과 농업으로의 응용을 통해 생물산업기계의 지능화에 기여하고자 함",
+            "curriculum": "과목소개 및 개론YUMMI인공지능 개론YUMMI기초 데이터 다루기YUMMI회귀 알고리즘YUMMI분류 알고리즘YUMMI트리 알고리즘YUMMI비지도 학습YUMMI중간고사YUMMI인공신경망YUMMI딥러닝YUMMI이미지를 위한 신경망YUMMI텍스트를 위한 신경망YUMMI강화학습YUMMI생성모델YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "full_text": "농업인공지능개론 - 4차 산업혁명의 핵심기술인 인공지능의 전반적인 내용 이해와 이를 생물산업기계 분야에 활용하는데 목표가 있음\n- 인공지능부터 머신러닝, 딥러닝에 이르는 전반적인 부분에 대해 기초 수준의 학습\n- 첨단 기술에 대한 학습과 농업으로의 응용을 통해 생물산업기계의 지능화에 기여하고자 함",
+            "similarity": 0.5318720504440624
+        },
+        {
+            "id": 3324,
+            "name": "농업데이터이해및분석",
+            "description": "농업 환경, 작물 및 가축 생육, 기상, 농산물 생산량 및 가격 정보 등 다양한 형태의 농업데이터를 소개하고, 데이터 분석을 위한 관련 소프트웨어 활용 능력을 제고시키는 데 있다. ",
+            "curriculum": "서론YUMMI농업 농촌 데이터YUMMI파이썬 개요YUMMI데이터 형식 및 구조YUMMI기본 분석 및 데이터 시각화YUMMI평균 및 표준편차YUMMI추측통계의 기본YUMMI중간평가YUMMI이산형 확률변수YUMMI연속형 확률변수YUMMI독립동일분포YUMMI통계적 추정YUMMI통계적 가설검정YUMMI회귀 분석YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "full_text": "농업데이터이해및분석 농업 환경, 작물 및 가축 생육, 기상, 농산물 생산량 및 가격 정보 등 다양한 형태의 농업데이터를 소개하고, 데이터 분석을 위한 관련 소프트웨어 활용 능력을 제고시키는 데 있다. ",
+            "similarity": 0.4549085387852309
+        },
+        {
+            "id": 2832,
+            "name": "항공우주로봇입문",
+            "description": "- 로봇공학 기초과정 이해 \n\n- 사례조사를 통한 비행로봇 및 우주탐사로봇 이해   ",
+            "curriculum": "로봇 및 항공우주 응용 소개(비행로봇, 행성탐사로봇, 서비스 로봇 등)\n강의계획 안내YUMMI로봇이란? (정의, 구성, 분류, 용어 등)                                                                YUMMI로봇의 센서 1 (위치, 가속도, 힘, 촉각센서)YUMMI로봇의 센서 2 (거리, 방향센서) YUMMI로봇의 시각 (시스템구성, 영상획득 및 처리 알고리즘)YUMMI로봇의 액추에이터 1 (서보모터, 스텝모터) YUMMI로봇의 액추에이터 2 (유압, 공기압, SMA) YUMMI이동로봇의 운동학 (구조, 운동, 제어)  YUMMI이동로봇의 주행 (경로계획, 위치인식/지도작성 알고리즘) YUMMI로봇팔의 운동학 1 (회전과 평행이동, 자세각)  YUMMI로봇팔의 운동학 2 (자코비안) YUMMI로봇팔의 동역학 (라그랑지 운동방정식)YUMMI멀티로터 비행로봇의 모델링 / 행성탐사로봇의 주행역학YUMMI사례연구 (Multirotor flying robot, Planetary exploration rover)YUMMI기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공우주로봇입문 - 로봇공학 기초과정 이해 \n\n- 사례조사를 통한 비행로봇 및 우주탐사로봇 이해   ",
+            "similarity": 0.3806726458813539
+        },
+        {
+            "id": 2638,
+            "name": "항공드론재료역학",
+            "description": "◎ 고체에 힘이 작용할 때 발생하는 내력과 변형에 대한 개념을 이해하고, 향후 비행체(항공기, 위성체, 발사체 등)의 구조 설계 및 해석에 요구되는 기초 이론을 학습함\n\n◎ 고체의 평형 방정식, 응력 및 변형도, 구성 방정식을 비롯하여 축 하중, 비틀림 하중, 굽힘 하중이 작용하는 구조물의 해석 기법을 다루며, 다양한 응용 문제(항공우주, 기계, 자동차, 풍력, 건축, 토목 분야 등)에 대한 해결 능력을 향상함",
+            "curriculum": "Ch. 1  IntroductionYUMMICh. 2  Measures of Stress and StrainYUMMICh. 2  Measures of Stress and StrainYUMMICh. 3  Axially Loaded BarsYUMMICh. 3  Axially Loaded BarsYUMMICh. 4  TorsionYUMMICh. 4  TorsionYUMMICh. 5  States of StressYUMMICh. 5  States of StressYUMMICh. 6  States of StrainYUMMICh. 7  Internal Forces and Moments in BeamsYUMMICh. 7  Internal Forces and Moments in BeamsYUMMICh. 8  Stresses in BeamsYUMMICh. 9  Deflections of BeamsYUMMICh. 9  Deflections of BeamsYUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론재료역학 ◎ 고체에 힘이 작용할 때 발생하는 내력과 변형에 대한 개념을 이해하고, 향후 비행체(항공기, 위성체, 발사체 등)의 구조 설계 및 해석에 요구되는 기초 이론을 학습함\n\n◎ 고체의 평형 방정식, 응력 및 변형도, 구성 방정식을 비롯하여 축 하중, 비틀림 하중, 굽힘 하중이 작용하는 구조물의 해석 기법을 다루며, 다양한 응용 문제(항공우주, 기계, 자동차, 풍력, 건축, 토목 분야 등)에 대한 해결 능력을 향상함",
+            "similarity": 0.3126744189040579
+        },
+        {
+            "id": 2877,
+            "name": "항공역학입문",
+            "description": "유체의 특성과 유동의 기본 개념, 유체정역학, 기존물리법칙들의 유체역학에의 적용방법, 적분형 및 미분형 유체 지배방정식, 정상 및 비정상 베르누이 방정식의 유도와 유체문제에의 적용, 상사법칙을 통한 무차원 변수의 도출, 유량함수와 포텐셜 함수, 유체기계, 항공역학, 압축성유체역학, 점성유체역학 등의 기초 유체공학 지식들을 습득하도록 한다.",
+            "curriculum": "소개, 서론YUMMI기본개념YUMMI벡터 및 공학기초YUMMI유체정역학YUMMI유체정역학YUMMI유체정역학YUMMI검사체적에 대한 적분형 지배방정식YUMMI검사체적에 대한 적분형 지배방정식YUMMI중간고사YUMMI검사체적에 대한 적분형 지배방정식YUMMI유체운동의 미분해석YUMMI유체운동의 미분해석YUMMI이상유동: 비점성 비압축성 유동YUMMI차원해석과 상사성YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공역학입문 유체의 특성과 유동의 기본 개념, 유체정역학, 기존물리법칙들의 유체역학에의 적용방법, 적분형 및 미분형 유체 지배방정식, 정상 및 비정상 베르누이 방정식의 유도와 유체문제에의 적용, 상사법칙을 통한 무차원 변수의 도출, 유량함수와 포텐셜 함수, 유체기계, 항공역학, 압축성유체역학, 점성유체역학 등의 기초 유체공학 지식들을 습득하도록 한다.",
+            "similarity": 0.2719120336352864
+        },
+        {
+            "id": 1575,
+            "name": "생물생산기계공학및실습",
+            "description": "1. 농업기계화와 효과적인 농기계 이용 경영법에 대하여 이해함\n2. 밭농업을 중심으로 다양한 농작업기계의 종류, 구조, 특성 및 작동원리를 이해함\n3. 팀프로젝트 수행을 통해  디지털 농업기계를 이해하고 보고서 작성법, 자료 찾기 등의 중요성을 이해함",
+            "curriculum": "정밀농업과 농업기계 종류YUMMI농업기계 경영YUMMI농업기계 경영 및 안전YUMMI경운 및 정지 기계 1YUMMI경운 및 정지 기계 2YUMMI이앙 기계YUMMI파종 기계YUMMI중간시험 YUMMI정식 및 중경제초 기계YUMMI관개 기계YUMMI방제 기계YUMMI수확 기계 1 (벼농사) YUMMI수확 기계 2 (밭농사)YUMMI (임시시험)YUMMI프로젝트 최종발표 YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "full_text": "생물생산기계공학및실습 1. 농업기계화와 효과적인 농기계 이용 경영법에 대하여 이해함\n2. 밭농업을 중심으로 다양한 농작업기계의 종류, 구조, 특성 및 작동원리를 이해함\n3. 팀프로젝트 수행을 통해  디지털 농업기계를 이해하고 보고서 작성법, 자료 찾기 등의 중요성을 이해함",
+            "similarity": 0.48416935772010355
+        },
+        {
+            "id": 1305,
+            "name": "항공드론CAD응용",
+            "description": "컴퓨터 이용설계의 개념 및 각종 하드웨어와 소프트웨어에 대한 최신 동향을 주지시키고, 3차원 형상 모델링에 대한 이해와 사용 능력을 배양한다. \n상용 CAD 소프트웨어인 CATIA V5를 이용하여 Sketcher / Part Design / Generative shape design Workbench를 활용한 Solid Modeling을 학습한다.\n3차원 형상을 바탕으로 2차원 도면을 추출하는 Drafting Workbench 과정에 대하여 학습하고 실습한다.\n항공드론 부품을 설계하고 Assembly design workbench를 이용하여 설계한 개별 부품과 상용 부품들을  조립한다.",
+            "curriculum": "Introduction, environment, operation\n\n - Tools & Icons, mouse\n\nModeling OverviewYUMMISketcher Workbench (1): Profiles, ConstraintsYUMMISketcher Workbench (2): Operation, etc.YUMMIPart Design Workbench (1): Sketch Based Features(1) - Pad, Stiffener, Solid CombineYUMMIPart Design Workbench (2): Sketch Based Features(2) - Shaft, Rib YUMMIPart Design Workbench (3): Reference Elements\n                                        (4): Dress-up FeaturesYUMMIPart Design Workbench (5): Boolean, Multi- section Solid\n                                        (6) : Multi-Section SolidYUMMIMid-testYUMMIGenarative Shape Design Workbench (1)YUMMIGenarative Shape Design Workbench (2)YUMMIAssembly Design WorkbenchYUMMIDrafting Workbench (1): Generative Drafting (Views & Properties)YUMMIDrafting Workbench (2) : Generative Drafting (Dimensioning & Properties)\nDrone Design Project (1)YUMMIDrone Design Project (2)YUMMI\nFinal TestYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론CAD응용 컴퓨터 이용설계의 개념 및 각종 하드웨어와 소프트웨어에 대한 최신 동향을 주지시키고, 3차원 형상 모델링에 대한 이해와 사용 능력을 배양한다. \n상용 CAD 소프트웨어인 CATIA V5를 이용하여 Sketcher / Part Design / Generative shape design Workbench를 활용한 Solid Modeling을 학습한다.\n3차원 형상을 바탕으로 2차원 도면을 추출하는 Drafting Workbench 과정에 대하여 학습하고 실습한다.\n항공드론 부품을 설계하고 Assembly design workbench를 이용하여 설계한 개별 부품과 상용 부품들을  조립한다.",
+            "similarity": 0.45914794619464516
+        },
+        {
+            "id": 839,
+            "name": "항공드론센서공학",
+            "description": "항공드론의 기계적 물리량 측정을 위한 기초 계측이론을 학습하고, 각종 센서의 작동원리 및 특성을 이해한다.\n계측이론을 바탕으로 온도, 압력, 가속도 등의 물리량에 대한 실습 프로젝터를 팀 단위로 수행하여 센서의 작동원리 및 특성을 실물을 통하여 체험 하도록 한다.",
+            "curriculum": "제1장 계측방법: 기본개념YUMMI제2장 신호: 동적 정적 특성YUMMI제2장 신호: 동적 정적특성YUMMI제2장 신호: 동적 정적특성YUMMI제3장 계측시스템의 거동YUMMI제3장 계측시스템의 거동YUMMI제3장 계측시스템의 거동YUMMI중간고사YUMMI제4장 무작위 오차와 통계YUMMI제4장 무작위 오차와 통계YUMMI제5장 정확도 추정과 불확도 분석YUMMI제5장 정확도 추정과 불확도 분석YUMMI제5장 정확도 추정과 불확도 분석YUMMI제8장 온도측정YUMMI제9장 압력과 속도의 측정YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론센서공학 항공드론의 기계적 물리량 측정을 위한 기초 계측이론을 학습하고, 각종 센서의 작동원리 및 특성을 이해한다.\n계측이론을 바탕으로 온도, 압력, 가속도 등의 물리량에 대한 실습 프로젝터를 팀 단위로 수행하여 센서의 작동원리 및 특성을 실물을 통하여 체험 하도록 한다.",
+            "similarity": 0.44418505186299656
+        },
+        {
+            "id": 311,
+            "name": "항공드론제어설계",
+            "description": "항공기(무인기)와 우주선을 비롯하여 로봇과 자동화시스템 등 항공우주 및 기계전자시스템의 제어에 관한 원리를 이해하고 기초적인 설계과정을 연습한다.",
+            "curriculum": "제어공학 소개 \n- 기초학습과제 : 수학 및 전기기초 문제풀이(미분방정식, 벡터, 행렬, 전기회로 등)YUMMI전기회로 기초 : 직류회로, 임피던스/교류회로YUMMILaplace 변환 및 전달함수YUMMI전기 및 기계시스템의 전달함수 YUMMI전기 및 기계시스템의 전달함수 \n- Case study : 안테나 제어시스템의 전달함수YUMMI전기 및 기계시스템의 상태방정식\n- Case study : 안테나 제어시스템의 상태방정식YUMMI1차 및 2차 시스템YUMMI제어시스템의 과도응답\n- Case study : 안테나 제어시스템의 open-loop 응답 YUMMI등가 시스템  \n- 설계 #1 : Closed-loop 응답설계(안테나 사례연구)YUMMI과도응답 안정도 \n- 설계 #2 : Gain에 의한 안정도 설계(안테나 사례연구)YUMMI정상상태 오차해석 \n- 설계 #3 : Gain에 의한 정상상태 오차 설계(안테나 사례연구)YUMMI근궤적 기법 \n- 설계 #4 : Gain에 의한 과도응답 설계(안테나 사례연구)YUMMI주파수 응답기법 YUMMI<지필 기말시험>YUMMI<구두 기말시험> YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론제어설계 항공기(무인기)와 우주선을 비롯하여 로봇과 자동화시스템 등 항공우주 및 기계전자시스템의 제어에 관한 원리를 이해하고 기초적인 설계과정을 연습한다.",
+            "similarity": 0.42528169529153875
+        },
+        {
+            "id": 2428,
+            "name": "농업교육론",
+            "description": "농업교육의 일반적 이해를 바탕으로 농업교육과정, 농업학습지도, 농업교육실습지도, 농업교육의 발전방향등을 학습하여 향후 농업교사로서의 기본적 능력을 배양한다.",
+            "curriculum": "농업교육론 강의계획, 목표, 과제에 대해 학습한다.YUMMI농업교육의 기초 내용으로 농업교육의 개념, 중요성, 발달사에 대하여 학습한다.YUMMI농업교육의 현주소를 파악한다.\n농업교사의 의미와 채용 및 양성과정을 알아본다.YUMMI농업교육과정에 대한 내용과 구성, 특징에 대해서 학습한다.YUMMI농업교수학습지도 방법에 대해서 학습한다.YUMMI농업교수학습지도 방법에 대해서 학습한다.YUMMI농업교육교재의 개발과 종류에 대해서 학습한다.YUMMI중간고사YUMMI농업교육 실습, 지도방법에 대해서 학습한다.YUMMI농업관련 조직 단체의 종류 및 특징에 대해서 알아본다.YUMMI진로의 의미와 내용, 방법에 대해서 학습한다.YUMMI농업교육의 성과에 대한 평가의 내용과 방법에 대해서 학습한다.YUMMI학교 교육의 목표를 높이기 위한 학교 경영관리의 효율성과 효과성에 대해서 학습한다.YUMMI외국의 농업교육 현황 및 특징을 파악하고 한국의 농업교육과 비교하여 시사점을 도출한다.YUMMI기말고사 YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "full_text": "농업교육론 농업교육의 일반적 이해를 바탕으로 농업교육과정, 농업학습지도, 농업교육실습지도, 농업교육의 발전방향등을 학습하여 향후 농업교사로서의 기본적 능력을 배양한다.",
+            "similarity": 0.3981379697371307
+        },
+        {
+            "id": 3259,
+            "name": "드론농업응용",
+            "description": "농업분야에 다양하게 사용되고 있는 농업용 드론의 개념, 특성, 응용분야등을 소개한다.\n농업용 드론의 활용분야에 대한 이해를 높히기 위하여 보조자료 활용 및 실습 강화를 목표로 두고 있다.",
+            "curriculum": "교과목 개요YUMMI농업용 드론 배경YUMMI드론의 농업적 이용 필요성 및 발달사YUMMI농업 드론 응용 분야 1YUMMI농업 드론 응용 분야 2YUMMI농업 드론 응용 분야 3YUMMI드론 응용 분야 기타 (산림 등)YUMMI중간고사 과제물YUMMI드론의 비행원리와 기초YUMMI농업 드론 실험 실습 1YUMMI농업 드론 실험 실습 2YUMMI농업 드론 실험 실습 3YUMMI농업 드론 실험 실습 4YUMMI농업 드론 실험 실습 5YUMMI기말고사 발표YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "full_text": "드론농업응용 농업분야에 다양하게 사용되고 있는 농업용 드론의 개념, 특성, 응용분야등을 소개한다.\n농업용 드론의 활용분야에 대한 이해를 높히기 위하여 보조자료 활용 및 실습 강화를 목표로 두고 있다.",
+            "similarity": 0.6462411043943206
+        },
+        {
+            "id": 4165,
+            "name": "스마트팜환경제어",
+            "description": "- 스마트팜환경제어에 필요한 제어공학의 전반적인 내용 이해에 목표가 있음\n- 제어의 기본 개념과 기초 수학 지식을 습득하고 제어시스템의 모델링, 해석, 설계에 대해 학습\n- 생물산업기계의 스마트, 디지털 농업을 위한 이론적인 접근과 실무 개발을 위한 공학적인 능력을 이끌어 내고자 함\n(해당 학년 우선 수강)",
+            "curriculum": "과목소개 및 개론YUMMI제어 기본 수학1YUMMI제어 기본 수학2YUMMI동적 시스템 모델링YUMMI블록선도, 신호흐름도YUMMI시간 영역 분석1YUMMI시간 영역 분석2YUMMI중간고사YUMMI안정도YUMMI피드백, PIDYUMMI근궤적 분석YUMMI근궤적을 이용한 설계YUMMI주파수 응답1YUMMI주파수 응답2YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "full_text": "스마트팜환경제어 - 스마트팜환경제어에 필요한 제어공학의 전반적인 내용 이해에 목표가 있음\n- 제어의 기본 개념과 기초 수학 지식을 습득하고 제어시스템의 모델링, 해석, 설계에 대해 학습\n- 생물산업기계의 스마트, 디지털 농업을 위한 이론적인 접근과 실무 개발을 위한 공학적인 능력을 이끌어 내고자 함\n(해당 학년 우선 수강)",
+            "similarity": 0.477625800888897
+        },
+        {
+            "id": 4319,
+            "name": "바이오메카트로닉스",
+            "description": "수업 목표는 다음과 같음\n-메카트로닉스 시스템을 이해함\n-메카트로닉스 시스템을 농업에 응용하는 방업을 이해함\n-농업용 로봇의 기본 구조를 이해함\n-농업용 로봇을 개념설계하는 프로젝트를 수행함",
+            "curriculum": "메카트로닉스 시스템 이해함YUMMI메카트로닉스 시스템의 구조와 제어기 역활을 이해함YUMMI메카트로닉스 시스템의 센서 역활을 이해함YUMMI메카트로닉스 시스템의 구동기 역활을 이해함YUMMI바이오메카트로닉스 시스템을 이해함YUMMI농용 로봇 이해함YUMMI농용 로봇이 다루는 대상물의 특징을 이해함YUMMI중간 시험YUMMI농용 로봇 머니퓰레이터의 특징과 역활을 이해함YUMMI농용 로봇 이동장치의 특징과 역활을 이해함YUMMI농용 로봇 센서의 특징과 역활을 이해함YUMMI농용 로봇 구동기의 특징과 역활을 이해함YUMMI실내용 농용 로봇의 종류 와 특징을 이해함YUMMI실외용 농용 로봇의 종류 와 특징을 이해함YUMMI기말시험YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "full_text": "바이오메카트로닉스 수업 목표는 다음과 같음\n-메카트로닉스 시스템을 이해함\n-메카트로닉스 시스템을 농업에 응용하는 방업을 이해함\n-농업용 로봇의 기본 구조를 이해함\n-농업용 로봇을 개념설계하는 프로젝트를 수행함",
+            "similarity": 0.39849477426071395
+        },
+        {
+            "id": 3303,
+            "name": "메카트로닉스및실험",
+            "description": "메카트로닉스 구성요소인 센서 및 신호처리, 구동기, 컴퓨터 인터페이스 등에 관한 기초지식을 습득하고 시스템 구현을 위한 설계 및 하드웨어 실장과정을 이해한다. ",
+            "curriculum": "메카트로닉스 개요 및 항공우주분야 응용사례소개 YUMMI시스템 응답 : 계측시스템, 1차 및 2차 동적 시스템의 응답특성 YUMMI아날로그 신호처리 : OP-Amp 이용 기본연산, 신호처리 기초 YUMMI데이터 수집 : 정량화 원리, A/D 및 D/A, DAQ 디바이스 및 소프트웨어 YUMMI센서 I : 위치, 속도, 응력, 변형률 측정 YUMMI\n\n센서 II : 온도, 진동, 가속도 측정 YUMMI구동기(actuator) : 전자기의 원리, 직류모터 및 모터선정, 스텝모터, 유압 및 공압, 압전구동기 등YUMMI교과목 상담 YUMMI종합시험 YUMMILabVIEW 기초 YUMMILabVIEW 활용 (My-Rio)YUMMIMicro Vehicle  실습 (IR Sensor 보정, 모터 제어, 주행 재어 및 장애물 탐지)YUMMIMicro Vehicle  실습 (IR Sensor 보정, 모터 제어, 주행 재어 및 장애물 탐지)YUMMI실습 결과 발표회YUMMI종합토론YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "메카트로닉스및실험 메카트로닉스 구성요소인 센서 및 신호처리, 구동기, 컴퓨터 인터페이스 등에 관한 기초지식을 습득하고 시스템 구현을 위한 설계 및 하드웨어 실장과정을 이해한다. ",
+            "similarity": 0.2712803233073365
+        },
+        {
+            "id": 4169,
+            "name": "항공기추진기관",
+            "description": "항공기 추진기관의 작동원리 및 다양한 추진기관의 성능특성에 대하여 이해한다.",
+            "curriculum": "항공기추진기관의 작동개념 및 구조YUMMI항공기추진기관의 작동개념 및 구조YUMMI프로펠러 추진기관과 동력장치YUMMI프로펠러 추진기관과 동력장치YUMMI추진기관 관련이론 리뷰(유체역학)YUMMI추진기관 관련이론 리뷰(유체역학)YUMMI추진기관 관련이론 리뷰(회전체, 열역학)YUMMI추진기관 관련이론 리뷰(회전체, 열역학)YUMMI중간고사YUMMIEngine Thrust and Performance ParametersYUMMIGas Turbine Engine Cycle AnalysisYUMMIGas Turbine Engine Cycle AnalysisYUMMITurbojet Engine with an AfterburnerYUMMITurbofan EngineYUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공기추진기관 항공기 추진기관의 작동원리 및 다양한 추진기관의 성능특성에 대하여 이해한다.",
+            "similarity": 0.2519045394303245
+        },
+        {
+            "id": 1160,
+            "name": "정밀농업시스템공학",
+            "description": "본 교과목은 생물산업기계 공학의 정밀농업 분야에 사용되고 있는 지구측위시스템(GPS, Global Positioning System), 지리정보시스템(GIS, Geographic information system), 원격탐사 (Remote sensing),  변량제어기술(VRT, Variable Rate Technologies) 등의 다양한 정보기술을 다룬다. 또한 앞에서 설명한 정보기술들을 활용하여 수집된 정보를 효율적으로 분석하는 회귀법, 분산분석 등의 공학자를 위한 통계기법을 다룬다.\n\n1) 첨단분야 혁신융합대학 사업단(항공드론, 빅데이터) 지원 장비 활용\n2) 외부특강 (항공드론, 빅데이터 첨단분야 혁신융합대학 사업단 지원)",
+            "curriculum": "정밀농업의 배경, 개념과 범위YUMMI정밀농업과 농업기계화YUMMI정밀농업의 주요 기반기술 1 (위치측정기술)YUMMI정밀농업의 주요 기반기술 2 (지리정보시스템)YUMMI정밀농업의 주요 기반기술 3 (원격탐사)YUMMI중간토론YUMMI포장정보 검출 방법 1 (속성변이)YUMMI포장정보 검출 방법 2 (작물 생육 환경 및 정보 검출)YUMMI포장정보 검출 방법 3 (수확량 감시)YUMMI변이와 농자재 처방 의사결정 1 (변이의 특성)YUMMI변이와 농자재 처방 의사결정 2 (처방 의사결정)YUMMI변량형 기술_VRA (변량형 기술의 조건)YUMMI변량형 기술_VRA (변량살포를 위해 고려해야 할 사항)YUMMI종합토론YUMMI프로젝트 발표 및 평가YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "full_text": "정밀농업시스템공학 본 교과목은 생물산업기계 공학의 정밀농업 분야에 사용되고 있는 지구측위시스템(GPS, Global Positioning System), 지리정보시스템(GIS, Geographic information system), 원격탐사 (Remote sensing),  변량제어기술(VRT, Variable Rate Technologies) 등의 다양한 정보기술을 다룬다. 또한 앞에서 설명한 정보기술들을 활용하여 수집된 정보를 효율적으로 분석하는 회귀법, 분산분석 등의 공학자를 위한 통계기법을 다룬다.\n\n1) 첨단분야 혁신융합대학 사업단(항공드론, 빅데이터) 지원 장비 활용\n2) 외부특강 (항공드론, 빅데이터 첨단분야 혁신융합대학 사업단 지원)",
+            "similarity": 0.5760257484038215
+        },
+        {
+            "id": 993,
+            "name": "생물환경시스템",
+            "description": "식물생산 공학, 원예산물 저장, 시설원예, 생물생산기계 및 시스템의 설계와 관련된 원예산물의 생리, 생장, 광합성 및 호흡 특성 등을 공학적인 관점에서 소개한다. 아울러 차세대 스타트팜 시스템의 개념을 소개한다.",
+            "curriculum": "강의소개YUMMI스마트팜 개요YUMMI스마트팜의 온도 환경YUMMI스마트팜의 온도 환경YUMMI스마트팜의 광 환경YUMMI스마트팜의 공기 환경YUMMI스마트팜의 공기 환경YUMMI중간고사YUMMI스마트팜의 수경재배YUMMI스마트팜의 병해충 관리YUMMI스마트팜 요소기술YUMMI스마트팜 요소기술YUMMI스마트팜 요소기술YUMMI스마트팜 요소기술YUMMI학기말 고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "full_text": "생물환경시스템 식물생산 공학, 원예산물 저장, 시설원예, 생물생산기계 및 시스템의 설계와 관련된 원예산물의 생리, 생장, 광합성 및 호흡 특성 등을 공학적인 관점에서 소개한다. 아울러 차세대 스타트팜 시스템의 개념을 소개한다.",
+            "similarity": 0.4149927571632155
+        },
+        {
+            "id": 144,
+            "name": "농업기계창의설계 1",
+            "description": "농업기계 창의설계 과목을 통해 수강생들은 PBL을 이용하여 프로젝트를 수행하여 농업용 메카트로닉스 시스템 설계. 프로젝트 발표, 프로젝트 보고서 작성 등 다양한 농업용 \n메카트로닉스 시스템 개발에 필요한 기초적인 실무 내용을 직접 익히며, 농업용 메카트로닉스 시스템의 시작기 설계에 집중할 수 있다. 또한 PBL 디자인의 개념과 수행방법, 팀별 협업 방법을\n통해 실질적인 프로젝트 완성 방법을 학습한다.",
+            "curriculum": "서론YUMMI농업용 메카트로닉스 시스템의 이해YUMMIIoT, 인공지능 기술의 이해 및 경향 분석YUMMI농업용 메카트로닉스기술의 이해 1(영상처리)YUMMI농업용 메카트로닉스기술의 이해 2(비파괴센싱)YUMMI농업용 메카트로닉스기술의 이해 3(스마트팜 등)YUMMI농업용 메카트로닉스기술의 창의설계 적용YUMMI중간고사YUMMIPBL(Problem Based Learning)에 근거한 문제 도출 및 프로젝트 팀 구성\n프로젝트 수행YUMMI프로젝트 주제 및 수행 계획 발표 \n프로젝트 수행YUMMI프로젝트 수행YUMMI프로젝트 중간 발표 및 토론\n수정사항 YUMMI프로젝트 수정사항 수행YUMMI프로젝트 수정사항 수행YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "full_text": "농업기계창의설계 1 농업기계 창의설계 과목을 통해 수강생들은 PBL을 이용하여 프로젝트를 수행하여 농업용 메카트로닉스 시스템 설계. 프로젝트 발표, 프로젝트 보고서 작성 등 다양한 농업용 \n메카트로닉스 시스템 개발에 필요한 기초적인 실무 내용을 직접 익히며, 농업용 메카트로닉스 시스템의 시작기 설계에 집중할 수 있다. 또한 PBL 디자인의 개념과 수행방법, 팀별 협업 방법을\n통해 실질적인 프로젝트 완성 방법을 학습한다.",
+            "similarity": 0.39173034012368163
+        },
+        {
+            "id": 1015,
+            "name": "전산항공드론심화",
+            "description": "Computer-Aided Engineering (CAE) 실습 프로그램을 활용하는 방법을 학습하고 전산설계문제를 해결하는 능력을 기른다. ",
+            "curriculum": "강의소개YUMMI항공드론CAEYUMMI수학적 모델링YUMMI근사해법YUMMI기초역학실습 1YUMMI기초역학실습 2YUMMI기초역학실습 3YUMMI기초역학실습 4YUMMI기초역학실습 5YUMMI기초역학실습 6YUMMI기초역학실습 7YUMMI기초역학실습 8YUMMI기초역학실습 9YUMMI기초역학실습 10YUMMIPBL 설계 주제 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "전산항공드론심화 Computer-Aided Engineering (CAE) 실습 프로그램을 활용하는 방법을 학습하고 전산설계문제를 해결하는 능력을 기른다. ",
+            "similarity": 0.35381602059447104
+        },
+        {
+            "id": 1723,
+            "name": "우주궤도역학",
+            "description": "우주비행에 필요한 기본 원리 및 인공위성 시스템에 대하여 소개한다. 우주환경, 위성 시스템의 기본구성, 운용, 우주탐사에 필요한 제반 기본 지식을 습득한다. 그러한 기본 지식을 배경으로 인공위성의 이해에 가장 필수적인 궤도 역학의 중요성 및 실제 적용시 필요한 수학적 모델링 및 해석 기법을 강의한다. 인공위성 궤도는 단순 2체 궤도는 물론 교란력 모델링 및 그 효과를 분석하고 초보적인 수준의 궤도 설계 과정을 이해한다. 2체 궤도 운동 방정식의 수치적, 해석적 풀이 과정을 실습하고, 궤도 전이 등의 문제데 적용하여 본다. 교제에 제시된 MATLAB 프로그램을 직접 수행해보고 프로젝트를 통해 프로그래밍에 대한 숙달능력을 향상시키고 설계 능력을 높인다.본 과목은 4학년 과목이지만 공업수학과 동역학만 이수하였다면 강의 수강이 가능함.\n참고사항 1: 상세한 강의계획, 일정, 평가 방법 등은 학기초에 별도의 상세히 자료 제공 및 설명 예정입니다.\n참고사항 2: 4학년 수업임을 감안하여, 대면중심과 비대면 (영상강의자료제공) 수업 혼합 방식입니다.",
+            "curriculum": "과목 소개 및 궤도 역학의 중요성 설명\n\n사전이해도평가 수행YUMMIDynamics of point masses (1)YUMMIDynamics of point masses (2)YUMMIThe two-body problem (1)YUMMIThe two-body problem (2)YUMMIOrbital position as a function of time (1)YUMMIOrbital position as a function of time (2)YUMMI중간고사YUMMIOrbital in three dimensions (1)YUMMIOrbital in three dimensions (2)YUMMIOrbital maneuvers (1)YUMMIOrbital maneuvers (2)YUMMIInterplanetary TrajectoriseYUMMIRigid body dynamicsYUMMI기말시험 (발표포함)YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "우주궤도역학 우주비행에 필요한 기본 원리 및 인공위성 시스템에 대하여 소개한다. 우주환경, 위성 시스템의 기본구성, 운용, 우주탐사에 필요한 제반 기본 지식을 습득한다. 그러한 기본 지식을 배경으로 인공위성의 이해에 가장 필수적인 궤도 역학의 중요성 및 실제 적용시 필요한 수학적 모델링 및 해석 기법을 강의한다. 인공위성 궤도는 단순 2체 궤도는 물론 교란력 모델링 및 그 효과를 분석하고 초보적인 수준의 궤도 설계 과정을 이해한다. 2체 궤도 운동 방정식의 수치적, 해석적 풀이 과정을 실습하고, 궤도 전이 등의 문제데 적용하여 본다. 교제에 제시된 MATLAB 프로그램을 직접 수행해보고 프로젝트를 통해 프로그래밍에 대한 숙달능력을 향상시키고 설계 능력을 높인다.본 과목은 4학년 과목이지만 공업수학과 동역학만 이수하였다면 강의 수강이 가능함.\n참고사항 1: 상세한 강의계획, 일정, 평가 방법 등은 학기초에 별도의 상세히 자료 제공 및 설명 예정입니다.\n참고사항 2: 4학년 수업임을 감안하여, 대면중심과 비대면 (영상강의자료제공) 수업 혼합 방식입니다.",
+            "similarity": 0.2948467551509113
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "description": "본 과목에서는 학생들이 그동안 습득한 전공 지식을 바탕으로 항공 및 드론의 설계 원리를 이해하고, 이를 개선 및 개발하기 위한 창의력을 키움과 동시에 실제 산업 현장에서의 적응력을 향상시키는데 목적이 있다. 따라서 본 교과목을 통해 문제의 발견 및 분석, 문제 해결을 위한 체계적인 접근 방법, 문제 해석 방법 등을 공부하게 되며, 작품 제작을 통해 관련 기술의 적용성 향상, 아이디어의 구체화 등을 학습하게 된다.",
+            "curriculum": "창의적 공학설계 개요 설명, 팀 구성YUMMI작품제작 주제선정 및 연구계획서 작성을 위한 기초자료조사 #1YUMMI작품제작 주제선정 및 연구계획서 작성을 위한 기초자료조사 #1YUMMI주제선정 및 문제해결을 위한 접근방법 토의YUMMI시제품 설계를 위한 배경지식 탐구 #1YUMMI시제품 설계를 위한 배경지식 탐구 #1YUMMI시제품 설계, 부품 및 재료조사 #1YUMMI시제품 설계, 부품 및 재료조사 #2YUMMI시제품 설계, 부품 및 재료조사 #3YUMMI시제품 설계, 부품 및 재료조사 #4YUMMI시제품 제작 #1YUMMI시제품 제작 #2YUMMI시제품 제작 #3YUMMI시제품 제작 #4YUMMI종합발표회, 작품 전시 및 보고서 제출YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론융합설계 본 과목에서는 학생들이 그동안 습득한 전공 지식을 바탕으로 항공 및 드론의 설계 원리를 이해하고, 이를 개선 및 개발하기 위한 창의력을 키움과 동시에 실제 산업 현장에서의 적응력을 향상시키는데 목적이 있다. 따라서 본 교과목을 통해 문제의 발견 및 분석, 문제 해결을 위한 체계적인 접근 방법, 문제 해석 방법 등을 공부하게 되며, 작품 제작을 통해 관련 기술의 적용성 향상, 아이디어의 구체화 등을 학습하게 된다.",
+            "similarity": 0.4965337401832146
+        },
+        {
+            "id": 2998,
+            "name": "항공우주공학프로젝트",
+            "description": "- 학부생들의 창의적 연구 활동을 지원하고 전공 분야 역량을 함양하기 위한 졸업연구 \n- 학부생들에게 연구 참여 기회를 제공함으로써 연구개발현장에서 필요한 실무역량 강화 ",
+            "curriculum": "OT 및 연구주제 선정 YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI발표 및 토론 YUMMI소논문(4쪽) 제출 YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공우주공학프로젝트 - 학부생들의 창의적 연구 활동을 지원하고 전공 분야 역량을 함양하기 위한 졸업연구 \n- 학부생들에게 연구 참여 기회를 제공함으로써 연구개발현장에서 필요한 실무역량 강화 ",
+            "similarity": 0.2664529276228693
+        },
+        {
+            "id": 4623,
+            "name": "인공위성임무설계및해석",
+            "description": "- 인공위성 궤도 설계\n- 인공위성 시스템 기본 설계\n- 참고사항: 최종 강의 계획은 학생들의 수강 상황에 따라 변동이 있을 수 있습니다. (수강생 부족시 설강하지 못함). \n- 2022년 2학기 강의 안내서를 첨부하니 참고하기 바랍니다.\n*인공위성 임무해석 S/W인 STK 또는 FreeFlyer의 기능, 사용법 및 적용 등에 대하여 학습 예정임.",
+            "curriculum": "(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "인공위성임무설계및해석 - 인공위성 궤도 설계\n- 인공위성 시스템 기본 설계\n- 참고사항: 최종 강의 계획은 학생들의 수강 상황에 따라 변동이 있을 수 있습니다. (수강생 부족시 설강하지 못함). \n- 2022년 2학기 강의 안내서를 첨부하니 참고하기 바랍니다.\n*인공위성 임무해석 S/W인 STK 또는 FreeFlyer의 기능, 사용법 및 적용 등에 대하여 학습 예정임.",
+            "similarity": 0.24773142645239113
+        },
+        {
+            "id": 3804,
+            "name": "바이오시스템공학연구 2",
+            "description": "학부과정의 4학년 학생 대상으로 한 세미나 교과목으로서, 공학발표에 필요한 준비, 발표 및 토론을 연습하며 수강생들은 그들이 진행중인 프로젝트를 준비단계, 중간단계, 최종단계별로 발표한다.\n또한 공학적 사고방식을 접목한 보고서 작성을 위한 방법도 논의된다. 필요에 따라서 외부 연사가 초청되며, 수강생들의 발표를 위주로 진행된다.",
+            "curriculum": "서론YUMMI국내 농업 및 농업기계화 현황YUMMI농업기계 최신 기술 동향YUMMI(준비단계) 주제어 선정YUMMI(준비단계) 자료 조사 개요 및 방법 YUMMI(중간단계) 연구계획서 작성 1 - 연구주제 및 연구필요성/목적YUMMI(중간단계) 연구계획서 작성 2 - 이론적 배경\nYUMMI중간 과제 기간YUMMI(중간단계) 연구계획서 작성 3 - 연구방법 및 참고문헌YUMMI(최종단계)  연구보고서 작성 1 - 초고 작성YUMMI(최종단계)  연구보고서 작성 2 - 검토YUMMI(최종단계) 연구보고서 작성 3 - 요약서 작성 및 검토YUMMI(최종단계) 연구보고서 작성 4 - 보고서 보완\nYUMMI(최종단계) 공개발표 및 토론YUMMI(최종단계) 공개발표 및 토론YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "full_text": "바이오시스템공학연구 2 학부과정의 4학년 학생 대상으로 한 세미나 교과목으로서, 공학발표에 필요한 준비, 발표 및 토론을 연습하며 수강생들은 그들이 진행중인 프로젝트를 준비단계, 중간단계, 최종단계별로 발표한다.\n또한 공학적 사고방식을 접목한 보고서 작성을 위한 방법도 논의된다. 필요에 따라서 외부 연사가 초청되며, 수강생들의 발표를 위주로 진행된다.",
+            "similarity": 0.2186628150627325
+        }
+    ]
+}

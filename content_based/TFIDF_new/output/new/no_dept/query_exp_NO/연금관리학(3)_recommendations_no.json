@@ -1,0 +1,122 @@
+{
+    "meta_info": {
+        "user_query": "공공 정책이 실질적인 사회적 영향을 가지려면 재정적 지속 가능성과 정책 기획이 필수적입니다. 복지 정책, 공공 예산 운영, 조직 혁신을 함께 연구하며 실무에서 활용할 수 있도록 학습하려면 어떤 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2723,
+            "name": "도서관정보센타경영론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.13618603320347752
+        },
+        {
+            "id": 2890,
+            "name": "친밀성과관계의사회학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.12295227423048702
+        },
+        {
+            "id": 1929,
+            "name": "영상커뮤니케이션",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.11512534062241653
+        },
+        {
+            "id": 4536,
+            "name": "재무행정론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.2383463956169984
+        },
+        {
+            "id": 2820,
+            "name": "농업환경화학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생물환경화학과",
+            "similarity": 0.11382007089996302
+        },
+        {
+            "id": 4769,
+            "name": "화폐금융이론및정책",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.1047059663781131
+        },
+        {
+            "id": 2165,
+            "name": "공공도서관경영",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.17039458407069294
+        },
+        {
+            "id": 1746,
+            "name": "도시및지역경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.12284002544383762
+        },
+        {
+            "id": 709,
+            "name": "일본어문법 2",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.12217591308405758
+        },
+        {
+            "id": 3953,
+            "name": "사회적경제론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.1364072007761578
+        },
+        {
+            "id": 2582,
+            "name": "신재생에너지공학및실험",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전기공학과",
+            "similarity": 0.12255028284911772
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.20033645498946961
+        },
+        {
+            "id": 3876,
+            "name": "자연자원관리론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.19399946570709697
+        },
+        {
+            "id": 4236,
+            "name": "동물발달생물학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.11094859457363593
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "meta_info": {
+        "user_query": "정치 및 행정 조직에서 윤리적 문제를 고려하고, 공정하고 책임 있는 정책 운영을 지원하는 공공 윤리 전문가가 되고 싶어요. 이를 위해 어떤 학문적 배경이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2983,
+            "name": "도시학개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.18405375708771113
+        },
+        {
+            "id": 2262,
+            "name": "원가회계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.10824463687756859
+        },
+        {
+            "id": 3159,
+            "name": "고려시대사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.17580614848670018
+        },
+        {
+            "id": 2556,
+            "name": "교통공학개론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.1618143964068806
+        },
+        {
+            "id": 2934,
+            "name": "윤리학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "철학과",
+            "similarity": 0.1529458594027414
+        },
+        {
+            "id": 2614,
+            "name": "농식품경영학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.13367114448424117
+        },
+        {
+            "id": 4510,
+            "name": "스포츠윤리",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.12114781591702388
+        },
+        {
+            "id": 1676,
+            "name": "과학기술과윤리",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "과학학과",
+            "similarity": 0.17589112322259948
+        },
+        {
+            "id": 432,
+            "name": "사회복지윤리와철학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.1330377994927482
+        },
+        {
+            "id": 2174,
+            "name": "한일관계사",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사학과",
+            "similarity": 0.10706311408418233
+        },
+        {
+            "id": 3757,
+            "name": "발달진단및심리평가",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "아동학과",
+            "similarity": 0.10833504195831307
+        },
+        {
+            "id": 3063,
+            "name": "학교사회복지론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.10490022915977927
+        },
+        {
+            "id": 386,
+            "name": "행정사무관리론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.11564415418597493
+        },
+        {
+            "id": 994,
+            "name": "응용생물학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생명과학부(분자생물학)",
+            "similarity": 0.1086260392963889
+        },
+        {
+            "id": 4158,
+            "name": "회계윤리",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.20508381249533175
+        },
+        {
+            "id": 3876,
+            "name": "자연자원관리론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.1214446796589372
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.10949154022858922
+        }
+    ]
+}

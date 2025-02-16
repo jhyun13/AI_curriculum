@@ -1,0 +1,162 @@
+{
+    "meta_info": {
+        "user_query": "환자의 움직임 데이터를 분석하여 AI 기반 재활 시스템을 개발하고 최적화하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2349,
+            "name": "산림전산설계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산림환경과학과",
+            "similarity": 0.15175640258534973
+        },
+        {
+            "id": 928,
+            "name": "감각과지각",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "심리학과",
+            "similarity": 0.125093569445646
+        },
+        {
+            "id": 2262,
+            "name": "원가회계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.11816023944235081
+        },
+        {
+            "id": 2211,
+            "name": "머신러닝개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.1106491182122909
+        },
+        {
+            "id": 1586,
+            "name": "R프로그래밍",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.10994044807096594
+        },
+        {
+            "id": 4647,
+            "name": "수치해석",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.1476911598276368
+        },
+        {
+            "id": 4346,
+            "name": "데이터통신",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.1045518945307651
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.1827316643551054
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.15955159107836625
+        },
+        {
+            "id": 1694,
+            "name": "식물분자생물학및육종학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "농생물학과",
+            "similarity": 0.12306786019475797
+        },
+        {
+            "id": 52,
+            "name": "기후시스템역학및모델링",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.11952586681517334
+        },
+        {
+            "id": 2093,
+            "name": "바이오메카닉스활용및실습 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.11802013916900667
+        },
+        {
+            "id": 4354,
+            "name": "생체영상처리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.13085497523177886
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.12336197472031415
+        },
+        {
+            "id": 1034,
+            "name": "미생물생명정보학 1",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생명공학부",
+            "similarity": 0.14504861868964922
+        },
+        {
+            "id": 640,
+            "name": "데이터기반사회이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.13042256903567367
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.12514917422424923
+        },
+        {
+            "id": 989,
+            "name": "금융통계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.10948802307821669
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.11726049573427484
+        }
+    ]
+}

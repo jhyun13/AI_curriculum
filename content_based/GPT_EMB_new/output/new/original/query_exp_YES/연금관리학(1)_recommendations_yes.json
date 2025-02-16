@@ -1,0 +1,277 @@
+{
+    "meta_info": {
+        "user_query": "기업과 공공 기관은 각각 영리와 공공 서비스를 목표로 하지만, 두 조직 모두 예산 관리, 세무 운영, 회계 전략이 필수적입니다. 민간 기업과 공공 재정 운영을 비교하며 실무적인 재무 관리 역량을 기르려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "기업과 공공 기관은 각각 영리와 공공 서비스를 목표로 하지만, 두 조직 모두 예산 관리, 세무 운영, 회계 전략이 필수적입니다. 민간 기업과 공공 재정 운영을 비교하며 실무적인 재무 관리 역량을 기르려면 어떤 학습 과정이 필요할까요?실무적인 재무 관리 역량 강화 민간 및 공공 재정 운영 전문가 재무 관리 재무 관리 전문가 기업과 공공 기관의 재무 활동을 분석하고 관리하여 조직의 재정적 건전성을 유지하며, 예산 관리, 세무 운영, 회계 전략을 효율적으로 수행하는 전문가 예산 관리 및 예측, 세무 보고, 회계 실무, 재정 분석 및 전략 개발 예산 관리, 세무, 회계 재무 분석, 전략적 재정 계획, 회계 원리, 세무 개론, 재무 관리 기초 공공 재정 운영, 민간 기업 회계, 국제 회계 표준 실제 예산 관리 소프트웨어 사용, 세무 서류 준비 및 제출",
+        "given_departments": null,
+        "selected_departments": [
+            "회계학과",
+            "행정학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 1737,
+            "name": "회계원리",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.3627506670186374
+        },
+        {
+            "id": 4773,
+            "name": "재무회계",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.5403409391917712
+        },
+        {
+            "id": 4253,
+            "name": "정책학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.29238019273404225
+        },
+        {
+            "id": 2338,
+            "name": "회계와비주얼베이직",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.5483694264940703
+        },
+        {
+            "id": 1488,
+            "name": "중급회계 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.48093646998291356
+        },
+        {
+            "id": 2262,
+            "name": "원가회계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.41098342081592354
+        },
+        {
+            "id": 455,
+            "name": "기획론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.359428854774577
+        },
+        {
+            "id": 1250,
+            "name": "행정조사방법론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.34333375931905125
+        },
+        {
+            "id": 4536,
+            "name": "재무행정론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.6011331184652206
+        },
+        {
+            "id": 2840,
+            "name": "관리회계",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.49016747638774527
+        },
+        {
+            "id": 4495,
+            "name": "중급회계 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.46377829558748496
+        },
+        {
+            "id": 4859,
+            "name": "재무관리",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.4615526787551261
+        },
+        {
+            "id": 2912,
+            "name": "간접세회계",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.35748386253057746
+        },
+        {
+            "id": 480,
+            "name": "재무설계 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.4729403663092144
+        },
+        {
+            "id": 505,
+            "name": "재무제표분석과가치평가",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.434703410516881
+        },
+        {
+            "id": 77,
+            "name": "회계시스템디자인",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.41264231489254055
+        },
+        {
+            "id": 584,
+            "name": "세무회계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.38476760429427875
+        },
+        {
+            "id": 1401,
+            "name": "투자론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.3790073526916309
+        },
+        {
+            "id": 4398,
+            "name": "회계정보시스템",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.5498461117039051
+        },
+        {
+            "id": 4010,
+            "name": "원가관리회계연습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.5290933623705987
+        },
+        {
+            "id": 3462,
+            "name": "재무설계 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.5205564780219946
+        },
+        {
+            "id": 2803,
+            "name": "공공관계론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.423761623914442
+        },
+        {
+            "id": 4533,
+            "name": "행정영어",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.36285277672583943
+        },
+        {
+            "id": 1299,
+            "name": "재무회계연습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.4949104399016117
+        },
+        {
+            "id": 1096,
+            "name": "지방재정론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4907890688279377
+        },
+        {
+            "id": 1485,
+            "name": "연금의이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.45473677117395594
+        },
+        {
+            "id": 867,
+            "name": "세무관리",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.4483364886283874
+        },
+        {
+            "id": 386,
+            "name": "행정사무관리론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4360548715900815
+        },
+        {
+            "id": 3460,
+            "name": "정부및비영리기관회계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.5217459703169699
+        },
+        {
+            "id": 4039,
+            "name": "전략관리회계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.5188187018773047
+        },
+        {
+            "id": 4589,
+            "name": "재무제표작성실무",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.50602418439868
+        },
+        {
+            "id": 4158,
+            "name": "회계윤리",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.46333963599891514
+        },
+        {
+            "id": 4557,
+            "name": "복지행정론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.3704046279713152
+        }
+    ]
+}

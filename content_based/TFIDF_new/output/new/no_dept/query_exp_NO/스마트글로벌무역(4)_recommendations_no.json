@@ -1,0 +1,186 @@
+{
+    "meta_info": {
+        "user_query": "기업이 글로벌 시장에서 성공하기 위해서는 경제 및 무역 정책을 이해하고, 데이터 기반 의사 결정과 금융 분석이 필수적입니다. 인공지능과 클라우드 기술을 활용해 국제 시장 데이터를 실시간으로 분석하고, 최적의 무역·투자 전략을 도출하려면 어떤 학습 과정이 필요할까요",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.1205987772867431
+        },
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.10153445183485962
+        },
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.2201368298180948
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.15380336811789883
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.12615456049494872
+        },
+        {
+            "id": 2211,
+            "name": "머신러닝개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.1075287883177818
+        },
+        {
+            "id": 30,
+            "name": "이민정책론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.10171406204128547
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1532777459581052
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10420375984194724
+        },
+        {
+            "id": 3247,
+            "name": "행정통계학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.10404408201360973
+        },
+        {
+            "id": 2423,
+            "name": "산업조직론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.11333275619931708
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.11163727477885384
+        },
+        {
+            "id": 442,
+            "name": "GIS공간분석중급",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.10129964168718804
+        },
+        {
+            "id": 4354,
+            "name": "생체영상처리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.1280389469195663
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.1095038787679963
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10629276678878256
+        },
+        {
+            "id": 3437,
+            "name": "부동산경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.10273918119925039
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.24709610505389684
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.19309247783209682
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.14565599981276828
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3319963757639664
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.23729382600063836
+        }
+    ]
+}

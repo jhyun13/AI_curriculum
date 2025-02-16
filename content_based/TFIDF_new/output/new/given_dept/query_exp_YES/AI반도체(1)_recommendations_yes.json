@@ -1,0 +1,101 @@
+{
+    "meta_info": {
+        "user_query": "데이터가 폭발적으로 증가하는 시대에서, AI 연산을 가속화하는 반도체와 메모리 기술이 필요합니다. AI와 반도체 아키텍처를 최적화하여 고성능 AI 칩을 개발하는 엔지니어가 되고 싶어요. 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "데이터가 폭발적으로 증가하는 시대에서, AI 연산을 가속화하는 반도체와 메모리 기술이 필요합니다. AI와 반도체 아키텍처를 최적화하여 고성능 AI 칩을 개발하는 엔지니어가 되고 싶어요. 어떤 학습 과정이 필요할까요? AI 및 반도체 아키텍처 최적화에 관한 전문 지식 습득 고성능 AI 칩 개발을 위한 엔지니어 AI 반도체 아키텍처 엔지니어링 AI 칩 설계 엔지니어 신속하고 효율적인 AI 연산을 가능케 하는 반도체 및 메모리 기술을 설계, 개발, 테스트하여 고성능 AI 칩을 제작합니다. AI 알고리즘과 반도체 회로 설계 간의 최적화를 촉진하며, 새로운 기술을 기반으로 혁신적인 AI 반도체 솔루션을 창출합니다. 반도체 및 메모리 시스템 설계 및 개발 AI 연산 가속화를 위한 하드웨어 최적화 AI 칩 성능 테스트 및 개선 반도체 기초 및 설계 기술 메모리 구조에 대한 이해 AI 알고리즘 처리 능력 하드웨어 설계 및 회로 최적화 고성능 컴퓨팅에 대한 이해 및 응용 VLSI 설계 및 ASIC 개발 경험 반도체 공학 원리 디지털 및 아날로그 회로 설계 AI 알고리즘과 하드웨어 간 최적화 기법 메모리와 프로세서 아키텍처 설계 VHDL, Verilog와 같은 하드웨어 설명 언어 사용 칩 설계 및 프로토타이핑 툴 활용",
+        "given_departments": [
+            "전자공학부",
+            "컴퓨터인공지능학부"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2594,
+            "name": "컴퓨터구조",
+            "description": "해당 강의는 프로세서, 메모리 등 컴퓨터 시스템을 구성하는 주요 요소 및 동작 원리를 이해하고, 동작 과정에서 거치는 소프트웨어/하드웨어 간 상호작용에 대한 이해를 목적으로 한다.\n(전반부) 컴퓨터 시스템을 구성하는 주요 구성요소, 성능 및, 컴퓨터를 구동하는 기본적인 연산,로직 구조 및 이를 활용한 인스트럭션 동작에 대해 이해한다.\n(후반부) 전반부의 내용을 바탕으로 컴퓨터 내의 연산 프로세서, 메모리의 동작을 분석하거나, 프로세서 혹은 클러스터 컴퓨팅에서의 병렬 동작을 이해한다.\n",
+            "curriculum": "Introduction to computing architecture\nYUMMIComputer abstractions and technologies\nYUMMIComputer abstractions and technologies\nYUMMIIntroduction: Language of the computer\nYUMMIIntroduction: Language of the computer\nYUMMIArithmetic for computers\nYUMMIArithmetic for computers\nYUMMI중간고사YUMMIThe Processor\nYUMMIThe Processor\nYUMMILarge and fast: Exploiting memory hierarchy\nYUMMILarge and fast: Exploiting memory hierarchy\nYUMMIParallel Processor from client to cloud\nYUMMIParallel Processor from client to cloud\nYUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "컴퓨터구조 해당 강의는 프로세서, 메모리 등 컴퓨터 시스템을 구성하는 주요 요소 및 동작 원리를 이해하고, 동작 과정에서 거치는 소프트웨어/하드웨어 간 상호작용에 대한 이해를 목적으로 한다.\n(전반부) 컴퓨터 시스템을 구성하는 주요 구성요소, 성능 및, 컴퓨터를 구동하는 기본적인 연산,로직 구조 및 이를 활용한 인스트럭션 동작에 대해 이해한다.\n(후반부) 전반부의 내용을 바탕으로 컴퓨터 내의 연산 프로세서, 메모리의 동작을 분석하거나, 프로세서 혹은 클러스터 컴퓨팅에서의 병렬 동작을 이해한다.\n",
+            "similarity": 0.11317116540164551
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "description": " 본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "curriculum": "Introduction & problem-solving by searchingYUMMIProblem-solving: Uninformed/Informed Search, Advanced searchYUMMIProblem-solving: Adversarial Search, Constraint satisfaction problemYUMMISymbolic AI: First order logicYUMMISymbolic AI: Inference in FOLYUMMIMachine Learning: Linear classification, logistic regressionYUMMIMidtermYUMMIMachine Learning: Deep learning basics - Feedforward neural networks, Backpropagation, Convolutional networksYUMMIProbabilistic reasonsing: Bayesian networks & InferenceYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIReinforcement learning: Monte carlo learning/Termporal difference learningYUMMIReinforcement learning: Policy gradient methods, Deep Q networksYUMMIGame theory, evolutionary computation, & AI YUMMIFinaltermYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인공지능  본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "similarity": 0.28747722753933186
+        },
+        {
+            "id": 1360,
+            "name": "반도체물리전자",
+            "description": "본 과목의 궁극적 목표는 반도체 소자 동작의 이해이다. 이를 위하여 먼저 고체물리의 기본 개념을 공부한다. 이어서 에너지 밴드 이론, 캐리어 농도와 이동, 생성과 재결합, 연속 방정식을 이해한다. 이를 기초로 가장 기본적인 반도체 소자인 pn 접합의 동작 원리와 수학적 모델을 이해한다.  ",
+            "curriculum": "Introduction, The Semiconductor Industry, Blackbody Radiation, Photoelectric EffectYUMMIBohr's Model, De Broglie's Matter Waves, Wave-Particle DualityYUMMIWave Functions, Heisenberg Uncertainty Principle, Schroedinger Wave EquationYUMMIQuantum Particle in a Box, Quantum Tunneling, Hydrogen Atom IYUMMIHydrogen Atom II, Orbital Magnetic Dipole Moment of the Electron, Electron SpinYUMMIExclusion Principle & Periodic Table, Atomic Spectra, Molecular BondsYUMMI중간 고사YUMMIFree Electron Model of Metals, Band Theory of Solids, Silicon Crystal Structure, Bond ModelYUMMIEnergy Band Model, Doping, Carriers, Effective Mass, Density of States, YUMMIThermal Equilibrium and Fermi Function, Carrier Densities, Thermal Motion, Carrier DriftYUMMICarrier Diffusion, Energy Band Diagram and Electric Field, Carrier Recombination and GenerationYUMMIQuasi-Equilibrium and Quasi-Fermi Levels, Device Fabrication Technology, PN JunctionYUMMIDepletion-Layer Model, Reverse-Biased PN Junction, Capacitance-Voltage CharacteristicsYUMMIJunction Breakdown, Carrier Injection and Continuity Equation, PN Diode IV Characteristics\nYUMMI기말 고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "full_text": "반도체물리전자 본 과목의 궁극적 목표는 반도체 소자 동작의 이해이다. 이를 위하여 먼저 고체물리의 기본 개념을 공부한다. 이어서 에너지 밴드 이론, 캐리어 농도와 이동, 생성과 재결합, 연속 방정식을 이해한다. 이를 기초로 가장 기본적인 반도체 소자인 pn 접합의 동작 원리와 수학적 모델을 이해한다.  ",
+            "similarity": 0.11957975962886776
+        },
+        {
+            "id": 3211,
+            "name": "반도체소자",
+            "description": "본 교과에서는 전자회로의 기초가 되는 반도체 물성 이론과 기본적인 양자역학의 개념을 복습하고 이를 통해 다양한 반도체 소자(금속-반도체 접합, BJT, MOSFET)의 특성을 학습하는 것을 목표로 한다. 나아가 집적회로에서의 전자소자(MOSFET)의 스케일링에 따른 물리적 현상과 이를 극복하기 위한 FinFET, Nanosheet FET 신기술 내용을 학습하고 TCAD 시뮬레이션을 활용한 MOSFET 설계 실습을 수행한다.\n1. 반도체 물성의 이해\n2. 반도체 접합 및 금속-반도체 접합의 물성 및 동작 특성 이해\n3. MOS 캐피시터와 MOSFET의 물성 및 동작 특성 이해\n4. 집적회로에서의 MOSFET 축소화와 멀티게이트 MOSFET 소개",
+            "curriculum": "교과목 소개YUMMI에너지 밴드 다이어그램, 캐리어 분포, 캐리어 이동과 재결합YUMMI PN 접합의 구조와 물리적 특성YUMMI PN 접합 다이오드의 이상적 특성 및 비이상적 특성YUMMI금속-반도체 접합 종류와 특성YUMMI금속-반도체 접합 종류와 특성YUMMI바이폴라 트랜지스터YUMMI중간고사YUMMIMOS 캐패시터 구조와 특성YUMMIMOSFET의 구조와 동작 특성YUMMIMOSFET의 구조와 동작 특성YUMMIMOSFET 축소화와 멀티게이트 MOSFETYUMMIMOSFET 축소화와 멀티게이트 MOSFETYUMMIMOSFET 응용YUMMI기말고사를 통한 평가YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "반도체소자 본 교과에서는 전자회로의 기초가 되는 반도체 물성 이론과 기본적인 양자역학의 개념을 복습하고 이를 통해 다양한 반도체 소자(금속-반도체 접합, BJT, MOSFET)의 특성을 학습하는 것을 목표로 한다. 나아가 집적회로에서의 전자소자(MOSFET)의 스케일링에 따른 물리적 현상과 이를 극복하기 위한 FinFET, Nanosheet FET 신기술 내용을 학습하고 TCAD 시뮬레이션을 활용한 MOSFET 설계 실습을 수행한다.\n1. 반도체 물성의 이해\n2. 반도체 접합 및 금속-반도체 접합의 물성 및 동작 특성 이해\n3. MOS 캐피시터와 MOSFET의 물성 및 동작 특성 이해\n4. 집적회로에서의 MOSFET 축소화와 멀티게이트 MOSFET 소개",
+            "similarity": 0.20462696839763483
+        },
+        {
+            "id": 3702,
+            "name": "디지털시스템설계",
+            "description": "해당 강의는 VHDL 및 HLS을 활용하여 디지털 논리 회로에 관련된 설계 방법을 실습하고, 이를 바탕으로 컴퓨터 프로세싱 연산을 구현하는 것을 목표로 한다\n(전반부) VHDL를 활용하여 디지털 논리 회로의 주요 개념을 복습하고, 주요 예시를 통해 기본적인 디지털 논리 회로 설계 방법론을 익힌다.\n(후반부) 전반부의 내용을 바탕으로 부동소수점 연산, MIPS 연산의 일부를 구현한다. 또한 HLS 설계 개념 및 간단한 예시를 다룬다. 배운 내용을 통해 특정 디지털 연산을 구현하는 팀 프로젝트를 진행한다.\n\n- 해당 강의는 프로그래밍 실습을 통해 많은 부분 진행되며, 따라서 개별 노트북을 통해 수업중에도 실습가능한 환경을 구비할 것\n",
+            "curriculum": "IntroductionYUMMIDigital abstraction & fundamentals of logic design\nYUMMIIntroduction to VHDL\nYUMMIIntroduction to Programmable Logic Devices, setup\nYUMMIVHDL Design Examples\nYUMMILogic Design Strategy (Verification and Testing)\nYUMMISM Charts and Microprogramming\nYUMMI중간 고사YUMMIFloating-Point Arithmetic\nYUMMIFloating-Point Arithmetic\nYUMMIDesign of RISC Microprocessors\nYUMMIDesign of RISC Microprocessors\nYUMMIIntroduction to HLS\nYUMMIHLS Design Example\nYUMMI프로젝트 평가\nYUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "디지털시스템설계 해당 강의는 VHDL 및 HLS을 활용하여 디지털 논리 회로에 관련된 설계 방법을 실습하고, 이를 바탕으로 컴퓨터 프로세싱 연산을 구현하는 것을 목표로 한다\n(전반부) VHDL를 활용하여 디지털 논리 회로의 주요 개념을 복습하고, 주요 예시를 통해 기본적인 디지털 논리 회로 설계 방법론을 익힌다.\n(후반부) 전반부의 내용을 바탕으로 부동소수점 연산, MIPS 연산의 일부를 구현한다. 또한 HLS 설계 개념 및 간단한 예시를 다룬다. 배운 내용을 통해 특정 디지털 연산을 구현하는 팀 프로젝트를 진행한다.\n\n- 해당 강의는 프로그래밍 실습을 통해 많은 부분 진행되며, 따라서 개별 노트북을 통해 수업중에도 실습가능한 환경을 구비할 것\n",
+            "similarity": 0.14008660665432635
+        },
+        {
+            "id": 356,
+            "name": "아날로그집적회로설계",
+            "description": "1.아날로그 반도체 제작 및 집적회로를 설계하기 위한 과정을 이해     \n2. 아날로그 집적회로 설계에 있어서 가장 대표적인 연산증폭기, 전류미러, 바이어스제너레이터 동작원리, 해석, 설계방법, 설계 , \n3, 이를 기반으로  아날로그 집적회로 시스템 응용인 PD(Photo Diode) ROIC 를 분석하고 설계방법을\n    학습하여 앞으로의 아날로그 집적회로 설계에 준비하고 아날로그 반도체 제작과정에 대하여 이해하고자 한다.  ",
+            "curriculum": "1. 아날로그 반도체 및 집적회로\n   1) 반도체 분류 및 필요성 \n   2) Analog 반도체 응용분야 및 추세YUMMI1. 아날로그 반도체 및 집적회로\n   3) Analog 집적회로 설계에 대한 흐름, 중요성, skill, trade-off, 어려움, 함정YUMMI2. Analog 집적회로를 위한 설계방법/시뮬레이션기법/레이아웃및검증/PG/mask 제작  \n 1) analog 집적회로 설계를 위한 CMOS Process Model parameter /설계방법/simulation YUMMI2. Analog 집적회로를 위한 설계방법/시뮬레이션기법/레이아웃및검증/PG/mask 제작  \n 2) analog 집적회로를 위한 레이아웃및검증/PG/Mask제작  \n 3) analog 집적회로를 위한 Wafer/Fabrication/Package/TestYUMMI3. Analog 집적회로 설계를 위한 피드백, 주파수응답 및 안정도 판별  \n 1) 피드백YUMMI3. Analog 집적회로 설계를 위한 피드백, 주파수응답 및 안정도 판별  \n  2) 주파수응답 및 안정도 판별YUMMI4. Analog 집적회로 설계를 위한 MOS Device Physics 및 Small-Signal Model \n 1) MOS Device structure 및 Operation\n 2) MOS Device Low frequency Small-Signal Model   YUMMI4. Analog 집적회로 설계를 위한 MOS Device Physics 및 Small-Signal Model \n 3) MOS Device internal capacitance 및 High frequency Small-Signal ModelYUMMI5. Analog 집적회로 설계를 위한 2 stage CMOS operational Amplifier \n 1) 2 stage operational Amplifier 구조 및 동작원리\n 2) CS 증폭기 및 차동증폭기 구조 및 동작원리/DC 및 AC(주파수) 해석 YUMMI5. Analog 집적회로 설계를 위한 2 stage CMOS operational Amplifier \n 3) 보상안된 2 stage operational Amplifier 동작원리 및 주파수응답 \n 4) 보상된 2 stage operational Amplifier 동작원리 및 주파수응답  YUMMI5. Analog 집적회로 설계를 위한 2 stage CMOS operational Amplifier \n 5) 보상된 2 stage operational Amplifier 설계방법 및 설계/simulation/레이아웃   \nYUMMI6. MOS Current Mirror 구조/동작원리/설계방법/설계YUMMI7. MOS Bias(voltage, current) Generator  구조/동작원리/설계방법/설계YUMMI아날로그 집적회로 응용인 PD(Photo Diode) ROIC 이해 및 설계방법 \n   1)  PD ROIC Block Diagram \n   2)  각 block 회로 및 동작원리     YUMMI아날로그 집적회로 응용인 PD(Photo Diode) ROIC 이해 및 설계방법 \n   3) DCFB을 가지는 TIA(Transimpedance Amplifier) 전달함수 및 안정성해석 \n   4) ADC 및 MCU와 Interface\n   5) 설계방법 \nYUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "full_text": "아날로그집적회로설계 1.아날로그 반도체 제작 및 집적회로를 설계하기 위한 과정을 이해     \n2. 아날로그 집적회로 설계에 있어서 가장 대표적인 연산증폭기, 전류미러, 바이어스제너레이터 동작원리, 해석, 설계방법, 설계 , \n3, 이를 기반으로  아날로그 집적회로 시스템 응용인 PD(Photo Diode) ROIC 를 분석하고 설계방법을\n    학습하여 앞으로의 아날로그 집적회로 설계에 준비하고 아날로그 반도체 제작과정에 대하여 이해하고자 한다.  ",
+            "similarity": 0.15071101857244218
+        },
+        {
+            "id": 1267,
+            "name": "전력전자공학",
+            "description": "- 학부에서 배운 기초 전공 이론 (반도체, 회로, 시스템 등)을 활용할 수 있는 내용을 강의할 계획입니다. \n- 학부 전공 이론의 Review와 함께, 전력 (Electric Power)을 다루는 전자 (Electronics) 기술을 공부합니다. \n- 다양한 산업 사례 (전기발전, 전기자동차, 에너지변환 등)를 소개하며, 학생들의 이해가 쉽도록 진행합니다.",
+            "curriculum": "전력전자 기술 소개 1 (System 관점)YUMMI전력전자 기술 소개 2 (응용 관점: 전기발전, 전기자동차, 에너지변환 등)YUMMI전력전자 기술 소개 3 (전력반도체, 전기회로, 전자회로, 프로그래밍, 시뮬레이션 등)YUMMI기초 전력변환 기술 1 (직류-직류 변환)YUMMI기초 전력변환 기술 2 (직류-직류 변환)YUMMI기초 전력변환 기술 3 (직류-직류 변환)YUMMI기초 전력변환 기술 4 (직류-직류 변환)YUMMI중간 고사YUMMI기초 전력변환 기술 5 (직류-교류 변환)YUMMI기초 전력변환 기술 6 (직류-교류 변환)YUMMI기초 전력변환 기술 7 (직류-교류 변환)YUMMI기초 전력변환 기술 8 (직류-교류 변환)YUMMI기초 전력변환 기술 9 (직류-교류 변환)YUMMIReview (복습)YUMMI기말 고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "full_text": "전력전자공학 - 학부에서 배운 기초 전공 이론 (반도체, 회로, 시스템 등)을 활용할 수 있는 내용을 강의할 계획입니다. \n- 학부 전공 이론의 Review와 함께, 전력 (Electric Power)을 다루는 전자 (Electronics) 기술을 공부합니다. \n- 다양한 산업 사례 (전기발전, 전기자동차, 에너지변환 등)를 소개하며, 학생들의 이해가 쉽도록 진행합니다.",
+            "similarity": 0.10316644110763813
+        },
+        {
+            "id": 4093,
+            "name": "시스템및메모리반도체",
+            "description": "본 과목에서는 시스템 반도체 및 메모리 반도체의 기본 개념에 대하여 학습하고, FPGA 보드를 이용하여 실습을 진행한다. ",
+            "curriculum": "과목소개/시스템반도체의 기본 개념YUMMI시스템반도체의 기본 구성 블록 1YUMMI시스템반도체의 기본 구성 블록 2YUMMI메모리반도체 1YUMMI메모리반도체 2YUMMI임베디드시스템YUMMI반도체설계 방법론YUMMI중간고사YUMMIVerilogYUMMI임베디드 소프트웨어 설계YUMMI디지털하드웨어 설계 1YUMMI디지털하드웨어 설계 2YUMMI임베디드소프트웨어 설계YUMMI메모리설계YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "시스템및메모리반도체 본 과목에서는 시스템 반도체 및 메모리 반도체의 기본 개념에 대하여 학습하고, FPGA 보드를 이용하여 실습을 진행한다. ",
+            "similarity": 0.2106535482182858
+        }
+    ]
+}

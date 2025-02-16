@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "공공 행정에서의 정책 결정 과정은 논리적이고 정량적인 분석이 필요합니다. 논리학과 정책평가 기법을 활용하여 의사결정의 객관성을 높이고, 정량적 평가와 철학적 판단을 조화롭게 결합하는 방안을 연구하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 157,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "전기공학과",
+            "similarity": 0.3255054252395722
+        },
+        {
+            "id": 735,
+            "name": "한옥학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "한옥학과",
+            "similarity": 0.29770386765035445
+        },
+        {
+            "id": 252,
+            "name": "일반수학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.289554832107331
+        },
+        {
+            "id": 757,
+            "name": "컴퓨터응용제도및설계",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.2727553967504893
+        },
+        {
+            "id": 1689,
+            "name": "한약학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "한약자원학과",
+            "similarity": 0.272313400721319
+        },
+        {
+            "id": 4253,
+            "name": "정책학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.4343712505249321
+        },
+        {
+            "id": 2544,
+            "name": "통계학입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.4208922629512413
+        },
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.4082769212173617
+        },
+        {
+            "id": 2587,
+            "name": "집합론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "수학과",
+            "similarity": 0.38976586682543013
+        },
+        {
+            "id": 3196,
+            "name": "디지털논리공학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "전기공학과",
+            "similarity": 0.3665364800096759
+        },
+        {
+            "id": 2091,
+            "name": "논리학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "철학과",
+            "similarity": 0.45315235444677887
+        },
+        {
+            "id": 1250,
+            "name": "행정조사방법론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.42958162052163235
+        },
+        {
+            "id": 1537,
+            "name": "확률통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.426472512940318
+        },
+        {
+            "id": 2075,
+            "name": "행정법 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.40998207537200604
+        },
+        {
+            "id": 869,
+            "name": "토론의이론과실제",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.3960765534513219
+        },
+        {
+            "id": 4639,
+            "name": "정책형성론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.44014770863237906
+        },
+        {
+            "id": 3647,
+            "name": "계량경제학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.42444608073928314
+        },
+        {
+            "id": 2751,
+            "name": "행정법 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.4084166091993503
+        },
+        {
+            "id": 4536,
+            "name": "재무행정론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.40027930632353637
+        },
+        {
+            "id": 4277,
+            "name": "수리통계학 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3898821941936129
+        },
+        {
+            "id": 250,
+            "name": "정책분석론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4398094059103764
+        },
+        {
+            "id": 1908,
+            "name": "행정철학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.43217702491060306
+        },
+        {
+            "id": 296,
+            "name": "데이터분석실무",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.4273475906763926
+        },
+        {
+            "id": 1289,
+            "name": "식품계량경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.41390557828127794
+        },
+        {
+            "id": 2342,
+            "name": "농식품정책론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.410187322989931
+        },
+        {
+            "id": 4721,
+            "name": "정책평가론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.48848578603609244
+        },
+        {
+            "id": 3983,
+            "name": "국어논리및논술",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.4513015152736578
+        },
+        {
+            "id": 4886,
+            "name": "실용논리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "철학과",
+            "similarity": 0.44534430823099996
+        },
+        {
+            "id": 4845,
+            "name": "수학논리및논술론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "수학과",
+            "similarity": 0.4123357381750925
+        },
+        {
+            "id": 2803,
+            "name": "공공관계론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.392479579083738
+        },
+        {
+            "id": 261,
+            "name": "철학논리및논술",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "철학과",
+            "similarity": 0.45496775253937716
+        },
+        {
+            "id": 2194,
+            "name": "과학기술정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.43728384121332975
+        },
+        {
+            "id": 1014,
+            "name": "논리와철학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "철학과",
+            "similarity": 0.43339222855052195
+        },
+        {
+            "id": 7,
+            "name": "과학철학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "철학과",
+            "similarity": 0.4224699559904948
+        },
+        {
+            "id": 1998,
+            "name": "규제정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4127554146599775
+        },
+        {
+            "id": 3908,
+            "name": "합리적판단과의사결정",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "철학과",
+            "similarity": 0.47433395310873405
+        },
+        {
+            "id": 3604,
+            "name": "판단과결정의심리학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "심리학과",
+            "similarity": 0.46522704826441663
+        },
+        {
+            "id": 4353,
+            "name": "정책사례연구",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.4536741806744184
+        },
+        {
+            "id": 3285,
+            "name": "논술의이론과실제",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "철학과",
+            "similarity": 0.43899850404975627
+        },
+        {
+            "id": 3098,
+            "name": "한국사회분석실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.37204812550955385
+        }
+    ]
+}

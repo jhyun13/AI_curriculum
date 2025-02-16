@@ -1,0 +1,138 @@
+{
+    "meta_info": {
+        "user_query": "스마트 농업이 발전하면서 드론, 정밀 센서, 데이터 분석, 인공지능 기술이 결합되어 더욱 효율적인 농업 시스템이 구축되고 있습니다. 예를 들어, 드론이 실시간으로 농장 환경을 분석하고, 최적의 작물 관리 방법을 제공하며, 자동으로 방제를 수행하는 기술들이 연구되고 있습니다. 이러한 변화에 대비하여 농업용 드론 개발자가 갖춰야 할 필수적인 기술과 지식은 무엇이며, 이를 효과적으로 익히기 위해 어떤 학습 경로를 따라야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.1314812659007731
+        },
+        {
+            "id": 4419,
+            "name": "한약한문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "한약자원학과",
+            "similarity": 0.11128031463507153
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.14525124908099313
+        },
+        {
+            "id": 3324,
+            "name": "농업데이터이해및분석",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.123038991641607
+        },
+        {
+            "id": 3271,
+            "name": "작물재배및실습 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.11156507489718963
+        },
+        {
+            "id": 4336,
+            "name": "농업지리정보학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "지역건설공학과",
+            "similarity": 0.11144373339851825
+        },
+        {
+            "id": 4811,
+            "name": "특용수재배학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "산림환경과학과",
+            "similarity": 0.10290826787195417
+        },
+        {
+            "id": 3137,
+            "name": "드론측량굴착공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(자원에너지공학)",
+            "similarity": 0.13383579567672305
+        },
+        {
+            "id": 3528,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.12820706662680814
+        },
+        {
+            "id": 3259,
+            "name": "드론농업응용",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.10596324674548246
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.10360627256888229
+        },
+        {
+            "id": 605,
+            "name": "농업환경지리정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.1475833219494117
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.11982712053676642
+        },
+        {
+            "id": 144,
+            "name": "농업기계창의설계 1",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.11210518882227016
+        },
+        {
+            "id": 3339,
+            "name": "사회복지와인권",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.15033066403103856
+        },
+        {
+            "id": 4963,
+            "name": "정밀가공",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "similarity": 0.10416912069401844
+        }
+    ]
+}

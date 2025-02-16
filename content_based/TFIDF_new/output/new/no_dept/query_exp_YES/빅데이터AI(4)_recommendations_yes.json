@@ -1,0 +1,266 @@
+{
+    "meta_info": {
+        "user_query": "빅데이터를 활용하여 마케팅 최적화, 사용자 맞춤 추천 시스템 등을 개발하는 데이터 분석 분야에서 일하고 싶어요. 필요한 기술과 학습 과정이 궁금합니다.",
+        "expanded_query": "빅데이터를 활용하여 마케팅 최적화, 사용자 맞춤 추천 시스템 등을 개발하는 데이터 분석 분야에서 일하고 싶어요. 필요한 기술과 학습 과정이 궁금합니다. 빅데이터 분석 및 마케팅 최적화 기술 습득 마케팅과 관련된 데이터 분석가 데이터 분석 데이터 분석가 데이터 분석가는 대량의 데이터를 수집, 처리 및 분석하여 마케팅 최적화와 같은 비즈니스 의사 결정에 필요한 통찰을 제공합니다. 또한 사용자 맞춤 추천 시스템을 개발하여 사용자 경험을 향상시킵니다. 데이터 수집 및 정제, 데이터 모델 구축, 마케팅 전략 최적화, 사용자 경험 개선을 위한 추천 시스템 개발 빅데이터 처리, 통계 분석, 데이터 시각화, 머신러닝 알고리즘프로그래밍 언어(Python, R), 데이터베이스 관리(SQL), 머신러닝 프레임워크(TensorFlow, Scikit-learn) 통계학, 데이터 마이닝, 프로그래밍 기초 빅데이터 처리 기술, 추천 시스템 알고리즘, 비즈니스 분석 데이터 시각화 도구 활용(Tablaeu, Power BI), 클라우드 플랫폼(AWS, Google Cloud)에서의 데이터 처리",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.296892899899887
+        },
+        {
+            "id": 2544,
+            "name": "통계학입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.23151882340640137
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.4787331103951833
+        },
+        {
+            "id": 354,
+            "name": "데이터구조및프로그래밍실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.28124520893522476
+        },
+        {
+            "id": 2211,
+            "name": "머신러닝개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.17025388887485923
+        },
+        {
+            "id": 909,
+            "name": "빅데이터개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.16901453214150303
+        },
+        {
+            "id": 2106,
+            "name": "마케팅원론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.12480667340433615
+        },
+        {
+            "id": 3247,
+            "name": "행정통계학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.2983835013579433
+        },
+        {
+            "id": 4547,
+            "name": "디지털스토리텔링과데이터시각화",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.26393079880286385
+        },
+        {
+            "id": 2864,
+            "name": "위성영상처리및실습",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "지구환경과학과",
+            "similarity": 0.2407710610892448
+        },
+        {
+            "id": 4307,
+            "name": "데이터기반헬스케어기술 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.20914792445744199
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.17079255902376092
+        },
+        {
+            "id": 2192,
+            "name": "데이터시각화",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.2533792814447158
+        },
+        {
+            "id": 2044,
+            "name": "데이터베이스및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.22309902734866457
+        },
+        {
+            "id": 444,
+            "name": "기계공학실험",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.19941332944667828
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.19646649963023768
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.18166343530197188
+        },
+        {
+            "id": 4354,
+            "name": "생체영상처리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.27118881898858493
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.24605770128383114
+        },
+        {
+            "id": 3035,
+            "name": "실험계획법",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.2434413359107124
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.2391837244269865
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1983696321902899
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.36172511041278055
+        },
+        {
+            "id": 405,
+            "name": "빅데이터분석과응용",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.3079565051698808
+        },
+        {
+            "id": 26,
+            "name": "인간-컴퓨터상호작용",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.20473616701653424
+        },
+        {
+            "id": 1125,
+            "name": "소셜빅데이터분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.20451903931522844
+        },
+        {
+            "id": 1663,
+            "name": "소프트웨어인터페이스디자인",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.1944753767174421
+        },
+        {
+            "id": 3098,
+            "name": "한국사회분석실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.19621794158096056
+        },
+        {
+            "id": 4591,
+            "name": "텍스트마이닝",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.169730678713534
+        },
+        {
+            "id": 4261,
+            "name": "운동동작분석",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.12488373511922857
+        },
+        {
+            "id": 3203,
+            "name": "멀티미디어시스템",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.1238891876334969
+        },
+        {
+            "id": 2806,
+            "name": "6시그마",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.11509878481584218
+        }
+    ]
+}

@@ -1,0 +1,376 @@
+{
+    "meta_info": {
+        "user_query": "드론 및 항공 시스템에서 센서를 활용한 자동 비행과 최적화 기술이 중요해지고 있습니다. 이를 연구하고 개발하려면 어떤 이론과 실습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": [
+            "기계공학과",
+            "항공우주공학과"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1094,
+            "name": "공학설계기초",
+            "description": "공학설계 능력에 필수적인 창의적 사고, 팀 활동, 의사소통능력을 통한 창의적 문제해결 능력을 증진시킨다.",
+            "curriculum": "공학 설계 개요YUMMI 자기소개 & 팀별 과제 활동 #1-1YUMMI팀별 과제 활동 #1-2 & 팀별 과제 활동 #2-1YUMMI팀별 과제 활동 #2-2 : 로보틱스 소개 및 Depth camera와 교육용 로봇 팔을 이용한 작업 수행 구현YUMMI팀별 과제 활동 #3-1 : 항공 드론 제작 및 경주대회\nYUMMI팀별 과제 활동 #3-2 : 항공 드론 제작 및 경주대회\nYUMMI팀별 과제 활동 #4-1 : 변위측정시스템을 활용한 설계물의 다양한 하중에 따른 실시간 변위측정 실험YUMMI중간 고사 기간YUMMI팀별 과제 활동 #4-2 : 변위측정시스템을 활용한 설계물의 다양한 하중에 따른 실시간 변위측정 실험YUMMI팀별 과제 활동 #5-1 : 열전대 제작 및 열전대와 온도 측정 광섬유 센서 장치를 활용한 온도 측정 실험 YUMMI팀별 과제 활동 #5-2 : 열전대 제작 및 열전대와 온도 측정 광섬유 센서 장치를 활용한 온도 측정 실험 YUMMI팀별 과제 활동 #5-1 : 3차원 프린터 기자재를 활용한 시제품 및 실물모형 제작YUMMI팀별 과제활동 #5-2 : 3차원 프린터 기자재를 활용한 시제품 및 실물모형 제작YUMMI팀별 과제활동 #5-3 : 3차원 프린터 기자재를 활용한 시제품 및 실물모형 제작YUMMI팀별 과제활동_최종발표YUMMI",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "full_text": "공학설계기초 공학설계 능력에 필수적인 창의적 사고, 팀 활동, 의사소통능력을 통한 창의적 문제해결 능력을 증진시킨다.",
+            "similarity": 0.24149644559095815
+        },
+        {
+            "id": 2975,
+            "name": "정역학",
+            "description": "정역학의 기본 원리들을 체계적으로 알고, 적절한 예제와 실제 공학문제와 관련된 다양한 연습문제를 통하여 기본 원리의 적용과정을 명확히 하는데 그 목적이 있다. 특히 정역학의 개념적 이해능력을 배양하고, 이론을 적용하기 위한 실제 문제의 모델링 방법, 평형 문제의 해석을 위한 자유물체도를 그리는 것이 중요하다.",
+            "curriculum": "과목소개, (정역학의 개요), 기본 용어, 뉴톤의 법칙, 단위, 강체와 변형체YUMMI(힘계)힘과 벡터, 벡터와 스칼라의 연산, 모멘트, 우력, 합력YUMMI(힘계)힘과 벡터, 벡터와 스칼라의 연산, 모멘트, 우력, 합력YUMMI(평형)자유물체도, 평형조건YUMMI(평형)3차원 힘 계에서 질점의 평형조건YUMMI(구조물)평면트러스, 격점법YUMMI(구조물)평면트러스, 격점법YUMMI중간고사YUMMI(구조물) 단면법, 입체트러스YUMMI(구조물) 프레임과 기계YUMMI(분포력) 질량중심, 선, 면적 및 체적의 도심YUMMI(분포력) 복합물체와 형상, 파푸스 정리 YUMMI관성 모멘트트와 축의 회전YUMMI(가상 일) 일, 평형YUMMI기말고사YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "full_text": "정역학 정역학의 기본 원리들을 체계적으로 알고, 적절한 예제와 실제 공학문제와 관련된 다양한 연습문제를 통하여 기본 원리의 적용과정을 명확히 하는데 그 목적이 있다. 특히 정역학의 개념적 이해능력을 배양하고, 이론을 적용하기 위한 실제 문제의 모델링 방법, 평형 문제의 해석을 위한 자유물체도를 그리는 것이 중요하다.",
+            "similarity": 0.3214247814613683
+        },
+        {
+            "id": 2508,
+            "name": "전산제도",
+            "description": "기계제도를 하기 위한 기본 지식인 KS규격의 기계제도에 관한 기본 규칙 즉, 도면의 기본양식, 투상법, 치수기입법 및 공차에 대해 학습하고 기계요소의 제도 방법에 대해 이해하도록 한다. 그리고 앞서 언급한 내용을 기계설계를 위한 응용프로그램인 AutoCAD를 이용하여 도면 제작 기법을 익힌다.",
+            "curriculum": "기초학력평가 / 과목 소개 및 CAD 설치 안내YUMMI기계제도 기초 / CAD 소개 & LineYUMMI도면 투상법 / Circle, ArcYUMMI형상의 표시방법 / QuizYUMMI단면도 및 형상기호 / Mirror, HatchYUMMI치수 기입법 / Fillet, HatchYUMMI표면 거칠기 및 공차 / 투상도 실습YUMMI중간고사YUMMI중간고사 풀이 / Text, 공차, Block, DimensionYUMMI항공기 및 드론의 구조 및 도면, 그 외 다양한 기타 명령 및 템플릿 작성YUMMI종합실습 / QuizYUMMI체결용 기계요소 (볼트/너트)YUMMI동력전달요소 - 기어YUMMI동력전달요소 - 풀리YUMMI기말고사YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "full_text": "전산제도 기계제도를 하기 위한 기본 지식인 KS규격의 기계제도에 관한 기본 규칙 즉, 도면의 기본양식, 투상법, 치수기입법 및 공차에 대해 학습하고 기계요소의 제도 방법에 대해 이해하도록 한다. 그리고 앞서 언급한 내용을 기계설계를 위한 응용프로그램인 AutoCAD를 이용하여 도면 제작 기법을 익힌다.",
+            "similarity": 0.29694207473200895
+        },
+        {
+            "id": 3,
+            "name": "항공드론기초설계",
+            "description": "창의적 엔지니어 양성을 위해 공학설계원리, 모델링 및 구형, 상세설계, 설계관리 자료수집 및 지시기법에 대한 기본 사항 학습 ",
+            "curriculum": "강의 소개. YUMMI공학과 기술YUMMI공학설계 기본원리YUMMI공학설계 과정 개요, 설계주제제시YUMMI공학설계 과정 1YUMMI공학설계 과정 2YUMMI공학설계 과정 3YUMMI공학설계 과정 관리YUMMI설계중간점검YUMMI공학설계 과정 4YUMMI의사결정YUMMI엔지니어링 커뮤니케이션YUMMI공학설게 과정 5YUMMI공학설계 과정 6YUMMI기말고사, 최종 보고서 및 설계품 팜플릿 제출 YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론기초설계 창의적 엔지니어 양성을 위해 공학설계원리, 모델링 및 구형, 상세설계, 설계관리 자료수집 및 지시기법에 대한 기본 사항 학습 ",
+            "similarity": 0.5183750591677756
+        },
+        {
+            "id": 420,
+            "name": "전산항공드론기초",
+            "description": "창의적 엔지니어 양성을 위해 공학설계원리, 모델링 및 구형, 상세설계, 설계관리 자료수집 및 지시기법에 대한 기본 사항 학습 ",
+            "curriculum": "강의 소개. YUMMIMATLAB 기초/응용 (1)YUMMIMATLAB 기초/응용 (2)YUMMI선형시스템의 풀이 (1)YUMMI선형시스템의 풀이 (2)YUMMI테일러 다항식YUMMI보간법YUMMI중간고사YUMMI보간법YUMMI수치해석을 이용한 근 찾기YUMMI수치 적분 (1)YUMMI수치 적분 (2)YUMMI수치 미분 (1)YUMMI수치 미분 (2)YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "전산항공드론기초 창의적 엔지니어 양성을 위해 공학설계원리, 모델링 및 구형, 상세설계, 설계관리 자료수집 및 지시기법에 대한 기본 사항 학습 ",
+            "similarity": 0.5024371832846259
+        },
+        {
+            "id": 2211,
+            "name": "머신러닝개론",
+            "description": "고 단계 자율주행 등 복잡한 문제의 공학적 해결에 데이터 기반 학습, 즉 머신러닝이 어떻게 활용되는지를 이해하고, 머신러닝의 근간을 이루는 기초 수학 이론 및 딥러닝을 포함한 주요 머신러닝 이론을 이해한다.",
+            "curriculum": "머신러닝 정의 및 환경 설정YUMMI자율주행과 머신러닝YUMMI머신러닝을 위한 선형대수YUMMI머신러닝을 위한 확률통계학 기초YUMMI머신러닝을 위한 최적화 1YUMMI머신러닝을 위한 최적화 2YUMMI머신러닝 데이터 다루기YUMMI중간고사YUMMI모형 평가 (Model evaluation)YUMMI자율주행 인지판단을 위한 지도 학습 기법 1YUMMI자율주행 인지판단을 위한 지도 학습 기법 2YUMMI자율주행 인지판단을 위한 비지도 학습 기법YUMMI자율주행 인지판단을 위한 딥러닝 기초YUMMI자율주행에서의 머신러닝 응용YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "full_text": "머신러닝개론 고 단계 자율주행 등 복잡한 문제의 공학적 해결에 데이터 기반 학습, 즉 머신러닝이 어떻게 활용되는지를 이해하고, 머신러닝의 근간을 이루는 기초 수학 이론 및 딥러닝을 포함한 주요 머신러닝 이론을 이해한다.",
+            "similarity": 0.4108053465045336
+        },
+        {
+            "id": 744,
+            "name": "항공공학개론",
+            "description": "항공공학과 관련된 기본적인 공학지식을 습득하는 것을 목표로 한다. 고정익기와 회전익기 역사에 대한 소개를 하며, 항공공학에서 자주 사용되는 기본 물리량에 대한 정의와 물리법칙을 다루고, 날개이론, 비행성능, 항공기 추진기관, 공력시험 및 항공기 구조에 관한 기본적인 지식을 배운다.  설계와 관련되어 전체 수업시간의 1/3을 공기보다 가벼운 비행체를 학생들이 주도하여 설계/제작하게 함으로써, 학생들의 적극적이고 자발적인 참여를 유도 한다.",
+            "curriculum": "강의소개 및 서론YUMMI항공역사YUMMI비행원리YUMMI날개이론, 퀴즈YUMMI날개이론YUMMI항력YUMMI기초설계 (프로젝트)YUMMI기초설계 (프로젝트)YUMMI기초설계 (프로젝트)YUMMI안정성 및 조종성YUMMI항공기 성능시험YUMMI추력 및 추진, 고속유동YUMMI고속유동, 항공기 성능YUMMI항공기 구조YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공공학개론 항공공학과 관련된 기본적인 공학지식을 습득하는 것을 목표로 한다. 고정익기와 회전익기 역사에 대한 소개를 하며, 항공공학에서 자주 사용되는 기본 물리량에 대한 정의와 물리법칙을 다루고, 날개이론, 비행성능, 항공기 추진기관, 공력시험 및 항공기 구조에 관한 기본적인 지식을 배운다.  설계와 관련되어 전체 수업시간의 1/3을 공기보다 가벼운 비행체를 학생들이 주도하여 설계/제작하게 함으로써, 학생들의 적극적이고 자발적인 참여를 유도 한다.",
+            "similarity": 0.39763367102042557
+        },
+        {
+            "id": 636,
+            "name": "동역학",
+            "description": "물체에 작용하는 힘과 직선, 곡선, 회전운동을 하는 그 물체의 위치, 속도, 가속도의 관계를 수식화하고 그 해답을 통해서 물체의 움직임을 이해하는 것을 목표로 한다. ",
+            "curriculum": "선수과목 달성도 테스트\n\n물리학의 기본YUMMIChapter 12. Kinematics of a ParticleYUMMIChapter 12. Kinematics of a ParticleYUMMIChapter 13. Kinetics of a Particle: Force and AccelerationYUMMIChapter 13. Kinetics of a Particle: Force and AccelerationYUMMIChapter 14. Kinetics of a Particle: Work and EnergyYUMMIChapter 14. Kinetics of a Particle: Work and EnergyYUMMIChapter 15. Kinetics of a Particle: Impulse and MomentumYUMMIChapter 15. Kinetics of a Particle: Impulse and MomentumYUMMIChapter 15. Kinetics of a Particle: Impulse and MomentumYUMMIChapter 16. Planar Kinematics of a Rigid BodyYUMMIChapter 16. Planar Kinematics of a Rigid BodyYUMMIChapter 17. Planar Kinetics of a Rigid Body: Force ad AccelerationYUMMIChapter 17. Planar Kinetics of a Rigid Body: Force ad AccelerationYUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "full_text": "동역학 물체에 작용하는 힘과 직선, 곡선, 회전운동을 하는 그 물체의 위치, 속도, 가속도의 관계를 수식화하고 그 해답을 통해서 물체의 움직임을 이해하는 것을 목표로 한다. ",
+            "similarity": 0.27393791223418107
+        },
+        {
+            "id": 2832,
+            "name": "항공우주로봇입문",
+            "description": "- 로봇공학 기초과정 이해 \n\n- 사례조사를 통한 비행로봇 및 우주탐사로봇 이해   ",
+            "curriculum": "로봇 및 항공우주 응용 소개(비행로봇, 행성탐사로봇, 서비스 로봇 등)\n강의계획 안내YUMMI로봇이란? (정의, 구성, 분류, 용어 등)                                                                YUMMI로봇의 센서 1 (위치, 가속도, 힘, 촉각센서)YUMMI로봇의 센서 2 (거리, 방향센서) YUMMI로봇의 시각 (시스템구성, 영상획득 및 처리 알고리즘)YUMMI로봇의 액추에이터 1 (서보모터, 스텝모터) YUMMI로봇의 액추에이터 2 (유압, 공기압, SMA) YUMMI이동로봇의 운동학 (구조, 운동, 제어)  YUMMI이동로봇의 주행 (경로계획, 위치인식/지도작성 알고리즘) YUMMI로봇팔의 운동학 1 (회전과 평행이동, 자세각)  YUMMI로봇팔의 운동학 2 (자코비안) YUMMI로봇팔의 동역학 (라그랑지 운동방정식)YUMMI멀티로터 비행로봇의 모델링 / 행성탐사로봇의 주행역학YUMMI사례연구 (Multirotor flying robot, Planetary exploration rover)YUMMI기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공우주로봇입문 - 로봇공학 기초과정 이해 \n\n- 사례조사를 통한 비행로봇 및 우주탐사로봇 이해   ",
+            "similarity": 0.48634530525283026
+        },
+        {
+            "id": 2638,
+            "name": "항공드론재료역학",
+            "description": "◎ 고체에 힘이 작용할 때 발생하는 내력과 변형에 대한 개념을 이해하고, 향후 비행체(항공기, 위성체, 발사체 등)의 구조 설계 및 해석에 요구되는 기초 이론을 학습함\n\n◎ 고체의 평형 방정식, 응력 및 변형도, 구성 방정식을 비롯하여 축 하중, 비틀림 하중, 굽힘 하중이 작용하는 구조물의 해석 기법을 다루며, 다양한 응용 문제(항공우주, 기계, 자동차, 풍력, 건축, 토목 분야 등)에 대한 해결 능력을 향상함",
+            "curriculum": "Ch. 1  IntroductionYUMMICh. 2  Measures of Stress and StrainYUMMICh. 2  Measures of Stress and StrainYUMMICh. 3  Axially Loaded BarsYUMMICh. 3  Axially Loaded BarsYUMMICh. 4  TorsionYUMMICh. 4  TorsionYUMMICh. 5  States of StressYUMMICh. 5  States of StressYUMMICh. 6  States of StrainYUMMICh. 7  Internal Forces and Moments in BeamsYUMMICh. 7  Internal Forces and Moments in BeamsYUMMICh. 8  Stresses in BeamsYUMMICh. 9  Deflections of BeamsYUMMICh. 9  Deflections of BeamsYUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론재료역학 ◎ 고체에 힘이 작용할 때 발생하는 내력과 변형에 대한 개념을 이해하고, 향후 비행체(항공기, 위성체, 발사체 등)의 구조 설계 및 해석에 요구되는 기초 이론을 학습함\n\n◎ 고체의 평형 방정식, 응력 및 변형도, 구성 방정식을 비롯하여 축 하중, 비틀림 하중, 굽힘 하중이 작용하는 구조물의 해석 기법을 다루며, 다양한 응용 문제(항공우주, 기계, 자동차, 풍력, 건축, 토목 분야 등)에 대한 해결 능력을 향상함",
+            "similarity": 0.4285496390327379
+        },
+        {
+            "id": 2877,
+            "name": "항공역학입문",
+            "description": "유체의 특성과 유동의 기본 개념, 유체정역학, 기존물리법칙들의 유체역학에의 적용방법, 적분형 및 미분형 유체 지배방정식, 정상 및 비정상 베르누이 방정식의 유도와 유체문제에의 적용, 상사법칙을 통한 무차원 변수의 도출, 유량함수와 포텐셜 함수, 유체기계, 항공역학, 압축성유체역학, 점성유체역학 등의 기초 유체공학 지식들을 습득하도록 한다.",
+            "curriculum": "소개, 서론YUMMI기본개념YUMMI벡터 및 공학기초YUMMI유체정역학YUMMI유체정역학YUMMI유체정역학YUMMI검사체적에 대한 적분형 지배방정식YUMMI검사체적에 대한 적분형 지배방정식YUMMI중간고사YUMMI검사체적에 대한 적분형 지배방정식YUMMI유체운동의 미분해석YUMMI유체운동의 미분해석YUMMI이상유동: 비점성 비압축성 유동YUMMI차원해석과 상사성YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공역학입문 유체의 특성과 유동의 기본 개념, 유체정역학, 기존물리법칙들의 유체역학에의 적용방법, 적분형 및 미분형 유체 지배방정식, 정상 및 비정상 베르누이 방정식의 유도와 유체문제에의 적용, 상사법칙을 통한 무차원 변수의 도출, 유량함수와 포텐셜 함수, 유체기계, 항공역학, 압축성유체역학, 점성유체역학 등의 기초 유체공학 지식들을 습득하도록 한다.",
+            "similarity": 0.3589528136202573
+        },
+        {
+            "id": 3859,
+            "name": "동역학",
+            "description": "- 물체의 위치 및 방향에 대한 공학적 이해\n\n- 뉴톤 운동 법칙에 근거한 고전 역학의 이해\n\n- 힘과 물체 (질점 및 강체)의 운동(위치, 속도, 자세, 각속도)의 상관 관계를 이해\n\n- 항공기, 인공위성, 자동차 등 실생활과 연계한 동역학의 활용 범위에 대한 이해",
+            "curriculum": "동역학 강의 소개 및 필요성YUMMICh. 1 Introduction to DynamicsYUMMICh. 2 Kinematics of particles (1)YUMMICh. 2 Kinematics of particles (2)YUMMICh. 3 Kinetics of particles (1): Force, Mass and AccelerationYUMMICh. 3 Kinetics of particles (1): Force, Mass and AccelerationYUMMI중간 시험YUMMICh. 4 Kinetics of Systems of ParticlesYUMMICh. 5 Plane Kinematics of Rigid Bodies (1)YUMMICh. 5 Plane Kinematics of Rigid Bodies (2)YUMMIQuizYUMMICh. 6 Plane Kinetics of Rigid Bodies (1)YUMMICh. 6 Plane Kinetics of Rigid Bodies (2)YUMMICh. 7 Introduction to Three-Dimensional Dynamics of Rigid BodiesYUMMI기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "동역학 - 물체의 위치 및 방향에 대한 공학적 이해\n\n- 뉴톤 운동 법칙에 근거한 고전 역학의 이해\n\n- 힘과 물체 (질점 및 강체)의 운동(위치, 속도, 자세, 각속도)의 상관 관계를 이해\n\n- 항공기, 인공위성, 자동차 등 실생활과 연계한 동역학의 활용 범위에 대한 이해",
+            "similarity": 0.3546658990945114
+        },
+        {
+            "id": 3601,
+            "name": "열역학 2",
+            "description": "열역학 1에서 공부한 열역학적 기본 개념, 열역학 제1, 제2법칙을 바탕으로 산업현장에서 널리 사용되는 에너지 변환장치(열기관, 냉동기, 항공드론 등) 및 환경과 관계깊은 실제 열시스템의 응용에 필요한 기초 내용을 이해하는 데 있습니다. ",
+            "curriculum": "전반부 내용 설명 및 평가/열역학 1 정리/엔트로피(7. 엔트로피 상태량)YUMMI 엔트로피(7. 엔트로피 변화)YUMMI 엔트로피(7. 엔트로피 평형)YUMMI작동유체가 기체인 동력사이클의 이해(9. 기체동력(Otto, Diesel, Brayton)사이클)YUMMI작동유체가 기체 또는 증기인 동력사이클의 이해(9. 기체동력(Otto, Diesel, Brayton)사이클/ 10. 증기동력(Rankine)사이클)YUMMI작동유체가 증기인 동력사이클의 이해(10. 증기동력(Rankine)사이클)YUMMI증기 동력사이클의 고효율화 이해(10. 증기동력(Rankine)사이클-재열,재생사이클)YUMMI전반부 내용 설명 및 평가(1~7주차 내용 요약)YUMMI증기압축 냉동사이클의 이해(11. 증기압축식 냉동사이클)YUMMI열펌프의 이해 / 모델링에 필요한 열역학 일반관계식의 이해(11. 증기압축식 냉동사이클/12. 열역학 일반관계식)YUMMI실제기체 근사화를 위한 기체혼합물의 이해(13. 기체혼합물)YUMMI실제기체 근사화를 위한 기체혼합물의 이해(14. 기체-증기 혼합물)YUMMI화학반응 및 화학평형의 이해(15. 화학반응, 16. 화학평형(일부))YUMMI연료전지(부록. 연료전지), 항공드론의 이해YUMMI후반부 내용 설명(8~14주차 내용 요약  및 평가YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "full_text": "열역학 2 열역학 1에서 공부한 열역학적 기본 개념, 열역학 제1, 제2법칙을 바탕으로 산업현장에서 널리 사용되는 에너지 변환장치(열기관, 냉동기, 항공드론 등) 및 환경과 관계깊은 실제 열시스템의 응용에 필요한 기초 내용을 이해하는 데 있습니다. ",
+            "similarity": 0.33770150254446824
+        },
+        {
+            "id": 839,
+            "name": "항공드론센서공학",
+            "description": "항공드론의 기계적 물리량 측정을 위한 기초 계측이론을 학습하고, 각종 센서의 작동원리 및 특성을 이해한다.\n계측이론을 바탕으로 온도, 압력, 가속도 등의 물리량에 대한 실습 프로젝터를 팀 단위로 수행하여 센서의 작동원리 및 특성을 실물을 통하여 체험 하도록 한다.",
+            "curriculum": "제1장 계측방법: 기본개념YUMMI제2장 신호: 동적 정적 특성YUMMI제2장 신호: 동적 정적특성YUMMI제2장 신호: 동적 정적특성YUMMI제3장 계측시스템의 거동YUMMI제3장 계측시스템의 거동YUMMI제3장 계측시스템의 거동YUMMI중간고사YUMMI제4장 무작위 오차와 통계YUMMI제4장 무작위 오차와 통계YUMMI제5장 정확도 추정과 불확도 분석YUMMI제5장 정확도 추정과 불확도 분석YUMMI제5장 정확도 추정과 불확도 분석YUMMI제8장 온도측정YUMMI제9장 압력과 속도의 측정YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론센서공학 항공드론의 기계적 물리량 측정을 위한 기초 계측이론을 학습하고, 각종 센서의 작동원리 및 특성을 이해한다.\n계측이론을 바탕으로 온도, 압력, 가속도 등의 물리량에 대한 실습 프로젝터를 팀 단위로 수행하여 센서의 작동원리 및 특성을 실물을 통하여 체험 하도록 한다.",
+            "similarity": 0.5955043435245704
+        },
+        {
+            "id": 311,
+            "name": "항공드론제어설계",
+            "description": "항공기(무인기)와 우주선을 비롯하여 로봇과 자동화시스템 등 항공우주 및 기계전자시스템의 제어에 관한 원리를 이해하고 기초적인 설계과정을 연습한다.",
+            "curriculum": "제어공학 소개 \n- 기초학습과제 : 수학 및 전기기초 문제풀이(미분방정식, 벡터, 행렬, 전기회로 등)YUMMI전기회로 기초 : 직류회로, 임피던스/교류회로YUMMILaplace 변환 및 전달함수YUMMI전기 및 기계시스템의 전달함수 YUMMI전기 및 기계시스템의 전달함수 \n- Case study : 안테나 제어시스템의 전달함수YUMMI전기 및 기계시스템의 상태방정식\n- Case study : 안테나 제어시스템의 상태방정식YUMMI1차 및 2차 시스템YUMMI제어시스템의 과도응답\n- Case study : 안테나 제어시스템의 open-loop 응답 YUMMI등가 시스템  \n- 설계 #1 : Closed-loop 응답설계(안테나 사례연구)YUMMI과도응답 안정도 \n- 설계 #2 : Gain에 의한 안정도 설계(안테나 사례연구)YUMMI정상상태 오차해석 \n- 설계 #3 : Gain에 의한 정상상태 오차 설계(안테나 사례연구)YUMMI근궤적 기법 \n- 설계 #4 : Gain에 의한 과도응답 설계(안테나 사례연구)YUMMI주파수 응답기법 YUMMI<지필 기말시험>YUMMI<구두 기말시험> YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론제어설계 항공기(무인기)와 우주선을 비롯하여 로봇과 자동화시스템 등 항공우주 및 기계전자시스템의 제어에 관한 원리를 이해하고 기초적인 설계과정을 연습한다.",
+            "similarity": 0.5565851855273779
+        },
+        {
+            "id": 1305,
+            "name": "항공드론CAD응용",
+            "description": "컴퓨터 이용설계의 개념 및 각종 하드웨어와 소프트웨어에 대한 최신 동향을 주지시키고, 3차원 형상 모델링에 대한 이해와 사용 능력을 배양한다. \n상용 CAD 소프트웨어인 CATIA V5를 이용하여 Sketcher / Part Design / Generative shape design Workbench를 활용한 Solid Modeling을 학습한다.\n3차원 형상을 바탕으로 2차원 도면을 추출하는 Drafting Workbench 과정에 대하여 학습하고 실습한다.\n항공드론 부품을 설계하고 Assembly design workbench를 이용하여 설계한 개별 부품과 상용 부품들을  조립한다.",
+            "curriculum": "Introduction, environment, operation\n\n - Tools & Icons, mouse\n\nModeling OverviewYUMMISketcher Workbench (1): Profiles, ConstraintsYUMMISketcher Workbench (2): Operation, etc.YUMMIPart Design Workbench (1): Sketch Based Features(1) - Pad, Stiffener, Solid CombineYUMMIPart Design Workbench (2): Sketch Based Features(2) - Shaft, Rib YUMMIPart Design Workbench (3): Reference Elements\n                                        (4): Dress-up FeaturesYUMMIPart Design Workbench (5): Boolean, Multi- section Solid\n                                        (6) : Multi-Section SolidYUMMIMid-testYUMMIGenarative Shape Design Workbench (1)YUMMIGenarative Shape Design Workbench (2)YUMMIAssembly Design WorkbenchYUMMIDrafting Workbench (1): Generative Drafting (Views & Properties)YUMMIDrafting Workbench (2) : Generative Drafting (Dimensioning & Properties)\nDrone Design Project (1)YUMMIDrone Design Project (2)YUMMI\nFinal TestYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론CAD응용 컴퓨터 이용설계의 개념 및 각종 하드웨어와 소프트웨어에 대한 최신 동향을 주지시키고, 3차원 형상 모델링에 대한 이해와 사용 능력을 배양한다. \n상용 CAD 소프트웨어인 CATIA V5를 이용하여 Sketcher / Part Design / Generative shape design Workbench를 활용한 Solid Modeling을 학습한다.\n3차원 형상을 바탕으로 2차원 도면을 추출하는 Drafting Workbench 과정에 대하여 학습하고 실습한다.\n항공드론 부품을 설계하고 Assembly design workbench를 이용하여 설계한 개별 부품과 상용 부품들을  조립한다.",
+            "similarity": 0.4627979089539326
+        },
+        {
+            "id": 1571,
+            "name": "메카트로닉스및실습",
+            "description": "지식산업 사회에서 필요한 자동화, 정보화 및 산업의 첨단화로 지능화시대에 적응력과 유연성을 갖춘 기계공학도를 양성하기 위하여, 지능기계시스템 구현에 필요한 기계공학 및 전자공학 기술의 결합이 더욱 절실하게 요구되고 있다. 이에 따라서 각종 센서 원리와 활용, 컴퓨터 인터페이스 능력, D/A-A/D변환기 활용, 카운터/타이머 회로 등을 이해하고, 스텝모터/DC모터/서보모터 구동, 온도센서, 변위센서, LED/LCD 디스플레이 소자 구동 등 여러가지 센서와 액츄에이터 구동과 아울러 구성된 시스템을 제어하는 프로그래밍 및 지능의 핵심부인 마이크로프로세서(본 강좌는 AVR ATmega128 MCU 사용)의 개념과 응용에 필요한 기초지식과 주변 소자의 구동에 필요한 C언어 프로그래밍 실습을 통하여 기계시스템의 지능화 실무를 학습하고 실습함으로써 메카트로닉스의 기초개념의 이해와 응용력을 배양도록 한다.",
+            "curriculum": "- 기초학력 테스트\n- 강의계획서 설명\n- Atmega128 AVR 마이크로 프로세서 개요\n- Microchip Studio (또는 Atmel Studio 7) 설치 및 시작YUMMI- LED로 꾸미는 크리스마스트리\n- ATmega128의 GPIO\n- AVR ATmega128 I/O PORT 실습YUMMI- FND로 전화번호 표시기 만들기\n- FND와 LED\n- FND에 숫자 디스플레이 실습YUMMI- 스위치로 1/100 스톱워치 만들기\n- 인터럽트 개념 강의 및 실습YUMMI- 버저로 ‘산토끼’ 노래 연주하기\n- 8비트 타이머/카운터 강의 및 동작모드 실습YUMMI- 모터로 자연풍 선풍기 만들기\n- PWM 제어YUMMI- 서보모터 구동 실습\n- 16비트 타이머/카운터 강의 및 동작모드 실습YUMMI- 중간고사YUMMI- 광센서를 이용하여 스마트 가로등 만들기\n- 사운드센서 실습\n- ADC 강의 및 실습YUMMI- UART 통신으로 암호문 보내기\n- UART 통신\n- ATmega128의 USART 실습YUMMI- CLCD에 내 좌우명 새기기\n- LCD Display 구동 및 응용 실습YUMMI- 거리센서로 키 측정 장치 만들기\n- 초음파와 거리센서 실습YUMMI- 온도센서로 디지털 체온계 만들기\n- 동기식 직렬 통신, I²C 통신YUMMI- LM75A 제어\n- 온도센서 실습YUMMI- 기말고사\n- 종합과제(Term Project) 최종 발표YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "full_text": "메카트로닉스및실습 지식산업 사회에서 필요한 자동화, 정보화 및 산업의 첨단화로 지능화시대에 적응력과 유연성을 갖춘 기계공학도를 양성하기 위하여, 지능기계시스템 구현에 필요한 기계공학 및 전자공학 기술의 결합이 더욱 절실하게 요구되고 있다. 이에 따라서 각종 센서 원리와 활용, 컴퓨터 인터페이스 능력, D/A-A/D변환기 활용, 카운터/타이머 회로 등을 이해하고, 스텝모터/DC모터/서보모터 구동, 온도센서, 변위센서, LED/LCD 디스플레이 소자 구동 등 여러가지 센서와 액츄에이터 구동과 아울러 구성된 시스템을 제어하는 프로그래밍 및 지능의 핵심부인 마이크로프로세서(본 강좌는 AVR ATmega128 MCU 사용)의 개념과 응용에 필요한 기초지식과 주변 소자의 구동에 필요한 C언어 프로그래밍 실습을 통하여 기계시스템의 지능화 실무를 학습하고 실습함으로써 메카트로닉스의 기초개념의 이해와 응용력을 배양도록 한다.",
+            "similarity": 0.4569901494359013
+        },
+        {
+            "id": 2430,
+            "name": "비행동역학",
+            "description": "항공기 운동 특성의 이해와 적용을 위하여 항공기 운동방정식의 유도 및 이에 근거한 비선형 시뮬레이션 수행 능력을 확보한다. 평형 비행 상태의 정의 및 이를 기준으로한 선형 운동방정식의 해석을 통하여 항공기 동특성을 분석한다. 항공기 동특성 해석 결과 및 항공기 설계 기준을 연계하고 궁극적으로 항공기 제어 시스템 설계에 관한 기본 전략을 강의한다. 또한, MATLAB 기반의 프로그래밍을 통한 프로젝트를 수행하여 프로그래밍 사용법 숙지와 설계 능력을 높인다.\n[참고자료1] 현 강의 계획은 비행동역학에 필요한 일반적인 내용을 정리한 것이며, 구체적이고 상세한 강의 계획, 일정, 평가 방법 등은 학기초에 상세한 자료와 함께 설명 예정입니다.\n[참고사항2] 대면수업 중심으로 비대면수업 (강의자료제공)과 혼합하는 방식입니다.",
+            "curriculum": "과목 소개 및 비행동역학 개론\n\n사전이해도 평가 시행YUMMIMATLAB 프로그래밍 및 Simulink 입문YUMMI질점 항공기의 운동 (1)YUMMI질점 항공기의 운동 (2)YUMMI세로안정성과 조종성 (1)YUMMI세로안정성과 조종성 (2)YUMMI가로,방향 안정성과 조종성 (2)YUMMI가로,방향 안정성과 조종성 (2)YUMMI중간고사YUMMI강체 항공기의 운동YUMMI안정미계수YUMMI항공기운동특성YUMMI스핀운동YUMMI항공기비행성YUMMI기말시험YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "비행동역학 항공기 운동 특성의 이해와 적용을 위하여 항공기 운동방정식의 유도 및 이에 근거한 비선형 시뮬레이션 수행 능력을 확보한다. 평형 비행 상태의 정의 및 이를 기준으로한 선형 운동방정식의 해석을 통하여 항공기 동특성을 분석한다. 항공기 동특성 해석 결과 및 항공기 설계 기준을 연계하고 궁극적으로 항공기 제어 시스템 설계에 관한 기본 전략을 강의한다. 또한, MATLAB 기반의 프로그래밍을 통한 프로젝트를 수행하여 프로그래밍 사용법 숙지와 설계 능력을 높인다.\n[참고자료1] 현 강의 계획은 비행동역학에 필요한 일반적인 내용을 정리한 것이며, 구체적이고 상세한 강의 계획, 일정, 평가 방법 등은 학기초에 상세한 자료와 함께 설명 예정입니다.\n[참고사항2] 대면수업 중심으로 비대면수업 (강의자료제공)과 혼합하는 방식입니다.",
+            "similarity": 0.4305351399736765
+        },
+        {
+            "id": 4375,
+            "name": "자동제어",
+            "description": "시스템을 자동화하기 위한 제어 개념과 시스템 분석에 대한 이론을 학습한다. 제어시스템의 분석 및 설계에 필요한 지식과 응용 능력을 배양하기 위하여 시스템의 고전 제어 이론에 대하여 공부하고, 아울러 현대 제어 이론의 기초를 배운다. 동적모델의 선형화, 물리계의 전달함수, Feedback 제어시스템의 모델링, 시스템 성능 평가, 과도응답 특성, 영점-극점의 영향, 근궤적법, 주파수 응답 해석, 안정성 평가와 설계, 상태공간 개념과 해석 등에 대하여 학습한다. 예제문제 풀이를 통하여 이해를 심화시키고 응용력을 키운다.",
+            "curriculum": "- 선수과목 달성도 테스트\n- 제어시스템의 개론YUMMI- 라플라스 변환YUMMI- 라플라스 역변환\n- 부분분수 전개YUMMI- 선형시불변 미분방정식의 해\n- 전달함수와 응답함수\n- 블럭선도YUMMI- 신호흐름선도 (SFG)\n- 상태공간 모델링YUMMI- 시스템의 수학적 모델링\n- 1차 시스템, 2차 시스템 해석YUMMI- 과도응답과 정상상태응답\n- 2차 시스템의 계단응답\n- 고차 시스템 해석YUMMI* 중간고사\nYUMMI- Routh 안정도 판별법\n- 비례, 적분, 미분 제어 (PID 제어)YUMMI- 근궤적 선도와 일반규칙YUMMI- 근궤적 선도를 이용한 제어시스템 설계YUMMI- 주파수응답법YUMMI- 주파수응답법을 이용한 제어시스템 설계YUMMI- PID 제어기 설계YUMMI* 기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "full_text": "자동제어 시스템을 자동화하기 위한 제어 개념과 시스템 분석에 대한 이론을 학습한다. 제어시스템의 분석 및 설계에 필요한 지식과 응용 능력을 배양하기 위하여 시스템의 고전 제어 이론에 대하여 공부하고, 아울러 현대 제어 이론의 기초를 배운다. 동적모델의 선형화, 물리계의 전달함수, Feedback 제어시스템의 모델링, 시스템 성능 평가, 과도응답 특성, 영점-극점의 영향, 근궤적법, 주파수 응답 해석, 안정성 평가와 설계, 상태공간 개념과 해석 등에 대하여 학습한다. 예제문제 풀이를 통하여 이해를 심화시키고 응용력을 키운다.",
+            "similarity": 0.46076912461910735
+        },
+        {
+            "id": 3303,
+            "name": "메카트로닉스및실험",
+            "description": "메카트로닉스 구성요소인 센서 및 신호처리, 구동기, 컴퓨터 인터페이스 등에 관한 기초지식을 습득하고 시스템 구현을 위한 설계 및 하드웨어 실장과정을 이해한다. ",
+            "curriculum": "메카트로닉스 개요 및 항공우주분야 응용사례소개 YUMMI시스템 응답 : 계측시스템, 1차 및 2차 동적 시스템의 응답특성 YUMMI아날로그 신호처리 : OP-Amp 이용 기본연산, 신호처리 기초 YUMMI데이터 수집 : 정량화 원리, A/D 및 D/A, DAQ 디바이스 및 소프트웨어 YUMMI센서 I : 위치, 속도, 응력, 변형률 측정 YUMMI\n\n센서 II : 온도, 진동, 가속도 측정 YUMMI구동기(actuator) : 전자기의 원리, 직류모터 및 모터선정, 스텝모터, 유압 및 공압, 압전구동기 등YUMMI교과목 상담 YUMMI종합시험 YUMMILabVIEW 기초 YUMMILabVIEW 활용 (My-Rio)YUMMIMicro Vehicle  실습 (IR Sensor 보정, 모터 제어, 주행 재어 및 장애물 탐지)YUMMIMicro Vehicle  실습 (IR Sensor 보정, 모터 제어, 주행 재어 및 장애물 탐지)YUMMI실습 결과 발표회YUMMI종합토론YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "메카트로닉스및실험 메카트로닉스 구성요소인 센서 및 신호처리, 구동기, 컴퓨터 인터페이스 등에 관한 기초지식을 습득하고 시스템 구현을 위한 설계 및 하드웨어 실장과정을 이해한다. ",
+            "similarity": 0.3727952676629894
+        },
+        {
+            "id": 4878,
+            "name": "스마트모빌리티공학",
+            "description": "스마트 모빌리티의 중심에 있는 자율주행기술의 과거와 현재를 학습하고 미래를 준비할 수 있는 안목을 키운다.",
+            "curriculum": "자율주행기술 소개YUMMI자율주행기술의 역사YUMMI자율주행 인식 기술: SensorsYUMMI자율주행 인식 기술: Tracking IYUMMI자율주행 인식 기술: Tracking IIYUMMI자율주행 인식 기술: Localization IYUMMI자율주행 인식 기술: Localization IIYUMMI중간고사YUMMI자율주행 인식 기술: SLAMYUMMI실내 트랙 기반 자율주행 실습YUMMI자율주행 판단 기술: Planning IYUMMI자율주행 판단 기술: Planning IIYUMMI자율주행 판단 기술: Planning IIIYUMMI자율주행 제어 기술: ControlYUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "full_text": "스마트모빌리티공학 스마트 모빌리티의 중심에 있는 자율주행기술의 과거와 현재를 학습하고 미래를 준비할 수 있는 안목을 키운다.",
+            "similarity": 0.36871520114524314
+        },
+        {
+            "id": 4755,
+            "name": "압축성유체역학",
+            "description": "기계공학 분야와는 달리 항공우주공학에서는 압축성 유체역학에 대한 이해가 터빈 설계, 로켓 노즐 설계, 초음속 항공기 형상 설계에 필수적인 부분이다. 이를 위해  본 강좌에서는 음속의 정의, 충격파 및 팽창파의 생성원리, 수직 및 경사 충격파, 충격파관에서의 유동 특성, 초음속 풍동의 원리, 이동충격파 및 팽창파, 공기흡입구 및 노즐 설계, 충격파의 간섭 및 반사, 공력소음의 기초 이론 등을 다룸으로써, 천음속과 초음속 항공기 및 로켓의 날개, 노즐, 흡입구 등을 설계할 수 있는 기본 개념을 습득한다.",
+            "curriculum": "Chapter 1. Basic Equations of Compressible Flow (1)YUMMIChapter 1. Basic Equations of Compressible Flow (2)YUMMIChapter 2. Wave Propagation in Compressible MediaYUMMIChapter 3. Isentropic Flow of a Perfect GasYUMMIChapter 4. Stationary Normal Shock Waves (1)YUMMIChapter 4. Stationary Normal Shock Waves (2)YUMMIChapter 5. Moving Normal Shock WavesYUMMIMid-Term ExamYUMMIChapter 6. Oblique Shock Waves (1)YUMMIChapter 6. Oblique Shock Waves (2)YUMMIChapter 7. Prandtl Meyer Flow (1)YUMMIChapter 7. Prandtl Meyer Flow (2)YUMMIChapter 8. Applications involving Shocks and Expansion Fans (1)YUMMIChapter 8. Applications involving Shocks and Expansion Fans (2)YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "압축성유체역학 기계공학 분야와는 달리 항공우주공학에서는 압축성 유체역학에 대한 이해가 터빈 설계, 로켓 노즐 설계, 초음속 항공기 형상 설계에 필수적인 부분이다. 이를 위해  본 강좌에서는 음속의 정의, 충격파 및 팽창파의 생성원리, 수직 및 경사 충격파, 충격파관에서의 유동 특성, 초음속 풍동의 원리, 이동충격파 및 팽창파, 공기흡입구 및 노즐 설계, 충격파의 간섭 및 반사, 공력소음의 기초 이론 등을 다룸으로써, 천음속과 초음속 항공기 및 로켓의 날개, 노즐, 흡입구 등을 설계할 수 있는 기본 개념을 습득한다.",
+            "similarity": 0.3364713860513153
+        },
+        {
+            "id": 2648,
+            "name": "기소설계 2",
+            "description": "기소설계 2 에서는  기소설계1에서 학습한 역학 설계 총론 개념을 활용하여 기계를 구성하는 20여 종류의 기계요소를 하나씩 설계하게 된다. 1학기에 배운 체결용 기소인 나사와 리벳, 용접에 이어서 2학기에는 힘의 완충 복원용 기소인 스프링 (4) 및 지지용 기소인 윤활 미끄럼 베어링과 구름 베어링을 학습한다. 또한 동력 전달용 기소인  마찰차, 캠, 평기어, 특수기어, 벨트, 체인 및 로프를 이해하며, 축과 축 계 기소인 키, 핀 스플라인, 커플링, 유니버셜 커플링을 배우고, 운동 제어용 기소인 클러치 및 브레이크를 학습한다.  추가적으로 완충기소인 플라이휠 올레오 댐퍼와 자동 클러치 개념의 유압 토크컨버터를 이해하고 각종 파이프 배관을 설계한다.  마지막으로 마이크로 기소인 MEMS 소자 개념을 간략히 소개하며, 또한 공학 인증 차원의 요소설계 과목으로 기소 모듈로 구성된 날개 짓의 간단한 기계를 제작 발표한다.    ",
+            "curriculum": "Lecture rubric-  Elemental design project team (Abeek)\n YUMMISpring- Definition and mechanics-Torsion bar, Coil, and beam springs- Stress analysis and design- 팀프로젝트(1차발표)-Theme title selection from each member's ideas YUMMILubrication and sliding bearing- Definition of  fluid viscosity- Sliding materials and mechanics\n \nYUMMIRolling bearing- Definition and materials- Mechanics and design - 팀프로젝트(2차발표)-Fix the final title and layout sketch by hand  YUMMISpur gear - Definition and basic mechanism of gearing- Pressure angle and tooth contact\nYUMMI Special gears1- Definition and concept of angles in special gears- Helical gear mechanics and design- Bevel gear mechanics and design\nYUMMI Special gears2 -- Bevel gear trains(differential gear) mechanics\n- Worm gear mechanics and design- 팀프로젝트(3차발표)-ㅡMechanical analysis for data on CAD. Drawing CAD and simulation by ANSYS and schedule on parts purchasing.     \nYUMMIMidterm examYUMMIShaft, key, pin, and splines- Definitions and mechanics- Student activity on the solution of the midterm exam (alpha credit 1)YUMMIClutches and brakes- Definition and mechanics- Materials and design\n- 팀프로젝트(4차발표)-Dynamic simulation on motions and assembly the partsYUMMICoupling and belts - Definitions and mechanics \nYUMMIChains and ropes-- Definitions and mechanics YUMMIFly wheel and dampers- Definitions and mechanics  - 팀프로젝트(5차발표)-Demo the working machine and complete presentation\nYUMMIPipes and valves , Micro-machine elements (MEMS)- Definitions and mechanics  in MEMS designsYUMMIFinal examYUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "full_text": "기소설계 2 기소설계 2 에서는  기소설계1에서 학습한 역학 설계 총론 개념을 활용하여 기계를 구성하는 20여 종류의 기계요소를 하나씩 설계하게 된다. 1학기에 배운 체결용 기소인 나사와 리벳, 용접에 이어서 2학기에는 힘의 완충 복원용 기소인 스프링 (4) 및 지지용 기소인 윤활 미끄럼 베어링과 구름 베어링을 학습한다. 또한 동력 전달용 기소인  마찰차, 캠, 평기어, 특수기어, 벨트, 체인 및 로프를 이해하며, 축과 축 계 기소인 키, 핀 스플라인, 커플링, 유니버셜 커플링을 배우고, 운동 제어용 기소인 클러치 및 브레이크를 학습한다.  추가적으로 완충기소인 플라이휠 올레오 댐퍼와 자동 클러치 개념의 유압 토크컨버터를 이해하고 각종 파이프 배관을 설계한다.  마지막으로 마이크로 기소인 MEMS 소자 개념을 간략히 소개하며, 또한 공학 인증 차원의 요소설계 과목으로 기소 모듈로 구성된 날개 짓의 간단한 기계를 제작 발표한다.    ",
+            "similarity": 0.3356745572959021
+        },
+        {
+            "id": 1015,
+            "name": "전산항공드론심화",
+            "description": "Computer-Aided Engineering (CAE) 실습 프로그램을 활용하는 방법을 학습하고 전산설계문제를 해결하는 능력을 기른다. ",
+            "curriculum": "강의소개YUMMI항공드론CAEYUMMI수학적 모델링YUMMI근사해법YUMMI기초역학실습 1YUMMI기초역학실습 2YUMMI기초역학실습 3YUMMI기초역학실습 4YUMMI기초역학실습 5YUMMI기초역학실습 6YUMMI기초역학실습 7YUMMI기초역학실습 8YUMMI기초역학실습 9YUMMI기초역학실습 10YUMMIPBL 설계 주제 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "전산항공드론심화 Computer-Aided Engineering (CAE) 실습 프로그램을 활용하는 방법을 학습하고 전산설계문제를 해결하는 능력을 기른다. ",
+            "similarity": 0.43835366742741677
+        },
+        {
+            "id": 1723,
+            "name": "우주궤도역학",
+            "description": "우주비행에 필요한 기본 원리 및 인공위성 시스템에 대하여 소개한다. 우주환경, 위성 시스템의 기본구성, 운용, 우주탐사에 필요한 제반 기본 지식을 습득한다. 그러한 기본 지식을 배경으로 인공위성의 이해에 가장 필수적인 궤도 역학의 중요성 및 실제 적용시 필요한 수학적 모델링 및 해석 기법을 강의한다. 인공위성 궤도는 단순 2체 궤도는 물론 교란력 모델링 및 그 효과를 분석하고 초보적인 수준의 궤도 설계 과정을 이해한다. 2체 궤도 운동 방정식의 수치적, 해석적 풀이 과정을 실습하고, 궤도 전이 등의 문제데 적용하여 본다. 교제에 제시된 MATLAB 프로그램을 직접 수행해보고 프로젝트를 통해 프로그래밍에 대한 숙달능력을 향상시키고 설계 능력을 높인다.본 과목은 4학년 과목이지만 공업수학과 동역학만 이수하였다면 강의 수강이 가능함.\n참고사항 1: 상세한 강의계획, 일정, 평가 방법 등은 학기초에 별도의 상세히 자료 제공 및 설명 예정입니다.\n참고사항 2: 4학년 수업임을 감안하여, 대면중심과 비대면 (영상강의자료제공) 수업 혼합 방식입니다.",
+            "curriculum": "과목 소개 및 궤도 역학의 중요성 설명\n\n사전이해도평가 수행YUMMIDynamics of point masses (1)YUMMIDynamics of point masses (2)YUMMIThe two-body problem (1)YUMMIThe two-body problem (2)YUMMIOrbital position as a function of time (1)YUMMIOrbital position as a function of time (2)YUMMI중간고사YUMMIOrbital in three dimensions (1)YUMMIOrbital in three dimensions (2)YUMMIOrbital maneuvers (1)YUMMIOrbital maneuvers (2)YUMMIInterplanetary TrajectoriseYUMMIRigid body dynamicsYUMMI기말시험 (발표포함)YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "우주궤도역학 우주비행에 필요한 기본 원리 및 인공위성 시스템에 대하여 소개한다. 우주환경, 위성 시스템의 기본구성, 운용, 우주탐사에 필요한 제반 기본 지식을 습득한다. 그러한 기본 지식을 배경으로 인공위성의 이해에 가장 필수적인 궤도 역학의 중요성 및 실제 적용시 필요한 수학적 모델링 및 해석 기법을 강의한다. 인공위성 궤도는 단순 2체 궤도는 물론 교란력 모델링 및 그 효과를 분석하고 초보적인 수준의 궤도 설계 과정을 이해한다. 2체 궤도 운동 방정식의 수치적, 해석적 풀이 과정을 실습하고, 궤도 전이 등의 문제데 적용하여 본다. 교제에 제시된 MATLAB 프로그램을 직접 수행해보고 프로젝트를 통해 프로그래밍에 대한 숙달능력을 향상시키고 설계 능력을 높인다.본 과목은 4학년 과목이지만 공업수학과 동역학만 이수하였다면 강의 수강이 가능함.\n참고사항 1: 상세한 강의계획, 일정, 평가 방법 등은 학기초에 별도의 상세히 자료 제공 및 설명 예정입니다.\n참고사항 2: 4학년 수업임을 감안하여, 대면중심과 비대면 (영상강의자료제공) 수업 혼합 방식입니다.",
+            "similarity": 0.4017463081195014
+        },
+        {
+            "id": 983,
+            "name": "복합재료설계및풍력활용",
+            "description": "◎ 항공우주 구조 분야에 주로 사용되는 복합재료의 종류와 기본 특성, 직교 이방성 구성 방정식, 파손 강도, 미시역학적 접근법 등을 이해한다.\n\n◎ 구체적으로 복합재료의 적층판 이론, 대칭 및 비대칭 적층판 해석, 층간 응력, 이방성 파손 기준식, 기계적 실험 기법, 제조 공법, 실제 활용 분야 등에 대하여 학습한다.",
+            "curriculum": "강의 소개 + 퀴즈 (선수과목 및 사전 이해정도 조사)YUMMICh. 1  Introduction to Composite Materials\n\n\t(복합재료의 소개)YUMMICh. 1  Introduction to Composite Materials\n\n\t(복합재료의 소개)YUMMIApp. A  Matrices and Tensors: Fundamentals\n\n\t(행렬과 텐서 : 기초)YUMMIApp. C  Elasticity of Anisotropic Solids\n\n\t(이방성 고체의 탄성론)YUMMICh. 2  Analysis of an Orthotropic Lamina\n\n\t(직교 이방성 단층의 해석)YUMMICh. 2  Analysis of an Orthotropic Lamina\n\n\t(직교 이방성 단층의 해석)YUMMICh. 3  Micromechanics: Effective Elastic Moduli\n\n\t(미시역학 : 유효 탄성 계수)YUMMICh. 3  Micromechanics: Effective Elastic Moduli\n\n\t(미시역학 : 유효 탄성 계수)YUMMICh. 4  Classical Lamination Theory\n\n\t(고전적 적층 이론)YUMMICh. 4  Classical Lamination Theory\n\n\t(고전적 적층 이론)YUMMICh. 7  Design of Composite Structures\n\n\t(복합재료 구조물의 설계)YUMMICh. 7  Design of Composite Structures\n\n\t(복합재료 구조물의 설계)YUMMICh. 7  Design of Composite Structures\n\n\t(복합재료 구조물의 설계)YUMMICh. 7  Design of Composite Structures\n\n\t(복합재료 구조물의 설계)YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "복합재료설계및풍력활용 ◎ 항공우주 구조 분야에 주로 사용되는 복합재료의 종류와 기본 특성, 직교 이방성 구성 방정식, 파손 강도, 미시역학적 접근법 등을 이해한다.\n\n◎ 구체적으로 복합재료의 적층판 이론, 대칭 및 비대칭 적층판 해석, 층간 응력, 이방성 파손 기준식, 기계적 실험 기법, 제조 공법, 실제 활용 분야 등에 대하여 학습한다.",
+            "similarity": 0.34586160959141954
+        },
+        {
+            "id": 1829,
+            "name": "냉동.공기조화",
+            "description": "열역학, 열전달 및 유체 역학의 기초 이론을 바탕으로 냉동 및 공기 조화 시스템의 기본 개념 및 작동 원리에 대한 체계적인 학습을 통해 공기 조화 시스템에 대한 이해를 높이고 다양한 환경에서 발생할 수 있는 공기 조화 문제에 대응하고 신속하게 대처하는 능력을 증진 시킨다.",
+            "curriculum": "냉동 공기조화 개요YUMMI열역학 및 열전달 기초YUMMI습공기 성질YUMMI냉방부하 및 난방부하 계산법YUMMI공기조화 설비의 종류YUMMI배관 및 덕트 설계YUMMI자동제어YUMMI중간평가YUMMI냉동의 원리와 방법YUMMI냉동 사이클YUMMI냉동의 주요 구성기기YUMMI설계과제수행및발표YUMMI설계과제수행및발표YUMMI설계과제수행및발표YUMMI설계과제수행및발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "full_text": "냉동.공기조화 열역학, 열전달 및 유체 역학의 기초 이론을 바탕으로 냉동 및 공기 조화 시스템의 기본 개념 및 작동 원리에 대한 체계적인 학습을 통해 공기 조화 시스템에 대한 이해를 높이고 다양한 환경에서 발생할 수 있는 공기 조화 문제에 대응하고 신속하게 대처하는 능력을 증진 시킨다.",
+            "similarity": 0.33693556200099894
+        },
+        {
+            "id": 2293,
+            "name": "현장실습",
+            "description": "현장 실습을 통하여 전공 관련 교육을 이수함으로 설계 능력을 향상한다.\n(CATIA, AUTOCAD 등 교육 실습)",
+            "curriculum": "현장실습에 대한 오리엔테이션YUMMI현장실습 계획서 작성법 교육YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 보고서 제출YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "현장실습 현장 실습을 통하여 전공 관련 교육을 이수함으로 설계 능력을 향상한다.\n(CATIA, AUTOCAD 등 교육 실습)",
+            "similarity": 0.328387187634697
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "description": "본 과목에서는 학생들이 그동안 습득한 전공 지식을 바탕으로 항공 및 드론의 설계 원리를 이해하고, 이를 개선 및 개발하기 위한 창의력을 키움과 동시에 실제 산업 현장에서의 적응력을 향상시키는데 목적이 있다. 따라서 본 교과목을 통해 문제의 발견 및 분석, 문제 해결을 위한 체계적인 접근 방법, 문제 해석 방법 등을 공부하게 되며, 작품 제작을 통해 관련 기술의 적용성 향상, 아이디어의 구체화 등을 학습하게 된다.",
+            "curriculum": "창의적 공학설계 개요 설명, 팀 구성YUMMI작품제작 주제선정 및 연구계획서 작성을 위한 기초자료조사 #1YUMMI작품제작 주제선정 및 연구계획서 작성을 위한 기초자료조사 #1YUMMI주제선정 및 문제해결을 위한 접근방법 토의YUMMI시제품 설계를 위한 배경지식 탐구 #1YUMMI시제품 설계를 위한 배경지식 탐구 #1YUMMI시제품 설계, 부품 및 재료조사 #1YUMMI시제품 설계, 부품 및 재료조사 #2YUMMI시제품 설계, 부품 및 재료조사 #3YUMMI시제품 설계, 부품 및 재료조사 #4YUMMI시제품 제작 #1YUMMI시제품 제작 #2YUMMI시제품 제작 #3YUMMI시제품 제작 #4YUMMI종합발표회, 작품 전시 및 보고서 제출YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론융합설계 본 과목에서는 학생들이 그동안 습득한 전공 지식을 바탕으로 항공 및 드론의 설계 원리를 이해하고, 이를 개선 및 개발하기 위한 창의력을 키움과 동시에 실제 산업 현장에서의 적응력을 향상시키는데 목적이 있다. 따라서 본 교과목을 통해 문제의 발견 및 분석, 문제 해결을 위한 체계적인 접근 방법, 문제 해석 방법 등을 공부하게 되며, 작품 제작을 통해 관련 기술의 적용성 향상, 아이디어의 구체화 등을 학습하게 된다.",
+            "similarity": 0.5088894624515512
+        },
+        {
+            "id": 2591,
+            "name": "로봇공학",
+            "description": "- 로봇 메니퓰레이터를 구동하기 위한 이론적 배경을 학습한다.\n\n- 로봇 메니퓰레이터의 작업을 계획하고 이를 수행하기 위한 프로그래밍을 할 수 있다.\n\n- 로봇 제어에서 해결해야 하는 문제들을 이해하고 다양한 제어기법의 필요성을 인식한다.",
+            "curriculum": "- 선수과목 달성도 테스트\n- 로봇공학 개론YUMMI- 로봇 모델링YUMMI- 강체운동\n- 회전 변환YUMMI- Euler 각\n- Roll-pitch-yaw 각\n- 동차변환YUMMI- 로봇 순기구학YUMMI- DH 표기법YUMMI- 로봇 역기구학YUMMI* 중간고사YUMMI- 속도 기구학 이론YUMMI- Jabobian을 이용한 속도 기구학YUMMI- 기하학적 자코비안, 해석적 자코비안\n- 특이점 해석YUMMI- 작업경로계획YUMMI- 힘/토크 관계식YUMMI- 로봇 동역학 및 제어YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "full_text": "로봇공학 - 로봇 메니퓰레이터를 구동하기 위한 이론적 배경을 학습한다.\n\n- 로봇 메니퓰레이터의 작업을 계획하고 이를 수행하기 위한 프로그래밍을 할 수 있다.\n\n- 로봇 제어에서 해결해야 하는 문제들을 이해하고 다양한 제어기법의 필요성을 인식한다.",
+            "similarity": 0.4119218721344591
+        },
+        {
+            "id": 2998,
+            "name": "항공우주공학프로젝트",
+            "description": "- 학부생들의 창의적 연구 활동을 지원하고 전공 분야 역량을 함양하기 위한 졸업연구 \n- 학부생들에게 연구 참여 기회를 제공함으로써 연구개발현장에서 필요한 실무역량 강화 ",
+            "curriculum": "OT 및 연구주제 선정 YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI발표 및 토론 YUMMI소논문(4쪽) 제출 YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공우주공학프로젝트 - 학부생들의 창의적 연구 활동을 지원하고 전공 분야 역량을 함양하기 위한 졸업연구 \n- 학부생들에게 연구 참여 기회를 제공함으로써 연구개발현장에서 필요한 실무역량 강화 ",
+            "similarity": 0.35958261997746666
+        },
+        {
+            "id": 4623,
+            "name": "인공위성임무설계및해석",
+            "description": "- 인공위성 궤도 설계\n- 인공위성 시스템 기본 설계\n- 참고사항: 최종 강의 계획은 학생들의 수강 상황에 따라 변동이 있을 수 있습니다. (수강생 부족시 설강하지 못함). \n- 2022년 2학기 강의 안내서를 첨부하니 참고하기 바랍니다.\n*인공위성 임무해석 S/W인 STK 또는 FreeFlyer의 기능, 사용법 및 적용 등에 대하여 학습 예정임.",
+            "curriculum": "(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "인공위성임무설계및해석 - 인공위성 궤도 설계\n- 인공위성 시스템 기본 설계\n- 참고사항: 최종 강의 계획은 학생들의 수강 상황에 따라 변동이 있을 수 있습니다. (수강생 부족시 설강하지 못함). \n- 2022년 2학기 강의 안내서를 첨부하니 참고하기 바랍니다.\n*인공위성 임무해석 S/W인 STK 또는 FreeFlyer의 기능, 사용법 및 적용 등에 대하여 학습 예정임.",
+            "similarity": 0.3153550903465519
+        },
+        {
+            "id": 3407,
+            "name": "MEMS 공정",
+            "description": "MEMS란 micro-electro-mechanical system 약어로 마이크로 머신을 뜻하며, 초소형 정밀기계 시스템이라 할 수 있다. MEMS 분야는 4차산업인 스마트 사회의 플랫폼을 구성하는 공학의 새로운 지평을 열어 준 복합적 융합적인 필수적인 학문이다. 거시적인 기계요소로 구성된 기계에 부착되어 운동을 스마트하게 센싱하고 액추에이팅하는 MEMS 소자는 미시적인 반도체공정으로 제작하는 마이크로 기계요소로 구성되어 있다. 본 수업에서는 이러한 MEMS 소자의 기본 개념을 이해하고 소자를 제작하는 초정밀 기계 가공법인 반도체공정을 개략적으로 학습함으로써 마이크로 기소 부품을 가공하는 방법과 구동 및 센싱하는 개념을 이해한다. 또한 다양한  자동차, 스마트폰, 일반 산업용, 군용 기계 및 가전 제품 등 기계 응용 분야에서의 각종 MEMS의 종류와 응용 예를 학습한다.",
+            "curriculum": "MEMS Introduction - definition \nFeynman Lecture Video on Tiny Machines.\nHW: Two examples for Microworld phenomena ( 1 page)YUMMIMicroworld phenomena\nYUMMIMEMS materials 1 \nYUMMIMEMS materials 2 \nYUMMIEnergy band structure \nYUMMIMicrofabrication process1\n)YUMMIMicrofabrication process2\nHW: A MEMS chip process video watching in youtube and a captured screen (1 page)YUMMIMidterm examYUMMIDeposition  Process Lab1 \nMEMS lab visiting,  E-beam Metal deposition and SiNx insulator plasma deposition YUMMIChemical etching and photolithography Lab2\nMEMS lab visiting,  SiNx insulator plasma deposition YUMMIInkjet printer MEMS device \nYUMMIPiezo and pressure MEMS devices \nYUMMIAccelometer and Gyroscope MEMS devices\nYUMMIVisit Semiconductor process center for understanding microfabrication process. YUMMIFinal examYUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "full_text": "MEMS 공정 MEMS란 micro-electro-mechanical system 약어로 마이크로 머신을 뜻하며, 초소형 정밀기계 시스템이라 할 수 있다. MEMS 분야는 4차산업인 스마트 사회의 플랫폼을 구성하는 공학의 새로운 지평을 열어 준 복합적 융합적인 필수적인 학문이다. 거시적인 기계요소로 구성된 기계에 부착되어 운동을 스마트하게 센싱하고 액추에이팅하는 MEMS 소자는 미시적인 반도체공정으로 제작하는 마이크로 기계요소로 구성되어 있다. 본 수업에서는 이러한 MEMS 소자의 기본 개념을 이해하고 소자를 제작하는 초정밀 기계 가공법인 반도체공정을 개략적으로 학습함으로써 마이크로 기소 부품을 가공하는 방법과 구동 및 센싱하는 개념을 이해한다. 또한 다양한  자동차, 스마트폰, 일반 산업용, 군용 기계 및 가전 제품 등 기계 응용 분야에서의 각종 MEMS의 종류와 응용 예를 학습한다.",
+            "similarity": 0.3117900461992764
+        }
+    ]
+}

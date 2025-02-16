@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "데이터가 넘쳐나는 시대에서, 우리는 데이터를 활용하여 더 나은 결정을 내릴 수 있습니다. 저는 빅데이터와 인공지능 기술을 활용해 기업이 시장 동향을 예측하고 최적의 전략을 수립하는 데 도움을 주고 싶어요. 이를 위해 어떤 학습 경로를 따라야 할까요?",
+        "expanded_query": "데이터가 넘쳐나는 시대에서, 우리는 데이터를 활용하여 더 나은 결정을 내릴 수 있습니다. 저는 빅데이터와 인공지능 기술을 활용해 기업이 시장 동향을 예측하고 최적의 전략을 수립하는 데 도움을 주고 싶어요. 이를 위해 어떤 학습 경로를 따라야 할까요? 빅데이터와 인공지능 기술을 활용하여 시장 동향 예측 및 전략 수립 능력을 갖추는 것 기업에서 데이터 기반으로 의사결정을 지원하는 전문가가 되는 것 데이터 과학 및 인공지능 분야 데이터 과학자 데이터 과학자는 대량의 데이터를 분석하고 해석하여 기업이 전략적 의사결정을 내릴 수 있도록 지원합니다. 데이터 분석 및 해석, 모델링, 데이터 기반 인사이트 제공 데이터 분석, 인공지능 모델링, 시장 예측 프로그래밍, 데이터 시각화, 기계 학습 알고리즘 통계학 및 확률 프로그래밍 (Python, R) 기계 학습 빅데이터 처리 기술 (Hadoop, Spark) 데이터 시각화 도구 사용 (Tableau, Power BI) 데이터베이스 관리 (SQL)",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2071,
+            "name": "Python 프로그래밍 1",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.3068417879713565
+        },
+        {
+            "id": 1987,
+            "name": "생명자원산업론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "생명자원융합학과",
+            "similarity": 0.2787059273469915
+        },
+        {
+            "id": 157,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "전기공학과",
+            "similarity": 0.26189397598650943
+        },
+        {
+            "id": 757,
+            "name": "컴퓨터응용제도및설계",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.25535079929317495
+        },
+        {
+            "id": 252,
+            "name": "일반수학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.25283814326176435
+        },
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.45298177224595715
+        },
+        {
+            "id": 2876,
+            "name": "경영통계분석",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "경영학과",
+            "similarity": 0.3903764249812827
+        },
+        {
+            "id": 3880,
+            "name": "통계정보학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.38190611243081096
+        },
+        {
+            "id": 4310,
+            "name": "데이터과학프로그래밍입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.37865229593233235
+        },
+        {
+            "id": 3659,
+            "name": "딥러닝-AI기초",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.37174450144377436
+        },
+        {
+            "id": 2379,
+            "name": "컴퓨터정보처리",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.5197718776122279
+        },
+        {
+            "id": 909,
+            "name": "빅데이터개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.5126796944075013
+        },
+        {
+            "id": 1537,
+            "name": "확률통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.5072639531255143
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.47783966671950556
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.46399865837902143
+        },
+        {
+            "id": 3389,
+            "name": "데이터사이언스",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.5319014262073278
+        },
+        {
+            "id": 4063,
+            "name": "빅데이터분석의이해",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.48944595079924114
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.48331921210756834
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4662440739495549
+        },
+        {
+            "id": 3568,
+            "name": "패션정보분석",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "의류학과",
+            "similarity": 0.4619642881017524
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.5364010471069593
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.5127440757950668
+        },
+        {
+            "id": 296,
+            "name": "데이터분석실무",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.5042924119938823
+        },
+        {
+            "id": 1505,
+            "name": "빅데이터경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.4820280622299524
+        },
+        {
+            "id": 2044,
+            "name": "데이터베이스및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4284811642178173
+        },
+        {
+            "id": 3166,
+            "name": "데이터마이닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.5281994845852982
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.5218541993612127
+        },
+        {
+            "id": 4041,
+            "name": "빅데이터와디지털정부",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.5071385215489465
+        },
+        {
+            "id": 3586,
+            "name": "기계학습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.4835191840513021
+        },
+        {
+            "id": 2921,
+            "name": "생명과학자료분석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.45023047329991805
+        },
+        {
+            "id": 405,
+            "name": "빅데이터분석과응용",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.5625470613682415
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.5183442418909537
+        },
+        {
+            "id": 251,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.5015957655356517
+        },
+        {
+            "id": 640,
+            "name": "데이터기반사회이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.43859258551725666
+        },
+        {
+            "id": 1125,
+            "name": "소셜빅데이터분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.43746274468705915
+        },
+        {
+            "id": 4049,
+            "name": "빅데이터마케팅",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경영학과",
+            "similarity": 0.5617332801847964
+        },
+        {
+            "id": 3533,
+            "name": "인공지능",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.3718696739674302
+        },
+        {
+            "id": 3098,
+            "name": "한국사회분석실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.36711191750949446
+        },
+        {
+            "id": 3952,
+            "name": "로봇비전",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.3636333102195078
+        },
+        {
+            "id": 3155,
+            "name": "프랑스문학작품빅데이터분석과활용",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.362508032005621
+        }
+    ]
+}

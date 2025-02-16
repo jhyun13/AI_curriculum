@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "데이터 활용해 국가별 무역 정책을 분석하고, 기업의 글로벌 시장 진출을 지원하는 컨설턴트가 되고 싶어요. 이를 위해 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 757,
+            "name": "컴퓨터응용제도및설계",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.2659833215468251
+        },
+        {
+            "id": 1839,
+            "name": "조경제도및표현기법",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.2643782302877997
+        },
+        {
+            "id": 1987,
+            "name": "생명자원산업론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "생명자원융합학과",
+            "similarity": 0.2582542498550309
+        },
+        {
+            "id": 252,
+            "name": "일반수학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.2522496351987358
+        },
+        {
+            "id": 735,
+            "name": "한옥학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "한옥학과",
+            "similarity": 0.24646874003512848
+        },
+        {
+            "id": 4844,
+            "name": "국제무역입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.5027476079581412
+        },
+        {
+            "id": 3665,
+            "name": "무역학개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4509225392860646
+        },
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.38143107488313105
+        },
+        {
+            "id": 2876,
+            "name": "경영통계분석",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "경영학과",
+            "similarity": 0.36501185617806786
+        },
+        {
+            "id": 4913,
+            "name": "식품산업의이해",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.35595189352700785
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.5416561533420919
+        },
+        {
+            "id": 1750,
+            "name": "한국무역법",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.45922941093630504
+        },
+        {
+            "id": 1537,
+            "name": "확률통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.402225132932038
+        },
+        {
+            "id": 1685,
+            "name": "비즈니스데이터처리",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경영학과",
+            "similarity": 0.39500638815357797
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.38394966206504005
+        },
+        {
+            "id": 3847,
+            "name": "국제경제학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.461498566699605
+        },
+        {
+            "id": 4313,
+            "name": "국제무역이론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.45549344565168737
+        },
+        {
+            "id": 2859,
+            "name": "국제경영학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4125233163986712
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.4062219843210023
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.40480808345751573
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.48307041994231115
+        },
+        {
+            "id": 345,
+            "name": "무역실무교육",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.47729126097817504
+        },
+        {
+            "id": 664,
+            "name": "글로벌전략론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.46430180691725564
+        },
+        {
+            "id": 296,
+            "name": "데이터분석실무",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.4486884347645508
+        },
+        {
+            "id": 1289,
+            "name": "식품계량경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.4397829914383622
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4859344322901004
+        },
+        {
+            "id": 4088,
+            "name": "무역현장마케팅 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4785279531374521
+        },
+        {
+            "id": 3679,
+            "name": "국제통상정책론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.42844336890056367
+        },
+        {
+            "id": 4793,
+            "name": "인터넷무역실무",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4250685290631352
+        },
+        {
+            "id": 3166,
+            "name": "데이터마이닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.42389721310533374
+        },
+        {
+            "id": 2335,
+            "name": "FTA와WTO법",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.44931432611561917
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.42862178275121227
+        },
+        {
+            "id": 251,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.4247320619898473
+        },
+        {
+            "id": 640,
+            "name": "데이터기반사회이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.4214736343171227
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.41925280575241586
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4533336629592884
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.44930805696765824
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4401494308145587
+        },
+        {
+            "id": 3186,
+            "name": "국제벤처창업경영론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.43422037955904486
+        },
+        {
+            "id": 3342,
+            "name": "중국무역투자론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.40152977337817247
+        }
+    ]
+}

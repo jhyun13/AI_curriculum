@@ -1,0 +1,295 @@
+{
+    "meta_info": {
+        "user_query": "병원 내 대규모 의료 데이터를 효율적으로 저장·관리하고, 환자 데이터 보안을 강화하는 시스템을 구축하려면 어떤 학습이 필요할까요?",
+        "expanded_query": "병원 내 대규모 의료 데이터를 효율적으로 저장·관리하고, 환자 데이터 보안을 강화하는 시스템을 구축하려면 어떤 학습이 필요할까요? 료 데이터베이스 및 보안 시스템 전문성 강화 의료 데이터 관리 및 보안 전문가 헬스케어 IT 및 데이터 보안 의료 정보 시스템 분석가 의료 데이터의 저장 및 관리를 최적화하고, 환자의 민감한 정보를 보호하는 시스템을 설계 및 구현하는 역할. 대규모 의료 데이터베이스 설계 및 관리 환자 데이터 보안을 위한 정책 및 프로토콜 개발 의료 데이터를 효율적으로 처리하기 위한 시스템 유지 및 개선 데이터베이스 관리 정보 보안 대규모 데이터 관리 기술 데이터 보안 프로토콜 설계 데이터베이스 시스템 및 관리 네트워크 보안 원리 헬스케어 정보 시스템 개인정보 보호 관련 법률 및 규정 의료 데이터베이스 어플리케이션 데이터 암호화 및 인증 기술",
+        "given_departments": null,
+        "selected_departments": [
+            "바이오메디컬공학부",
+            "컴퓨터인공지능학부",
+            "문헌정보학과",
+            "통계학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4310,
+            "name": "데이터과학프로그래밍입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.2853630803045683
+        },
+        {
+            "id": 2544,
+            "name": "통계학입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.2834821239967432
+        },
+        {
+            "id": 3082,
+            "name": "아동.청소년정보",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.26640933375750386
+        },
+        {
+            "id": 4615,
+            "name": "문헌정보학입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.20159191677880794
+        },
+        {
+            "id": 3796,
+            "name": "C++프로그래밍",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.19599858624849173
+        },
+        {
+            "id": 302,
+            "name": "데이터기반헬스케어기술 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4822587248507372
+        },
+        {
+            "id": 1586,
+            "name": "R프로그래밍",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.40131903354314724
+        },
+        {
+            "id": 2379,
+            "name": "컴퓨터정보처리",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.3828606680981924
+        },
+        {
+            "id": 909,
+            "name": "빅데이터개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.36558350011189533
+        },
+        {
+            "id": 1537,
+            "name": "확률통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.33870688553431305
+        },
+        {
+            "id": 4307,
+            "name": "데이터기반헬스케어기술 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.45849481455095115
+        },
+        {
+            "id": 4505,
+            "name": "데이터베이스",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4463006967392353
+        },
+        {
+            "id": 3401,
+            "name": "데이터베이스론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.444196455332903
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3265842862940451
+        },
+        {
+            "id": 3065,
+            "name": "임상의학개론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.30198573149763525
+        },
+        {
+            "id": 1183,
+            "name": "데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.45573267241369375
+        },
+        {
+            "id": 2044,
+            "name": "데이터베이스및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.45392148311538427
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.4406928015246292
+        },
+        {
+            "id": 1786,
+            "name": "디지털도서관론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.37202273919643264
+        },
+        {
+            "id": 1715,
+            "name": "암호론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3490452942116062
+        },
+        {
+            "id": 2921,
+            "name": "생명과학자료분석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.4128954911897201
+        },
+        {
+            "id": 3166,
+            "name": "데이터마이닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3606807714689969
+        },
+        {
+            "id": 4654,
+            "name": "디지털도서관기술과실제",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.34340092180406845
+        },
+        {
+            "id": 3734,
+            "name": "클라우드컴퓨팅",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3264470254884184
+        },
+        {
+            "id": 3586,
+            "name": "기계학습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.32384205166660995
+        },
+        {
+            "id": 717,
+            "name": "병원정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4317066146258559
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.419251596713346
+        },
+        {
+            "id": 1428,
+            "name": "의료기기법규및안전관리",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3060952701009247
+        },
+        {
+            "id": 1561,
+            "name": "고령친화시스템공학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.30578691732172136
+        },
+        {
+            "id": 2406,
+            "name": "네트워크보안",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.2979364619173453
+        },
+        {
+            "id": 4308,
+            "name": "시스템보안",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.35638174028678693
+        },
+        {
+            "id": 3730,
+            "name": "IT융복합통섭연구",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3551330983752583
+        },
+        {
+            "id": 3287,
+            "name": "기록정보관리",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.3248844925083053
+        },
+        {
+            "id": 2845,
+            "name": "헬스케어기기디자인",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3119451902679759
+        },
+        {
+            "id": 3004,
+            "name": "정보검색",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.2701293698345504
+        }
+    ]
+}

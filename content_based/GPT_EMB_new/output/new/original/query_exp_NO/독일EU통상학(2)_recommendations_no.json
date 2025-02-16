@@ -1,0 +1,277 @@
+{
+    "meta_info": {
+        "user_query": "독일과의 무역을 전문으로 하는 무역 전문가가 되어 한국 기업의 유럽 시장 진출을 돕고 싶어요. 어떤 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "독일학과",
+            "무역학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 3665,
+            "name": "무역학개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.37579952631443514
+        },
+        {
+            "id": 4844,
+            "name": "국제무역입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3434991860106391
+        },
+        {
+            "id": 2694,
+            "name": "초급독일어소리연습",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.30242490345246203
+        },
+        {
+            "id": 1750,
+            "name": "한국무역법",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.4368112725077543
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.40461006687586654
+        },
+        {
+            "id": 1555,
+            "name": "독일어회화 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "독일학과",
+            "similarity": 0.3688288675347667
+        },
+        {
+            "id": 1178,
+            "name": "독일어텍스트번역연습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "독일학과",
+            "similarity": 0.3613058055575814
+        },
+        {
+            "id": 2180,
+            "name": "독일어연습 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "독일학과",
+            "similarity": 0.3510155192099971
+        },
+        {
+            "id": 3244,
+            "name": "독일어연습 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.41807079444777095
+        },
+        {
+            "id": 4601,
+            "name": "무역계약론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3856227301493328
+        },
+        {
+            "id": 2718,
+            "name": "독일문학작품번역연습",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.37170374183383564
+        },
+        {
+            "id": 4756,
+            "name": "독일어회화 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.35467460319745536
+        },
+        {
+            "id": 3400,
+            "name": "독일문학사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.34934692729374905
+        },
+        {
+            "id": 1380,
+            "name": "독일어연습 3",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "독일학과",
+            "similarity": 0.44367291939741704
+        },
+        {
+            "id": 345,
+            "name": "무역실무교육",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.4151803014906353
+        },
+        {
+            "id": 1551,
+            "name": "무역영어회화",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.40627141976960035
+        },
+        {
+            "id": 1854,
+            "name": "독일예술의이해",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "독일학과",
+            "similarity": 0.38172961744444767
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.3751260234125819
+        },
+        {
+            "id": 4088,
+            "name": "무역현장마케팅 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4767521363996933
+        },
+        {
+            "id": 4793,
+            "name": "인터넷무역실무",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.43243850930019223
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3841600347343985
+        },
+        {
+            "id": 4268,
+            "name": "독일어회화 4",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.3790280528004306
+        },
+        {
+            "id": 4305,
+            "name": "독일드라마의이해",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.37718670491587325
+        },
+        {
+            "id": 730,
+            "name": "무역서류작성실무",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.36489105167128255
+        },
+        {
+            "id": 1695,
+            "name": "고급독일어회화 1",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "독일학과",
+            "similarity": 0.3515454418335941
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.3492702202862702
+        },
+        {
+            "id": 2035,
+            "name": "독일어권지역학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "독일학과",
+            "similarity": 0.34606449311361986
+        },
+        {
+            "id": 2335,
+            "name": "FTA와WTO법",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.34350472562256373
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.43590972267040945
+        },
+        {
+            "id": 3252,
+            "name": "독일어권문화콘텐츠",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.4077200652688195
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.35469549800219674
+        },
+        {
+            "id": 3670,
+            "name": "고급독일어회화 2",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.35034085694696093
+        },
+        {
+            "id": 4333,
+            "name": "독일어권영화의이해",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.3497985210057846
+        }
+    ]
+}

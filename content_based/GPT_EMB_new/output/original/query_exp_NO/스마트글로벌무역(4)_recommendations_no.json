@@ -1,0 +1,346 @@
+{
+    "meta_info": {
+        "user_query": "기업이 글로벌 시장에서 성공하기 위해서는 경제 및 무역 정책을 이해하고, 데이터 기반 의사 결정과 금융 분석이 필수적입니다. 인공지능과 클라우드 기술을 활용해 국제 시장 데이터를 실시간으로 분석하고, 최적의 무역·투자 전략을 도출하려면 어떤 학습 과정이 필요할까요",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "무역학과",
+            "컴퓨터인공지능학부",
+            "경제학부",
+            "경영학과",
+            "통계학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "description": "모든 기업에게 새로운 비즈니스를 시작할 때뿐만 아니라 비즈니스를 성장시키기 위한 전략을 세울 때 시장 환경과 수요에 대한 충분한 데이터 확보와 이러한 데이터로부터 유용한 정보를 추출하는 일은 필수적인 일이 되고 있다. 이러한 상황에서 무역 분야의 전문가, 경영자, 정책담당자에게 데이터로부터 정보를 추출하기 위해 사용되어야 하는 통계기법에 대한 정확한 이해와 적용뿐만 아니라 통계분석결과를 정확하게 해석해낼 수 있는 능력이 점점 더 필수적인 역량으로 요구되고 있다. 이러한 시대 요청에 따라 본 강좌는 경영경제 기초 통계과정으로 기본적인 통계이론을 학습하고 다양한 사례와 자료를 이용해 추정 및 통계적 추론을 통해 학생들로 하여금 통계적 해석 능력을 함양하는 것을 목표로 한다.",
+            "curriculum": "과목 소개 및 개요설명YUMMI자료의 종류와 도시YUMMI중심경향치와 분산도YUMMI확률의 개념YUMMI확률분포YUMMI표본추출과 표본분포YUMMI통계적 추정과 신뢰구간YUMMI중간정리와 중간고사YUMMI통계적 추정과 신뢰구간YUMMI가설의 검정YUMMI가설의 검정YUMMI분산분석YUMMI상관분석과 단순회귀분석YUMMI다중회귀모형YUMMI기말정리와 기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "무역통계분석입문 모든 기업에게 새로운 비즈니스를 시작할 때뿐만 아니라 비즈니스를 성장시키기 위한 전략을 세울 때 시장 환경과 수요에 대한 충분한 데이터 확보와 이러한 데이터로부터 유용한 정보를 추출하는 일은 필수적인 일이 되고 있다. 이러한 상황에서 무역 분야의 전문가, 경영자, 정책담당자에게 데이터로부터 정보를 추출하기 위해 사용되어야 하는 통계기법에 대한 정확한 이해와 적용뿐만 아니라 통계분석결과를 정확하게 해석해낼 수 있는 능력이 점점 더 필수적인 역량으로 요구되고 있다. 이러한 시대 요청에 따라 본 강좌는 경영경제 기초 통계과정으로 기본적인 통계이론을 학습하고 다양한 사례와 자료를 이용해 추정 및 통계적 추론을 통해 학생들로 하여금 통계적 해석 능력을 함양하는 것을 목표로 한다.",
+            "similarity": 0.5657260860845312
+        },
+        {
+            "id": 909,
+            "name": "빅데이터개론",
+            "description": "데이터 정리, 탐색, 추론으로 이어지는 데이터 분석의 합리적인 절차와 올바른 결과의 해석에 대하여 배우는 것을 목표로 한다. 자료의 형태 이해에 따른 수리적인 요약방법, 시각화방법에 대해 습득하고, 추론에 대한 기본 개념을 배운다. 상관관계를 이해하고 선형회귀모형 등 모델링의 기초 개념에 대해 간단히 다룬다. 학습한 개념 및 방법들을 파이썬을 이용하여 실제 데이터에 적용해 본다. ",
+            "curriculum": "강의 소개YUMMI파이선기초YUMMI파이선기초YUMMI자료의 형식YUMMI데이터프레임YUMMI분포와 확률YUMMI분포와 확률YUMMI중간고사 (4/25, 목)YUMMI표본과 경험적분포YUMMI표본과 경험적분포YUMMI유의성 검정YUMMI유의성 검정YUMMI관계와 예측YUMMI관계와 예측YUMMI\n기말고사 (6/13, 목)\nYUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "빅데이터개론 데이터 정리, 탐색, 추론으로 이어지는 데이터 분석의 합리적인 절차와 올바른 결과의 해석에 대하여 배우는 것을 목표로 한다. 자료의 형태 이해에 따른 수리적인 요약방법, 시각화방법에 대해 습득하고, 추론에 대한 기본 개념을 배운다. 상관관계를 이해하고 선형회귀모형 등 모델링의 기초 개념에 대해 간단히 다룬다. 학습한 개념 및 방법들을 파이썬을 이용하여 실제 데이터에 적용해 본다. ",
+            "similarity": 0.41037747864684154
+        },
+        {
+            "id": 1685,
+            "name": "비즈니스데이터처리",
+            "description": "",
+            "curriculum": "- 오리엔테이션\n- 비즈니스데이터처리 개요YUMMI- 엑셀의 기본 기능 : 리본메뉴, 단축키, 데이터 표시형식 등  \n- 데이터 입력 및 저장YUMMI- 엑셀을 이용한 데이터 처리 : 시트 비교, 자료 집계 기법YUMMI- 엑셀을 이용한 데이터 처리 : 서식/조건부서식 지정, 피벗테이블YUMMI- 엑셀을 이용한 데이터 처리 : 데이터 통합, 데이터 추출 기법YUMMI- 엑셀을 이용한 데이터 처리 : 고급필터, 차트YUMMI- 엑셀을 이용한 데이터 처리 : 재무 함수, 매크로YUMMI- 중간시험YUMMI- R 기초 : R 및 R Studio 설치, 사용환경 설정, 기본 화면 설명, 패키지, 실행 및 저장YUMMI- R 기초 : 변수와 벡터, 매트릭스, 데이터프레임YUMMI- R 기초 : 파일 데이터 읽기 및 쓰기, 외부 데이터 불러오고 저장하기YUMMI- R 활용 사례 데이터 분석 : 지도, 구글맵, 지도 위에 마커 및 텍스트 표시YUMMI- R 활용 사례 데이터 분석 : 워드클라우드YUMMI- R 활용 사례 데이터 분석 : 구매 패턴 분석, 인터넷 검색어 분석YUMMI- 기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경영학과",
+            "full_text": "비즈니스데이터처리 ",
+            "similarity": 0.40768073054237197
+        },
+        {
+            "id": 1750,
+            "name": "한국무역법",
+            "description": "-무역의 일련과정을 진행하기 위하여 필요한 3대 법규를 알아보고 이를 실무에 적용하는 방안을 고찰해 본다.\n-수출입통관시에 적용되는 규정사항을 이해하고 이에 필요한 법규를 적용해 본다.\n-대외무역법, 관세법, 외국환거래법과 관련된 국가공인자격증과 이를 통한 무역실무를 이해하고 고찰함으로써 실무에 적용되는 사례를 통해 무역실무를 이해한다.\n",
+            "curriculum": "수업진행 방식 안내 및 수업소개를 통해 한학기 내용에 대한 전반적인 이해를 한다. YUMMI무역법규의 일반적인 이해 및 분류 그리고 국내외 법규에 대해서 고찰한다. YUMMI대외무역법에 대한 이해와 규정에 대한 사항들을 고찰한다. YUMMI대외무역법상에 규정한 수출입실적적용 방식과 제도를 알아보고 실무에 적용하는 방법에 대해 고찰해 본다.YUMMI외국환거래법에 대한 이해와 규정에 대한 사항들을 고찰한다.YUMMI외국환거래법상에 규정한 지급과 수령 그리고 지급방법을 이해하고 자본거래를 고찰해 봄으로써 무역실무에서 일어날 수 있는 사항들을 이해한다. YUMMI글로벌 무역의 자본흐름을 이해하기 위해 현지금융, 직접투자 등을 이해하고 우리나라 기업들의 해외 투자와 해외기업들의 국내투자 방법을 고찰해 본다. YUMMI중간고사 시험YUMMI관세법에 대한 이해와 규정에 대한 사항들을 고찰한다.YUMMI관세법상에 규정한 수출통관제도, 반송 및 특수통관제도 및 과세에 대해서 이해하고 고찰해 본다. YUMMI관세법상에 규정한 보세제도와 관세의 납부를 알아보고 관세를 위한 상품분유에 대해 이해한다. YUMMI관세법상에 규정된 수출을 통한 관세환급과 관세행정구제제도를 이해하고 기타통관관련제도를 고찰한다.YUMMI국제무역법규에 대한 이해하고 이를 통해 무역의 흐름을 고찰한다. YUMMI국제무역에서의 국제운송과 보험규정을 이해하고 국제 규정을 고찰해 본다. YUMMI기말고사 시험YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "한국무역법 -무역의 일련과정을 진행하기 위하여 필요한 3대 법규를 알아보고 이를 실무에 적용하는 방안을 고찰해 본다.\n-수출입통관시에 적용되는 규정사항을 이해하고 이에 필요한 법규를 적용해 본다.\n-대외무역법, 관세법, 외국환거래법과 관련된 국가공인자격증과 이를 통한 무역실무를 이해하고 고찰함으로써 실무에 적용되는 사례를 통해 무역실무를 이해한다.\n",
+            "similarity": 0.39853354521699325
+        },
+        {
+            "id": 1513,
+            "name": "경제통계학",
+            "description": "통계학은 미지의 세계에 대한 안내자이다. 경험과 정보와 자료를 객관적으로 분석하고 처리하는 데 도움을 준다. 이 과목은 기초적인 통계이론의 이해와 경제현상 분석의 활용방법 학습을 목표로 하는 과목이다. 정보화시대라 일컬어지는 오늘날 통계적 분석은 합리적인 판단의 근거로 많이 이용되고 있다. 그럼에도 불구하고 통계학은 까다로운 수식으로 설명되는 이해하기 어려운 학문으로 인식되어 많은 학생들이 선입견이 있다. 이 수업에서는 핵심이 되는 기본 원리를 이해하도록 하여 전체적인 윤곽을 쉽게 파악하도록 하여 학생들이 계량경제학을 수강하기 위한 징검다리 역할을 할 것이다.",
+            "curriculum": "강의 오리엔테이션 & 1장 통계학의 개요(1)YUMMI1장 통계학의 개요(2) 2장 자료의 표현과 측정(1)YUMMI2장 자료의 표현과 측정(2) 3장 확률(1)YUMMI3장 확률(2)YUMMI4장 확률변수와 확률분포YUMMI5장 이산형 확률분포YUMMI6장 연속형 확률분포YUMMI중간고사YUMMI7장 확률표본과 추정YUMMI8장 가설검정(1)YUMMI8장 가설검정(2)YUMMI9장 회귀분석과 상관분석(1)YUMMI9장 회귀분석과 상관분석(2)YUMMI기말고사 대비 문제풀이 및 질의응답YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "경제통계학 통계학은 미지의 세계에 대한 안내자이다. 경험과 정보와 자료를 객관적으로 분석하고 처리하는 데 도움을 준다. 이 과목은 기초적인 통계이론의 이해와 경제현상 분석의 활용방법 학습을 목표로 하는 과목이다. 정보화시대라 일컬어지는 오늘날 통계적 분석은 합리적인 판단의 근거로 많이 이용되고 있다. 그럼에도 불구하고 통계학은 까다로운 수식으로 설명되는 이해하기 어려운 학문으로 인식되어 많은 학생들이 선입견이 있다. 이 수업에서는 핵심이 되는 기본 원리를 이해하도록 하여 전체적인 윤곽을 쉽게 파악하도록 하여 학생들이 계량경제학을 수강하기 위한 징검다리 역할을 할 것이다.",
+            "similarity": 0.38184985415462036
+        },
+        {
+            "id": 4313,
+            "name": "국제무역이론",
+            "description": "급변하는 세계화(globalization) 속에서 국제경제학의 중요성이 더욱 강조되고 있다. 모든 경제주체(국가, 기업, 개인)의 합리적 의사결정은 국제경제의 흐름과 매우 밀접하게 연관되어 있다. 하지만 복잡한 국제경제(무역)의 흐름 및 현상을 제대로 이해하는 것은 결코 쉬운일이 아니다. 이에 복잡한 국제무역발생 원인을 제대로 이해하는 것이 본 강의의 주된 목적이다. 본 강의를 통해 첫째 국제무역의 발생 원인을 설명하고 있는 주요 이론을 소개하고, 둘째 각각의 이론과 모형이 현실에서 어떻게 적용되고 있는지를 살펴본다. 셋째, 국제무역 이론을 실증분석하고 있는 주요 연구들을 살펴보고 국제무역의 결과에 대하여 설명한다. 마지막으로 국제무역의 최근 주요 이슈(자국우선주의, 신보호무역주의, 비관세장벽, 코로나19, 4차산업혁명, 디지털무역, 경제통상 안보 등)를 살펴보고 이러한 움직임이 우리나라에 미칠 영향에 대하여 논의한다. 무엇보다 국제무역의 흐름을 체계적으로 이해하고 논리적으로 설명할 수 있는 능력을 배양하는 것이 본 강의가 추구하는 또 다른 목적이다. \n\n\n\n\n",
+            "curriculum": "강의개요, 국제무역의 기본개념 및 중요성(국제무역의 연구범위 및 방법론)YUMMI절대우위이론, 비교우위이론YUMMI비교우위이론YUMMI국제무역의 표준이론\nYUMMI수요와 공급, 오퍼곡선과 교역조건YUMMI요소부존과 헥셔-오린 이론YUMMI요소부존과 헥셔-오린 이론YUMMI중간고사YUMMI신무역이론YUMMI신무역이론YUMMI경제성장과 국제무역YUMMI무역정책:관세 및 비관세YUMMI무역정책YUMMI최근의 무역이슈YUMMI기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제무역이론 급변하는 세계화(globalization) 속에서 국제경제학의 중요성이 더욱 강조되고 있다. 모든 경제주체(국가, 기업, 개인)의 합리적 의사결정은 국제경제의 흐름과 매우 밀접하게 연관되어 있다. 하지만 복잡한 국제경제(무역)의 흐름 및 현상을 제대로 이해하는 것은 결코 쉬운일이 아니다. 이에 복잡한 국제무역발생 원인을 제대로 이해하는 것이 본 강의의 주된 목적이다. 본 강의를 통해 첫째 국제무역의 발생 원인을 설명하고 있는 주요 이론을 소개하고, 둘째 각각의 이론과 모형이 현실에서 어떻게 적용되고 있는지를 살펴본다. 셋째, 국제무역 이론을 실증분석하고 있는 주요 연구들을 살펴보고 국제무역의 결과에 대하여 설명한다. 마지막으로 국제무역의 최근 주요 이슈(자국우선주의, 신보호무역주의, 비관세장벽, 코로나19, 4차산업혁명, 디지털무역, 경제통상 안보 등)를 살펴보고 이러한 움직임이 우리나라에 미칠 영향에 대하여 논의한다. 무엇보다 국제무역의 흐름을 체계적으로 이해하고 논리적으로 설명할 수 있는 능력을 배양하는 것이 본 강의가 추구하는 또 다른 목적이다. \n\n\n\n\n",
+            "similarity": 0.5183601744083751
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "description": "이제 현대사회에서 머신러닝과 빅데이터에 대한 이해는 사회과학을 공부하는 학생들이 필수적으로 가져야 하는 지식임에 틀림없다. 이 수업은 그에 대한 기초지식을 습득하기 위해 무역, 금융, 경제등 사회과학 분야에서 널리 쓰이는 계량분석론을 이해하는 데 목표를 하고 있다. ",
+            "curriculum": "Basic Concepts for Statistics and Linear Algebra\nYUMMIClassical Linear Models and Ordinary Least Squares Estimation \nYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIHypothesis TestingYUMMI중간고사\nYUMMIHypothesis TestingYUMMIModel SpecificationYUMMIModel SpecificationYUMMIDummy Variables\nYUMMIGeneralized Least Squares\nYUMMIForecastingYUMMI기말고사\nYUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역계량분석론 이제 현대사회에서 머신러닝과 빅데이터에 대한 이해는 사회과학을 공부하는 학생들이 필수적으로 가져야 하는 지식임에 틀림없다. 이 수업은 그에 대한 기초지식을 습득하기 위해 무역, 금융, 경제등 사회과학 분야에서 널리 쓰이는 계량분석론을 이해하는 데 목표를 하고 있다. ",
+            "similarity": 0.5096624853933848
+        },
+        {
+            "id": 3847,
+            "name": "국제경제학",
+            "description": "한국경제는 해외요인에 의한 충격에 큰 영향을 받는 경제구조를 가지고 있다. 따라서 개방경제적인 시각에서 경제분석을 할 수 있는 글로벌 사고능력을 개발하기 위한 국제경제이론의 이해와 체계를 습득하고, 긴밀한 상호의존관계를 형성하고 있는 국제경제관계의 현상과 문제점을 파악하여 해결방안을 모색하는 능력을 길러 글로벌인재를 육성한다.",
+            "curriculum": "강의개요 및 서론YUMMI국제수지의 기초YUMMI외환시장과 환율YUMMI국민소득과 국제수지YUMMI환율변화, 통화량, 물가와 국제수지YUMMI국제자본이동과 개방경제이론YUMMI국제금융시장YUMMI중간정리와 중간고사YUMMI무역제한조치YUMMI환율제도와 국제통화제도YUMMI자본자유화와 외환 금융위기YUMMI무역이론YUMMI요소부존도와 헥셔-오린 모형YUMMI무역정책의 수단YUMMI기말정리와 기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "국제경제학 한국경제는 해외요인에 의한 충격에 큰 영향을 받는 경제구조를 가지고 있다. 따라서 개방경제적인 시각에서 경제분석을 할 수 있는 글로벌 사고능력을 개발하기 위한 국제경제이론의 이해와 체계를 습득하고, 긴밀한 상호의존관계를 형성하고 있는 국제경제관계의 현상과 문제점을 파악하여 해결방안을 모색하는 능력을 길러 글로벌인재를 육성한다.",
+            "similarity": 0.500848004881183
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "description": "- 세계경제의 글로벌화에 따른 기업들의 자금조달과 운용도 국내금융시장 이외 글로벌 금융시장에서 활발하게 이루어 지고 있어 국제금융시장의 역할과 기능에 관한 지식을 터득함\n- 자본시장, 채권시장 등  국제금융시장의 기능과 특성에 대한 이해를 바탕으로 글로벌 기업들의 자금차입과 운용과 관련하여 금융상품과 기법을 터득하여 국제 재무관리 실무자로서 기본 역할을 수행할 수 있는 지식을 함양함\n- 대외 결제수단인 외환거래와 연관된 환위험 개념과 환율결정에 관한 이론 등 외환시장의 기능과 특성 등 무역거래에 따른 결제, 송금 등 외국환 관리에 대한 내용을 이해한다",
+            "curriculum": "ch11. International Financing and Natioanl Capital Markets(국제금융과 자본시장의 특성)YUMMIch 12. The Euromarkets(유로금융시장: 유로본드 발행 및 유통시장)YUMMIch3. The International Monetary System(국제통화제도)YUMMIch5. The Balance of Payments and International Economic linkages(국제경상수지의 개념과 자금흐름)YUMMIch6. The Foreign Exchange Market(외환시장의 특성)YUMMIch8. Currency, Interest Rate, and Credit Derivatives and Swaps(이자율 스왑, 통화스왑, 구조화 파생상품)YUMMI 중간고사YUMMIch9. Measuring and Managing Translation and Transaction Exposure( 거래적 환위험, 환산적 환위험 측정 등)YUMMIch10. Measuring and Managing Economic Exposure(경제적 환위험의 개념과 관리)YUMMIch11. International Financing and National Capital Markets(국제금융시장과 국내자본시장)YUMMIch12. International Portfolio Management(국제포트폴리오 투자 및 관리)YUMMIch15. The Cost of Capital for Foreign Investments(해외투자 자본비용 개념과 측정)YUMMIch17. Capital Budgeting for the Multinational Corporation(다국적기업의 자본예산 배정관리),YUMMIch 18. Managing the International Capital Markets of Multinational Corporations(다국적기업의 자금관리 전략 등)YUMMI기말시험 평가YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제재무론 - 세계경제의 글로벌화에 따른 기업들의 자금조달과 운용도 국내금융시장 이외 글로벌 금융시장에서 활발하게 이루어 지고 있어 국제금융시장의 역할과 기능에 관한 지식을 터득함\n- 자본시장, 채권시장 등  국제금융시장의 기능과 특성에 대한 이해를 바탕으로 글로벌 기업들의 자금차입과 운용과 관련하여 금융상품과 기법을 터득하여 국제 재무관리 실무자로서 기본 역할을 수행할 수 있는 지식을 함양함\n- 대외 결제수단인 외환거래와 연관된 환위험 개념과 환율결정에 관한 이론 등 외환시장의 기능과 특성 등 무역거래에 따른 결제, 송금 등 외국환 관리에 대한 내용을 이해한다",
+            "similarity": 0.4839926420528644
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "description": "1. 데이터 분석 경진대회 참가하여 데이터를 분석할 수 있는 기초 역량 함양\n2. 트리계열 알고리즘과 트랜스포머 모델의 기본 개념 이해\n3. 주요 알고리즘의 구현 및 튜닝 방법 습득\n4. 실제 데이터셋을 활용한 모델 구축 및 평가 능력 향상\n5. 데이터분석 경진대회에서의 활용 전략 학습\n-*주의사항*-\n1. 이 수업은 파이썬프로그래밍을 수강하였거나 객체지향 언어 중 하나로 프로그래밍을 할 줄 아는 학생을 대상으로 한다. (그렇지 않은 학생은 수강을 권장하지 않음.)\n2. 강의는 플립러닝으로 진행하며, 매주 퀴즈를 실시할 예정임. \n3. 부정행위 적발시 혹은 성적미달시 F를 받을 수 있음. ",
+            "curriculum": "강의소개YUMMI기본기 다지기 - 데이터 시각화 기법YUMMI기본기 다지기 - 탐색적 자료 분석(EDA)  YUMMI기본기 다지기 - 데이터 전처리YUMMI기본기 다지기 - 하이퍼파라메터 튜닝YUMMI기본기 다지기 - 평가지표의 이해YUMMI트랜스포머와 트리계열 모델 개념 설명YUMMI머신러닝 패키지 활용 - sklearn YUMMI머신러닝 패키지 활용 - Hugging FaceYUMMI머신러닝 패키지 활용 - AutoGluon YUMMI실제 자료 분석 - Tabular 데이터YUMMI실제 자료 분석 - 시계열 데이터YUMMI실제 자료 분석 - 이미지 데이터YUMMI실제 자료 분석 - 음성 데이터YUMMI실제 자료 분석 - 텍스트 데이터YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "full_text": "기계학습활용 1. 데이터 분석 경진대회 참가하여 데이터를 분석할 수 있는 기초 역량 함양\n2. 트리계열 알고리즘과 트랜스포머 모델의 기본 개념 이해\n3. 주요 알고리즘의 구현 및 튜닝 방법 습득\n4. 실제 데이터셋을 활용한 모델 구축 및 평가 능력 향상\n5. 데이터분석 경진대회에서의 활용 전략 학습\n-*주의사항*-\n1. 이 수업은 파이썬프로그래밍을 수강하였거나 객체지향 언어 중 하나로 프로그래밍을 할 줄 아는 학생을 대상으로 한다. (그렇지 않은 학생은 수강을 권장하지 않음.)\n2. 강의는 플립러닝으로 진행하며, 매주 퀴즈를 실시할 예정임. \n3. 부정행위 적발시 혹은 성적미달시 F를 받을 수 있음. ",
+            "similarity": 0.47339747808522536
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "description": "- 국제적인 비즈니스 환경에서의 도전에 대한 이해\n- 글로벌 시장에서의 기회를 효과적으로 활용하는 능력 강화\n- 문화적 다양성을 고려한 효과적인 국제마케팅 전략 수립 능력 향상\n- 글로벌 브랜딩과 가격 책정에 대한 전문 지식 습득",
+            "curriculum": "-오리엔테이션\n-기업의 글로벌화와 글로벌마케팅의 개념YUMMI-글로벌마케팅 환경YUMMI글로벌 마케팅조사\nYUMMI-글로벌 시장세분화전략\n-사례연구YUMMI-글로벌 표적시장선정과 포지셔닝전략\n-사례연구YUMMI-글로벌 시장진입전략\n-사례연구YUMMI-글로벌마케팅 믹스전략의 개념적 기초\n-사례연구YUMMI중간시험 YUMMI-글로벌 제품전략, 가격전략\n-사례연구YUMMI-글로벌 유통전략, 촉진전략                       -사례연구YUMMI- 전시마케팅                                            -사례연구YUMMI-글로벌마케팅 관리\n-사례연구YUMMI-글로벌마케팅의 조직\n-사례연구YUMMI- 디지털 시대의 국제마케팅                 ---사례연구YUMMI기말시험 YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "국제마케팅 - 국제적인 비즈니스 환경에서의 도전에 대한 이해\n- 글로벌 시장에서의 기회를 효과적으로 활용하는 능력 강화\n- 문화적 다양성을 고려한 효과적인 국제마케팅 전략 수립 능력 향상\n- 글로벌 브랜딩과 가격 책정에 대한 전문 지식 습득",
+            "similarity": 0.5053502176126704
+        },
+        {
+            "id": 345,
+            "name": "무역실무교육",
+            "description": "국제무역 실무의 이해",
+            "curriculum": "오리엔테이션YUMMI무역업의 이해YUMMI국제규칙의 이해YUMMI해외시장조사 IYUMMI해외시장조사 IIYUMMI수출아이템 발굴 방법YUMMI무역계약 준비  IYUMMI무역계약 준비  IIYUMMI무역계약 준비 ⅢYUMMI바이어 상담 및 협상 실무YUMMI무역실무 Case Study IYUMMI무역실무 Case Study IIYUMMI무역실무 Case Study ⅢYUMMI전시회 시뮬레이션YUMMI최종 보고 및 평가YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "무역실무교육 국제무역 실무의 이해",
+            "similarity": 0.49884332217564104
+        },
+        {
+            "id": 664,
+            "name": "글로벌전략론",
+            "description": "본 수업은 다국적기업이 성공적인 국경간 경영활동을 위해 수행하는 다양한 경영전략에 대한 학습과 이해 함양을 수업목표로 한다.\n본 수업에서는 주로 기초적인 경영전략에 대한 지식, 다국적기업을 둘러싼 외부환경, 다국적기업의 경영자원과 경쟁우위, 다국적기업의 다양한 해외시장 진출 전략에 대해 학습한다.\n본 수업의 수강생은 향후 다국적기업의 구성원 및 창업가, 경영컨설턴트 및 애널리스트, 국제경영학 여러 분야의 연구자 등으로 성장할 수 있기를 기대한다.",
+            "curriculum": "글로벌전략론 소개 및 개론YUMMI경영전략에 대한 이해YUMMI글로벌경영환경하의 다국적기업의 목표와 지배구조YUMMI다국적기업의 외부환경분석YUMMI다국적기업의 경영자원과 핵심역량YUMMI다국적기업의 경쟁우위와 경쟁전략YUMMI다국적기업의 비용우위 및 차별화전략YUMMI중간고사YUMMI다국적기업의 해외시장 진출전략 IYUMMI다국적기업의 해외시장 진출전략 IIYUMMI다국적기업의 해외시장 진출전략 IIIYUMMI다국적기업의 해외시장 진출전략 IVYUMMI다국적기업의 사회적책임과 경영혁신YUMMI팀별 기말발표YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "글로벌전략론 본 수업은 다국적기업이 성공적인 국경간 경영활동을 위해 수행하는 다양한 경영전략에 대한 학습과 이해 함양을 수업목표로 한다.\n본 수업에서는 주로 기초적인 경영전략에 대한 지식, 다국적기업을 둘러싼 외부환경, 다국적기업의 경영자원과 경쟁우위, 다국적기업의 다양한 해외시장 진출 전략에 대해 학습한다.\n본 수업의 수강생은 향후 다국적기업의 구성원 및 창업가, 경영컨설턴트 및 애널리스트, 국제경영학 여러 분야의 연구자 등으로 성장할 수 있기를 기대한다.",
+            "similarity": 0.46766204871952677
+        },
+        {
+            "id": 329,
+            "name": "글로벌경영학",
+            "description": "",
+            "curriculum": "과목 소개/ 글로벌 경영에 대한 이해YUMMI새로운 국제무역질서YUMMI글로벌 금융환경YUMMI정치적, 문화적 환경YUMMI글로벌 전략의 수립YUMMI수출과 계약을 통한 해외사업 운영YUMMI해외직접투자YUMMI중간고사YUMMI국제합작투자와 전략적제휴YUMMI해외인수합병\n\n글로벌기업의 조직구조와 인적자원괸리YUMMI글로벌제품개발과 마케팅활동의 조정\n\n생산 및 연구개발활동의 세계적인 배치와 조정YUMMI글로벌경영활동의 재무적, 회계적 통제\n\nYUMMI사례 수업YUMMI사례수업YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경영학과",
+            "full_text": "글로벌경영학 ",
+            "similarity": 0.4638571501671768
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "description": "데이터 분석에 필요한 데이터베이스에 대해서 이해하며, R과 Python을 이용한 실제 응응과 활용 능력을 키운다.    ",
+            "curriculum": "소개YUMMI데이터베이스의 이해YUMMI관계형데이터베이스 YUMMI비정형 데이터 베이스 YUMMIR & Python ReviewYUMMIR & Python ReviewYUMMIR & Python ReviewYUMMIR & Python Review \n/ 중간고사YUMMI데이터 베이스 설계의 이해 YUMMI데이터 베이스 설계의 이해YUMMIR DB 설계YUMMIR DB 설계YUMMIPython DB 설계YUMMIPython DB 설계YUMMI기말 발표YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "통계데이터베이스 데이터 분석에 필요한 데이터베이스에 대해서 이해하며, R과 Python을 이용한 실제 응응과 활용 능력을 키운다.    ",
+            "similarity": 0.4548857203554164
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "description": "오늘날 글로벌 기업들은 해외시장진출을 위하여 기본적으로 시장조사에 깊은 이해가 필요합니다. 이에 다양한 시장조사 방법과 데이터 분석 기술을 익힘으로써 현실적인 비즈니스 시나리오에서 효과적으로 대응할 수 있도록 한다.",
+            "curriculum": "오리엔테이션YUMMI 해외시장조사의 개요YUMMI해외시장조사 산업YUMMI해외시장조사 대상 국가 선정 및 분석YUMMI해외시장조사방법YUMMI조사설계 및 2차 데이터 패키지 정보YUMMI정성적 조사기술과 설문데이터 수집방법YUMMI중간고사YUMMI측정의 이해, 문항개발, 설문지 설계YUMMI표본추출 및 크기결정YUMMI통계분석 및 조사보고서YUMMI실습하기 1YUMMI실습하기 2YUMMIReview & PresentationYUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "해외시장조사론 오늘날 글로벌 기업들은 해외시장진출을 위하여 기본적으로 시장조사에 깊은 이해가 필요합니다. 이에 다양한 시장조사 방법과 데이터 분석 기술을 익힘으로써 현실적인 비즈니스 시나리오에서 효과적으로 대응할 수 있도록 한다.",
+            "similarity": 0.578323631809577
+        },
+        {
+            "id": 4088,
+            "name": "무역현장마케팅 2",
+            "description": "무역실무 및 현장실습을 통해 전문인력 양성, 도내 중소 수출업체 실무지원(시장조사보고서, CL작성, Inquiry응대, 통번역, 바이어상담, 사후관리 등)을 통한 무역현장실습을 익힌다.",
+            "curriculum": "현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역현장마케팅 2 무역실무 및 현장실습을 통해 전문인력 양성, 도내 중소 수출업체 실무지원(시장조사보고서, CL작성, Inquiry응대, 통번역, 바이어상담, 사후관리 등)을 통한 무역현장실습을 익힌다.",
+            "similarity": 0.4419321580831065
+        },
+        {
+            "id": 4793,
+            "name": "인터넷무역실무",
+            "description": "본 과목은 무역에 대한 전반적인 개념과 용어, 거래형태 등을 익히고, 수출입절차에 대하여 무역거래 프로세스를 실습하는 전문프로그램(유트레이드에듀)과 팀활동을 통해 실제적인 무역업무 처리능력을 기를 수 있도록 한다. ",
+            "curriculum": "오리엔테이션 YUMMI전자무역의 개요YUMMI전자무역의 구현YUMMI인터넷을 활용한 시장조사와 거래선 발굴\nYUMMI무역계약: 오퍼 및 무역협상\nYUMMI무역계약: 기본조건과 Incoterms\nYUMMI무역결제1: 신용장 실무 \nYUMMI중간시험 YUMMI무역운송: 선적요청, 선박스케쥴조회, 선박부킹, 선하증권발행 사전확인 \nYUMMI무역서류: 상업송장, 포장명세서, 원산지증명서 \nYUMMI수출입통관: 관세, 수출신고, 수입신고\nYUMMI해상적하보험: 보험신청, 보험조건\nYUMMI무역결제2: 추심방식 결제, 신용리스크 관리\nYUMMI분쟁해결: 클레임, 분쟁해결 방법, ODR \nYUMMI기말시험 YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "인터넷무역실무 본 과목은 무역에 대한 전반적인 개념과 용어, 거래형태 등을 익히고, 수출입절차에 대하여 무역거래 프로세스를 실습하는 전문프로그램(유트레이드에듀)과 팀활동을 통해 실제적인 무역업무 처리능력을 기를 수 있도록 한다. ",
+            "similarity": 0.42940138573003495
+        },
+        {
+            "id": 3166,
+            "name": "데이터마이닝",
+            "description": "1. 대규모로 저장된 데이터안에서 체계적으로 정보를 분석하는 과정과 이론에 대한 학습\n2. 산업현장에서 활용되는 다양한 주제의 문제와 알고리즘을 학습하며 구체적으로는 finding similar items, mining frequent itemsets, clustering, dimensionality reduction, web advertising, link analysis, recommender systems, regression, classification, decision tree, time series prediction 등을 공부\n3. 실질적인 데이터마이닝 활용 능력을 키우기 위해 Python 언어를 활용한 데이터마이닝 알고리즘 구현 및 데이터 분석\n4. This syllabus may change depending on situation.",
+            "curriculum": "IntroductionYUMMIFrequent ItemsetsYUMMIFrequent ItemsetsYUMMIFinding Similar Items I YUMMIFinding Similar Items IIYUMMIClusteringYUMMICommunity Detection in GraphsYUMMI중간고사YUMMIDimensionality ReductionYUMMIPageRankYUMMIRecommender Systems - 1YUMMIRecommender Systems - 2YUMMIMining Data Stream IYUMMIMapReduce and SparkYUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "데이터마이닝 1. 대규모로 저장된 데이터안에서 체계적으로 정보를 분석하는 과정과 이론에 대한 학습\n2. 산업현장에서 활용되는 다양한 주제의 문제와 알고리즘을 학습하며 구체적으로는 finding similar items, mining frequent itemsets, clustering, dimensionality reduction, web advertising, link analysis, recommender systems, regression, classification, decision tree, time series prediction 등을 공부\n3. 실질적인 데이터마이닝 활용 능력을 키우기 위해 Python 언어를 활용한 데이터마이닝 알고리즘 구현 및 데이터 분석\n4. This syllabus may change depending on situation.",
+            "similarity": 0.4279471289010353
+        },
+        {
+            "id": 4183,
+            "name": "기업경영분석",
+            "description": "",
+            "curriculum": "기업경영분석의 개요 YUMMI경영과 기업,경영분석의 의의,방법 및 절차YUMMI회계자료의 이해(재무상태표,포괄손익계산서, 현금흐름표)YUMMI회계자료와 경영분석YUMMI재무비율분석YUMMIROI분석및 시장가치비율YUMMI현금흐름과 유동석 분석YUMMI중간시험 YUMMI재무분석 응용과 사례YUMMI비용구조와 레버리지YUMMI경제분석과 산업분석YUMMI증권분석과 가치평가YUMMI신용분석과 신용등급YUMMI기업부실분석,기업인수 및 합병YUMMI기말시험YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경영학과",
+            "full_text": "기업경영분석 ",
+            "similarity": 0.42676865719719476
+        },
+        {
+            "id": 2121,
+            "name": "현대한국경제론",
+            "description": " 코로나이후  4차산업혁명 시대의 글로벌 경제아래에서 강소리더국가로서 세계경제 위기극복과  새로운  AI 디지탈 경제로 나가고 있는 한국경제의 방향을  설명하고,  학생들이 다가온 기후환경변화의 대응과 저출산 저성장 경제에서 지속적인 경제잠재력 향상, 복지사회 구현을 위한 기본적인 인식과 미래 비전을 갖도록 하는 데 있다. \n",
+            "curriculum": "프롤로그 : 글로벌 경제 위기의 원인과 배경, 결과, 앞으로의 과제 설명\n\n           YUMMI한국경제의 개발과정 : 한국경제의 전략  이해                                       \n           \n        YUMMI산업구조의 변화 : 한국산업구조의 발전과 전략\n               - 기술적 과제와 공간적인 과제, 인적과제\n                설명과 이해\n      YUMMI기업의 국제경쟁력 : 무엇이 국제경쟁력을 결정하는요인 이해\n     \n           YUMMI글로벌시대의 상품거래와 자본이동 : 세계금융시장과 한국 금융시장의 발전을 이해\n\n         YUMMI금융제도와 통화정책 : 불황기의 디플레와 인플레\n 우리나라의 금융통화정책 이해\n          YUMMI경제성장과 안정성 : 정보화와 일자리, 신기술정보시대를 위한 재정전략 설명\n         YUMMI        중간고사YUMMI우리나라의 노동시장과 노사관계 특성 설명과 이해 \n\n           YUMMI미래의 성장전략과 그린정책 : 경제환경 변화의 핵심인 에너지 문제 대한 시각과 설명 \n\n         YUMMI사회간접자본과 국토개발 : 지역균형발전과 수도권\n과제. 자원의 비효율성에 대한 과제 발견\n         YUMMI경제성장과 삶의 수준 복지: 인간 개발과 경제발전 기초적인 이론 제시\n\n        YUMMI한국문화와 국가경쟁력 : 한국인  특징과 비젼\nK-POP.. 한국문화의 세계화, 폭넓은 세계관\n          YUMMI기술개발과 기술혁신 : 미래 기술사회에서 한국경제의 역할과 비전 \nYUMMI에필로그 : 글로벌 리드를 위한 한국경제 한국경제 방향,   국가브랜드와 지역브랜드\n                                                                            \n          기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "현대한국경제론  코로나이후  4차산업혁명 시대의 글로벌 경제아래에서 강소리더국가로서 세계경제 위기극복과  새로운  AI 디지탈 경제로 나가고 있는 한국경제의 방향을  설명하고,  학생들이 다가온 기후환경변화의 대응과 저출산 저성장 경제에서 지속적인 경제잠재력 향상, 복지사회 구현을 위한 기본적인 인식과 미래 비전을 갖도록 하는 데 있다. \n",
+            "similarity": 0.4531544165705219
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "description": "데이터 사이언스에 필수적인 데이터 마이닝에 방법론을 익히고 적용능력을 키움.\n시각화 및 EDA, 협업 필터링, 연과규칙 분석, 차원축소법, 군집분석, 이상치 탐색 등을 다룸.  ",
+            "curriculum": "소개 및 목표YUMMI데이터 시각화 YUMMI데이터 시각화 YUMMIEDAYUMMI협업필터링YUMMI협업필터링YUMMI연관규칙 분석YUMMI연관규칙 분석 및 중간고사YUMMI주성분 분석YUMMI비선형 차원 축소법YUMMI군집분석 (1)YUMMI군집분석 (2)YUMMI군집분석 (3)YUMMI이상치 탐색 (1)YUMMI이상치 탐색 (2)\n기말발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "데이터마이닝 데이터 사이언스에 필수적인 데이터 마이닝에 방법론을 익히고 적용능력을 키움.\n시각화 및 EDA, 협업 필터링, 연과규칙 분석, 차원축소법, 군집분석, 이상치 탐색 등을 다룸.  ",
+            "similarity": 0.4304999329077397
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "description": "현대 세계 경제에서 서비스 무역의 중요성을 배울 수 있는 기회를 제공\n서비스 무역의 틀, 서비스 무역 분석 관련 주제 연구",
+            "curriculum": "서비스 산업의 이해YUMMI우리나라 경제 현황의 이해YUMMI우리나라 경제 현황의 이해YUMMI서비스 산업 프로젝트 1 구성YUMMI서비스 산업과 경제성장의 관련성YUMMI서비스 산업과 경제성장의 관련성YUMMI프로젝트 1 발표YUMMI프로젝트 1 발표YUMMI문화산업의 분류\n프로젝트 2 구성YUMMI문화산업 관련 이슈 연구YUMMI문화산업 정책 연구YUMMI문화산업의 국제적 전략 수립YUMMI프로젝트 2 조율YUMMI프로젝트 2 발표YUMMI프로젝트 2 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "서비스통상론 현대 세계 경제에서 서비스 무역의 중요성을 배울 수 있는 기회를 제공\n서비스 무역의 틀, 서비스 무역 분석 관련 주제 연구",
+            "similarity": 0.41990614820532796
+        },
+        {
+            "id": 2335,
+            "name": "FTA와WTO법",
+            "description": "글로벌 무역환경에 맞추어 FTA와 WTO협정문을 이해하고 새로운 무역환경에 대처하는 법을 배우며, FTA원산지관리사와 FTA원산지실무사 자격증을 취득할 수 있는 기초소양을 배양하는데 학습목표를 둔다. ",
+            "curriculum": "오리엔테이션을 통해 수업전체흐름 및 수업과목 목표를 이해한다. YUMMIWTO개요.  농업, 섬유 및 의류에 관한 협정과 무역관련 투자조치에 관한 협정을 이해한다. YUMMI관세 및 무역에 관한 일반협정 6조의 이행에 관한 협정[반덤핑]에 대한 이해와 보조금 및 상계조치에 관한 협정에 이해와 적응에 대해 고찰해 본다. YUMMI원산지 규정, 긴급수입제한조치, 서비스 무역, 무역관련지적재산권에 관한 협정을 이해하고 고찰해 본다. YUMMI분쟁해결 규칙 및 절차에 관한 양해 무역정책을 이해하고 검토제도 및 복수국간 무역협정을 이해 및 고찰해 본다. YUMMIFTA 개요 및 법령에 대해 이해하고 고찰해 본다. YUMMIFTA 원산지 증명서 활용 및 실무 범위에 대해 고찰해 본다. YUMMI중간고사 / 주관식 필기시험YUMMIHS 품목분류제도와 관세율표에 해석에 관한 통칙을 이해하고 적용하는 실무적 행태를 고찰해 본다. YUMMIFTA 적용요건을 고찰하고 실무적 활용방안[결정요건]에 대해 알아본다.YUMMIFTA 원산지결정을 품목별로 알아보고 개별기준에 따라 활용할 방안을 고찰해 본다.YUMMIFTA 원산지 결정요건[품목별기준/공통기준]을 공통기준에서 알아보고 활용할 방안을 고찰해 본다.YUMMIFTA 원산지 결정요건[일반기준/본야별특례-보충기준]을 알아보고 실무적 활용방안을 고찰해 본다. YUMMI관세절차 및 통관, 관세환급 방안을 알아보고 고찰해 본다. YUMMI기말고사 / 주관식 필기시험YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "FTA와WTO법 글로벌 무역환경에 맞추어 FTA와 WTO협정문을 이해하고 새로운 무역환경에 대처하는 법을 배우며, FTA원산지관리사와 FTA원산지실무사 자격증을 취득할 수 있는 기초소양을 배양하는데 학습목표를 둔다. ",
+            "similarity": 0.4176534354455279
+        },
+        {
+            "id": 989,
+            "name": "금융통계",
+            "description": "주식에 대한 기초 지식과 웹에서 주식 데이터를 스크래핑하여 전처리, 시각화, 예측모형 등을 다룬다.",
+            "curriculum": "주식 용어 기초YUMMI주식 데이터 스크래핑YUMMI주식 데이터 전처리 YUMMI주식 데이터 시각화YUMMI주식 데이터 시각화YUMMI주식 데이터 시각화YUMMI주식 데이터 시각화YUMMI중간고사YUMMI증권 뉴스 스크래핑YUMMI증권 뉴스 스크래핑YUMMI주식 가격 예측 모형 탐색YUMMI주식 가격 예측 모형 탐색YUMMI주식 가격 예측 모형 비교YUMMI주식 가격 예측 모형 비교YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "금융통계 주식에 대한 기초 지식과 웹에서 주식 데이터를 스크래핑하여 전처리, 시각화, 예측모형 등을 다룬다.",
+            "similarity": 0.4101931962794886
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "description": "기업의 국제화와 세계시장의 글로벌화에 대응해 지역별, 국별 시장 특성과 동향을 이해하고 분석하는 능력을  함양하는데 그 목적이 있다. ",
+            "curriculum": "세계지역론 소개 및 연구범위YUMMI세계국가 무역환경분석YUMMI세계국가 무역환경분석YUMMI세계국가 산업분석YUMMI세계국가 무역분석YUMMI세계국가 무역분석YUMMI세계지역 전략 수출상품 연구YUMMIProject 1 최종발표YUMMI4차 산업혁명과 무역환경YUMMIDiana EconomyYUMMIproject 1 심화 발표YUMMIGlobal RPM 응용 전략YUMMI시장진출과 국제경쟁력 확보방안YUMMIProject 2 최종발표YUMMIProject 2 최종발표YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "세계지역론 기업의 국제화와 세계시장의 글로벌화에 대응해 지역별, 국별 시장 특성과 동향을 이해하고 분석하는 능력을  함양하는데 그 목적이 있다. ",
+            "similarity": 0.5193608578151545
+        },
+        {
+            "id": 3186,
+            "name": "국제벤처창업경영론",
+            "description": "국가 간 거래를 위한 국제벤처창업경영의 이론과 실무적 지식을 이해하고 창업 시뮬레이션으로 실무역량을 강화한다. ",
+            "curriculum": "오리엔테이션YUMMI벤처창업 시뮬레이션 팀 구성YUMMI기업가 정신의 이해YUMMI기업조직 구성 등YUMMI팀별 상품 선정 및 상품성 확인, 조직, 경영을 위한 창조성과 창의력 발휘YUMMI창업 아이디어 발굴 기법YUMMI사업타당성 및 지속가능성YUMMI중간고사YUMMI사업타당성 및 리스크관리 방안YUMMI사업계획서 작성방법YUMMI회사 재무상태 확인YUMMI정부지원자금 조달 YUMMI벤처스타트업의 세계화YUMMI벤처스타트업 사례 분석YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제벤처창업경영론 국가 간 거래를 위한 국제벤처창업경영의 이론과 실무적 지식을 이해하고 창업 시뮬레이션으로 실무역량을 강화한다. ",
+            "similarity": 0.4633094162671584
+        },
+        {
+            "id": 4049,
+            "name": "빅데이터마케팅",
+            "description": "",
+            "curriculum": "교과목 소개 / 빅데이터마케팅 개요YUMMI4차 산업혁명 기술과 비즈니스 환경 변화YUMMI인터넷 비즈니스의 이해YUMMI인터넷 소비자 행동의 이해YUMMI인터넷 마케팅조사 및 빅데이터 분석YUMMI빅데이터마케팅 애널리틱스YUMMI빅데이터 분석과 인공지능YUMMI중간고사    YUMMI고객분석을 위한 개인화 및 eCRMYUMMI빅데이터 마케팅 전략YUMMI4차 산업혁명 기술과 마케팅 YUMMI빅데이터마케팅 응용YUMMI[적용사례검토]\n빅데이터마케팅을 활용한 넷플릭스, 아마존닷컴 등 다양한 기업사례소개YUMMI[관련연구검토]\n빅데이터분석과 SERVQUAL 프레임웍, 서비스품질평가 등에 관한 연구내용소개YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경영학과",
+            "full_text": "빅데이터마케팅 ",
+            "similarity": 0.421843649485744
+        },
+        {
+            "id": 3342,
+            "name": "중국무역투자론",
+            "description": "세계 정치 및 경제 무대에서의 위상이 급상승하고 있는 중국의 통상환경에 대한 기본개념을 파악하기 위하여 중국의 대외개방정책의 성립 및 전개과정, 통상정책의 변화와 한중무역, 대중국 직접투자 등의 고찰을 통한 중국통상에 관한 이해증진을 목표로 한다.",
+            "curriculum": "중국개황YUMMI중국과 중국인 1 : 중국민족YUMMI중국과 중국인 2 : 중국의 소비시장YUMMI중국의 대외개방경제체제 성립YUMMI중국의 대외개방정책 전개과정YUMMI중국의 통상정책YUMMI중국의 WTO가입과 통상정책의 변화YUMMI중간고사YUMMI중국의 대외무역구조의 변화YUMMI한중 경제관계의 변화YUMMI중국의 외자유치정책과 중국기업의 해외진출 1YUMMI중국의 외자유치정책과 중국기업의 해외진출 2YUMMI글로벌기업의 대중국투자YUMMI한국기업의 대중국 권역별 진출전략YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "중국무역투자론 세계 정치 및 경제 무대에서의 위상이 급상승하고 있는 중국의 통상환경에 대한 기본개념을 파악하기 위하여 중국의 대외개방정책의 성립 및 전개과정, 통상정책의 변화와 한중무역, 대중국 직접투자 등의 고찰을 통한 중국통상에 관한 이해증진을 목표로 한다.",
+            "similarity": 0.42099690740305407
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "description": "한국의 경제성장과 무역의 상관관계, 한국 무역의 역사, 한국 정부의 무역 및 산업 정책 변화 과정, 한국 무역 관련 주요 기관 및 기능, 한국 무역 관련 주요 법률 고찰 및 한국 무역에 영향을 미치는 글로벌 무역 환경과 최근 주요 이슈 등을 분석 연구하여 궁극적으로 한국 및 세계 무역 환경과 그에 관련된 주요 이슈에 대한 분석 연구 능력을 제고코자 함 ",
+            "curriculum": "한국 무역학 연구 강좌 소개YUMMI무역의 개념 및 추세YUMMI경제성장과 무역의 상관관계YUMMI한국 경제와 한국 무역의 성장과정YUMMI최근 10년간 한국 무역의 특징 변화YUMMI한국의 무역관리 시스템YUMMI세계 경제 및 글로벌 무역의 이해YUMMI중간고사YUMMI글로벌 무역 운송 루트YUMMIWTO와 한국 무역YUMMIFTA와 한국 무역YUMMIFDI와 한국 무역YUMMI한국의 주요 수출시장 이해 I - 팀프로젝트YUMMI한국의 주요 수출시장 이해 II - 팀프로젝트YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "한국무역론 한국의 경제성장과 무역의 상관관계, 한국 무역의 역사, 한국 정부의 무역 및 산업 정책 변화 과정, 한국 무역 관련 주요 기관 및 기능, 한국 무역 관련 주요 법률 고찰 및 한국 무역에 영향을 미치는 글로벌 무역 환경과 최근 주요 이슈 등을 분석 연구하여 궁극적으로 한국 및 세계 무역 환경과 그에 관련된 주요 이슈에 대한 분석 연구 능력을 제고코자 함 ",
+            "similarity": 0.40183243921479544
+        }
+    ]
+}

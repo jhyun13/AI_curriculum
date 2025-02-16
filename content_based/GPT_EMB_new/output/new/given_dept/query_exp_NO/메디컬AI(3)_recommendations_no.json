@@ -1,0 +1,376 @@
+{
+    "meta_info": {
+        "user_query": "병원 내 대규모 의료 데이터를 효율적으로 저장·관리하고, 환자 데이터 보안을 강화하는 시스템을 구축하려면 어떤 학습이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": [
+            "바이오메디컬공학부",
+            "컴퓨터인공지능학부"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3796,
+            "name": "C++프로그래밍",
+            "description": "- C++ 언어의 기본 문법과 활용에 대해 학습한다. \n- 객체지향 프로그래밍의 원리를 이해하고 객체지향 개념을 적절히 활용하여 프로그램을 구현할 수 있다.\n- 다양한 문제를 해결하는 프로그래밍 실습을 통해 문제 해결 능력을 키우고 효율적인 C++ 프로그램 구현 능력을 배양한다.",
+            "curriculum": "강의소개\nC++의 개요YUMMIC++ 프로그래밍의 기본-1YUMMIC++ 프로그래밍의 기본-2YUMMI클래스의 기본YUMMI클래스의 주요 개념YUMMI복사 생성자YUMMI상속의 이해YUMMI중간고사YUMMI상속과 다형성YUMMI연산자 오버로딩-1YUMMI연산자 오버로딩-2YUMMIString 클래스YUMMI템플릿-1YUMMI템플릿-2\n예외처리YUMMI기말고사YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "C++프로그래밍 - C++ 언어의 기본 문법과 활용에 대해 학습한다. \n- 객체지향 프로그래밍의 원리를 이해하고 객체지향 개념을 적절히 활용하여 프로그램을 구현할 수 있다.\n- 다양한 문제를 해결하는 프로그래밍 실습을 통해 문제 해결 능력을 키우고 효율적인 C++ 프로그램 구현 능력을 배양한다.",
+            "similarity": 0.22597858224178446
+        },
+        {
+            "id": 2729,
+            "name": "이산수학",
+            "description": "이산 수학의 이론을 디지털 컴퓨터의 기능을 이용할 수 있는 형태로 재구성하고, 역으로 전산 분야에서의 여러 이론들을 수학이란 언어로 정리하는 방법론을 공부한다.",
+            "curriculum": "이산수학 이 무엇인가를 총체적으로 이해하기YUMMI논리와 명제 및 추론에 대한 이해YUMMI집합과 수의 체계에 대한 이해YUMMI증명방법과 활용YUMMI관계와 응용YUMMI함수 정의와 종류YUMMI그래프와 활용YUMMI중간고사YUMMI트리와 활용 및 관련된 문제YUMMI순열, 이산적 확률 모델 및 재귀모델과 이들의 활용YUMMI부울대수와 논리회로 이해YUMMI알고리즘 분석 방법, 정렬 및 탐색YUMMI오토마타의 이해YUMMI전체 심화복습YUMMI기말고사YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "이산수학 이산 수학의 이론을 디지털 컴퓨터의 기능을 이용할 수 있는 형태로 재구성하고, 역으로 전산 분야에서의 여러 이론들을 수학이란 언어로 정리하는 방법론을 공부한다.",
+            "similarity": 0.22309249032077078
+        },
+        {
+            "id": 3094,
+            "name": "컴퓨터공학총론",
+            "description": "컴퓨터공학을 전공하는 학생이 4년 동안 배워야 할 내용을 주제 별로 구분하여 소개하고 그들 간의 관계를 이해하도록 한다. 또한 컴퓨터 공학의 최근 동향, 특히 인공지능 분야를 파악하고 그 흐름을 따라갈 동기와 공부하는 자세를 갖추도록 한다. 프로그래밍의 중요성을 강조하며, 코딩의 즐거움을 아는 컴퓨터공학자로 성장할 수 있는 길을 안내한다.",
+            "curriculum": "강의 소개, 컴퓨터과학 소개YUMMI데이터 표현과 디지털 논리YUMMI컴퓨터구조YUMMI컴퓨터구조YUMMI운영체제YUMMI컴퓨터공학 최신 기술 동향YUMMI프로그래밍 언어YUMMI중간고사YUMMI자료구조YUMMI컴퓨터공학 추세YUMMI알고리즘YUMMI데이터베이스YUMMI네트워크와 인터넷YUMMI보안과 암호화YUMMI기말고사YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "컴퓨터공학총론 컴퓨터공학을 전공하는 학생이 4년 동안 배워야 할 내용을 주제 별로 구분하여 소개하고 그들 간의 관계를 이해하도록 한다. 또한 컴퓨터 공학의 최근 동향, 특히 인공지능 분야를 파악하고 그 흐름을 따라갈 동기와 공부하는 자세를 갖추도록 한다. 프로그래밍의 중요성을 강조하며, 코딩의 즐거움을 아는 컴퓨터공학자로 성장할 수 있는 길을 안내한다.",
+            "similarity": 0.20632063886178942
+        },
+        {
+            "id": 302,
+            "name": "데이터기반헬스케어기술 1",
+            "description": "Two semester course- Students will learn how to use R for analysis of real data. R is one of the widely used open-source, clear, and extendible data science tools. Topics include base R; interactive processing; and data visualization with R. ",
+            "curriculum": "Chapter 01 데이터 과학 알아보기\nYUMMIChapter 02 데이터 과학으로 풍덩\nYUMMIChapter 03 R의 데이터형과 연산\nYUMMIChapter 04 데이터 취득과 정제\nYUMMIChapter 05 데이터 가공\nYUMMIChapter 06 데이터 시각화\nYUMMIQuizYUMMI중간 시험YUMMIChapter 07 모델링과 예측 : 선형 회귀\nYUMMIChapter 08 일반화 선형 모델\nYUMMIChapter 09 분류를 위한 모델\nYUMMIChapter 10 모델의 성능 평가\nYUMMIChapter 11 텍스트 마이닝\nYUMMIChapter 12 구글 플레이 스토어 앱 데이터를 이용한 실전 프로젝트\nYUMMI기말 시험YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "데이터기반헬스케어기술 1 Two semester course- Students will learn how to use R for analysis of real data. R is one of the widely used open-source, clear, and extendible data science tools. Topics include base R; interactive processing; and data visualization with R. ",
+            "similarity": 0.4669306968839723
+        },
+        {
+            "id": 1537,
+            "name": "확률통계학",
+            "description": "복잡한 현실세계의 자료와 정보에 대한 분석능력은 공학도에게 필수적이다. 다양한 자료에 대한 여러가지 통계이른을 학습하여 정확한 자료 분석 및 활용 능력을 습득하고자 한다.",
+            "curriculum": "- 과목 오리엔테이션(수업 목표 및 내용 소개)\n- 과목에 대한 기초 지식\n- 강의에 대한 전반적인 정보 전달YUMMI자료의 정리 방법YUMMI자료의 통계적 측도YUMMI확률YUMMI확률 분포YUMMI이산형 확률 분포YUMMI연속형 확률 분포YUMMI중간고사YUMMI표본분포YUMMI통계적 추정(1)YUMMI통계적 추정(2)YUMMI통계적 가설 검정 (1)YUMMI통계적 가설 검정 (2)YUMMI범주형자료YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "확률통계학 복잡한 현실세계의 자료와 정보에 대한 분석능력은 공학도에게 필수적이다. 다양한 자료에 대한 여러가지 통계이른을 학습하여 정확한 자료 분석 및 활용 능력을 습득하고자 한다.",
+            "similarity": 0.35262844221267703
+        },
+        {
+            "id": 764,
+            "name": "자료구조",
+            "description": "1. 컴퓨터공학에서 효율적인 프로그램 작성을 위한 적합한 자료 구조를 선택할 수 있는 능력 함양\n2. 컴퓨터공학에서 주로 활용하는 여러 자료구조(배열, 리스트, 스택, 큐, 트리, 그래프 등)에 대한 이해 증진\n3. 컴퓨터공학에서 주로 활용하는 여러 자료구조를 다양한 언어(C++ 및 Python)를 활용하여 구현할 수 있는 능력 함양",
+            "curriculum": "자료구조와 알고리즘에 대한 이해YUMMI배열과 클래스YUMMI스택 (Stack)YUMMI큐 (Queue)YUMMI포인터와 연결리스트YUMMI리스트 및 정렬 1YUMMI리스트 및 정렬 2YUMMI중간고사YUMMI트리YUMMI이진탐색트리YUMMI우선순위 큐, 힙YUMMI그래프YUMMI그래프YUMMI응용 자료구조YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "자료구조 1. 컴퓨터공학에서 효율적인 프로그램 작성을 위한 적합한 자료 구조를 선택할 수 있는 능력 함양\n2. 컴퓨터공학에서 주로 활용하는 여러 자료구조(배열, 리스트, 스택, 큐, 트리, 그래프 등)에 대한 이해 증진\n3. 컴퓨터공학에서 주로 활용하는 여러 자료구조를 다양한 언어(C++ 및 Python)를 활용하여 구현할 수 있는 능력 함양",
+            "similarity": 0.33186859558833565
+        },
+        {
+            "id": 1773,
+            "name": "인체해부생리학",
+            "description": "바이오메디컬공학 전공자들이 알아야 할 인체해부생리학의 기초 지식을 습득하여 생체재료, 생체역학 및 바이오머신 등 바이오 공학 관련 학문을 이해하는 능력을 배양하고자 한다.",
+            "curriculum": "교과서 및 수업방식 소개\n해부학의 역사와 용어 YUMMI제1장. 서론\n1.해부학적 자세와 방향에 관한 용어, 인체의 면을 이해한다.\n2. 인체의 구조적 구성단계의 6가지 수준에 대해 설명하고, 인체의 주요 영역을 확인하다.YUMMI제2장. 세포와 조직\n1. 세포의 구조와 기능을 이해한다\n2. 4가지 종류의 조직을 구분하고, 각 조직의 구조와 기능을 이해한다.YUMMI제3장. 뼈대계통\n1. 뼈대계통을 정의한다.\n2. 뼈의 일반적 구조를 이해하고, 사람의 뼈를 모양별로 분류한다.YUMMI제4장. 관절계통\n1. 관절의 분류와 특징을 이해한다.YUMMI제5장. 근육계통\n1. 근육계통을 정의한다.\n2. 근육을 분류하고 뼈대근육을 싸고 있는 막을 이해한다.YUMMI제6장. 신경계통\n1. 중추신경계와 말초신경계를 구분하여 이해한다.\n2. 신경계통의 총론적 개념을 이해한다 YUMMI중간고사YUMMI제7장. 특수감각, 제8장 피부계통\n1. 특수감각기관의 특징과 각각의 특수감각기관의 구조와 기능을 이해한다.\n2. 피부의 층들을 나영하고, 세포들이 표면으로 밀려올라오면서 나타나는 변화를 설명한다.\n3.？피부밑조직의？구조와？기능을？설명한다.YUMMI제9장. 순환계통, 제 10장 림프계통\n1. 심장혈관계통과 림프계통을 각각 정의한다.\n2. 동정맥연결과 끝동맥을 이해한다.\n3.？림프계통의？해부학？구조와？기능을？이해한다.YUMMI제11장. 호흡계통\n1. 호흡기계통을 정의한다.\n2. 각 장기의 구조와 기능을 이해한다.YUMMI제 12장 소화계통\n1. 소화계통을？정의한다.\n2. 소화관과 부속기관의 구조와 기능을 이해한다.YUMMI제13장. 비뇨계통\n1. 비뇨기계통을 정의하고, 비뇨기계통을 구성하는 기관의 구조와 기능을 이해한다.YUMMI제14장. 생식계통\n1.생식계통을 정의하고, 생식계통을 구성하는 기관의 구조와 기능을 이해한다.\n제15장. 내분비계통\n1.？내분비계통을？정의하고,？내분비계통통을？구성하는？기관의？구조와？기능을？이해한다.YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "인체해부생리학 바이오메디컬공학 전공자들이 알아야 할 인체해부생리학의 기초 지식을 습득하여 생체재료, 생체역학 및 바이오머신 등 바이오 공학 관련 학문을 이해하는 능력을 배양하고자 한다.",
+            "similarity": 0.31834955227885936
+        },
+        {
+            "id": 929,
+            "name": "생체역학 1",
+            "description": " 생체역학의 이론적 접급을 위한 거의 모든 기초 역학 이론을 학습하고, 적절한 인체 적용 예제들을 통하여 생체역학적 기술을 습득한다.",
+            "curriculum": "생체역학 기술동향 소개YUMMII생체역학의 개요YUMMI뼈의 생체역학YUMMI관절연골의 생체역학YUMMI건과 인대의 생체역학YUMMI말초신경과 척수신경근의 생체역학YUMMI골격근의 생체역학YUMMI슬관절의 생체역학 / 중간고사YUMMI고관절의 생체역학YUMMI발과 발목의 생체역학YUMMI요추의 생체역학YUMMI경추의 생체역학YUMMI어께의 생체역학YUMMI주관절의 생체역학YUMMI손과 손목의 생체역학  /  기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "생체역학 1  생체역학의 이론적 접급을 위한 거의 모든 기초 역학 이론을 학습하고, 적절한 인체 적용 예제들을 통하여 생체역학적 기술을 습득한다.",
+            "similarity": 0.2902081809117587
+        },
+        {
+            "id": 4307,
+            "name": "데이터기반헬스케어기술 2",
+            "description": "데이터 과학에 사용되는 수학 및 통계의 기본 개념들을 이해하고, 의미를 정리한다. \n",
+            "curriculum": "강의 소개YUMMI탐색적 데이터 분석YUMMI데이터와 표본 분포\nYUMMI심화 및 보충 실습YUMMI통계적 실험과 유의성 검정-1YUMMI통계적 실험과 유의성 검정-2YUMMI중간 고사YUMMI회귀와 예측- 1YUMMI회귀와 예측- 2YUMMI분류-1YUMMI분류-2YUMMI통계적 머신러닝-1YUMMI통계적 머신러닝-2YUMMI비지도학습YUMMI기말 고사기말 고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "데이터기반헬스케어기술 2 데이터 과학에 사용되는 수학 및 통계의 기본 개념들을 이해하고, 의미를 정리한다. \n",
+            "similarity": 0.4608926989404709
+        },
+        {
+            "id": 4505,
+            "name": "데이터베이스",
+            "description": "데이터베이스는 정보화 사회의 필수 기반이다. 정보화 사회에 대비한 기본적인 전산 활용 능력을 배양하기 위하여 데이터베이스의 기초 지식과 더불어 데이터베이스의 구축 및 관리, 활용에 대한 전반적인 이론을 배움으로써 정보처리 기술 및 정보 활용능력을 함양한다",
+            "curriculum": "과목 오리엔테이션YUMMI정보환경에 대한 이해YUMMI데이터베이스 개념 파악YUMMI데이터베이스 관리 시스템 이해YUMMI데이터베이스 시스템의 구성 이해YUMMI데이터 모델링 이해YUMMI데이터베이스의 저장과 접근 이해YUMMI중간고사YUMMI관계 데이터 구조 이해YUMMI관계 데이터 제약 이해YUMMI관계 데이터 연산 이해YUMMISQL 이해YUMMI데이터 종속성과 정규화 이해YUMMI데이터베이스 설계 이해YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "데이터베이스 데이터베이스는 정보화 사회의 필수 기반이다. 정보화 사회에 대비한 기본적인 전산 활용 능력을 배양하기 위하여 데이터베이스의 기초 지식과 더불어 데이터베이스의 구축 및 관리, 활용에 대한 전반적인 이론을 배움으로써 정보처리 기술 및 정보 활용능력을 함양한다",
+            "similarity": 0.4092497296607673
+        },
+        {
+            "id": 3065,
+            "name": "임상의학개론",
+            "description": "임상의학의 기본적인 어원과 형성과정, 의학지식학습을 목표로 한다.",
+            "curriculum": "임학의학 개론 I YUMMI임학의학 개론 IIYUMMI고대 의학문명YUMMI고대 의학적 이론 1YUMMI고대 의학적 이론 2YUMMI생리적 이론의 역사YUMMI중세의학YUMMI중간고사YUMMI세계사적 의학 발전과정 1YUMMI세계사적 의학 발전과정 2YUMMI의과대학의 체계적 시작과 교과과정YUMMI외과의 시작YUMMI인체 기능의 발견 및 증명YUMMI기초과학과 의학의 융합YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "임상의학개론 임상의학의 기본적인 어원과 형성과정, 의학지식학습을 목표로 한다.",
+            "similarity": 0.39702667448855933
+        },
+        {
+            "id": 4094,
+            "name": "알고리즘",
+            "description": "Computer science에서 자주 활용되는 알고리즘을 학습하는 것을 최 우선적으로 목표로 함.\n이를 바탕으로, 학생들이 학습한 알고리즘을 활용하여 문제를 풀 수 있는 사고력을 기를 수 있도록 함.\n단순히 알고리즘 코드 암기가 아닌, 상황에 맞는 알고리즘을 떠올리고 적절한 자료구조를 활용하여 문제를 해결할 수 있는 사고력을 기르는 것을 목표로 함.",
+            "curriculum": "알고리즘 개요에 대한 학습YUMMI기본적인 알고리즘에 대한 학습YUMMI그래프 및 탐색 알고리즘에 대한 학습YUMMI탐색 알고리즘에 대한 학습YUMMI탐색 알고리즘에 대한 학습YUMMI최단 경로 탐색 알고리즘YUMMI최소 비용 경로 탐색 알고리즘YUMMI알고리즘 및 동적 계획법YUMMI알고리즘 및 동적 계획법YUMMI알고리즘과 분할정복YUMMI휴리스틱 알고리즘YUMMI수열 알고리즘YUMMI문자열 알고리즘YUMMI트리와 알고리즘YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "알고리즘 Computer science에서 자주 활용되는 알고리즘을 학습하는 것을 최 우선적으로 목표로 함.\n이를 바탕으로, 학생들이 학습한 알고리즘을 활용하여 문제를 풀 수 있는 사고력을 기를 수 있도록 함.\n단순히 알고리즘 코드 암기가 아닌, 상황에 맞는 알고리즘을 떠올리고 적절한 자료구조를 활용하여 문제를 해결할 수 있는 사고력을 기르는 것을 목표로 함.",
+            "similarity": 0.2864908154601718
+        },
+        {
+            "id": 4679,
+            "name": "분자생물학",
+            "description": "생명현상의 이해에 꼭 필요한 분자수준에서의 유전 및 유전자 산물의 활성에 관한 개괄적인 내용을 학습함으로써 전공 분야에 필요한 생물학 지식과 다양한 데이터를 통합적인 관점으로 분석할 수 있는 기술을 습득한다.",
+            "curriculum": "오리엔테이션YUMMI분자 생물학의 개요 파악YUMMI생물과 그 구성성분의 이해YUMMI생물과 그 구성성분의 이해YUMMI핵산에 대한 이해YUMMI핵산에 대한 이해YUMMI복제와 전사에 대한 이해YUMMI중간고사YUMMIRNA에 대한 이해YUMMI유전암호와 해석에 대한 이해YUMMI유전자 발현의 조절과 돌연변이에 대한 이해YUMMI유전자 요법에 대한 이해YUMMI유전자 요법에 대한 이해YUMMI생명공학 및 생명정보학에 대한 이해YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "분자생물학 생명현상의 이해에 꼭 필요한 분자수준에서의 유전 및 유전자 산물의 활성에 관한 개괄적인 내용을 학습함으로써 전공 분야에 필요한 생물학 지식과 다양한 데이터를 통합적인 관점으로 분석할 수 있는 기술을 습득한다.",
+            "similarity": 0.28642570580647625
+        },
+        {
+            "id": 1183,
+            "name": "데이터베이스",
+            "description": "- 데이터를 저장하고 검색하기 위한 기본적인 시스템으로 널리 활용되고 데이터베이스 시스템에 대한 기본 개념과 데이터베이스를 운영하는 데이터베이스 관리시스템(DBMS), 데이터베이스 모델링, 데이터베이스 질의어 등을 학습한다. 또한, 데이터베이스 관리시스템(DBMS)의 핵심 이론인 트랜잭션 관리와 동시성 제어 및 회복 기법에 관해서 학습한다. \n- 본 과목은 데이터베이스를 개념적 관점과 물리적 관점에서 설명하고, 데이터베이스를 운영하는 DBMS, 데이터 모델링, 질의어 등을 교육한다. \n- 구체적인 내용으로는 데이터베이스 구조, 데이터 모델링, 관계 데이터 모델, SQL 등이 있다. 또한, DBMS의 동작 메카니즘을 트랜잭션, 동시성 제어, 회복에 대해 이론적 기반을 교육한다.\n- 정보처리기사 자격증 취득을 위해 데이터베이스 과목의 출제유형, 기출문제 등을 매주 소수의 문제를 함께 풀어봄으로써 시험에 대비할 수 있도록 한다.",
+            "curriculum": "1. 과목 및 수업방향에 대해 이해한다.\n2. 정보처리기사 자격증 시험에서의 데이터베이스 출제경향을 알수 있다.YUMMI-데이터와 정보의 차이를 이해한다.\n-데이터베이스의 필요성을 알아본다.\n-데이터베이스의 정의에 숨겨진 의미와 주요 특징을 이해한다.\n-형태와 특성에 따른 데이터 분류 방법을 알아본다.\nYUMMI-파일 시스템의 문제점과 데이터베이스 관리 시스템의 필요성을 알아본다.\n-데이터베이스 관리 시스템의 필수 기능을 살펴본다.\n-데이터베이스 관리 시스템의 장단점을 알아본다.\n-데이터베이스 관리 시스템의 발전 과정을 살펴본다.\nYUMMI-데이터베이스, 데이터베이스 관리 시스템, -데이터베이스 시스템의 차이를 이해한다.\n-데이터베이스 시스템의 구성 요소를 살펴본다.\n-데이터베이스 3단계 구조에서 데이터 독립성의 개념을 실현하는 방법을 이해한다.\n-데이터 언어별 특징을 알아본다.\n-데이터베이스 사용자별 특징을 알아본다.\n-데이터베이스 관리 시스템의 구성을 알아본다.\nYUMMI-데이터 모델링과 데이터 모델의 개념을 이해한다.\n-개념적 데이터 모델인 개체-관계 모델을 이용해 모델링하는 방법을 익힌다.\n-개체-관계 다이어그램을 작성하는 방법을 익힌다.\n-논리적 데이터 모델의 종류와 특징을 이해한다.\nYUMMI-관계 데이터 모델의 기본 용어를 익힌다.\n-릴레이션을 구성하는 요소와 특성을 이해한다.\n-릴레이션에서 키의 역할과 종류를 알아본다.\n-무결성 제약의 의미와 필요성을 이해한다.YUMMI-관계 데이터 연산의 개념과 종류를 알아본다.\n-일반 집합 연산자와 순수 관계 연산자의 차이를 이해한다.\n-일반 집합 연산자와 순수 관계 연산자를 이용해 질의를 표현하는 방법을 익힌다.\n-관계 해석의 개념을 간단히 정리해본다.\nYUMMI중간고사YUMMI-SQL의 역할을 이해하고, 이를 기능별로 분류해본다.\n-SQL의 데이터 정의 기능을 예제를 통해 익힌다.\nYUMMI-SQL의 데이터 조작 기능을 예제를 통해 익힌다.\n-뷰의 개념과 장점을 이해한다.\n-삽입 SQL의 역할을 이해한다.YUMMI-데이터베이스 설계의 중요성과 목표를 이해한다.\n-데이터베이스 설계 5단계를 학습한다.\n-요구사항 분석, 개념적 설계, 논리적 설계의 과정을 실제 예를 통해 연습해본다.\nYUMMI-정규화의 필요성과 이상 현상의 의미를 이해한다.\n-정규화를 수행하기 위해 함수 종속성의 개념을 이해한다.\n-정규형의 유형과 관계를 이해하고, 실제 예를 통해 정규화 과정을 연습해본다.\nYUMMI-병행 제어와 회복 작업의 기본 단위인 트랜잭션의 개념을 이해한다.\n-데이터베이스를 장애로부터 복구하는 다양한 회복 기법을 익힌다.\n-여러 사용자가 동시에 접근할 수 있도록 트랜잭션 수행을 통제하는 병행 제어 기법을 익힌다.\nYUMMI-데이터베이스 보안의 개념과 유형을 이해한다.\n-권한을 부여하고 부여한 권한을 취소하는 방법을 익힌다.\n-역할의 개념과 필요성을 이해한다.\n-역할을 이용해 권한 관리를 수행하는 방법을 익힌다.YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "데이터베이스 - 데이터를 저장하고 검색하기 위한 기본적인 시스템으로 널리 활용되고 데이터베이스 시스템에 대한 기본 개념과 데이터베이스를 운영하는 데이터베이스 관리시스템(DBMS), 데이터베이스 모델링, 데이터베이스 질의어 등을 학습한다. 또한, 데이터베이스 관리시스템(DBMS)의 핵심 이론인 트랜잭션 관리와 동시성 제어 및 회복 기법에 관해서 학습한다. \n- 본 과목은 데이터베이스를 개념적 관점과 물리적 관점에서 설명하고, 데이터베이스를 운영하는 DBMS, 데이터 모델링, 질의어 등을 교육한다. \n- 구체적인 내용으로는 데이터베이스 구조, 데이터 모델링, 관계 데이터 모델, SQL 등이 있다. 또한, DBMS의 동작 메카니즘을 트랜잭션, 동시성 제어, 회복에 대해 이론적 기반을 교육한다.\n- 정보처리기사 자격증 취득을 위해 데이터베이스 과목의 출제유형, 기출문제 등을 매주 소수의 문제를 함께 풀어봄으로써 시험에 대비할 수 있도록 한다.",
+            "similarity": 0.42289569107833286
+        },
+        {
+            "id": 2044,
+            "name": "데이터베이스및실습",
+            "description": "데이터베이스의 주요 개념과 원리를 이해하고 예제 중심으로 SQL, 데이터 모델링, 데이터베이스 프로그래밍 등을 실습함으로써 데이터베이스 구축 및 활용 능력을 함양한다.\n",
+            "curriculum": "강의 소개YUMMI데이터베이스 시스템의 개요YUMMI관계 데이터 모델(1)YUMMI관계 데이터 모델(2)YUMMISQL 기초(1)YUMMISQL 기초(2)YUMMISQL 고급YUMMI중간고사YUMMI데이터베이스 응용YUMMI데이터베이스 모델링YUMMI정규화YUMMI트랜잭션, 동시성 제어, 회복(1)YUMMI트랜잭션, 동시성 제어, 회복(2)YUMMI보안과 권한, 백업과 복원YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "데이터베이스및실습 데이터베이스의 주요 개념과 원리를 이해하고 예제 중심으로 SQL, 데이터 모델링, 데이터베이스 프로그래밍 등을 실습함으로써 데이터베이스 구축 및 활용 능력을 함양한다.\n",
+            "similarity": 0.40674764658269935
+        },
+        {
+            "id": 283,
+            "name": "의료기기학 1",
+            "description": "다양한 의료기기들에 대해 정확한 원리를 학습하며, 의학적 지식을 적용하고 계측할 대상에 따라 어떻게 의료기기를 활용하는지에 대하여 학습한다.",
+            "curriculum": "의료기기학 개론 1YUMMI의료기기학 개론 2YUMMI의료에서의 초음파 이용 YUMMI의료영상 시스템 YUMMI진단 관련 장비이론 1YUMMI진단 관련 장비이론 2   YUMMI치료 관련 및 기타 장비이론 1\n치료 관련 및 기타 장비이론 2YUMMI중간고사YUMMI방사선 및 임상 관련 장비 YUMMI내분비 관련 장비 YUMMI임상 관련 장비 YUMMI마취 및 수술 관련 장비 YUMMI물리치료장비 및 개인용구 YUMMI피부, 미용 및 비만 관련 장비, 병원설비 및 응급장비 YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "의료기기학 1 다양한 의료기기들에 대해 정확한 원리를 학습하며, 의학적 지식을 적용하고 계측할 대상에 따라 어떻게 의료기기를 활용하는지에 대하여 학습한다.",
+            "similarity": 0.37094898209726057
+        },
+        {
+            "id": 1715,
+            "name": "암호론",
+            "description": "암호학의 주요 이론을 학습한다. 정보보안 전문적 소양을 함양하기 위해서 필요한 암호학의 기본 원리를 이해하고, 배경지식을 학습하여 정보화사회에서 초래되고 있는 정보침해 역기능에 대해서 효과적으로 대처하는 능력을 갖추는 것을 목표로 한다. ",
+            "curriculum": "강좌 소개 (Course overview)\n정보보안 및 암호학의 개념 소개 (Introduction to information security and cryptography)YUMMI고전 암호 (Classical encryption algorithms)YUMMI대칭키 암호 I - DES (Symmetric encryption I - DES)YUMMI대칭키 암호 II - AES (Symmetric encryption II - AES)YUMMI대칭키 암호 III - 블록암호 운용 방식 및 스트림 암호 (Symmetric encryption III - Modes of operations & stream cipher)YUMMI해시함수와 메시지 인증코드 (Hash function and message authentication codes)YUMMI공개키 암호 I - Diffie-Hellman 키 교환 및 ElGamal 암호) (Public key encryption II - Diffie-Hellman key exchange and ElGamal encryption)YUMMI중간고사 (Mid-term Exam)YUMMI공개키 암호 II - RSA 암호 (Public-key encryption I -  RSA encryption)YUMMI 디지털 서명과 타원곡선 암호 (Digital signature and elliptic curve cryptography)YUMMIShor AlgorithmYUMMI동형암호 (homomorphic encryption)YUMMI영지식 증명 (Zero-knowledge proof)YUMMI초청강연: 블록체인, (Invited talk: Blockchain)YUMMI기말고사 (Final exam)YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "암호론 암호학의 주요 이론을 학습한다. 정보보안 전문적 소양을 함양하기 위해서 필요한 암호학의 기본 원리를 이해하고, 배경지식을 학습하여 정보화사회에서 초래되고 있는 정보침해 역기능에 대해서 효과적으로 대처하는 능력을 갖추는 것을 목표로 한다. ",
+            "similarity": 0.34123927624921624
+        },
+        {
+            "id": 336,
+            "name": "생체계측및실험 1",
+            "description": "- 인체에서 발생되는 다양한 해부, 생리적 현상을 정량적으로 파악하기 위한 이론 및 기술 습득.\n- 생체신호 측정 장비 및 임상에서 사용되고 있는 의료기기의 원리, 구성과 쓰임에 대한 이해를 통해, 개발에 관련된 연구를 수행할 수 있는 지식을 습득.",
+            "curriculum": "- 강의개요\n : 이론 및 실험 내용 소개YUMMI- 생체계측 기본개념 01\n : 인체 구성 시스템, 시스템 주요 기능YUMMI- 생체계측 기본개념 02YUMMI- 인체의 개요YUMMI- 심장과 순환계 01YUMMI- 심장과 순환계 02YUMMI- 생체전위 측정용 전극YUMMI- 의료용 센서 01YUMMI중간시험 YUMMI의료용 센서 02YUMMI-심전계 01YUMMI-심전계 02YUMMI-생리학적 압력 측정 01YUMMI-생리학적 압력 측정 02YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "생체계측및실험 1 - 인체에서 발생되는 다양한 해부, 생리적 현상을 정량적으로 파악하기 위한 이론 및 기술 습득.\n- 생체신호 측정 장비 및 임상에서 사용되고 있는 의료기기의 원리, 구성과 쓰임에 대한 이해를 통해, 개발에 관련된 연구를 수행할 수 있는 지식을 습득.",
+            "similarity": 0.33574113062860134
+        },
+        {
+            "id": 3166,
+            "name": "데이터마이닝",
+            "description": "1. 대규모로 저장된 데이터안에서 체계적으로 정보를 분석하는 과정과 이론에 대한 학습\n2. 산업현장에서 활용되는 다양한 주제의 문제와 알고리즘을 학습하며 구체적으로는 finding similar items, mining frequent itemsets, clustering, dimensionality reduction, web advertising, link analysis, recommender systems, regression, classification, decision tree, time series prediction 등을 공부\n3. 실질적인 데이터마이닝 활용 능력을 키우기 위해 Python 언어를 활용한 데이터마이닝 알고리즘 구현 및 데이터 분석\n4. This syllabus may change depending on situation.",
+            "curriculum": "IntroductionYUMMIFrequent ItemsetsYUMMIFrequent ItemsetsYUMMIFinding Similar Items I YUMMIFinding Similar Items IIYUMMIClusteringYUMMICommunity Detection in GraphsYUMMI중간고사YUMMIDimensionality ReductionYUMMIPageRankYUMMIRecommender Systems - 1YUMMIRecommender Systems - 2YUMMIMining Data Stream IYUMMIMapReduce and SparkYUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "데이터마이닝 1. 대규모로 저장된 데이터안에서 체계적으로 정보를 분석하는 과정과 이론에 대한 학습\n2. 산업현장에서 활용되는 다양한 주제의 문제와 알고리즘을 학습하며 구체적으로는 finding similar items, mining frequent itemsets, clustering, dimensionality reduction, web advertising, link analysis, recommender systems, regression, classification, decision tree, time series prediction 등을 공부\n3. 실질적인 데이터마이닝 활용 능력을 키우기 위해 Python 언어를 활용한 데이터마이닝 알고리즘 구현 및 데이터 분석\n4. This syllabus may change depending on situation.",
+            "similarity": 0.3922996089840747
+        },
+        {
+            "id": 3734,
+            "name": "클라우드컴퓨팅",
+            "description": "가상화 기술 및 클라우드를 기반으로 하는 응용 구현에 대한 내용 습득",
+            "curriculum": "수업 소개YUMMI클라우드 컴퓨팅 개념 및 관련 기술YUMMI가상 서버 자원 및 AWS 연계YUMMIAWS 스토리지 만들기YUMMIAWS VPC 사용하기 1YUMMIAWS VPC 사용하기 2YUMMIAWS 데이터베이스YUMMI중간고사YUMMIAWS 로드밸런싱YUMMIAWS 오토스케일링YUMMIAWS 가용성YUMMIAWS 람다YUMMI팀 프로젝트 진행 1YUMMI팀 프로젝트 진행 2YUMMI팀 프로젝트 발표YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "클라우드컴퓨팅 가상화 기술 및 클라우드를 기반으로 하는 응용 구현에 대한 내용 습득",
+            "similarity": 0.3714277620276508
+        },
+        {
+            "id": 3788,
+            "name": "의료기기학 2",
+            "description": "생체신호의 기본적인 발생 원리를 학습하고 그 신호를 추출하여 의료기기로 활용하는 디바이스와 장치에 대하여 학습하는 것을 목표로 한다.",
+            "curriculum": "의료기기학 1 ReviewYUMMI생체신호의 기본 발생원리 1YUMMI생체신호의 기본 발생원리 2YUMMI생체신호 측정 디바이스의 기본원리 1YUMMI생체신호 측정 디바이스의 기본원리 2YUMMI디바이스를 이용하여 생체신호를 측정하는 방법 1YUMMI디바이스를 이용하여 생체신호를 측정하는 방법 2YUMMI중간고사YUMMI근전도 1, 근전도 2\n\nYUMMI심전도 1, 심전도 2\n\nYUMMI심음도 1, 심음도 2\n\nYUMMI\n\n뇌전도, 망막전도, 안구전도\n\nYUMMI소형 의료기기의 기본원리와 응용YUMMI대형 의료기기의 기본원리와 응용YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "의료기기학 2 생체신호의 기본적인 발생 원리를 학습하고 그 신호를 추출하여 의료기기로 활용하는 디바이스와 장치에 대하여 학습하는 것을 목표로 한다.",
+            "similarity": 0.35648639636908924
+        },
+        {
+            "id": 3995,
+            "name": "생명정보학",
+            "description": "생명 현상의 이해에 필요한 분자 생물학적 기본 지식과, 이에 기반한 생명 정보의 다양한 분석 기술등을 배움으로써 생명공학 및 의공학 분야의 각종 문제 해결능력과 생명 정보 처리 능력을 배양함에 있다.",
+            "curriculum": "과목 오리엔테이션YUMMI바이오 정보학의 개요 파악YUMMI세포에 대한 이해YUMMI기초 생화학 이해YUMMI분자생물학 이해YUMMI유전자 발현에 대한 이해YUMMIDNA 기술에 대한 이해YUMMI중간고사YUMMIPROTEIN 기술에 대한 이해YUMMIPROTEIN 기술에 대한 이해YUMMI데이터베이스와 데이터 마이닝에 대한 이해YUMMI바이오 데이터베이스에 대한 이해YUMMI인공지능 개요 이해YUMMI지능학습이론에 대한 이해YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "생명정보학 생명 현상의 이해에 필요한 분자 생물학적 기본 지식과, 이에 기반한 생명 정보의 다양한 분석 기술등을 배움으로써 생명공학 및 의공학 분야의 각종 문제 해결능력과 생명 정보 처리 능력을 배양함에 있다.",
+            "similarity": 0.34208302689040426
+        },
+        {
+            "id": 4527,
+            "name": "의료영상 1",
+            "description": "생체 시료 정보 획득을 위한 다양한 Bio-imaging 기법의 종류 및 원리를 이해하는 것을 목표로 한다.",
+            "curriculum": "IntroductionYUMMIOptical microscopy(1)YUMMIOptical microscopy(2)YUMMIOptical microscopy(3)YUMMIOptical microscopy(4)YUMMIBright-field microscopy(1)YUMMIBright-field microscopy(2)YUMMI중간고사YUMMIFluorescence microscopy(1)YUMMIFluorescence microscopy(2)YUMMIFluorescence microscopy(3)YUMMIElectron microscopy(1)YUMMIElectron microscopy(2)YUMMI발표평가YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "의료영상 1 생체 시료 정보 획득을 위한 다양한 Bio-imaging 기법의 종류 및 원리를 이해하는 것을 목표로 한다.",
+            "similarity": 0.341205272829438
+        },
+        {
+            "id": 717,
+            "name": "병원정보시스템",
+            "description": "보건 의료 분야의 핵심인 병원 정보시스템은 의료 정보 시스템 중에서 가장 많이 가동되고 있다.\n본 과목에서는 병원정보시스템의 기능, 설계 계발, 도입 방법, 운용, 교육에 이르는 총체적이고 체계적인 지식을 습득하여 관련 분야의 전문 요원으로 활동 할 수 있는 능력을 함양함에 있다.",
+            "curriculum": "병원정보시스템 교과목 학습의 목적 및 과목 개요 설명YUMMI의료정보학, 의료정보 시스템, 병원정보 시스템의 정의YUMMI의료정보시스템과 데이터베이스YUMMI용어 및 분류체계YUMMI의학적 의사결정지원시스템YUMMI인터넷과 자료보안 및 보호YUMMI보건의료정보 표준화YUMMI중간고사YUMMI임상병리 정보시스템YUMMI의원급 종합 의료 정보시스템YUMMI병원경영정보시스템YUMMI약국관리시스템YUMMI인공지능 의료시스템YUMMI병원정보시스템 사례 연구YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "병원정보시스템 보건 의료 분야의 핵심인 병원 정보시스템은 의료 정보 시스템 중에서 가장 많이 가동되고 있다.\n본 과목에서는 병원정보시스템의 기능, 설계 계발, 도입 방법, 운용, 교육에 이르는 총체적이고 체계적인 지식을 습득하여 관련 분야의 전문 요원으로 활동 할 수 있는 능력을 함양함에 있다.",
+            "similarity": 0.4885479124323817
+        },
+        {
+            "id": 1428,
+            "name": "의료기기법규및안전관리",
+            "description": "의료기기법의 세부적인 사항에 대한 이해를 본 수업의 목표로 한다.",
+            "curriculum": "의료 안전 및 법규 개요YUMMI의료기기 전기 안전1YUMMI의료기기 전기 안전2YUMMI의료기기 전기 안전3YUMMI의료기기 기계적 안전YUMMI의료기기 생물학적 안전1YUMMI의료기기 생물학적 안전2YUMMI중간고사YUMMI의료기기 방사선 안전1YUMMI의료기기 방사선 안전2YUMMI의료가스 안전YUMMI보건의료법규의 이해YUMMI보건의료법규의 체계YUMMI보건의료법규 해설 및 의료기기 분류YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "의료기기법규및안전관리 의료기기법의 세부적인 사항에 대한 이해를 본 수업의 목표로 한다.",
+            "similarity": 0.3331596419674553
+        },
+        {
+            "id": 557,
+            "name": "의료영상 2",
+            "description": "의료 영상들에 대한 기본 원리 및 실제 적용 분야에 대한 이해를 목표로 한다.",
+            "curriculum": "의료영상 개론1YUMMI의료영상 개론2YUMMI방사선 영상1YUMMI방사선 영상2YUMMI방사선 영상3YUMMI핵의학 영상1YUMMI핵의학 영상2YUMMI중간고사YUMMI초음파 영상1YUMMI초음파 영상2YUMMI자기공명 영상1YUMMI자기공명 영상2YUMMI자기공명 영상3YUMMI자기공명 영상4YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "의료영상 2 의료 영상들에 대한 기본 원리 및 실제 적용 분야에 대한 이해를 목표로 한다.",
+            "similarity": 0.33175284378460357
+        },
+        {
+            "id": 2311,
+            "name": "임베디드시스템",
+            "description": "본 수업은 임베디드 시스템(내장형 시스템)의 내부 구성 요소와 그 동작 방법에 대한 기본 개념을 소개 하고 임베디드 시스템의 구동 및 제어 방법을 실습한다. 이를 위해 다양한 유형의 IoT 디바이스를 직접 개발 할 수 있는 초소형 컴퓨터인 라즈베리파이를 활용하여 다양한 센서와 액추에이터들을 직접 제어 할 수 있는 프로그래밍 기법을 익힌다. 이를 통해 임베디드 컴퓨팅에 대한 전반적인 이해 뿐만 아니라, 임베디드 컴퓨팅을 활용한 다양한 IoT 디바이스를 직접 제작할 수 있는 능력을 배양한다. \n강의 초반에는 임베디드 시스템의 주요 부분에 대한 개괄적인 내용을 습득하고, 이후 파이썬 언어에 대한 수업이 진행된다. 중간 고사 이후에는 라즈베리 파이를 이용하여 초음파 센서, 온도 센서 등 다양한 센서를 통해 현실세계의 데이터를 직접 입력 받아 이를 통해 액추에이터가 원하는 동작을 수행 할 수 있는 임베디드 프로그램을 직접 작성하고, 이를 이용하여 다양한 유형의 IoT 디바이스 제작 프로젝트를 수행한다.\n\n** 모든 수업 자료 및 공지사항은 LMS (https://ieilms.jbnu.ac.kr/)를 활용합니다.\n** J-Edutools  활용 예정 ",
+            "curriculum": "** 주차별 강의 내용과 일정은 상황에 따라 변경 될 수 있습니다. \n\n임베디드 시스템의 전체적인 내용과 기술 트렌드를 이해한다. YUMMI대표적인 임베디드 프로세서인 ARM을 이해한다. YUMMI라즈베라파이 보드의 특징과 구성을 이해한다YUMMI퀴즈YUMMI라즈베리파이의 개발 환경을 소개하고 개발 환경을 셋업한다.YUMMI라즈베리파이의 센서구성및 기초 회로구성을 이해한다.YUMMI라즈베리파이의 GPIO를 활용한 센서 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 GPIO를 활용한 센서 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 모터 및 그외 다양한 센서의 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 모터 및 그외 다양한 센서의 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 모터 및 그외 다양한 센서의 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 모터 및 그외 다양한 센서의 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMIProject 수행 YUMMIProject 수행 YUMMIProject 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "임베디드시스템 본 수업은 임베디드 시스템(내장형 시스템)의 내부 구성 요소와 그 동작 방법에 대한 기본 개념을 소개 하고 임베디드 시스템의 구동 및 제어 방법을 실습한다. 이를 위해 다양한 유형의 IoT 디바이스를 직접 개발 할 수 있는 초소형 컴퓨터인 라즈베리파이를 활용하여 다양한 센서와 액추에이터들을 직접 제어 할 수 있는 프로그래밍 기법을 익힌다. 이를 통해 임베디드 컴퓨팅에 대한 전반적인 이해 뿐만 아니라, 임베디드 컴퓨팅을 활용한 다양한 IoT 디바이스를 직접 제작할 수 있는 능력을 배양한다. \n강의 초반에는 임베디드 시스템의 주요 부분에 대한 개괄적인 내용을 습득하고, 이후 파이썬 언어에 대한 수업이 진행된다. 중간 고사 이후에는 라즈베리 파이를 이용하여 초음파 센서, 온도 센서 등 다양한 센서를 통해 현실세계의 데이터를 직접 입력 받아 이를 통해 액추에이터가 원하는 동작을 수행 할 수 있는 임베디드 프로그램을 직접 작성하고, 이를 이용하여 다양한 유형의 IoT 디바이스 제작 프로젝트를 수행한다.\n\n** 모든 수업 자료 및 공지사항은 LMS (https://ieilms.jbnu.ac.kr/)를 활용합니다.\n** J-Edutools  활용 예정 ",
+            "similarity": 0.3038570893618693
+        },
+        {
+            "id": 1561,
+            "name": "고령친화시스템공학",
+            "description": "고령화 사회에 대한 이해를 바탕으로 노인의 건강 및 기능 증진을 위한 공학적 연구 방법과 기술을 습득한다.",
+            "curriculum": "강의 개요 설명 및 오리엔테이션YUMMI노인복지공학의 개요YUMMI고령친화산업의 정의 및 국내/외 현황YUMMI4차 산업혁명시대의 고령친화산업YUMMI노화의 개념 및 영역YUMMI노화와 인지능력의 변화YUMMI노인복지용품과 디자인YUMMI중간고사YUMMI노인의 운동기능증진기기YUMMI노인의 이동 및 일상생활지원기기YUMMI노인의 재활훈련을 위한 기기YUMMI스마트 헬스케어(1)YUMMI스마트 헬스케어(2)YUMMIICT기반 고령친화산업YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "고령친화시스템공학 고령화 사회에 대한 이해를 바탕으로 노인의 건강 및 기능 증진을 위한 공학적 연구 방법과 기술을 습득한다.",
+            "similarity": 0.30138032010878596
+        },
+        {
+            "id": 4308,
+            "name": "시스템보안",
+            "description": "컴퓨터 시스템에서 서비스 제공을 위한 프로그램 개발과 관련된 보안 이슈, 그리고 시스템 운영과 관련된 보안 설정에 대해 학습한다. ",
+            "curriculum": "시스템 해킹 기초 지식YUMMI시스템 해킹 기초 지식YUMMI시스템 해킹 기초 지식YUMMI시스템 해킹YUMMI시스템 해킹YUMMI시스템 해킹YUMMI중간고사YUMMI시스템 해킹YUMMI시스템 해킹YUMMI시스템 해킹YUMMI운영체제 보안YUMMI운영체제 보안YUMMI운영체제 보안YUMMI운영체제 보안YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "시스템보안 컴퓨터 시스템에서 서비스 제공을 위한 프로그램 개발과 관련된 보안 이슈, 그리고 시스템 운영과 관련된 보안 설정에 대해 학습한다. ",
+            "similarity": 0.3988640575881125
+        },
+        {
+            "id": 3730,
+            "name": "IT융복합통섭연구",
+            "description": "바이오메디컬공학을 전공한 학생들의 다학제적 역량을 바탕으로 융복합 분야의 실제 사례 연구를 통해 종합적인 사고력과 문제해결 능력을 강화하는 것을 목표로 함",
+            "curriculum": "강의 소개YUMMI바이오메디컬 공학 전공 분석-1YUMMI바이오메디컬 공학 전공 분석-2YUMMI바이오메디컬 공학 전공 분석-3YUMMI최신 연구 동향 분석-1YUMMI최신 연구 동향 분석-2YUMMI최신 연구 동향 분석-3YUMMI초청 강사 특강YUMMI융복합 사례 탐구YUMMI융복합 사례 탐구YUMMI융복합 사례 탐구YUMMI포트롤리오 작성-1YUMMI포트롤리오 작성-2YUMMI포트롤리오 작성-3YUMMI기말 시험YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "IT융복합통섭연구 바이오메디컬공학을 전공한 학생들의 다학제적 역량을 바탕으로 융복합 분야의 실제 사례 연구를 통해 종합적인 사고력과 문제해결 능력을 강화하는 것을 목표로 함",
+            "similarity": 0.37593320088305476
+        },
+        {
+            "id": 3004,
+            "name": "정보검색",
+            "description": "서치엔진(구글, 네이버, 다음 등) 시스템의 기본 아키텍쳐와 그 배경 이론을 학부 학생이 이해할 수 있는 수준에서 주요 핵심 기술을 습득한다. \n본 강의에서 다루는 내용은 정보검색을 위한 웹 문서를 자동으로 수집하는 웹크롤러, 검색을 빠르게 하기 위한 목적으로 사용되는 색인구조, 사용자의 요구를 표현하는 질의어, 검색 결과를 순위화 하는 검색 모델과 서치엔진의 성능평가 방법 등에 관하여 다룬다. \n최신 정보검색에 적용되는 머신러닝/딥러닝 기술을 이해한다. \n\n공개용 서치엔진시스템 ElasticSearch 를 활용, 파이썬 크롤링 라이브러리(beautifulsoup, Selenium)와 Octoparse 등 오픈소스 및 라이브러리 등을 이용한 실습을 통한 산업체에서 바로 활용 및 응용 가능한 능력을 습득한다. ",
+            "curriculum": "Search Engines and Information RetrievalYUMMIArchitecture of a Search EngineYUMMIArchitecture of a Search EngineYUMMICrawls and FeedsYUMMIProcessing TextYUMMIProcessing TextYUMMIRanking with IndexesYUMMI중간고사YUMMIQueries and InterfacesYUMMIRetrieval ModelsYUMMIRetrieval ModelsYUMMIEvaluating Search EnginesYUMMIEvaluating Search EnginesYUMMI텀프로젝트 발표 YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "정보검색 서치엔진(구글, 네이버, 다음 등) 시스템의 기본 아키텍쳐와 그 배경 이론을 학부 학생이 이해할 수 있는 수준에서 주요 핵심 기술을 습득한다. \n본 강의에서 다루는 내용은 정보검색을 위한 웹 문서를 자동으로 수집하는 웹크롤러, 검색을 빠르게 하기 위한 목적으로 사용되는 색인구조, 사용자의 요구를 표현하는 질의어, 검색 결과를 순위화 하는 검색 모델과 서치엔진의 성능평가 방법 등에 관하여 다룬다. \n최신 정보검색에 적용되는 머신러닝/딥러닝 기술을 이해한다. \n\n공개용 서치엔진시스템 ElasticSearch 를 활용, 파이썬 크롤링 라이브러리(beautifulsoup, Selenium)와 Octoparse 등 오픈소스 및 라이브러리 등을 이용한 실습을 통한 산업체에서 바로 활용 및 응용 가능한 능력을 습득한다. ",
+            "similarity": 0.312998660280396
+        },
+        {
+            "id": 2845,
+            "name": "헬스케어기기디자인",
+            "description": "일반적으로 사용하고 있는 각종 기구 및 설비들의 비헬스케어적 요소를 도출하고, 이에 대한 인간의 행동, 능력, 한계, 특성에 관한 정보를 발견하여, 이를 개선하는데 응용함으로써 인간이 생산적이고 안전하며 쾌적한 환경에서 작업을 하고 물건을 효과적으로 이용할 수 있도록 강구함을 목표로 한다.",
+            "curriculum": "헬스케어 기기 디자인의 근간을 이루는 인간공학의 개념 및 시스템에 대하여 이해한다.YUMMI헬스케어 기기 디자인 연구절차 및 연구방법론를 이해하고, 이를 적용할 수 있다.YUMMI정보이론으로 정보의 개념을 설명하고 신호탐지이론을 헬스케어 기기 디자인 문제해결에 적용할 수 있다.YUMMI인간의 감각기관과 외부의 자극에 대한 정보처리과정을 이해한다.YUMMI외부세계의 상태에 대한 시각과정 정보처리와 디스플레이 설계의 원칙과 고려사항을 이해한다YUMMI청각과정을 이해하고, 기타 감각자극도 설계시에 고려할 수 있다.YUMMI헬스케어 기기 디자인 요소를 고려하여 콘트롤 설계 원칙을 이해한다YUMMI중간고사YUMMI인체의 구성요소와 작동원리를 이해한다YUMMI근골격계 질환 예방을 위한 헬스케어 기기 디자인 방법론을 이해한다YUMMI산업 안전사고 유발 요인에 대해 설명하고 재발 방지 방법을 제안할 수 있다.YUMMI인간-컴퓨터 상호작용의 특징에 대해 설명하고 이를 문제해결 및 예방에 적용할 수 있다YUMMI사용성평가 방법을 숙지하고 개선사례를 살펴봄으로써 사용성평가를 적용할 수 있다.YUMMI정신적 작업부하의 개념을 이해하고 스트레스 관리를 위한 여러 접근방법을 적용할 수 있다YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "헬스케어기기디자인 일반적으로 사용하고 있는 각종 기구 및 설비들의 비헬스케어적 요소를 도출하고, 이에 대한 인간의 행동, 능력, 한계, 특성에 관한 정보를 발견하여, 이를 개선하는데 응용함으로써 인간이 생산적이고 안전하며 쾌적한 환경에서 작업을 하고 물건을 효과적으로 이용할 수 있도록 강구함을 목표로 한다.",
+            "similarity": 0.29219830319705786
+        },
+        {
+            "id": 4073,
+            "name": "패턴인식",
+            "description": "이 과목에서는 얼굴인식, 물체추적, 움직임 감지 등과 같은 컴퓨터 비전 분야의 인식 및 분류 문제를 푸는데 널리 사용되는 기계학습의 기초 이론과 원리를 공부한다. 현장에서 주로 활용되는 신경망, SVM, 앙상블 기법 등을 공부하며, Matlab을 활용한 프로그래밍 실습을 병행하여 실무적 능력을 배양한다.",
+            "curriculum": "왜 패턴인식인가?YUMMI베이시언 결정 이론YUMMI베이시언 결정 이론YUMMI신경망(퍼셉트론)YUMMI신경망(다층 퍼셉트론)YUMMI신경망의 응용YUMMISVMYUMMI중간고사YUMMI결정 트리YUMMIrandom forestYUMMI특징 추출YUMMI군집화YUMMI앙상블 기법YUMMI에이더 부스트YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "패턴인식 이 과목에서는 얼굴인식, 물체추적, 움직임 감지 등과 같은 컴퓨터 비전 분야의 인식 및 분류 문제를 푸는데 널리 사용되는 기계학습의 기초 이론과 원리를 공부한다. 현장에서 주로 활용되는 신경망, SVM, 앙상블 기법 등을 공부하며, Matlab을 활용한 프로그래밍 실습을 병행하여 실무적 능력을 배양한다.",
+            "similarity": 0.2709028848956232
+        }
+    ]
+}

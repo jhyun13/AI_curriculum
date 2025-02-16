@@ -1,0 +1,387 @@
+{
+    "meta_info": {
+        "user_query": "스페인어 기반의 경제 데이터를 분석하고, 국제 무역 정책과 금융 전략을 연구하여 기업과 국가가 최적의 경제 결정을 내릴 수 있도록 하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": [
+            "스페인.중남미학과",
+            "무역학과"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2365,
+            "name": "기초스페인어 1",
+            "description": "본 강의는 향후 중급스페인어, 고급스페인어 강의 수강에 기초가 될 기본적인 수준의 스페인어 습득을 목표로 한다.  수업을 통해 한 학기 동안 듣기, 말하기, 읽기, 쓰기 등 모든 언어 능력을 문화적 맥락과 연결시켜 균형적으로 향상시킬 수 있다.",
+            "curriculum": "오리엔테이션, 알파벳, 스페인어 첫걸음YUMMIser, estar, haber(hay)동사, 형용사의 이해YUMMI스페인어 기본동사(직설법현재형)의 이해YUMMI불규칙 동사의 이해 1, 숫자1, 상황별 표현 1YUMMI불규칙 동사의 이해 2, 상황별 표현 2, 한정사 1YUMMI불규칙 동사의 이해 3, 한정사 2, 심화복습YUMMI전반부 내용 총정리 및 심화 복습YUMMI중간고사YUMMI불규칙 동사의 이해 4, 숫자2, 상황별 표현 3YUMMI재귀동사의 이해, 스페인어 관용 표현YUMMI역구조 동사의 이해, 전치사1YUMMI목적격 대명사의 이해YUMMI현재분사의 이해, 전치사2, 긍정명령형의 이해YUMMI단순미래, 후반부 총정리 및 심화 복습YUMMI기말고사YUMMI",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "full_text": "기초스페인어 1 본 강의는 향후 중급스페인어, 고급스페인어 강의 수강에 기초가 될 기본적인 수준의 스페인어 습득을 목표로 한다.  수업을 통해 한 학기 동안 듣기, 말하기, 읽기, 쓰기 등 모든 언어 능력을 문화적 맥락과 연결시켜 균형적으로 향상시킬 수 있다.",
+            "similarity": 0.3913716503637189
+        },
+        {
+            "id": 4844,
+            "name": "국제무역입문",
+            "description": "본 강의는 국가 간 무역과 정책을 분석하는 국제무역이론을 효과적으로 학습하기 위하여 시장경제를 이해하는데 필수적인 경제학적 기본개념과 내용을 학습하고 이를 토대로 경제원리를 무역이론에 적용하는 데 필요한 기초 능력을 함양하는 데 있음. 또한 국가 간 자본 이동, 환율변동에 따른 경상수지 변화, 환율제도 등 국제거시경제 차원에서 거시경제 변수들의 상호 작용과 연관관계를 이해하고, 적절한 경제정책을 이해하기 위한 기본적 국제거시경제 현상을 이해하기 위해 기본적인 거시경제학에 기반한 거시경제분석모형과 기초 개념을 본 강좌를 통해 학습하고자 함. ",
+            "curriculum": "경제학의 제 1법칙YUMMI공급과 수요\n가격규제와 수량규제YUMMI탄력성과 조세YUMMI공급곡선의 이면 : 투입과 비용YUMMI완전경쟁과 공급곡선 YUMMI독점, 과점 및 독점적 경쟁YUMMI공공재와 공유자원, 중간고사YUMMI거시경제학 개관YUMMI거시경제학 개관\nGDP와 CPI : 거시경제의 측정YUMMI실업과 인플레이션YUMMI장기 경제성장YUMMI총수요와 총공급YUMMI재정정책과 통화정책YUMMI글로벌 금융위기 분석YUMMI국제무역, 자본흐름 및 환율YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제무역입문 본 강의는 국가 간 무역과 정책을 분석하는 국제무역이론을 효과적으로 학습하기 위하여 시장경제를 이해하는데 필수적인 경제학적 기본개념과 내용을 학습하고 이를 토대로 경제원리를 무역이론에 적용하는 데 필요한 기초 능력을 함양하는 데 있음. 또한 국가 간 자본 이동, 환율변동에 따른 경상수지 변화, 환율제도 등 국제거시경제 차원에서 거시경제 변수들의 상호 작용과 연관관계를 이해하고, 적절한 경제정책을 이해하기 위한 기본적 국제거시경제 현상을 이해하기 위해 기본적인 거시경제학에 기반한 거시경제분석모형과 기초 개념을 본 강좌를 통해 학습하고자 함. ",
+            "similarity": 0.4513077343571105
+        },
+        {
+            "id": 4574,
+            "name": "기초스페인어 2",
+            "description": "본 강의는 스페인어를 처음 접하는 학생들 혹은 재이수 학생들을 대상으로 합니다. 강의 전반부는 기초 문법과 배운 문법을 활용한 짧은 대화문들을 중심으로 학습하고, 강의 후반부에는 DELE A1(스페인어 초급1) 수준에 준하는 독해와 어휘를 학습할 예정입니다. 문법 다지기는 의사소통 능력 향상을 목표로 하며 문법 내용의 이해를 위한 여러 시청각적 자료가 제공될 예정입니다. ",
+            "curriculum": "오리엔테이션YUMMI기초 스페인어 문법 및 회화YUMMI기초 스페인어 문법 및 회화YUMMI기초 스페인어 문법 및 회화YUMMI기초 스페인어 문법 및 회화YUMMI기초 스페인어 문법 및 회화YUMMI기초 스페인어 문법 및 회화YUMMI중간고사YUMMI기초 스페인어 독해 및 어휘YUMMI기초 스페인어 독해 및 어휘YUMMI기초 스페인어 독해 및 어휘YUMMI기초 스페인어 독해 및 어휘YUMMI기초 스페인어 독해 및 어휘YUMMI기초 스페인어 독해 및 어휘YUMMI기말시험YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "full_text": "기초스페인어 2 본 강의는 스페인어를 처음 접하는 학생들 혹은 재이수 학생들을 대상으로 합니다. 강의 전반부는 기초 문법과 배운 문법을 활용한 짧은 대화문들을 중심으로 학습하고, 강의 후반부에는 DELE A1(스페인어 초급1) 수준에 준하는 독해와 어휘를 학습할 예정입니다. 문법 다지기는 의사소통 능력 향상을 목표로 하며 문법 내용의 이해를 위한 여러 시청각적 자료가 제공될 예정입니다. ",
+            "similarity": 0.37363038097686285
+        },
+        {
+            "id": 3665,
+            "name": "무역학개론",
+            "description": "국제무역, 국제경영, 무역상무를 포괄하는 무역학 전반에 대한 이해를 고취한다.  ",
+            "curriculum": "오리엔테이션 및 무역의 기초YUMMI무역이론의 기초YUMMI무역정책YUMMI국제금융과 국제무역환경YUMMI글로벌경영과 해외시장진출YUMMI해외직접투자와 글로벌 생산관리YUMMI무역상무개요YUMMI중간고사YUMMI무역계약의 사전준비\nYUMMI무역계약의 체결\nYUMMI무역결제YUMMI무역운송YUMMI보험과 분쟁해결YUMMI전자무역과 국경 간 전자상거래YUMMI기말고사YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역학개론 국제무역, 국제경영, 무역상무를 포괄하는 무역학 전반에 대한 이해를 고취한다.  ",
+            "similarity": 0.3487480117491818
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "description": "모든 기업에게 새로운 비즈니스를 시작할 때뿐만 아니라 비즈니스를 성장시키기 위한 전략을 세울 때 시장 환경과 수요에 대한 충분한 데이터 확보와 이러한 데이터로부터 유용한 정보를 추출하는 일은 필수적인 일이 되고 있다. 이러한 상황에서 무역 분야의 전문가, 경영자, 정책담당자에게 데이터로부터 정보를 추출하기 위해 사용되어야 하는 통계기법에 대한 정확한 이해와 적용뿐만 아니라 통계분석결과를 정확하게 해석해낼 수 있는 능력이 점점 더 필수적인 역량으로 요구되고 있다. 이러한 시대 요청에 따라 본 강좌는 경영경제 기초 통계과정으로 기본적인 통계이론을 학습하고 다양한 사례와 자료를 이용해 추정 및 통계적 추론을 통해 학생들로 하여금 통계적 해석 능력을 함양하는 것을 목표로 한다.",
+            "curriculum": "과목 소개 및 개요설명YUMMI자료의 종류와 도시YUMMI중심경향치와 분산도YUMMI확률의 개념YUMMI확률분포YUMMI표본추출과 표본분포YUMMI통계적 추정과 신뢰구간YUMMI중간정리와 중간고사YUMMI통계적 추정과 신뢰구간YUMMI가설의 검정YUMMI가설의 검정YUMMI분산분석YUMMI상관분석과 단순회귀분석YUMMI다중회귀모형YUMMI기말정리와 기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "무역통계분석입문 모든 기업에게 새로운 비즈니스를 시작할 때뿐만 아니라 비즈니스를 성장시키기 위한 전략을 세울 때 시장 환경과 수요에 대한 충분한 데이터 확보와 이러한 데이터로부터 유용한 정보를 추출하는 일은 필수적인 일이 되고 있다. 이러한 상황에서 무역 분야의 전문가, 경영자, 정책담당자에게 데이터로부터 정보를 추출하기 위해 사용되어야 하는 통계기법에 대한 정확한 이해와 적용뿐만 아니라 통계분석결과를 정확하게 해석해낼 수 있는 능력이 점점 더 필수적인 역량으로 요구되고 있다. 이러한 시대 요청에 따라 본 강좌는 경영경제 기초 통계과정으로 기본적인 통계이론을 학습하고 다양한 사례와 자료를 이용해 추정 및 통계적 추론을 통해 학생들로 하여금 통계적 해석 능력을 함양하는 것을 목표로 한다.",
+            "similarity": 0.5046109353606899
+        },
+        {
+            "id": 462,
+            "name": "스페인지역의이해",
+            "description": "\n\n본 수업은 스페인 지역에 대한 기본적인 이해를 목적으로 한다.",
+            "curriculum": "IntroductionYUMMI스페인 지리와 환경YUMMI스페인 역사 1, 2YUMMI스페인 역사 3YUMMI스페인 역사  4YUMMI스페인 정치사 1, 2YUMMI스페인 정치 1YUMMI스페인 정치 2YUMMI스페인 정치 3YUMMI스페인 경제 1, 2YUMMI스페인 경제 3, 4YUMMI스페인 사회YUMMI스페인의 대외관계YUMMI스페인 지역의 이해: Special TopicYUMMI스페인 지역의 이해 총평YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "full_text": "스페인지역의이해 \n\n본 수업은 스페인 지역에 대한 기본적인 이해를 목적으로 한다.",
+            "similarity": 0.407446403688715
+        },
+        {
+            "id": 2190,
+            "name": "스페인어회화입문 1",
+            "description": "The main objectives are to lose the fear of speaking with a native Spanish speaker and learn to deal with basic situations in Spanish. Likewise, it is also intended that students: \n1. Have a great exposure to Spanish and get comfortable using this language\n2. Assimilate Spanish in a simple way by doing enough exercises designed for them to practice having a good time \n3. Improve their listening comprehension skills in Spanish both by watching various Spanish teaching videos found on YouTube and by listening to the teacher speaking \n4. Lose the fear of expressing themselves in Spanish and improve their diction in this language \n5. Develop their communication skills and creativity by creating a video as a final task.",
+            "curriculum": "Introducción a la asignatura\n\n YUMMIPresentación y saludos YUMMILa familia YUMMILa rutina diaria YUMMIUna casa especial YUMMIReceta de gazpacho YUMMIUn paseo por mi ciudad YUMMIUn chico simpático\n\nYUMMIPreparando la maleta YUMMIMe encuentro fatal YUMMIDe segunda mano YUMMI¿Qué hiciste ayer? YUMMILas vacaciones pasadas YUMMIVisualización de tareas y orientación del examen\nYUMMIExamen final YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "full_text": "스페인어회화입문 1 The main objectives are to lose the fear of speaking with a native Spanish speaker and learn to deal with basic situations in Spanish. Likewise, it is also intended that students: \n1. Have a great exposure to Spanish and get comfortable using this language\n2. Assimilate Spanish in a simple way by doing enough exercises designed for them to practice having a good time \n3. Improve their listening comprehension skills in Spanish both by watching various Spanish teaching videos found on YouTube and by listening to the teacher speaking \n4. Lose the fear of expressing themselves in Spanish and improve their diction in this language \n5. Develop their communication skills and creativity by creating a video as a final task.",
+            "similarity": 0.3999275161269659
+        },
+        {
+            "id": 2028,
+            "name": "스페인어권대중문화의이해",
+            "description": "19세기 말부터 20세기까지 라틴아메리카의 스페인어 문화권 국가들은 유럽과 미국을 국가 발전모델로 삼아 근대화하기 위한 다양한 노력을 수행한다. 이 수업에서는 라틴아메리카 국가들이 유럽이나 미국으로부터 수입된 문화 혹은 기술 문명을 받아들이는 과정을 이해하는 다양한 시각을 학습한다. 이를 통해 스페인어권 문화 뿐 만 아니라 다양한 문화권의 문화현상을 해석하는 능력을 키운다. \n이 수업은 주로 강의자가 전달하는 강의안(PPT)파일과 읽기자료를 통해 진행한다. 수업 방식은 강의와 강의내용을 기반으로하여 조별로 토론하는 방식으로 진행될 예정. 읽기자료는 대부분은 한글로 제공될 예정( 스페인어를 전혀 배우지 않았어도 수업내용을 이해할 수 있음.) ",
+            "curriculum": "강의 소개 및 전체 내용 개괄YUMMI국가 정체성 쇼케이스YUMMI국가 정체성 쇼케이스YUMMI셀러브리티와 결투YUMMI낯선 곳으로서의 여행YUMMI낯선 곳으로서의 여행YUMMI담배산업과 라디오 방송국\n포트폴리오1YUMMI담배산업과 라디오 방송국\n포트폴리오2YUMMI원주민 신화와 상상된 라틴아메리카 YUMMI원주민 신화와 상상된 라틴아메리카 YUMMI라틴아메리카 전통 음식의 세계화YUMMI스포츠와 지역문화YUMMI라틴아메리카의 K-웹툰YUMMI포트폴리오3 기획 및 면담YUMMI포트폴리오 3 YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "full_text": "스페인어권대중문화의이해 19세기 말부터 20세기까지 라틴아메리카의 스페인어 문화권 국가들은 유럽과 미국을 국가 발전모델로 삼아 근대화하기 위한 다양한 노력을 수행한다. 이 수업에서는 라틴아메리카 국가들이 유럽이나 미국으로부터 수입된 문화 혹은 기술 문명을 받아들이는 과정을 이해하는 다양한 시각을 학습한다. 이를 통해 스페인어권 문화 뿐 만 아니라 다양한 문화권의 문화현상을 해석하는 능력을 키운다. \n이 수업은 주로 강의자가 전달하는 강의안(PPT)파일과 읽기자료를 통해 진행한다. 수업 방식은 강의와 강의내용을 기반으로하여 조별로 토론하는 방식으로 진행될 예정. 읽기자료는 대부분은 한글로 제공될 예정( 스페인어를 전혀 배우지 않았어도 수업내용을 이해할 수 있음.) ",
+            "similarity": 0.39369275162769857
+        },
+        {
+            "id": 2196,
+            "name": "중급스페인어강독 1",
+            "description": "본 강좌는 스페인어 문법과 초급/생활 스페인어를 이수한 학생들을 대상으로 설강된 스페인어 읽기 수업으로, 스페인어 텍스트를 읽고 전반적인 내용, 요지를 파악하는 능력을 함양하는 데 그 목표를 두고 있다. 더불어 텍스트 읽기를 통하여 자연스러운 스페인어를 익히고, 우리말로  번역하는 능력을 기르는 데에도 그 목표가 있다.      ",
+            "curriculum": "강좌 소개YUMMI자신이 소중하게 여기는 물건과 그 이유에 대한 여러 사람의 글을 읽고 그 중심 내용을 파악한다.   YUMMI현대인의 소비 패턴과 재활용에 관한 글을 읽고, 그 중심 내용을 파악한다. 더 나아가 우리의 소비 패턴을 반성해본다. YUMMI취향과 소비패턴에 관한 글에 관한 글을 읽고 그 중심 내용을 이해한다. YUMMI광고에 관한 글을 읽고, 광고가 우리의 소비 패턴에 미치는 영향을 파악한다. YUMMI다양한 주거 형태에 관한 글을 읽고 중심 내용을 이해하고 더 나아가 자신이 선호하는 주거 형태에 대하여 스페인어로  글을 써본다. YUMMI스페인 사람들의 공동체 생활에 관한 두 개의 글을 읽고 우리의 문화와 비교해본다. YUMMI중간시험YUMMI현대인의 소통 방식에 관한 글과 앙케이트를 읽고 우리의 소통방식, 인터넷과 SNS의 장단점에 대하여 생각해본다. YUMMI신문 인터뷰 기사를 읽고 그 중심 내용을 파악한다. YUMMI역사적 부침을 겪은 아메리카 대륙과 멕시코 시티에 관한 짧은 글들을 읽고 그 중심 내용을 이해한다. YUMMI한 사람의 삶에 대하여 쓴 글을 읽고 그 중심 내용을 이해한다. 파블로 네루다의 삶과 작품을 개괄적으로 이해한다. YUMMI세계의 곳곳을 누비며 살아가는 이들의 삶에 대한 글을 읽고 그 중심내용을 파악한다. YUMMI짤막한 동화들로 구성된 Susana Isern의 동화집을 읽고 생활글, 또는 에세이와 문학글의 차이를 이해한다. 더 나아가 동화를 우리말로 자연스럽게 번역하는 연습을 한다. YUMMI기말시럼 YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "full_text": "중급스페인어강독 1 본 강좌는 스페인어 문법과 초급/생활 스페인어를 이수한 학생들을 대상으로 설강된 스페인어 읽기 수업으로, 스페인어 텍스트를 읽고 전반적인 내용, 요지를 파악하는 능력을 함양하는 데 그 목표를 두고 있다. 더불어 텍스트 읽기를 통하여 자연스러운 스페인어를 익히고, 우리말로  번역하는 능력을 기르는 데에도 그 목표가 있다.      ",
+            "similarity": 0.36605060354116
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "description": "이제 현대사회에서 머신러닝과 빅데이터에 대한 이해는 사회과학을 공부하는 학생들이 필수적으로 가져야 하는 지식임에 틀림없다. 이 수업은 그에 대한 기초지식을 습득하기 위해 무역, 금융, 경제등 사회과학 분야에서 널리 쓰이는 계량분석론을 이해하는 데 목표를 하고 있다. ",
+            "curriculum": "Basic Concepts for Statistics and Linear Algebra\nYUMMIClassical Linear Models and Ordinary Least Squares Estimation \nYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIHypothesis TestingYUMMI중간고사\nYUMMIHypothesis TestingYUMMIModel SpecificationYUMMIModel SpecificationYUMMIDummy Variables\nYUMMIGeneralized Least Squares\nYUMMIForecastingYUMMI기말고사\nYUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역계량분석론 이제 현대사회에서 머신러닝과 빅데이터에 대한 이해는 사회과학을 공부하는 학생들이 필수적으로 가져야 하는 지식임에 틀림없다. 이 수업은 그에 대한 기초지식을 습득하기 위해 무역, 금융, 경제등 사회과학 분야에서 널리 쓰이는 계량분석론을 이해하는 데 목표를 하고 있다. ",
+            "similarity": 0.4546689617330683
+        },
+        {
+            "id": 4313,
+            "name": "국제무역이론",
+            "description": "급변하는 세계화(globalization) 속에서 국제경제학의 중요성이 더욱 강조되고 있다. 모든 경제주체(국가, 기업, 개인)의 합리적 의사결정은 국제경제의 흐름과 매우 밀접하게 연관되어 있다. 하지만 복잡한 국제경제(무역)의 흐름 및 현상을 제대로 이해하는 것은 결코 쉬운일이 아니다. 이에 복잡한 국제무역발생 원인을 제대로 이해하는 것이 본 강의의 주된 목적이다. 본 강의를 통해 첫째 국제무역의 발생 원인을 설명하고 있는 주요 이론을 소개하고, 둘째 각각의 이론과 모형이 현실에서 어떻게 적용되고 있는지를 살펴본다. 셋째, 국제무역 이론을 실증분석하고 있는 주요 연구들을 살펴보고 국제무역의 결과에 대하여 설명한다. 마지막으로 국제무역의 최근 주요 이슈(자국우선주의, 신보호무역주의, 비관세장벽, 코로나19, 4차산업혁명, 디지털무역, 경제통상 안보 등)를 살펴보고 이러한 움직임이 우리나라에 미칠 영향에 대하여 논의한다. 무엇보다 국제무역의 흐름을 체계적으로 이해하고 논리적으로 설명할 수 있는 능력을 배양하는 것이 본 강의가 추구하는 또 다른 목적이다. \n\n\n\n\n",
+            "curriculum": "강의개요, 국제무역의 기본개념 및 중요성(국제무역의 연구범위 및 방법론)YUMMI절대우위이론, 비교우위이론YUMMI비교우위이론YUMMI국제무역의 표준이론\nYUMMI수요와 공급, 오퍼곡선과 교역조건YUMMI요소부존과 헥셔-오린 이론YUMMI요소부존과 헥셔-오린 이론YUMMI중간고사YUMMI신무역이론YUMMI신무역이론YUMMI경제성장과 국제무역YUMMI무역정책:관세 및 비관세YUMMI무역정책YUMMI최근의 무역이슈YUMMI기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제무역이론 급변하는 세계화(globalization) 속에서 국제경제학의 중요성이 더욱 강조되고 있다. 모든 경제주체(국가, 기업, 개인)의 합리적 의사결정은 국제경제의 흐름과 매우 밀접하게 연관되어 있다. 하지만 복잡한 국제경제(무역)의 흐름 및 현상을 제대로 이해하는 것은 결코 쉬운일이 아니다. 이에 복잡한 국제무역발생 원인을 제대로 이해하는 것이 본 강의의 주된 목적이다. 본 강의를 통해 첫째 국제무역의 발생 원인을 설명하고 있는 주요 이론을 소개하고, 둘째 각각의 이론과 모형이 현실에서 어떻게 적용되고 있는지를 살펴본다. 셋째, 국제무역 이론을 실증분석하고 있는 주요 연구들을 살펴보고 국제무역의 결과에 대하여 설명한다. 마지막으로 국제무역의 최근 주요 이슈(자국우선주의, 신보호무역주의, 비관세장벽, 코로나19, 4차산업혁명, 디지털무역, 경제통상 안보 등)를 살펴보고 이러한 움직임이 우리나라에 미칠 영향에 대하여 논의한다. 무엇보다 국제무역의 흐름을 체계적으로 이해하고 논리적으로 설명할 수 있는 능력을 배양하는 것이 본 강의가 추구하는 또 다른 목적이다. \n\n\n\n\n",
+            "similarity": 0.411797701960833
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "description": "- 세계경제의 글로벌화에 따른 기업들의 자금조달과 운용도 국내금융시장 이외 글로벌 금융시장에서 활발하게 이루어 지고 있어 국제금융시장의 역할과 기능에 관한 지식을 터득함\n- 자본시장, 채권시장 등  국제금융시장의 기능과 특성에 대한 이해를 바탕으로 글로벌 기업들의 자금차입과 운용과 관련하여 금융상품과 기법을 터득하여 국제 재무관리 실무자로서 기본 역할을 수행할 수 있는 지식을 함양함\n- 대외 결제수단인 외환거래와 연관된 환위험 개념과 환율결정에 관한 이론 등 외환시장의 기능과 특성 등 무역거래에 따른 결제, 송금 등 외국환 관리에 대한 내용을 이해한다",
+            "curriculum": "ch11. International Financing and Natioanl Capital Markets(국제금융과 자본시장의 특성)YUMMIch 12. The Euromarkets(유로금융시장: 유로본드 발행 및 유통시장)YUMMIch3. The International Monetary System(국제통화제도)YUMMIch5. The Balance of Payments and International Economic linkages(국제경상수지의 개념과 자금흐름)YUMMIch6. The Foreign Exchange Market(외환시장의 특성)YUMMIch8. Currency, Interest Rate, and Credit Derivatives and Swaps(이자율 스왑, 통화스왑, 구조화 파생상품)YUMMI 중간고사YUMMIch9. Measuring and Managing Translation and Transaction Exposure( 거래적 환위험, 환산적 환위험 측정 등)YUMMIch10. Measuring and Managing Economic Exposure(경제적 환위험의 개념과 관리)YUMMIch11. International Financing and National Capital Markets(국제금융시장과 국내자본시장)YUMMIch12. International Portfolio Management(국제포트폴리오 투자 및 관리)YUMMIch15. The Cost of Capital for Foreign Investments(해외투자 자본비용 개념과 측정)YUMMIch17. Capital Budgeting for the Multinational Corporation(다국적기업의 자본예산 배정관리),YUMMIch 18. Managing the International Capital Markets of Multinational Corporations(다국적기업의 자금관리 전략 등)YUMMI기말시험 평가YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제재무론 - 세계경제의 글로벌화에 따른 기업들의 자금조달과 운용도 국내금융시장 이외 글로벌 금융시장에서 활발하게 이루어 지고 있어 국제금융시장의 역할과 기능에 관한 지식을 터득함\n- 자본시장, 채권시장 등  국제금융시장의 기능과 특성에 대한 이해를 바탕으로 글로벌 기업들의 자금차입과 운용과 관련하여 금융상품과 기법을 터득하여 국제 재무관리 실무자로서 기본 역할을 수행할 수 있는 지식을 함양함\n- 대외 결제수단인 외환거래와 연관된 환위험 개념과 환율결정에 관한 이론 등 외환시장의 기능과 특성 등 무역거래에 따른 결제, 송금 등 외국환 관리에 대한 내용을 이해한다",
+            "similarity": 0.37516271322927
+        },
+        {
+            "id": 3494,
+            "name": "중급스페인어 2",
+            "description": " 1학년 과정인 기초 스페인어 문법을 습득한 학생들을 대상으로 하여 보다 다양한 문법 현상들을 다룸으로써 스페인어 구사 능력을 배양하고자 하는 데 목적을 둔다. 기초적 문법을 탈피하여 보다 상세하게 문장들을 분석하고 이를 언어학적 지식에 근거하여 원리적으로 설명하고자 한다. 본 수업을 통해 학생들은 문법을 단순히 암기하는 것이 아니라 이해하게 됨으로써 실제 스페인어 구사에 활용하게 된다. 중급 단계이므로 비교적 난이도가 있는 문장들을 다루므로 기초 스페인어를 수강하지 않은 학생들이 듣기에는 무리가 있습니다. 이점 양해해주시기 바랍니다. 수강 인원은 40명 이내로 제한됩니다. ",
+            "curriculum": "제 13장 접속법YUMMI제 13장 접속법YUMMI제 13장 접속법YUMMI제 13장 접속법YUMMI제 15장 접속법의 용법YUMMI제 15장 접속법의 용법YUMMI제 15장 접속법의 용법YUMMI중간고사YUMMI제 16장 관계사 구문YUMMI제 16장 관계사YUMMI제 16장 관계사YUMMI제 16장 관계사YUMMI제 16장 관계사YUMMI관계사 구문 전체 복습 및 질의 응답YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "full_text": "중급스페인어 2  1학년 과정인 기초 스페인어 문법을 습득한 학생들을 대상으로 하여 보다 다양한 문법 현상들을 다룸으로써 스페인어 구사 능력을 배양하고자 하는 데 목적을 둔다. 기초적 문법을 탈피하여 보다 상세하게 문장들을 분석하고 이를 언어학적 지식에 근거하여 원리적으로 설명하고자 한다. 본 수업을 통해 학생들은 문법을 단순히 암기하는 것이 아니라 이해하게 됨으로써 실제 스페인어 구사에 활용하게 된다. 중급 단계이므로 비교적 난이도가 있는 문장들을 다루므로 기초 스페인어를 수강하지 않은 학생들이 듣기에는 무리가 있습니다. 이점 양해해주시기 바랍니다. 수강 인원은 40명 이내로 제한됩니다. ",
+            "similarity": 0.37417637226886047
+        },
+        {
+            "id": 2552,
+            "name": "데이터로보는중남미",
+            "description": "데이터를 통해 오늘날 중남미 사회의 모습을 살펴보고, 이를 바탕으로 지역의 다양한 현안에 대한 친숙도를 높이는 것을 목표합니다. 기초적인 실습을 통해 수업에 소개된 데이터를 수집하고, 수집한 데이터를 목적에 맞게 가공하는 연습을 합니다. 가공된 자료에 대한 기초적인 분석을 수행할 수 있는 능력도 함께 배양하고자 합니다. 전공과 학년에 관계없이 누구나 수강할 수 있으며, 중남미 또는 데이터 활용에 대한 사전 지식을 요구하지 않습니다.\n\n강의 슬라이드, 토론, 데이터 실습을 기반으로 탄력적으로 수업을 진행합니다. 교재는 없습니다. 평가는 절대평가 방식으로 이루어지며, 중간고사(40%)와 개인 과제물 제출(40%)이 대부분을 차지합니다. 중간고사는 사전 공지된 문항들로 구성되며, 과제물 수행에 대해서 수업 시간 지속적으로 논의를 진행합니다.",
+            "curriculum": "수업 소개YUMMI태어나서 죽기까지YUMMI삶의 질을 결정하는 것들YUMMI마약과 조직범죄YUMMI과제물 함께 고민하기 (1)YUMMI가치관과 사회에 대한 인식YUMMI돈 벌고 돈 쓰기YUMMI국가의 산업 구조와 무역 구조YUMMI중간고사YUMMI과제물 함께 고민하기 (2)YUMMI기후변화의 영향과 기후변화에 대한 인식YUMMI국경을 넘나드는 사람들YUMMI과제물 함께 고민하기 (3)YUMMI과제물 함께 고민하기 (4)YUMMI총평YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "full_text": "데이터로보는중남미 데이터를 통해 오늘날 중남미 사회의 모습을 살펴보고, 이를 바탕으로 지역의 다양한 현안에 대한 친숙도를 높이는 것을 목표합니다. 기초적인 실습을 통해 수업에 소개된 데이터를 수집하고, 수집한 데이터를 목적에 맞게 가공하는 연습을 합니다. 가공된 자료에 대한 기초적인 분석을 수행할 수 있는 능력도 함께 배양하고자 합니다. 전공과 학년에 관계없이 누구나 수강할 수 있으며, 중남미 또는 데이터 활용에 대한 사전 지식을 요구하지 않습니다.\n\n강의 슬라이드, 토론, 데이터 실습을 기반으로 탄력적으로 수업을 진행합니다. 교재는 없습니다. 평가는 절대평가 방식으로 이루어지며, 중간고사(40%)와 개인 과제물 제출(40%)이 대부분을 차지합니다. 중간고사는 사전 공지된 문항들로 구성되며, 과제물 수행에 대해서 수업 시간 지속적으로 논의를 진행합니다.",
+            "similarity": 0.3686347798947547
+        },
+        {
+            "id": 991,
+            "name": "스페인어학습및교수법",
+            "description": "외국어 학습 및 교수의 원리를 이해하고 이를 스페인어 수업 및 학습에 적용할 수 있다.",
+            "curriculum": "과목에 대한 전반적 이해를 한다.   언어의 특질과 인간의 언어 능력에 대한 기본 개념을 이해한다.YUMMI언어 습득의 특성을 이해한다.YUMMI여러 언어 학습론의 중심적 개념 및 개별 특성을 이해한다.YUMMI외국어 학습 시 외국어와 모국어 간 영향 관계를 이해한다.               외국어 학습과정 중의 중간언어에 대해 이해한다.YUMMI역대 언어 교수법을 살피고 특성을 이해한다. YUMMI역대 언어 교수법을 살피고 특성을 이해한다. YUMMI최근의 언어 교수 및 학습에 관련된 이론의 특성을 이해한다.YUMMI중간고사YUMMI발음, 듣기, 말하기 지도의 특성을 이해하고 외국어 교수 및 학습 지도 시 이를 활용하여 적용할 수 있다.YUMMI읽기 및 쓰기의 과정, 특성, 유형, 실제를 이해하고 적용할 수 있다. YUMMI어휘 지도, 문법 지도 의 원리와 실제를 이해하고 수업에 적용할 수 있다.YUMMI뇌의 측면화, 인지 발달 단계를 이해한다.  정의적 요소를 감안하여 외국어 학습 및 교수에 적용할 수 있다.  개별 학습자에 따른 학습 유형이  다를 수 있는 점을 이해하고 이에 따라 적절히 수업 및 학습을 조절할 수 있다.YUMMI의사 소통과 직접 및 간접적으로 관련된 언어권 별 문화적 특성을 이해하고 이에 대한 지식을 의사소통에 적용할 수 있다. YUMMI외국어 평가의 목적, 유형, 원리 등을 이해하고 외국어 평가에 적용할 수 있다.YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "full_text": "스페인어학습및교수법 외국어 학습 및 교수의 원리를 이해하고 이를 스페인어 수업 및 학습에 적용할 수 있다.",
+            "similarity": 0.4952022370311736
+        },
+        {
+            "id": 485,
+            "name": "스페인어교육론",
+            "description": "외국어 교육에 관한 핵심적인 내용을 기반으로 하여 이를 스페인어 교실 수업에서 어떻게 응용하여 사용할 수 있는 가를 모색하여 본다. \n-디지털기반 교재 활용한 플립 러닝 적용 수업으로 진행\n-온라인 선행학습과 과제수행, 오프라인 ppt 발표와 토론 ",
+            "curriculum": "과목 및 교재 소개 / 제1장. 수업의 첫 시간YUMMI제2장.  교실의 사용YUMMI 제3장. 언어의 쓰임\nYUMMI제4장.  어휘 교수YUMMI 제5장.  의사소통 기능 표현 교수YUMMI\n제6장.  문법교수 YUMMI제7장. 발음 교수\nYUMMI중간평가YUMMI제8장. 해석 기능들\nYUMMI제9장. 표현 기능들YUMMI제10장. 교정YUMMI제11장. 수업프로그래밍과 수업계획YUMMI제12장. 교실 밖에서의 계속학습YUMMI언어교육의 최신 동향YUMMI기말 평가YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "full_text": "스페인어교육론 외국어 교육에 관한 핵심적인 내용을 기반으로 하여 이를 스페인어 교실 수업에서 어떻게 응용하여 사용할 수 있는 가를 모색하여 본다. \n-디지털기반 교재 활용한 플립 러닝 적용 수업으로 진행\n-온라인 선행학습과 과제수행, 오프라인 ppt 발표와 토론 ",
+            "similarity": 0.4499245567816656
+        },
+        {
+            "id": 345,
+            "name": "무역실무교육",
+            "description": "국제무역 실무의 이해",
+            "curriculum": "오리엔테이션YUMMI무역업의 이해YUMMI국제규칙의 이해YUMMI해외시장조사 IYUMMI해외시장조사 IIYUMMI수출아이템 발굴 방법YUMMI무역계약 준비  IYUMMI무역계약 준비  IIYUMMI무역계약 준비 ⅢYUMMI바이어 상담 및 협상 실무YUMMI무역실무 Case Study IYUMMI무역실무 Case Study IIYUMMI무역실무 Case Study ⅢYUMMI전시회 시뮬레이션YUMMI최종 보고 및 평가YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "무역실무교육 국제무역 실무의 이해",
+            "similarity": 0.3874099237024592
+        },
+        {
+            "id": 1200,
+            "name": "국제금융론",
+            "description": "This course aims to improve students’ understanding of international finance and to strengthen their application skills when analyzing real-world issues relating to international financial flows. ",
+            "curriculum": "Course Overview\nYUMMI Foreign Exchange MarketYUMMIExchange Rate Ⅰ\nYUMMIExchange Rate ⅡYUMMIThe Theories of Exchange Rate Determination: \nElasticity Approach Ⅰ\nYUMMIThe Theories of Exchange Rate Determination: \nElasticity Approach Ⅱ\nYUMMIPurchasing Power Parity ⅠYUMMIMidterm Exam YUMMIPurchasing Power Parity ⅡYUMMIPurchasing Power Parity ⅢYUMMIThe Theories of Exchange Rate Determination: \nMonetary Approach Ⅰ\nYUMMIThe Theories of Exchange Rate Determination: \nMonetary Approach Ⅱ\nYUMMIThe Theories of Exchange Rate Determination: \nAsset Approach Ⅰ\nYUMMIThe Theories of Exchange Rate Determination: \nAsset Approach Ⅱ\nYUMMIFinal ExamYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "국제금융론 This course aims to improve students’ understanding of international finance and to strengthen their application skills when analyzing real-world issues relating to international financial flows. ",
+            "similarity": 0.38559700304729205
+        },
+        {
+            "id": 1551,
+            "name": "무역영어회화",
+            "description": "English for International Trader (Speaking) is intended for students who plan to make career in the international business world. This course is specially designed to give students a chance to practice Business English by assuming each students are engaged in the whole process of export and import. ",
+            "curriculum": "Introduction to the Class\nSituation 1. Ad of Q-pointer II YUMMISituation 2. Paul & Jennifer  inquiries & responses\nSituation 3. Jennifer & Paul Meeting AppointmentYUMMISituation 4. Reserve a Flight\nSituation 5. Reserve a HotelYUMMISituation 6. On Board \t\nSituation 7. Immigration & CustomsYUMMISituation 8. To get to the Hotel\t\nSituation 9. To check in the HotelYUMMISituation 10. Room Service\nSituation 11. Shopping YUMMISituation 12. First Meeting\nSituation 13. Jennifer's Introduction about her CompanyYUMMIMid-term ExamYUMMISituation 14. Jennifer's Presentation about the Product\nSituation 15. Jennifer & Paul  DiningYUMMISituation 16. Price Negotiation \nSituation 17. Counteroffer: Jennifer's Offer for an alternative modelYUMMISituation 18. Acceptance\nSituation 19. Sales Contract YUMMISituation 20. At the Ticket Counter \nSituation 21. Back in the Office\tYUMMISituation 22. Paul:  Official Order\nSituation 23. Jennifer:  Amendment Reqest to the Discrepancey in the Terms of PaymentYUMMISituation 24. Jennifer: Requesting the Extension of Validity of L/C due to Shipment Delay.\nSituation 25. Notice of Final ShipmentYUMMISituation 26. Filing a Claim for the Default Goods.\nSituation 27. Setting the Claim\t\nFinal ExamYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "무역영어회화 English for International Trader (Speaking) is intended for students who plan to make career in the international business world. This course is specially designed to give students a chance to practice Business English by assuming each students are engaged in the whole process of export and import. ",
+            "similarity": 0.3693353698277963
+        },
+        {
+            "id": 3518,
+            "name": "스페인어교재연구및지도법",
+            "description": "본 과목에서는 외국어 교육에서 기초가 되는 교수법(지도법)과 교재론을 다룹니다. 특히 외국어로서의 스페인어(ELE) 교육에서 다뤄졌던 교수법 이론을 바탕으로 실제 교육 현장에서 효과적인 수업을 설계하고 구현하는 능력을 개발하는 데 주안점을 둡니다. 더불어 디지털 전환에 따른 시대적 요구에 발맞추어 인터넷, ChatGPT, 스마트 디바이스, 어플리케이션 등을 적극적으로 활용할 수 있도록 지식정보처리 역량을 강화하는데도 중점을 둡니다. \n본 과목은 교직 이수자가 아니어도 스페인어에 대한 기초 지식이 있고, 스페인어 교육에 관심이 있는 사람이라면 누구나 수강할 수 있습니다. ",
+            "curriculum": "오리엔테이션YUMMI20세기 외국어 교육의 주요 경향 (1)YUMMI20세기 외국어 교육의 주요 경향 (2)YUMMI20세기 외국어 교육의 주요 경향 (3)YUMMI최신 교수법 및 \n외국어 교육에서 정보통신기술의 활용 (1)YUMMI최신 교수법 및 \n외국어 교육에서 정보통신기술의 활용 (2)YUMMI스페인어 교과서 개발의 영역 분석 (1)YUMMI중간고사YUMMI스페인어 교과서 개발의 영역 분석 (2)YUMMI스페인어 교재 개발의 영역 분석 (1)YUMMI스페인어 교재 개발의 영역 분석 (2)YUMMI스페인어 교재 개발의 영역 분석 (3)YUMMI모의 수업 및 성찰YUMMI모의 수업 및 성찰YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "full_text": "스페인어교재연구및지도법 본 과목에서는 외국어 교육에서 기초가 되는 교수법(지도법)과 교재론을 다룹니다. 특히 외국어로서의 스페인어(ELE) 교육에서 다뤄졌던 교수법 이론을 바탕으로 실제 교육 현장에서 효과적인 수업을 설계하고 구현하는 능력을 개발하는 데 주안점을 둡니다. 더불어 디지털 전환에 따른 시대적 요구에 발맞추어 인터넷, ChatGPT, 스마트 디바이스, 어플리케이션 등을 적극적으로 활용할 수 있도록 지식정보처리 역량을 강화하는데도 중점을 둡니다. \n본 과목은 교직 이수자가 아니어도 스페인어에 대한 기초 지식이 있고, 스페인어 교육에 관심이 있는 사람이라면 누구나 수강할 수 있습니다. ",
+            "similarity": 0.43562352163134377
+        },
+        {
+            "id": 4327,
+            "name": "스페인어논리및논술",
+            "description": "스페인어를 읽고 이해하는 능력을 기른다.\n스페인어로 읽은 내용을 재구성하는 방식을 통해, 스페인어로 논리적 표현을하는 능력을 기른다.",
+            "curriculum": "수업에 대한 이해                                                       \n강의 자료 TEXT 이해 및 논리적 재구성                    YUMMI강의 자료 TEXT 이해 및 논리적 재구성 YUMMI강의 자료 TEXT 이해 및 논리적 재구성 YUMMI강의 자료 TEXT 이해 및 논리적 재구성 YUMMI강의 자료 TEXT 이해 및 논리적 재구성 YUMMI강의 자료 이해 및 논리적 재구성 YUMMI강의 자료 TEXT 이해 및 논리적 재구성 YUMMI중간고사YUMMI강의 자료 TEXT 이해 및 논리적 재구성 YUMMI강의 자료 TEXT 이해 및 논리적 재구성 YUMMI강의 자료 TEXT 이해 및 논리적 재구성 YUMMI강의 자료 TEXT 이해 및 논리적 재구성 YUMMI강의 자료 TEXT 이해 및 논리적 재구성 YUMMI강의 자료 TEXT 이해 및 논리적 재구성 YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "full_text": "스페인어논리및논술 스페인어를 읽고 이해하는 능력을 기른다.\n스페인어로 읽은 내용을 재구성하는 방식을 통해, 스페인어로 논리적 표현을하는 능력을 기른다.",
+            "similarity": 0.43176318560779325
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "description": "오늘날 글로벌 기업들은 해외시장진출을 위하여 기본적으로 시장조사에 깊은 이해가 필요합니다. 이에 다양한 시장조사 방법과 데이터 분석 기술을 익힘으로써 현실적인 비즈니스 시나리오에서 효과적으로 대응할 수 있도록 한다.",
+            "curriculum": "오리엔테이션YUMMI 해외시장조사의 개요YUMMI해외시장조사 산업YUMMI해외시장조사 대상 국가 선정 및 분석YUMMI해외시장조사방법YUMMI조사설계 및 2차 데이터 패키지 정보YUMMI정성적 조사기술과 설문데이터 수집방법YUMMI중간고사YUMMI측정의 이해, 문항개발, 설문지 설계YUMMI표본추출 및 크기결정YUMMI통계분석 및 조사보고서YUMMI실습하기 1YUMMI실습하기 2YUMMIReview & PresentationYUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "해외시장조사론 오늘날 글로벌 기업들은 해외시장진출을 위하여 기본적으로 시장조사에 깊은 이해가 필요합니다. 이에 다양한 시장조사 방법과 데이터 분석 기술을 익힘으로써 현실적인 비즈니스 시나리오에서 효과적으로 대응할 수 있도록 한다.",
+            "similarity": 0.4052838382630475
+        },
+        {
+            "id": 4088,
+            "name": "무역현장마케팅 2",
+            "description": "무역실무 및 현장실습을 통해 전문인력 양성, 도내 중소 수출업체 실무지원(시장조사보고서, CL작성, Inquiry응대, 통번역, 바이어상담, 사후관리 등)을 통한 무역현장실습을 익힌다.",
+            "curriculum": "현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역현장마케팅 2 무역실무 및 현장실습을 통해 전문인력 양성, 도내 중소 수출업체 실무지원(시장조사보고서, CL작성, Inquiry응대, 통번역, 바이어상담, 사후관리 등)을 통한 무역현장실습을 익힌다.",
+            "similarity": 0.38331946941254963
+        },
+        {
+            "id": 3679,
+            "name": "국제통상정책론",
+            "description": "This course, taught in English, explores the current issues associated with international commercial policies.\n\nKey words : WTo, FTA, Exchange rates, current account, capital flows, elementary open economy macroeconomics, and international monetory institutiions.",
+            "curriculum": "This course examines the current issues associated with international economic and commercial policies.YUMMIPractical and policy questions about key issues.YUMMIWhy is the economic cooperation inportant?YUMMI \tHow does the FTA affect the trade surplus? Investment flows in and out of the economy?YUMMI \tWhat is the relation, if any, amongst the FTA, trade policy, exchange rate, inflation, and productivity?YUMMI \tWhy did the value of a number of Asian currencies decline dramatically in 1997 and 1998? YUMMIFirst Presentation YUMMIFirst PrestntationYUMMI \tWhy did many nations once define their currencies in terms of a given weight of gold? YUMMI \tWhy did a number of European and Asian nations adopt the FTA policy? Should other nations imitate their example?YUMMIThis is a 'why' and 'so what' type of class. Although we all understand rapid changes in the world economy, students will be asked \"why is this happen?\" And \"what will be its consequences?\" And \"What are we going to solve it?\" Seeking solutions in this study, we will be acquired an understanding of the   interactions among economiesYUMMIestablish a coherent view of this mix and provide a conceptual framework for the managerial decision of diagnosing, predicting and responding to changes in the global trading environments. YUMMIIn attempting to bring order to international economic affairs, public institutions such as the IMF, WTO, and World Bank must analyze the consequences of their policies on the private sector.\n\nYUMMIFinal PresentationYUMMIFinal PresentationYUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제통상정책론 This course, taught in English, explores the current issues associated with international commercial policies.\n\nKey words : WTo, FTA, Exchange rates, current account, capital flows, elementary open economy macroeconomics, and international monetory institutiions.",
+            "similarity": 0.37552180272134855
+        },
+        {
+            "id": 2188,
+            "name": "미디어스페인어",
+            "description": "스페인어로 된 동영상(애니메이션, 시트콤 등)을 시청하고 그 대본 텍스트를 학습하여 스페인어 말하기, 듣기 그리고 문해력을 향상시키는 것을 목표로 한다.  ",
+            "curriculum": "Orientation: 강좌 소개 YUMMIPepa Pig, Espsodio 1: Charcos de barro을 시청하고 애니메이션의 인물 관계를 파악하고, 기호, 가까운 미래를 나타내는 표현, 가족 소개하는 법 등을  학습한다. YUMMIPepa Pig. Episodio 2: El senor dinosurio se ha perdido를 시청하고 텍스트에 등장하는 다양한 스페인어 표현을 학습한다. YUMMIPepa Pig. Espisodio 3: La mejor amiga를 시청하고 텍스트에 등장하는 다양한 스페인어 표현을 학습한다. YUMMIPepa Pig. Episodio 4: El loro Polly를 시청하고 텍스트에 등장하는 다양한 스페인어 표현을 학습한다. YUMMIPepa Pig. Episodio 5: El escondite를 시청하고 텍스트에 등장하는 다양한 스페인어 표현을 학습한다. YUMMIPepa Pig. Episodio 6: La guarderia를 시청하고 텍스트에 등장하는 다양한 스페인어 표현을 학습한다. YUMMI중간시험YUMMI시트콤 에피소트 1(초급) Quien es quien을 시청하고 텍스트에 등장하는 다양한 스페인어 표현을 학습한다. YUMMI시트콤 에피소드 Mi rutina(초급)을 시청하고 텍스트에 등장하는 다양한 스페인어 표현을 학습한다. YUMMILista de compra(초급)을 시청하고 텍스트에 등장하는 다양한 스페인어 표현을 학습한다. YUMMIMe he perdido(초급)을 시청하고 텍스트에 등장하는 다양한 스페인어 표현을 학습한다. YUMMITe queda mucho(중급)를 시청하고 텍스트에 등장하는 다양한 스페인어 표현을 학습한다. YUMMICuentame tu problema(중급)를 시청하고 텍스트에 등장하는 다양한 스페인어 표현을 학습한다. YUMMI기말시험YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "full_text": "미디어스페인어 스페인어로 된 동영상(애니메이션, 시트콤 등)을 시청하고 그 대본 텍스트를 학습하여 스페인어 말하기, 듣기 그리고 문해력을 향상시키는 것을 목표로 한다.  ",
+            "similarity": 0.4049603948379905
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "description": "21세기 중남미 국가에서 관찰되는 무역·통상의 특성, 역내 주요국이 당면하고 있는 무역·통상 현안, 그리고 이에 대한 각국의 정책적 대응을 살펴보고자 합니다. 수업 진행 과정에서는 무역·통상에 관한 기초적인 이론을 소개할 것입니다. 또한, 실습을 통해 무역‧투자 관련 원자료를 수집하고, 수집한 자료를 목적에 맞게 가공하며, 가공된 자료에 대한 기초적인 분석을 수행할 수 있는 능력을 배양하고자 합니다. 전공과 학년에 관계없이 누구나 수강할 수 있고, 중남미, 무역·통상, 데이터 등에 관한 사전지식이나 선수과목을 요구하지 않습니다.\n\n강의 슬라이드, 토론, 데이터 실습을 기반으로 탄력적으로 수업을 진행합니다. 주요 교재는 존재하지 않습니다. 평가는 절대평가 방식으로 이루어지며, 기말고사(40%)와 과제물 제출(40%)이 대부분을 차지합니다. 기말고사와 과제물의 구성 또는 방식에 대해 학생-교수 간 조율이 일부 가능합니다.",
+            "curriculum": "수업 소개YUMMI세계 무역·통상 환경 변화와 중남미 국가의 무역·통상정책 IYUMMI세계 무역·통상 환경 변화와 중남미 국가의 무역·통상정책 IIYUMMI단순한 무역 이론과 중남미 국가에의 적용 IYUMMI단순한 무역 이론과 중남미 국가에의 적용 IIYUMMI중남미 국가의 상품·서비스무역 및 투자 흐름의 특성과 쟁점 IYUMMI중남미 국가의 상품·서비스무역 및 투자 흐름의 특성과 쟁점 IIYUMMI중남미 국가의 상품·서비스무역 및 투자 흐름의 특성과 쟁점 IIIYUMMI글로벌 가치사슬과 중남미 IYUMMI글로벌 가치사슬과 중남미 IIYUMMI중남미 국가의 특혜무역협정과 산업정책 IYUMMI중남미 국가의 특혜무역협정과 산업정책 IIYUMMI과제물YUMMI과제물YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "full_text": "중남미무역과통상 21세기 중남미 국가에서 관찰되는 무역·통상의 특성, 역내 주요국이 당면하고 있는 무역·통상 현안, 그리고 이에 대한 각국의 정책적 대응을 살펴보고자 합니다. 수업 진행 과정에서는 무역·통상에 관한 기초적인 이론을 소개할 것입니다. 또한, 실습을 통해 무역‧투자 관련 원자료를 수집하고, 수집한 자료를 목적에 맞게 가공하며, 가공된 자료에 대한 기초적인 분석을 수행할 수 있는 능력을 배양하고자 합니다. 전공과 학년에 관계없이 누구나 수강할 수 있고, 중남미, 무역·통상, 데이터 등에 관한 사전지식이나 선수과목을 요구하지 않습니다.\n\n강의 슬라이드, 토론, 데이터 실습을 기반으로 탄력적으로 수업을 진행합니다. 주요 교재는 존재하지 않습니다. 평가는 절대평가 방식으로 이루어지며, 기말고사(40%)와 과제물 제출(40%)이 대부분을 차지합니다. 기말고사와 과제물의 구성 또는 방식에 대해 학생-교수 간 조율이 일부 가능합니다.",
+            "similarity": 0.40046731052800444
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "description": "현대 세계 경제에서 서비스 무역의 중요성을 배울 수 있는 기회를 제공\n서비스 무역의 틀, 서비스 무역 분석 관련 주제 연구",
+            "curriculum": "서비스 산업의 이해YUMMI우리나라 경제 현황의 이해YUMMI우리나라 경제 현황의 이해YUMMI서비스 산업 프로젝트 1 구성YUMMI서비스 산업과 경제성장의 관련성YUMMI서비스 산업과 경제성장의 관련성YUMMI프로젝트 1 발표YUMMI프로젝트 1 발표YUMMI문화산업의 분류\n프로젝트 2 구성YUMMI문화산업 관련 이슈 연구YUMMI문화산업 정책 연구YUMMI문화산업의 국제적 전략 수립YUMMI프로젝트 2 조율YUMMI프로젝트 2 발표YUMMI프로젝트 2 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "서비스통상론 현대 세계 경제에서 서비스 무역의 중요성을 배울 수 있는 기회를 제공\n서비스 무역의 틀, 서비스 무역 분석 관련 주제 연구",
+            "similarity": 0.39136023202393466
+        },
+        {
+            "id": 1273,
+            "name": "경제통합론",
+            "description": "This class will mainly focus on presenting the theory for economic integration in terms of static and dynamic concepts. Additionally, this lecture also will cover several cases to understand the theory for economic integration well.",
+            "curriculum": "Basic Concepts of Economic IntegrationYUMMIThe Statics of Economic Integration\n- Commodity Movements: Production Aspects (1)YUMMIThe Statics of Economic Integration\n- Commodity Movements: Production Aspects (2)YUMMIThe Statics of Economic Integration\n- Commodity Movements: Consumption and Welfare Aspects (1)YUMMIThe Statics of Economic Integration\n- Commodity Movements: Consumption and Welfare Aspects (2)\nYUMMIThe Statics of Economic Integration\n- Factor Movements (1)\nYUMMIThe Statics of Economic Integration\n- Factor Movements (2)YUMMIMid-term ExamYUMMIThe Dynamics of Economic Integration\n- National Frontiers and Economic Growth (1)YUMMIThe Dynamics of Economic Integration\n- National Frontiers and Economic Growth (2)YUMMIThe Dynamics of Economic Integration\n- Economies of Scale (1)YUMMIThe Dynamics of Economic Integration\n- Economies of Scale (2)\nYUMMIThe Dynamics of Economic Integration\n- External EconomiesYUMMIThe Dynamics of Economic Integration\n- Future Dynamic FactorsYUMMIFinal ExamYUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "경제통합론 This class will mainly focus on presenting the theory for economic integration in terms of static and dynamic concepts. Additionally, this lecture also will cover several cases to understand the theory for economic integration well.",
+            "similarity": 0.36628303840789556
+        },
+        {
+            "id": 2335,
+            "name": "FTA와WTO법",
+            "description": "글로벌 무역환경에 맞추어 FTA와 WTO협정문을 이해하고 새로운 무역환경에 대처하는 법을 배우며, FTA원산지관리사와 FTA원산지실무사 자격증을 취득할 수 있는 기초소양을 배양하는데 학습목표를 둔다. ",
+            "curriculum": "오리엔테이션을 통해 수업전체흐름 및 수업과목 목표를 이해한다. YUMMIWTO개요.  농업, 섬유 및 의류에 관한 협정과 무역관련 투자조치에 관한 협정을 이해한다. YUMMI관세 및 무역에 관한 일반협정 6조의 이행에 관한 협정[반덤핑]에 대한 이해와 보조금 및 상계조치에 관한 협정에 이해와 적응에 대해 고찰해 본다. YUMMI원산지 규정, 긴급수입제한조치, 서비스 무역, 무역관련지적재산권에 관한 협정을 이해하고 고찰해 본다. YUMMI분쟁해결 규칙 및 절차에 관한 양해 무역정책을 이해하고 검토제도 및 복수국간 무역협정을 이해 및 고찰해 본다. YUMMIFTA 개요 및 법령에 대해 이해하고 고찰해 본다. YUMMIFTA 원산지 증명서 활용 및 실무 범위에 대해 고찰해 본다. YUMMI중간고사 / 주관식 필기시험YUMMIHS 품목분류제도와 관세율표에 해석에 관한 통칙을 이해하고 적용하는 실무적 행태를 고찰해 본다. YUMMIFTA 적용요건을 고찰하고 실무적 활용방안[결정요건]에 대해 알아본다.YUMMIFTA 원산지결정을 품목별로 알아보고 개별기준에 따라 활용할 방안을 고찰해 본다.YUMMIFTA 원산지 결정요건[품목별기준/공통기준]을 공통기준에서 알아보고 활용할 방안을 고찰해 본다.YUMMIFTA 원산지 결정요건[일반기준/본야별특례-보충기준]을 알아보고 실무적 활용방안을 고찰해 본다. YUMMI관세절차 및 통관, 관세환급 방안을 알아보고 고찰해 본다. YUMMI기말고사 / 주관식 필기시험YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "FTA와WTO법 글로벌 무역환경에 맞추어 FTA와 WTO협정문을 이해하고 새로운 무역환경에 대처하는 법을 배우며, FTA원산지관리사와 FTA원산지실무사 자격증을 취득할 수 있는 기초소양을 배양하는데 학습목표를 둔다. ",
+            "similarity": 0.3455662019789641
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "description": "세계 인구의 7% 이상이 사용하는 스페인어는 비즈니스 세계에서 영어, 중국어와 함께  수요가  많은 언어 중의 하나이다. 졸업 후 스페인이나 중남미 국가에 취업하거나 또는 해당 국가에 진출한 국내 기업들에 취업을 염두에 둔 학생들에게 상업과 통상을 비롯한 비즈니스 관련 스페인어를 습득할 수 있는 강좌가 필요한 이유이다. 이에 본 교과목은  무역 및 산업과 관련된 스페인어 능력을 함양하는 것을 목표로 한다.   ",
+            "curriculum": "Presentacion del curso YUMMI기업과 회사 YUMMI인력개발 1YUMMI인력개발 2YUMMI홍보와 마케팅 YUMMI구매와 판매 YUMMI수입과 수출 YUMMI중간시럼YUMMIEstudiando la carrera en la universidad.YUMMIRedactando un curriculum en espanol YUMMIContrato de trabajoYUMMIEn el departamento de Marketing YUMMIComo escaquearse de un marron en la oficina YUMMI전화와 이메일 작성하는 법 익히기YUMMI기말시험YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "full_text": "비즈니스스페인어 세계 인구의 7% 이상이 사용하는 스페인어는 비즈니스 세계에서 영어, 중국어와 함께  수요가  많은 언어 중의 하나이다. 졸업 후 스페인이나 중남미 국가에 취업하거나 또는 해당 국가에 진출한 국내 기업들에 취업을 염두에 둔 학생들에게 상업과 통상을 비롯한 비즈니스 관련 스페인어를 습득할 수 있는 강좌가 필요한 이유이다. 이에 본 교과목은  무역 및 산업과 관련된 스페인어 능력을 함양하는 것을 목표로 한다.   ",
+            "similarity": 0.5734618944401504
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "description": "기업의 국제화와 세계시장의 글로벌화에 대응해 지역별, 국별 시장 특성과 동향을 이해하고 분석하는 능력을  함양하는데 그 목적이 있다. ",
+            "curriculum": "세계지역론 소개 및 연구범위YUMMI세계국가 무역환경분석YUMMI세계국가 무역환경분석YUMMI세계국가 산업분석YUMMI세계국가 무역분석YUMMI세계국가 무역분석YUMMI세계지역 전략 수출상품 연구YUMMIProject 1 최종발표YUMMI4차 산업혁명과 무역환경YUMMIDiana EconomyYUMMIproject 1 심화 발표YUMMIGlobal RPM 응용 전략YUMMI시장진출과 국제경쟁력 확보방안YUMMIProject 2 최종발표YUMMIProject 2 최종발표YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "세계지역론 기업의 국제화와 세계시장의 글로벌화에 대응해 지역별, 국별 시장 특성과 동향을 이해하고 분석하는 능력을  함양하는데 그 목적이 있다. ",
+            "similarity": 0.35955586502547376
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "description": "한국의 경제성장과 무역의 상관관계, 한국 무역의 역사, 한국 정부의 무역 및 산업 정책 변화 과정, 한국 무역 관련 주요 기관 및 기능, 한국 무역 관련 주요 법률 고찰 및 한국 무역에 영향을 미치는 글로벌 무역 환경과 최근 주요 이슈 등을 분석 연구하여 궁극적으로 한국 및 세계 무역 환경과 그에 관련된 주요 이슈에 대한 분석 연구 능력을 제고코자 함 ",
+            "curriculum": "한국 무역학 연구 강좌 소개YUMMI무역의 개념 및 추세YUMMI경제성장과 무역의 상관관계YUMMI한국 경제와 한국 무역의 성장과정YUMMI최근 10년간 한국 무역의 특징 변화YUMMI한국의 무역관리 시스템YUMMI세계 경제 및 글로벌 무역의 이해YUMMI중간고사YUMMI글로벌 무역 운송 루트YUMMIWTO와 한국 무역YUMMIFTA와 한국 무역YUMMIFDI와 한국 무역YUMMI한국의 주요 수출시장 이해 I - 팀프로젝트YUMMI한국의 주요 수출시장 이해 II - 팀프로젝트YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "한국무역론 한국의 경제성장과 무역의 상관관계, 한국 무역의 역사, 한국 정부의 무역 및 산업 정책 변화 과정, 한국 무역 관련 주요 기관 및 기능, 한국 무역 관련 주요 법률 고찰 및 한국 무역에 영향을 미치는 글로벌 무역 환경과 최근 주요 이슈 등을 분석 연구하여 궁극적으로 한국 및 세계 무역 환경과 그에 관련된 주요 이슈에 대한 분석 연구 능력을 제고코자 함 ",
+            "similarity": 0.3534421411447612
+        },
+        {
+            "id": 3186,
+            "name": "국제벤처창업경영론",
+            "description": "국가 간 거래를 위한 국제벤처창업경영의 이론과 실무적 지식을 이해하고 창업 시뮬레이션으로 실무역량을 강화한다. ",
+            "curriculum": "오리엔테이션YUMMI벤처창업 시뮬레이션 팀 구성YUMMI기업가 정신의 이해YUMMI기업조직 구성 등YUMMI팀별 상품 선정 및 상품성 확인, 조직, 경영을 위한 창조성과 창의력 발휘YUMMI창업 아이디어 발굴 기법YUMMI사업타당성 및 지속가능성YUMMI중간고사YUMMI사업타당성 및 리스크관리 방안YUMMI사업계획서 작성방법YUMMI회사 재무상태 확인YUMMI정부지원자금 조달 YUMMI벤처스타트업의 세계화YUMMI벤처스타트업 사례 분석YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제벤처창업경영론 국가 간 거래를 위한 국제벤처창업경영의 이론과 실무적 지식을 이해하고 창업 시뮬레이션으로 실무역량을 강화한다. ",
+            "similarity": 0.34767733496335185
+        },
+        {
+            "id": 3342,
+            "name": "중국무역투자론",
+            "description": "세계 정치 및 경제 무대에서의 위상이 급상승하고 있는 중국의 통상환경에 대한 기본개념을 파악하기 위하여 중국의 대외개방정책의 성립 및 전개과정, 통상정책의 변화와 한중무역, 대중국 직접투자 등의 고찰을 통한 중국통상에 관한 이해증진을 목표로 한다.",
+            "curriculum": "중국개황YUMMI중국과 중국인 1 : 중국민족YUMMI중국과 중국인 2 : 중국의 소비시장YUMMI중국의 대외개방경제체제 성립YUMMI중국의 대외개방정책 전개과정YUMMI중국의 통상정책YUMMI중국의 WTO가입과 통상정책의 변화YUMMI중간고사YUMMI중국의 대외무역구조의 변화YUMMI한중 경제관계의 변화YUMMI중국의 외자유치정책과 중국기업의 해외진출 1YUMMI중국의 외자유치정책과 중국기업의 해외진출 2YUMMI글로벌기업의 대중국투자YUMMI한국기업의 대중국 권역별 진출전략YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "중국무역투자론 세계 정치 및 경제 무대에서의 위상이 급상승하고 있는 중국의 통상환경에 대한 기본개념을 파악하기 위하여 중국의 대외개방정책의 성립 및 전개과정, 통상정책의 변화와 한중무역, 대중국 직접투자 등의 고찰을 통한 중국통상에 관한 이해증진을 목표로 한다.",
+            "similarity": 0.34539408360289414
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "meta_info": {
+        "user_query": "항공기 및 드론의 공기역학적 성능을 분석하고 최적화하는 항공 역학 엔지니어(Aerodynamics Engineer)가 되고 싶어요. 필요한 과정은 무엇인가요?",
+        "expanded_query": null,
+        "given_departments": [
+            "기계공학과",
+            "항공우주공학과"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 744,
+            "name": "항공공학개론",
+            "description": "항공공학과 관련된 기본적인 공학지식을 습득하는 것을 목표로 한다. 고정익기와 회전익기 역사에 대한 소개를 하며, 항공공학에서 자주 사용되는 기본 물리량에 대한 정의와 물리법칙을 다루고, 날개이론, 비행성능, 항공기 추진기관, 공력시험 및 항공기 구조에 관한 기본적인 지식을 배운다.  설계와 관련되어 전체 수업시간의 1/3을 공기보다 가벼운 비행체를 학생들이 주도하여 설계/제작하게 함으로써, 학생들의 적극적이고 자발적인 참여를 유도 한다.",
+            "curriculum": "강의소개 및 서론YUMMI항공역사YUMMI비행원리YUMMI날개이론, 퀴즈YUMMI날개이론YUMMI항력YUMMI기초설계 (프로젝트)YUMMI기초설계 (프로젝트)YUMMI기초설계 (프로젝트)YUMMI안정성 및 조종성YUMMI항공기 성능시험YUMMI추력 및 추진, 고속유동YUMMI고속유동, 항공기 성능YUMMI항공기 구조YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공공학개론 항공공학과 관련된 기본적인 공학지식을 습득하는 것을 목표로 한다. 고정익기와 회전익기 역사에 대한 소개를 하며, 항공공학에서 자주 사용되는 기본 물리량에 대한 정의와 물리법칙을 다루고, 날개이론, 비행성능, 항공기 추진기관, 공력시험 및 항공기 구조에 관한 기본적인 지식을 배운다.  설계와 관련되어 전체 수업시간의 1/3을 공기보다 가벼운 비행체를 학생들이 주도하여 설계/제작하게 함으로써, 학생들의 적극적이고 자발적인 참여를 유도 한다.",
+            "similarity": 0.13152151912976495
+        },
+        {
+            "id": 2430,
+            "name": "비행동역학",
+            "description": "항공기 운동 특성의 이해와 적용을 위하여 항공기 운동방정식의 유도 및 이에 근거한 비선형 시뮬레이션 수행 능력을 확보한다. 평형 비행 상태의 정의 및 이를 기준으로한 선형 운동방정식의 해석을 통하여 항공기 동특성을 분석한다. 항공기 동특성 해석 결과 및 항공기 설계 기준을 연계하고 궁극적으로 항공기 제어 시스템 설계에 관한 기본 전략을 강의한다. 또한, MATLAB 기반의 프로그래밍을 통한 프로젝트를 수행하여 프로그래밍 사용법 숙지와 설계 능력을 높인다.\n[참고자료1] 현 강의 계획은 비행동역학에 필요한 일반적인 내용을 정리한 것이며, 구체적이고 상세한 강의 계획, 일정, 평가 방법 등은 학기초에 상세한 자료와 함께 설명 예정입니다.\n[참고사항2] 대면수업 중심으로 비대면수업 (강의자료제공)과 혼합하는 방식입니다.",
+            "curriculum": "과목 소개 및 비행동역학 개론\n\n사전이해도 평가 시행YUMMIMATLAB 프로그래밍 및 Simulink 입문YUMMI질점 항공기의 운동 (1)YUMMI질점 항공기의 운동 (2)YUMMI세로안정성과 조종성 (1)YUMMI세로안정성과 조종성 (2)YUMMI가로,방향 안정성과 조종성 (2)YUMMI가로,방향 안정성과 조종성 (2)YUMMI중간고사YUMMI강체 항공기의 운동YUMMI안정미계수YUMMI항공기운동특성YUMMI스핀운동YUMMI항공기비행성YUMMI기말시험YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "비행동역학 항공기 운동 특성의 이해와 적용을 위하여 항공기 운동방정식의 유도 및 이에 근거한 비선형 시뮬레이션 수행 능력을 확보한다. 평형 비행 상태의 정의 및 이를 기준으로한 선형 운동방정식의 해석을 통하여 항공기 동특성을 분석한다. 항공기 동특성 해석 결과 및 항공기 설계 기준을 연계하고 궁극적으로 항공기 제어 시스템 설계에 관한 기본 전략을 강의한다. 또한, MATLAB 기반의 프로그래밍을 통한 프로젝트를 수행하여 프로그래밍 사용법 숙지와 설계 능력을 높인다.\n[참고자료1] 현 강의 계획은 비행동역학에 필요한 일반적인 내용을 정리한 것이며, 구체적이고 상세한 강의 계획, 일정, 평가 방법 등은 학기초에 상세한 자료와 함께 설명 예정입니다.\n[참고사항2] 대면수업 중심으로 비대면수업 (강의자료제공)과 혼합하는 방식입니다.",
+            "similarity": 0.20699065987319318
+        },
+        {
+            "id": 311,
+            "name": "항공드론제어설계",
+            "description": "항공기(무인기)와 우주선을 비롯하여 로봇과 자동화시스템 등 항공우주 및 기계전자시스템의 제어에 관한 원리를 이해하고 기초적인 설계과정을 연습한다.",
+            "curriculum": "제어공학 소개 \n- 기초학습과제 : 수학 및 전기기초 문제풀이(미분방정식, 벡터, 행렬, 전기회로 등)YUMMI전기회로 기초 : 직류회로, 임피던스/교류회로YUMMILaplace 변환 및 전달함수YUMMI전기 및 기계시스템의 전달함수 YUMMI전기 및 기계시스템의 전달함수 \n- Case study : 안테나 제어시스템의 전달함수YUMMI전기 및 기계시스템의 상태방정식\n- Case study : 안테나 제어시스템의 상태방정식YUMMI1차 및 2차 시스템YUMMI제어시스템의 과도응답\n- Case study : 안테나 제어시스템의 open-loop 응답 YUMMI등가 시스템  \n- 설계 #1 : Closed-loop 응답설계(안테나 사례연구)YUMMI과도응답 안정도 \n- 설계 #2 : Gain에 의한 안정도 설계(안테나 사례연구)YUMMI정상상태 오차해석 \n- 설계 #3 : Gain에 의한 정상상태 오차 설계(안테나 사례연구)YUMMI근궤적 기법 \n- 설계 #4 : Gain에 의한 과도응답 설계(안테나 사례연구)YUMMI주파수 응답기법 YUMMI<지필 기말시험>YUMMI<구두 기말시험> YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론제어설계 항공기(무인기)와 우주선을 비롯하여 로봇과 자동화시스템 등 항공우주 및 기계전자시스템의 제어에 관한 원리를 이해하고 기초적인 설계과정을 연습한다.",
+            "similarity": 0.11755141729618257
+        },
+        {
+            "id": 4169,
+            "name": "항공기추진기관",
+            "description": "항공기 추진기관의 작동원리 및 다양한 추진기관의 성능특성에 대하여 이해한다.",
+            "curriculum": "항공기추진기관의 작동개념 및 구조YUMMI항공기추진기관의 작동개념 및 구조YUMMI프로펠러 추진기관과 동력장치YUMMI프로펠러 추진기관과 동력장치YUMMI추진기관 관련이론 리뷰(유체역학)YUMMI추진기관 관련이론 리뷰(유체역학)YUMMI추진기관 관련이론 리뷰(회전체, 열역학)YUMMI추진기관 관련이론 리뷰(회전체, 열역학)YUMMI중간고사YUMMIEngine Thrust and Performance ParametersYUMMIGas Turbine Engine Cycle AnalysisYUMMIGas Turbine Engine Cycle AnalysisYUMMITurbojet Engine with an AfterburnerYUMMITurbofan EngineYUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공기추진기관 항공기 추진기관의 작동원리 및 다양한 추진기관의 성능특성에 대하여 이해한다.",
+            "similarity": 0.1867860442635081
+        },
+        {
+            "id": 4755,
+            "name": "압축성유체역학",
+            "description": "기계공학 분야와는 달리 항공우주공학에서는 압축성 유체역학에 대한 이해가 터빈 설계, 로켓 노즐 설계, 초음속 항공기 형상 설계에 필수적인 부분이다. 이를 위해  본 강좌에서는 음속의 정의, 충격파 및 팽창파의 생성원리, 수직 및 경사 충격파, 충격파관에서의 유동 특성, 초음속 풍동의 원리, 이동충격파 및 팽창파, 공기흡입구 및 노즐 설계, 충격파의 간섭 및 반사, 공력소음의 기초 이론 등을 다룸으로써, 천음속과 초음속 항공기 및 로켓의 날개, 노즐, 흡입구 등을 설계할 수 있는 기본 개념을 습득한다.",
+            "curriculum": "Chapter 1. Basic Equations of Compressible Flow (1)YUMMIChapter 1. Basic Equations of Compressible Flow (2)YUMMIChapter 2. Wave Propagation in Compressible MediaYUMMIChapter 3. Isentropic Flow of a Perfect GasYUMMIChapter 4. Stationary Normal Shock Waves (1)YUMMIChapter 4. Stationary Normal Shock Waves (2)YUMMIChapter 5. Moving Normal Shock WavesYUMMIMid-Term ExamYUMMIChapter 6. Oblique Shock Waves (1)YUMMIChapter 6. Oblique Shock Waves (2)YUMMIChapter 7. Prandtl Meyer Flow (1)YUMMIChapter 7. Prandtl Meyer Flow (2)YUMMIChapter 8. Applications involving Shocks and Expansion Fans (1)YUMMIChapter 8. Applications involving Shocks and Expansion Fans (2)YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "압축성유체역학 기계공학 분야와는 달리 항공우주공학에서는 압축성 유체역학에 대한 이해가 터빈 설계, 로켓 노즐 설계, 초음속 항공기 형상 설계에 필수적인 부분이다. 이를 위해  본 강좌에서는 음속의 정의, 충격파 및 팽창파의 생성원리, 수직 및 경사 충격파, 충격파관에서의 유동 특성, 초음속 풍동의 원리, 이동충격파 및 팽창파, 공기흡입구 및 노즐 설계, 충격파의 간섭 및 반사, 공력소음의 기초 이론 등을 다룸으로써, 천음속과 초음속 항공기 및 로켓의 날개, 노즐, 흡입구 등을 설계할 수 있는 기본 개념을 습득한다.",
+            "similarity": 0.10088385940407238
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "description": "본 과목에서는 학생들이 그동안 습득한 전공 지식을 바탕으로 항공 및 드론의 설계 원리를 이해하고, 이를 개선 및 개발하기 위한 창의력을 키움과 동시에 실제 산업 현장에서의 적응력을 향상시키는데 목적이 있다. 따라서 본 교과목을 통해 문제의 발견 및 분석, 문제 해결을 위한 체계적인 접근 방법, 문제 해석 방법 등을 공부하게 되며, 작품 제작을 통해 관련 기술의 적용성 향상, 아이디어의 구체화 등을 학습하게 된다.",
+            "curriculum": "창의적 공학설계 개요 설명, 팀 구성YUMMI작품제작 주제선정 및 연구계획서 작성을 위한 기초자료조사 #1YUMMI작품제작 주제선정 및 연구계획서 작성을 위한 기초자료조사 #1YUMMI주제선정 및 문제해결을 위한 접근방법 토의YUMMI시제품 설계를 위한 배경지식 탐구 #1YUMMI시제품 설계를 위한 배경지식 탐구 #1YUMMI시제품 설계, 부품 및 재료조사 #1YUMMI시제품 설계, 부품 및 재료조사 #2YUMMI시제품 설계, 부품 및 재료조사 #3YUMMI시제품 설계, 부품 및 재료조사 #4YUMMI시제품 제작 #1YUMMI시제품 제작 #2YUMMI시제품 제작 #3YUMMI시제품 제작 #4YUMMI종합발표회, 작품 전시 및 보고서 제출YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론융합설계 본 과목에서는 학생들이 그동안 습득한 전공 지식을 바탕으로 항공 및 드론의 설계 원리를 이해하고, 이를 개선 및 개발하기 위한 창의력을 키움과 동시에 실제 산업 현장에서의 적응력을 향상시키는데 목적이 있다. 따라서 본 교과목을 통해 문제의 발견 및 분석, 문제 해결을 위한 체계적인 접근 방법, 문제 해석 방법 등을 공부하게 되며, 작품 제작을 통해 관련 기술의 적용성 향상, 아이디어의 구체화 등을 학습하게 된다.",
+            "similarity": 0.1505757724756432
+        }
+    ]
+}

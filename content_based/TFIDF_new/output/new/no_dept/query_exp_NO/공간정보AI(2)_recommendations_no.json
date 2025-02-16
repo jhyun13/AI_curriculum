@@ -1,0 +1,194 @@
+{
+    "meta_info": {
+        "user_query": "컴퓨터 그래픽스와 3D 공간 설계를 배우고, 이를 활용해 도시 시뮬레이션을 구축하는 방법을 익히고 싶어요. 어떤 학습 과정을 거쳐야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2983,
+            "name": "도시학개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.1330244830474592
+        },
+        {
+            "id": 2559,
+            "name": "제도및공간표현",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "주거환경학과",
+            "similarity": 0.12319741613781184
+        },
+        {
+            "id": 2015,
+            "name": "전기회로기초실험",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전기공학과",
+            "similarity": 0.12670514926284895
+        },
+        {
+            "id": 928,
+            "name": "감각과지각",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "심리학과",
+            "similarity": 0.1229572897131314
+        },
+        {
+            "id": 1670,
+            "name": "대수학입문 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "수학과",
+            "similarity": 0.11551465413374447
+        },
+        {
+            "id": 3887,
+            "name": "컴퓨터구조",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.15245114927668313
+        },
+        {
+            "id": 4277,
+            "name": "수리통계학 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.11019224718106577
+        },
+        {
+            "id": 698,
+            "name": "CATIA및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.23921984933250462
+        },
+        {
+            "id": 2424,
+            "name": "실내공간코디네이션",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "주거환경학과",
+            "similarity": 0.15472934764992263
+        },
+        {
+            "id": 2330,
+            "name": "컴퓨터구조",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.15272154641048008
+        },
+        {
+            "id": 470,
+            "name": "CAD",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.13379249824372755
+        },
+        {
+            "id": 2117,
+            "name": "수문학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "토목환경자원에너지공학부(토목공학)",
+            "similarity": 0.12695549211473403
+        },
+        {
+            "id": 3784,
+            "name": "구조설계",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "건축공학과",
+            "similarity": 0.17661775146135733
+        },
+        {
+            "id": 4606,
+            "name": "컴퓨터네트워크",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.15254410094633586
+        },
+        {
+            "id": 4541,
+            "name": "컴퓨터그래픽스",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.1411108664111446
+        },
+        {
+            "id": 4389,
+            "name": "반응공학 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "화학공학부",
+            "similarity": 0.12954329423374483
+        },
+        {
+            "id": 4164,
+            "name": "제어시스템설계",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.12195224484999842
+        },
+        {
+            "id": 1000,
+            "name": "디자인포트폴리오",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "주거환경학과",
+            "similarity": 0.12190338262217698
+        },
+        {
+            "id": 277,
+            "name": "컴퓨터비전",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.11416909388946624
+        },
+        {
+            "id": 1311,
+            "name": "종합설계 1",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "기계설계공학부",
+            "similarity": 0.11275905984046347
+        },
+        {
+            "id": 521,
+            "name": "소프트웨어보안",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.11088634598499962
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.11525798496116439
+        },
+        {
+            "id": 4352,
+            "name": "에너지기술경제학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "화학공학부",
+            "similarity": 0.10729096450257211
+        }
+    ]
+}

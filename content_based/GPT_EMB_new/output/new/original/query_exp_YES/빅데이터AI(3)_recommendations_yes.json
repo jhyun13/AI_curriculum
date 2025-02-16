@@ -1,0 +1,285 @@
+{
+    "meta_info": {
+        "user_query": "대규모 데이터를 실시간으로 분석하기 위해서는 클라우드 환경에서 최적화된 데이터 처리 시스템이 필요합니다. 선형대수와 데이터베이스 기술을 기반으로 빅데이터를 효율적으로 저장·처리하고, 머신러닝과 클라우드 컴퓨팅을 활용하여 인공지능 모델을 확장하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "대규모 데이터를 실시간으로 분석하기 위해서는 클라우드 환경에서 최적화된 데이터 처리 시스템이 필요합니다. 선형대수와 데이터베이스 기술을 기반으로 빅데이터를 효율적으로 저장·처리하고, 머신러닝과 클라우드 컴퓨팅을 활용하여 인공지능 모델을 확장하려면 어떤 학습 과정이 필요할까요? 클라우드 기반의 데이터 최적화 처리 및 인공지능 모델 확장 기술 습득 대규모 데이터 처리 및 인공지능 시스템 구축 데이터 엔지니어링 및 머신러닝 엔지니어링 데이터 엔지니어 클라우드 환경에서 데이터를 저장 및 처리하는 최적화 시스템을 설계하고 구현하며, 머신러닝 기술을 활용하여 인공지능 모델을 구축하고 확장하는 역할을 담당합니다. 대규모 데이터를 효율적으로 처리하는 시스템 설계 및 실행 머신러닝 알고리즘 적용 및 향상 클라우드 인프라 관리 및 최적화 클라우드 컴퓨팅, 빅데이터 처리 기술, 머신러닝 데이터베이스 설계 및 최적화, 선형대수, 프로그래밍 선형대수, 데이터구조, 알고리즘 클라우드 컴퓨팅, 데이터베이스 관리 시스템, 빅데이터 인프라 실시간 데이터 처리 시스템 구축, 머신러닝 모델 배포 및 관리, 클라우드 서비스 활용 및 비용 관리",
+        "given_departments": null,
+        "selected_departments": [
+            "컴퓨터인공지능학부",
+            "산업정보시스템공학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 3094,
+            "name": "컴퓨터공학총론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.4204129730319072
+        },
+        {
+            "id": 4696,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.3394923475700336
+        },
+        {
+            "id": 2729,
+            "name": "이산수학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.28106075044305207
+        },
+        {
+            "id": 3796,
+            "name": "C++프로그래밍",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.25507256173461074
+        },
+        {
+            "id": 764,
+            "name": "자료구조",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3952433084860327
+        },
+        {
+            "id": 2002,
+            "name": "선형대수학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.32689058853158665
+        },
+        {
+            "id": 1954,
+            "name": "선형대수학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3241203166838735
+        },
+        {
+            "id": 1554,
+            "name": "논리설계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.29146494829081504
+        },
+        {
+            "id": 314,
+            "name": "공업통계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.28178060043560027
+        },
+        {
+            "id": 3192,
+            "name": "데이터분석과 R",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.38525943041276395
+        },
+        {
+            "id": 4094,
+            "name": "알고리즘",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.335186516682873
+        },
+        {
+            "id": 2954,
+            "name": "확률및통계",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.31840622800087776
+        },
+        {
+            "id": 3920,
+            "name": "통계데이터분석",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.316653041903784
+        },
+        {
+            "id": 2594,
+            "name": "컴퓨터구조",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.29958713743041027
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.4779467089947741
+        },
+        {
+            "id": 1183,
+            "name": "데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.45091891336074724
+        },
+        {
+            "id": 2154,
+            "name": "데이터베이스설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.39314714419973706
+        },
+        {
+            "id": 2192,
+            "name": "데이터시각화",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.3683024741710378
+        },
+        {
+            "id": 1444,
+            "name": "수치해석및최적화",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.35875071784028734
+        },
+        {
+            "id": 3166,
+            "name": "데이터마이닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.5119639161585972
+        },
+        {
+            "id": 3734,
+            "name": "클라우드컴퓨팅",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.4260671265191945
+        },
+        {
+            "id": 3363,
+            "name": "웹서비스설계",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3924598202202503
+        },
+        {
+            "id": 2819,
+            "name": "소프트웨어공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.36848095089375926
+        },
+        {
+            "id": 4541,
+            "name": "컴퓨터그래픽스",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3429106795831824
+        },
+        {
+            "id": 405,
+            "name": "빅데이터분석과응용",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.46445009875429966
+        },
+        {
+            "id": 251,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.4298009170927553
+        },
+        {
+            "id": 277,
+            "name": "컴퓨터비전",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.4245668474884727
+        },
+        {
+            "id": 1553,
+            "name": "자연어처리",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3838929847166389
+        },
+        {
+            "id": 2311,
+            "name": "임베디드시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.32445492677716753
+        },
+        {
+            "id": 3004,
+            "name": "정보검색",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.41600535039681674
+        },
+        {
+            "id": 2806,
+            "name": "6시그마",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.3223924428986969
+        },
+        {
+            "id": 4308,
+            "name": "시스템보안",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.2867011850136613
+        },
+        {
+            "id": 3379,
+            "name": "산학실전캡스톤 3",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.28056641168241725
+        },
+        {
+            "id": 2786,
+            "name": "SCM",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.26686655854215147
+        }
+    ]
+}

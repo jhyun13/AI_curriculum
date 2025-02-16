@@ -1,0 +1,294 @@
+{
+    "meta_info": {
+        "user_query": "최근 드론은 군사 및 보안 분야에서 자율 정찰, 감시, 무인 경계 시스템 등으로 활용되고 있으며, AI와 결합하여 스마트 감시 및 자동 대응 시스템으로 발전하고 있습니다. 저는 이러한 기술을 더욱 발전시켜 도시 및 국경 감시 시스템, 응급 구조 드론, 재난 지역 자동 탐색 및 구조 드론 등을 개발하는 데 기여하고 싶습니다. 이를 위해 임베디드 시스템 설계, AI 기반 영상 분석, 드론의 네트워크 통신 및 실시간 제어 시스템, IoT 기반 센서 네트워크, 머신러닝을 활용한 자동 탐색 알고리즘 등을 배워야 할 것 같은데, 구체적으로 어떤 학습이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "항공우주공학과",
+            "컴퓨터인공지능학부",
+            "생물산업기계공학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 3094,
+            "name": "컴퓨터공학총론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.38121287876658266
+        },
+        {
+            "id": 3888,
+            "name": "디지털농업프로그래밍개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.34067365688778367
+        },
+        {
+            "id": 4287,
+            "name": "디지털농업기계개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.3342589254061247
+        },
+        {
+            "id": 3796,
+            "name": "C++프로그래밍",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.24235298005500164
+        },
+        {
+            "id": 2729,
+            "name": "이산수학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.21988641265102793
+        },
+        {
+            "id": 3,
+            "name": "항공드론기초설계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.47197158777898074
+        },
+        {
+            "id": 420,
+            "name": "전산항공드론기초",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.46988650173150115
+        },
+        {
+            "id": 2033,
+            "name": "생물전기전자공학및실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.37032150824104554
+        },
+        {
+            "id": 1757,
+            "name": "제도학및실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.34593725908013223
+        },
+        {
+            "id": 764,
+            "name": "자료구조",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3022754223966083
+        },
+        {
+            "id": 2832,
+            "name": "항공우주로봇입문",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.44293068288646964
+        },
+        {
+            "id": 3539,
+            "name": "농업인공지능개론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.42837545306408553
+        },
+        {
+            "id": 2638,
+            "name": "항공드론재료역학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.36028575645189864
+        },
+        {
+            "id": 4094,
+            "name": "알고리즘",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.34049805280265566
+        },
+        {
+            "id": 3859,
+            "name": "동역학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3207015340327585
+        },
+        {
+            "id": 311,
+            "name": "항공드론제어설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4969311103971634
+        },
+        {
+            "id": 1305,
+            "name": "항공드론CAD응용",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4707555786694847
+        },
+        {
+            "id": 839,
+            "name": "항공드론센서공학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4508778322351511
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.40723561909835493
+        },
+        {
+            "id": 1970,
+            "name": "응용계측학및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.35985013585984355
+        },
+        {
+            "id": 3259,
+            "name": "드론농업응용",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.47782340361399156
+        },
+        {
+            "id": 4165,
+            "name": "스마트팜환경제어",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.3851291658674314
+        },
+        {
+            "id": 3166,
+            "name": "데이터마이닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3759061388891811
+        },
+        {
+            "id": 3363,
+            "name": "웹서비스설계",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3652430744050137
+        },
+        {
+            "id": 4319,
+            "name": "바이오메카트로닉스",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.3595535945593736
+        },
+        {
+            "id": 1160,
+            "name": "정밀농업시스템공학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.46465491851427265
+        },
+        {
+            "id": 277,
+            "name": "컴퓨터비전",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.40619819487278636
+        },
+        {
+            "id": 1015,
+            "name": "전산항공드론심화",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3994899432573107
+        },
+        {
+            "id": 2311,
+            "name": "임베디드시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3761884768526927
+        },
+        {
+            "id": 2293,
+            "name": "현장실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.34838768047805274
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5329364987010159
+        },
+        {
+            "id": 3004,
+            "name": "정보검색",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.36035903924522994
+        },
+        {
+            "id": 2998,
+            "name": "항공우주공학프로젝트",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.322889819975483
+        },
+        {
+            "id": 4308,
+            "name": "시스템보안",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3147696543489749
+        },
+        {
+            "id": 4623,
+            "name": "인공위성임무설계및해석",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3137520379577307
+        }
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "meta_info": {
+        "user_query": "농업 드론 엔지니어로서 드론을 활용한 스마트 농업 기술을 연구하고 개발하는 일을 하고 싶습니다. 드론의 설계, 자율 비행, 정밀 농업 센서 등의 기술을 익히고 싶은데, 이를 위해 어떤 과정과 학습이 필요할까요?",
+        "expanded_query": "농업 드론 엔지니어로서 드론을 활용한 스마트 농업 기술을 연구하고 개발하는 일을 하고 싶습니다. 드론의 설계, 자율 비행, 정밀 농업 센서 등의 기술을 익히고 싶은데, 이를 위해 어떤 과정과 학습이 필요할까요? 드론 설계, 자율 비행, 정밀 농업 센서 기술 습득 스마트 농업 기술 연구 및 개발 농업 기술 및 드론 공학 농업 드론 엔지니어 드론을 활용하여 농업의 생산성과 효율성을 향상시키는 기술을 연구하고 개발하며, 드론 설계 및 운용을 통해 정밀 농업 솔루션을 제공하는 역할 수행 드론 설계 및 제작, 자율 비행 시스템 개발, 농업용 정밀 센서 통합 및 데이터 분석, 스마트 농업 솔루션 설계 드론 설계 및 공학 자율 비행 알고리즘 개발 정밀 농업 센서 기술 항공기 기본 역학 및 구조 전자공학 및 시스템 제어 드론 자율 비행 소프트웨어 및 하드웨어 개발 정밀 농업을 위한 센서 기술 및 데이터 분석 드론 제작 및 테스트 자율 비행 기술 적용 및 현장 운영 농업 데이터 분석 및 솔루션 구현",
+        "given_departments": null,
+        "selected_departments": [
+            "항공우주공학과",
+            "생물산업기계공학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4287,
+            "name": "디지털농업기계개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.47641248685957954
+        },
+        {
+            "id": 3888,
+            "name": "디지털농업프로그래밍개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.4119325642870263
+        },
+        {
+            "id": 3,
+            "name": "항공드론기초설계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5493253855884441
+        },
+        {
+            "id": 420,
+            "name": "전산항공드론기초",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5280316388048567
+        },
+        {
+            "id": 1993,
+            "name": "농업기계통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.4268661739920927
+        },
+        {
+            "id": 755,
+            "name": "원예산물시스템공학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.39434765403845967
+        },
+        {
+            "id": 2033,
+            "name": "생물전기전자공학및실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.36560156149435896
+        },
+        {
+            "id": 3539,
+            "name": "농업인공지능개론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.48991555840814116
+        },
+        {
+            "id": 3324,
+            "name": "농업데이터이해및분석",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.43212444708253683
+        },
+        {
+            "id": 2832,
+            "name": "항공우주로봇입문",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.42487240999461834
+        },
+        {
+            "id": 2638,
+            "name": "항공드론재료역학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.37734652261415025
+        },
+        {
+            "id": 3859,
+            "name": "동역학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3192221595719108
+        },
+        {
+            "id": 311,
+            "name": "항공드론제어설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4932120888253796
+        },
+        {
+            "id": 1575,
+            "name": "생물생산기계공학및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.4859702345491017
+        },
+        {
+            "id": 1305,
+            "name": "항공드론CAD응용",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4764957140863063
+        },
+        {
+            "id": 839,
+            "name": "항공드론센서공학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.47399799211325266
+        },
+        {
+            "id": 1818,
+            "name": "생물자원가공공학및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.4402810506272292
+        },
+        {
+            "id": 3259,
+            "name": "드론농업응용",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.6231242411906923
+        },
+        {
+            "id": 4165,
+            "name": "스마트팜환경제어",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.5174984137215115
+        },
+        {
+            "id": 4319,
+            "name": "바이오메카트로닉스",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.412184831971505
+        },
+        {
+            "id": 4755,
+            "name": "압축성유체역학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.30288369016801786
+        },
+        {
+            "id": 4169,
+            "name": "항공기추진기관",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.2866831363954829
+        },
+        {
+            "id": 1160,
+            "name": "정밀농업시스템공학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.5685634155333129
+        },
+        {
+            "id": 144,
+            "name": "농업기계창의설계 1",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.44253273220798006
+        },
+        {
+            "id": 993,
+            "name": "생물환경시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.4275837358503308
+        },
+        {
+            "id": 1015,
+            "name": "전산항공드론심화",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3849406937647739
+        },
+        {
+            "id": 2293,
+            "name": "현장실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3187339513268659
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5103350304079676
+        },
+        {
+            "id": 2998,
+            "name": "항공우주공학프로젝트",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3710167964353996
+        },
+        {
+            "id": 4623,
+            "name": "인공위성임무설계및해석",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.2767496539116058
+        },
+        {
+            "id": 3804,
+            "name": "바이오시스템공학연구 2",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.2557435322472188
+        }
+    ]
+}

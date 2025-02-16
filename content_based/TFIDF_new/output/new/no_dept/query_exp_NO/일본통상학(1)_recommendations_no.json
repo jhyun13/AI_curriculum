@@ -1,0 +1,162 @@
+{
+    "meta_info": {
+        "user_query": "국제 무역에서는 단순한 경제적 접근뿐만 아니라 해당 국가의 문화와 시장 특성을 고려한 전략 수립이 필수적입니다. 일본 문화, 문학, 대중문화 등을 깊이 이해하면서 이를 무역 실무와 연계하여 실질적인 글로벌 비즈니스 경쟁력을 갖추기 위한 학습 과정은 어떻게 구성해야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1651,
+            "name": "일본문학번역입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.19255513277769287
+        },
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.1091046432232573
+        },
+        {
+            "id": 4709,
+            "name": "일본단편소설강독",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "일본학과",
+            "similarity": 0.10480180557902777
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1032913397496662
+        },
+        {
+            "id": 4396,
+            "name": "식물병리학및실험",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "농생물학과",
+            "similarity": 0.10153576331624209
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.22079627368806476
+        },
+        {
+            "id": 2423,
+            "name": "산업조직론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.11774662629364864
+        },
+        {
+            "id": 2124,
+            "name": "영문학사",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "영어영문학과",
+            "similarity": 0.10676785563639005
+        },
+        {
+            "id": 2623,
+            "name": "불평등의정치경제",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.12174052184532054
+        },
+        {
+            "id": 3824,
+            "name": "아프리카문화와예술의이해",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.12068403499061575
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10816202589750515
+        },
+        {
+            "id": 4451,
+            "name": "신경생물학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생명과학부(분자생물학)",
+            "similarity": 0.10364233565349762
+        },
+        {
+            "id": 1281,
+            "name": "지방재정론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.10824391332441896
+        },
+        {
+            "id": 763,
+            "name": "일본드라마와영화",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.10768721197456455
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.20344356289426102
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1334452946190438
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.13034028609515397
+        },
+        {
+            "id": 3460,
+            "name": "정부및비영리기관회계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.10863126021906473
+        },
+        {
+            "id": 2948,
+            "name": "산림경제학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "산림환경과학과",
+            "similarity": 0.10390844644083952
+        }
+    ]
+}

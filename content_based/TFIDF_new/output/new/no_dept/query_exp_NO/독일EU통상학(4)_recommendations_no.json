@@ -1,0 +1,114 @@
+{
+    "meta_info": {
+        "user_query": "국제 무역 전문가로서 독일과의 무역 거래를 원활하게 지원하는 역할을 하고 싶어요. 어떤 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3377,
+            "name": "과학학의기초",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "과학학과",
+            "similarity": 0.14791081503443493
+        },
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.3492220476051873
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.18912818838514103
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10493705784456095
+        },
+        {
+            "id": 841,
+            "name": "한일무역실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.15238791938370627
+        },
+        {
+            "id": 430,
+            "name": "국제운송·보험론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.1362349077484332
+        },
+        {
+            "id": 3677,
+            "name": "놀이지도",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "아동학과",
+            "similarity": 0.10210227132528085
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.31575844416168447
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.13791991391691338
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4424448156612727
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3460993824373561
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.11369171350121073
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.10606089186324341
+        }
+    ]
+}

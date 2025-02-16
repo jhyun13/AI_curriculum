@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "금융 시장에서는 자동화된 데이터 분석과 투자 전략이 점점 중요해지고 있습니다. Python 프로그래밍과 금융 데이터 분석 기법을 활용하여 자동화된 투자 의사결정 시스템을 구축하고, 금융 리스크를 실시간으로 관리하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "금융 시장에서는 자동화된 데이터 분석과 투자 전략이 점점 중요해지고 있습니다. Python 프로그래밍과 금융 데이터 분석 기법을 활용하여 자동화된 투자 의사결정 시스템을 구축하고, 금융 리스크를 실시간으로 관리하려면 어떤 학습 과정이 필요할까요? 자동화된 투자 의사결정 시스템의 구축 및 금융 리스크의 실시간 관리 금융 기술 전문가로서의 경력 개발 금융 기술 금융 데이터 분석가 금융 시장에서 데이터를 수집하고 분석하여 자동화된 투자 전략을 개발함으로써 금융 리스크를 효과적으로 관리하고, 투자 결정을 지원하는 시스템을 설계합니다. 데이터 수집 및 분석, 투자 전략 개발, 시스템 설계 및 구현, 리스크 관리 Python 프로그래밍, 금융 데이터 분석 Python 프로그래밍 및 데이터 시각화 머신러닝 알고리즘 적용 금융 이론 (포트폴리오 관리, 리스크 관리) 프로그래밍 기초 (특히 Python) 금융 데이터 분석 기법 금융 시장의 구조와 작동 방식 자동화된 투자 시스템 설계 및 구현 실시간 데이터 처리 및 리스크 관리 방법론",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2071,
+            "name": "Python 프로그래밍 1",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.4556721616701428
+        },
+        {
+            "id": 1737,
+            "name": "회계원리",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.27379167298948603
+        },
+        {
+            "id": 945,
+            "name": "기계공학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.2737883160318367
+        },
+        {
+            "id": 1839,
+            "name": "조경제도및표현기법",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.26589828735879656
+        },
+        {
+            "id": 623,
+            "name": "환경생태학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.2590011392394341
+        },
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.4707340386296508
+        },
+        {
+            "id": 4310,
+            "name": "데이터과학프로그래밍입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.46753146068698676
+        },
+        {
+            "id": 3129,
+            "name": "Python 프로그래밍 2",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.41715112116425196
+        },
+        {
+            "id": 3888,
+            "name": "디지털농업프로그래밍개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.41452982499196395
+        },
+        {
+            "id": 4773,
+            "name": "재무회계",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.3953114344951255
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.561046967905044
+        },
+        {
+            "id": 2379,
+            "name": "컴퓨터정보처리",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.48915667292343623
+        },
+        {
+            "id": 1675,
+            "name": "Python 프로그래밍",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.47688171514261135
+        },
+        {
+            "id": 909,
+            "name": "빅데이터개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.45843300848047086
+        },
+        {
+            "id": 964,
+            "name": "프로그래밍원리와실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.43543941930607555
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.5481310900891714
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4157837434825136
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4113613595263854
+        },
+        {
+            "id": 3568,
+            "name": "패션정보분석",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "의류학과",
+            "similarity": 0.3949173691543067
+        },
+        {
+            "id": 4063,
+            "name": "빅데이터분석의이해",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.3886287269808294
+        },
+        {
+            "id": 1401,
+            "name": "투자론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.5385865531230527
+        },
+        {
+            "id": 480,
+            "name": "재무설계 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.5001346845423236
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.4935425054353684
+        },
+        {
+            "id": 824,
+            "name": "재무경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.4738275855225958
+        },
+        {
+            "id": 649,
+            "name": "국제금융시장론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.4498969146974297
+        },
+        {
+            "id": 3166,
+            "name": "데이터마이닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.5177536731484241
+        },
+        {
+            "id": 2923,
+            "name": "금융리스크관리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.5013423290722987
+        },
+        {
+            "id": 4167,
+            "name": "금융투자실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.49764785933365924
+        },
+        {
+            "id": 3586,
+            "name": "기계학습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.4941978985730049
+        },
+        {
+            "id": 3141,
+            "name": "파생금융상품론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경영학과",
+            "similarity": 0.4445663922193217
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.5509127001086586
+        },
+        {
+            "id": 989,
+            "name": "금융통계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.5301634802231587
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.4351382003802958
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.4287671135539025
+        },
+        {
+            "id": 619,
+            "name": "딥러닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.41319051150323316
+        },
+        {
+            "id": 3096,
+            "name": "금융수학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "수학과",
+            "similarity": 0.4479893992235281
+        },
+        {
+            "id": 3274,
+            "name": "금융리스크관리",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경영학과",
+            "similarity": 0.4333457451269419
+        },
+        {
+            "id": 3098,
+            "name": "한국사회분석실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.38494588821824527
+        },
+        {
+            "id": 3004,
+            "name": "정보검색",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3767899851525157
+        },
+        {
+            "id": 4591,
+            "name": "텍스트마이닝",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3557447185797436
+        }
+    ]
+}

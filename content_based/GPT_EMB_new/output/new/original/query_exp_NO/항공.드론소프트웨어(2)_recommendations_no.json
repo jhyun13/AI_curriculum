@@ -1,0 +1,277 @@
+{
+    "meta_info": {
+        "user_query": "항공 우주 분야에서 소프트웨어 보안 및 해킹 방지 기술을 연구하여 사이버 공격에 대비하는 시스템을 개발하고 싶어요. 필요한 역량은 무엇인가요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "컴퓨터인공지능학부",
+            "항공우주공학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 3094,
+            "name": "컴퓨터공학총론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.29510169970061456
+        },
+        {
+            "id": 2729,
+            "name": "이산수학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.28178726072216637
+        },
+        {
+            "id": 3796,
+            "name": "C++프로그래밍",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.19731693543318746
+        },
+        {
+            "id": 420,
+            "name": "전산항공드론기초",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.41085063520749077
+        },
+        {
+            "id": 3,
+            "name": "항공드론기초설계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3187321699311841
+        },
+        {
+            "id": 764,
+            "name": "자료구조",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.29954258614445795
+        },
+        {
+            "id": 1398,
+            "name": "공업역학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.2834919944710535
+        },
+        {
+            "id": 818,
+            "name": "리눅스프로그래밍",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.27850166485409356
+        },
+        {
+            "id": 2832,
+            "name": "항공우주로봇입문",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4009497123421486
+        },
+        {
+            "id": 2638,
+            "name": "항공드론재료역학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3316530864338566
+        },
+        {
+            "id": 3859,
+            "name": "동역학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.27398004217364275
+        },
+        {
+            "id": 4094,
+            "name": "알고리즘",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.2727997901002255
+        },
+        {
+            "id": 2594,
+            "name": "컴퓨터구조",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.2724907578815748
+        },
+        {
+            "id": 311,
+            "name": "항공드론제어설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4330179759839131
+        },
+        {
+            "id": 1715,
+            "name": "암호론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.4011389228871134
+        },
+        {
+            "id": 1861,
+            "name": "항공우주구조역학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.35456147363116175
+        },
+        {
+            "id": 2098,
+            "name": "항공우주진동및설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3324915318429616
+        },
+        {
+            "id": 839,
+            "name": "항공드론센서공학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.28882938715153245
+        },
+        {
+            "id": 2819,
+            "name": "소프트웨어공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3720101732594764
+        },
+        {
+            "id": 3734,
+            "name": "클라우드컴퓨팅",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.32238622922575183
+        },
+        {
+            "id": 3363,
+            "name": "웹서비스설계",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3072196163082899
+        },
+        {
+            "id": 4541,
+            "name": "컴퓨터그래픽스",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.304515540706607
+        },
+        {
+            "id": 4755,
+            "name": "압축성유체역학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.29129315053082705
+        },
+        {
+            "id": 1015,
+            "name": "전산항공드론심화",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.39513709830041577
+        },
+        {
+            "id": 2406,
+            "name": "네트워크보안",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.38482813642220454
+        },
+        {
+            "id": 1723,
+            "name": "우주궤도역학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.35408708216180507
+        },
+        {
+            "id": 983,
+            "name": "복합재료설계및풍력활용",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3228279487719567
+        },
+        {
+            "id": 1520,
+            "name": "오픈소스소프트웨어개발",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.29457025098118184
+        },
+        {
+            "id": 4308,
+            "name": "시스템보안",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.46263718906613643
+        },
+        {
+            "id": 2998,
+            "name": "항공우주공학프로젝트",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4225772907641534
+        },
+        {
+            "id": 4623,
+            "name": "인공위성임무설계및해석",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3366699204122049
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.325761650478495
+        },
+        {
+            "id": 3379,
+            "name": "산학실전캡스톤 3",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.2975125328980791
+        }
+    ]
+}

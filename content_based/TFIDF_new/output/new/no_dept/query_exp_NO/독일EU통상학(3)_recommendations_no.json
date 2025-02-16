@@ -1,0 +1,114 @@
+{
+    "meta_info": {
+        "user_query": "독일과의 무역 협력을 지원하는 국제 무역 및 경제 분야에서 일하고 싶어요. 관련된 학습 과정과 필수 기술이 무엇인가요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.3195724126050652
+        },
+        {
+            "id": 928,
+            "name": "감각과지각",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "심리학과",
+            "similarity": 0.11098893854525269
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.180395965663538
+        },
+        {
+            "id": 841,
+            "name": "한일무역실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.1394498869222993
+        },
+        {
+            "id": 430,
+            "name": "국제운송·보험론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.12466829757385739
+        },
+        {
+            "id": 2166,
+            "name": "물리과학의역사",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "과학학과",
+            "similarity": 0.10501711214550284
+        },
+        {
+            "id": 4974,
+            "name": "종자학및실험",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "작물생명과학과",
+            "similarity": 0.14729826014115133
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.28894993455640106
+        },
+        {
+            "id": 1061,
+            "name": "미디어경제경영론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.14300341682257314
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.12621024342237497
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4048803852880679
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.32839847422283397
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.11495810724666196
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "meta_info": {
+        "user_query": "데이터가 폭발적으로 증가하는 시대에서, AI 연산을 가속화하는 반도체와 메모리 기술이 필요합니다. AI와 반도체 아키텍처를 최적화하여 고성능 AI 칩을 개발하는 엔지니어가 되고 싶어요. 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "반도체과학기술학과",
+            "컴퓨터인공지능학부"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 793,
+            "name": "인공지능",
+            "description": " 본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "curriculum": "Introduction & problem-solving by searchingYUMMIProblem-solving: Uninformed/Informed Search, Advanced searchYUMMIProblem-solving: Adversarial Search, Constraint satisfaction problemYUMMISymbolic AI: First order logicYUMMISymbolic AI: Inference in FOLYUMMIMachine Learning: Linear classification, logistic regressionYUMMIMidtermYUMMIMachine Learning: Deep learning basics - Feedforward neural networks, Backpropagation, Convolutional networksYUMMIProbabilistic reasonsing: Bayesian networks & InferenceYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIReinforcement learning: Monte carlo learning/Termporal difference learningYUMMIReinforcement learning: Policy gradient methods, Deep Q networksYUMMIGame theory, evolutionary computation, & AI YUMMIFinaltermYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인공지능  본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "similarity": 0.24079708033844907
+        },
+        {
+            "id": 1239,
+            "name": "반도체공정실험 2",
+            "description": "화합물계 반도체 소자를 설계하고, 제작, 측정을 진행해 봄으로써 반도체 공정 실무 능력을 배양시키고자 함\n\n한 학기 동안 팀별로 화합물 반도체 소자를 선정하여 제작, 측정, 평가함\n소자종류: Schottky diode, LED, HFET",
+            "curriculum": "IntroductionYUMMI반도체 소자의 종류와 특징 1YUMMI반도체 소자의 종류와 특징 2YUMMI반도체 소자 실험 계획 1YUMMI반도체 소자 실험 계획 2YUMMI반도체 소자 실험 - 단위공정YUMMI반도체 소자 실험 - 단위공정YUMMI반도체 소자 실험 1차 점검YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 2차 점검YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 3차 점검YUMMI반도체 소자 실험 - 측정YUMMI소자 제작 및 특성 측정 결과 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체공정실험 2 화합물계 반도체 소자를 설계하고, 제작, 측정을 진행해 봄으로써 반도체 공정 실무 능력을 배양시키고자 함\n\n한 학기 동안 팀별로 화합물 반도체 소자를 선정하여 제작, 측정, 평가함\n소자종류: Schottky diode, LED, HFET",
+            "similarity": 0.10255306310718752
+        }
+    ]
+}

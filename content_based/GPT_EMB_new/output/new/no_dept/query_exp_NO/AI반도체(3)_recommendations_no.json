@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "저전력 반도체 설계 및 AI 반도체 에너지 효율 최적화 연구를 진행하고 싶어요. 이에 적합한 학습 과정과 필수 기술이 궁금합니다.",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 757,
+            "name": "컴퓨터응용제도및설계",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.3231412321959246
+        },
+        {
+            "id": 945,
+            "name": "기계공학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.3040313162242798
+        },
+        {
+            "id": 157,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "전기공학과",
+            "similarity": 0.3031816813642787
+        },
+        {
+            "id": 252,
+            "name": "일반수학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.28764186960704075
+        },
+        {
+            "id": 1215,
+            "name": "디지털건축 1",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "한옥학과",
+            "similarity": 0.28163624782848307
+        },
+        {
+            "id": 3479,
+            "name": "디지털논리공학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.43423490964612604
+        },
+        {
+            "id": 3196,
+            "name": "디지털논리공학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "전기공학과",
+            "similarity": 0.4060770563737218
+        },
+        {
+            "id": 3659,
+            "name": "딥러닝-AI기초",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.3775599784155996
+        },
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.36824371630653424
+        },
+        {
+            "id": 3094,
+            "name": "컴퓨터공학총론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3676846974927687
+        },
+        {
+            "id": 33,
+            "name": "응용수학 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.4984677194771874
+        },
+        {
+            "id": 207,
+            "name": "반도체공학입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "신소재공학부(정보소재공학)",
+            "similarity": 0.4636025034500028
+        },
+        {
+            "id": 1755,
+            "name": "반도체공학개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.4633936192668471
+        },
+        {
+            "id": 1604,
+            "name": "디지털공학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.4592472726891306
+        },
+        {
+            "id": 1674,
+            "name": "반도체소자 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전기공학과",
+            "similarity": 0.4337828015828573
+        },
+        {
+            "id": 4703,
+            "name": "응용수학 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.5210662481534376
+        },
+        {
+            "id": 4246,
+            "name": "생산자동화",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.48906541044839363
+        },
+        {
+            "id": 4948,
+            "name": "알고리즘",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.4115760409507652
+        },
+        {
+            "id": 3678,
+            "name": "반도체소자 1",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.4107419195725973
+        },
+        {
+            "id": 3511,
+            "name": "CAD및실습",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.4083029179414862
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.46908109929181296
+        },
+        {
+            "id": 97,
+            "name": "반도체공정",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.46349507377429955
+        },
+        {
+            "id": 1619,
+            "name": "고분자전자광학실습 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "고분자나노공학과",
+            "similarity": 0.4427052787219973
+        },
+        {
+            "id": 812,
+            "name": "초급양자역학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.44264356399119353
+        },
+        {
+            "id": 1881,
+            "name": "전기전자기초회로",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.43920162473434876
+        },
+        {
+            "id": 3211,
+            "name": "반도체소자",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.4935211423286551
+        },
+        {
+            "id": 4420,
+            "name": "반도체화학공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "화학공학부",
+            "similarity": 0.46829881096681414
+        },
+        {
+            "id": 2627,
+            "name": "표준조명공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.4625834591439161
+        },
+        {
+            "id": 3092,
+            "name": "전자공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "신소재공학부(정보소재공학)",
+            "similarity": 0.4573170018190537
+        },
+        {
+            "id": 2727,
+            "name": "전자시스템설계",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.44725546018766615
+        },
+        {
+            "id": 356,
+            "name": "아날로그집적회로설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.4831362252423058
+        },
+        {
+            "id": 1403,
+            "name": "반도체소자설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.479905718317072
+        },
+        {
+            "id": 1239,
+            "name": "반도체공정실험 2",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.4711883606343868
+        },
+        {
+            "id": 2421,
+            "name": "반도체공정",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "신소재공학부(전자재료공학)",
+            "similarity": 0.4575508874017934
+        },
+        {
+            "id": 1267,
+            "name": "전력전자공학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.45350469402282556
+        },
+        {
+            "id": 3846,
+            "name": "반도체공정학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "신소재공학부(정보소재공학)",
+            "similarity": 0.4693731398956745
+        },
+        {
+            "id": 4377,
+            "name": "태양전지재료및소자",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "신소재공학부(전자재료공학)",
+            "similarity": 0.45690324327321674
+        },
+        {
+            "id": 3261,
+            "name": "센서공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.43596368848252864
+        },
+        {
+            "id": 4111,
+            "name": "반도체연구특론 2",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.4355530615894288
+        },
+        {
+            "id": 4093,
+            "name": "시스템및메모리반도체",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.42859168920760604
+        }
+    ]
+}

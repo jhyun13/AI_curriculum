@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "도시 환경 분석을 위한 AI 모델을 구축하는 연구자가 되고 싶어요. 컴퓨터 비전, 데이터 마이닝, 인공지능을 배우면서 어떤 방향으로 연구를 진행하면 좋을까요?",
+        "expanded_query": "도시 환경 분석을 위한 AI 모델을 구축하는 연구자가 되고 싶어요. 컴퓨터 비전, 데이터 마이닝, 인공지능을 배우면서 어떤 방향으로 연구를 진행하면 좋을까요? 도시 환경 분석을 위한 AI 모델 구축 능력 함양. AI 모델을 활용한 도시 환경 분석 연구 수행. 인공지능 및 도시 환경 분석 연구. 도시 환경 AI 연구자 도시 환경 분석을 위한 고급 AI 모델의 개발 및 연구 수행. AI 기술을 활용하여 도시 데이터의 효율적 처리와 분석. 도시 환경에 대한 데이터 수집 및 사전 처리. 인공지능 모델 설계 및 최적화. 컴퓨터 비전 및 데이터 마이닝 기술을 적용한 데이터 분석. 인공지능, 데이터 마이닝, 컴퓨터 비전. 머신러닝 알고리즘 설계, 프로그래밍 능력, 데이터 분석 및 해석 능력. 인공지능 이론, 머신러닝 기법, 데이터 마이닝 기법. 심층 신경망, 지도 및 비지도 학습, 데이터 처리 및 전처리 기법. Python, TensorFlow, PyTorch 등 AI 개발 도구 사용법. 컴퓨터 비전 응용 및 활용법, 대규모 데이터 세트 처리 기술.",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2071,
+            "name": "Python 프로그래밍 1",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.3841670208020146
+        },
+        {
+            "id": 1641,
+            "name": "컴퓨터그래픽스기초",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.35194338451428786
+        },
+        {
+            "id": 623,
+            "name": "환경생태학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.34587205368359597
+        },
+        {
+            "id": 757,
+            "name": "컴퓨터응용제도및설계",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.34024466763761485
+        },
+        {
+            "id": 157,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "전기공학과",
+            "similarity": 0.3192811476191126
+        },
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.46629023448138085
+        },
+        {
+            "id": 3659,
+            "name": "딥러닝-AI기초",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.4292620565879568
+        },
+        {
+            "id": 3094,
+            "name": "컴퓨터공학총론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.41764442322785655
+        },
+        {
+            "id": 2773,
+            "name": "인간행태와환경설계",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.4043359639099258
+        },
+        {
+            "id": 3687,
+            "name": "지형분석및디자인",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생태조경디자인학과",
+            "similarity": 0.3873465130271247
+        },
+        {
+            "id": 2379,
+            "name": "컴퓨터정보처리",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.4664156302478435
+        },
+        {
+            "id": 1537,
+            "name": "확률통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.46215899186052584
+        },
+        {
+            "id": 1914,
+            "name": "도시공간조사분석론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.46079969570084234
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.4527444065825815
+        },
+        {
+            "id": 2226,
+            "name": "도시계획론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.4005812973419974
+        },
+        {
+            "id": 3389,
+            "name": "데이터사이언스",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.4522734477351613
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.45035007905342306
+        },
+        {
+            "id": 4948,
+            "name": "알고리즘",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.4348787858768186
+        },
+        {
+            "id": 3539,
+            "name": "농업인공지능개론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.39599021437597215
+        },
+        {
+            "id": 3247,
+            "name": "행정통계학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.3953203378481417
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.5153300908286915
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.5030249519149921
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.45336645288897137
+        },
+        {
+            "id": 326,
+            "name": "화공전산응용",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "화학공학부",
+            "similarity": 0.4494312732669134
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.43858160084430137
+        },
+        {
+            "id": 4131,
+            "name": "인공지능물리탐사",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(자원에너지공학)",
+            "similarity": 0.539997859294297
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.4878406138106365
+        },
+        {
+            "id": 3166,
+            "name": "데이터마이닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.47833593017204135
+        },
+        {
+            "id": 4106,
+            "name": "스마트농업프로그래밍",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.4617050259798135
+        },
+        {
+            "id": 4575,
+            "name": "딥러닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.4458167763252139
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.4838122218642513
+        },
+        {
+            "id": 2177,
+            "name": "공간정보캡스톤디자인",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.47711004498477494
+        },
+        {
+            "id": 277,
+            "name": "컴퓨터비전",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.46553071380681155
+        },
+        {
+            "id": 1252,
+            "name": "영상처리",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.4478533662241438
+        },
+        {
+            "id": 405,
+            "name": "빅데이터분석과응용",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.4297720444721219
+        },
+        {
+            "id": 3952,
+            "name": "로봇비전",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.43063039723191077
+        },
+        {
+            "id": 3533,
+            "name": "인공지능",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.4209546326606994
+        },
+        {
+            "id": 3004,
+            "name": "정보검색",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.4043313510945181
+        },
+        {
+            "id": 3333,
+            "name": "도시부동산학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.3987999707406184
+        },
+        {
+            "id": 3098,
+            "name": "한국사회분석실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.3940750604667258
+        }
+    ]
+}

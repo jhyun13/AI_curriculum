@@ -1,0 +1,194 @@
+{
+    "meta_info": {
+        "user_query": "아프리카는 빠르게 성장하는 경제 시장이며, 프랑스어권 국가가 많아 프랑스어 능력이 중요한 경쟁력이 될 수 있습니다. 아프리카 시장 진출 전략을 연구하고, 무역 및 경제 협력을 효과적으로 수행하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "아프리카는 빠르게 성장하는 경제 시장이며, 프랑스어권 국가가 많아 프랑스어 능력이 중요한 경쟁력이 될 수 있습니다. 아프리카 시장 진출 전략을 연구하고, 무역 및 경제 협력을 효과적으로 수행하려면 어떤 학습 과정이 필요할까요? 아프리카 시장 진출 전략 및 무역 및 경제 협력 방법 습득 국제 무역 및 경제 협력 전문가 국제 비즈니스 및 경제 협력 아프리카의 프랑스어권 시장에서 무역 및 경제 협력을 추진하고, 시장 진출 전략을 개발하여 비즈니스 기회를 창출하고 장기적인 협력 관계를 구축하는 역할을 담당합니다. 아프리카 프랑스어권 국가 시장 분석, 진출 전략 수립, 무역 협상 및 계약 체결, 경제 협력 프로젝트 관리 프랑스어 순발력, 시장 진출 전략 개발 능력, 무역 및 경제 협력 기획 능력 문화 간 커뮤니케이션 능력, 협상 및 의사소통 기술, 리서치 및 분석 능력 국제 경제 및 무역 이론 비즈니스 및 마케팅 원칙 아프리카 경제 및 프랑스어 기본 아프리카 시장 및 산업 동향 무역 및 경제 협력 정책 프랑스어권 국가 문화 및 규제 이해 시장 조사 및 데이터 분석 실용적인 비즈니스 전략 수립 아프리카 내 경제 협력 네트워크 구축 및 유지",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.17716103840575048
+        },
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.19965430518832494
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.12687736022216245
+        },
+        {
+            "id": 2383,
+            "name": "농식품연관산업론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.10595777859937815
+        },
+        {
+            "id": 4956,
+            "name": "아프리카지역의이해",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.1693309186150998
+        },
+        {
+            "id": 2565,
+            "name": "중국사회경제사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.1343953354345712
+        },
+        {
+            "id": 3474,
+            "name": "조선시대사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.11900230924853748
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.18283174800173213
+        },
+        {
+            "id": 2423,
+            "name": "산업조직론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.1798785884547928
+        },
+        {
+            "id": 1141,
+            "name": "아프리카비즈니스입문",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.14486420959556384
+        },
+        {
+            "id": 1505,
+            "name": "빅데이터경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.11605452810447045
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.19996574927837896
+        },
+        {
+            "id": 3953,
+            "name": "사회적경제론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.15533946016688616
+        },
+        {
+            "id": 412,
+            "name": "아프리카의세계문화유산",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.240796653404059
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.18586867057971654
+        },
+        {
+            "id": 1061,
+            "name": "미디어경제경영론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.17827622783663194
+        },
+        {
+            "id": 279,
+            "name": "일반사회논리및논술론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.1340325720364256
+        },
+        {
+            "id": 109,
+            "name": "베를린도시문화사",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "독일학과",
+            "similarity": 0.11269420731777334
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.2288733014977391
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.218120021330542
+        },
+        {
+            "id": 4142,
+            "name": "프랑스아프리카정치",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.1386872996446125
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.13259317867652265
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.12924514324674602
+        }
+    ]
+}

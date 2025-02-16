@@ -1,0 +1,138 @@
+{
+    "meta_info": {
+        "user_query": "한국 문학을 기반으로 한 웹 콘텐츠 및 모바일 애플리케이션을 개발하고 싶어요. 디지털 환경에서 문학적 자료를 효과적으로 활용하고, 이를 창의적인 방식으로 구현하기 위해 필요한 기술과 학습 과정은 무엇인가요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.15021998034492748
+        },
+        {
+            "id": 1579,
+            "name": "중국고사성어선독",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "중어중문학과",
+            "similarity": 0.10355799495980125
+        },
+        {
+            "id": 3117,
+            "name": "모바일프로그래밍",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.1283448888880102
+        },
+        {
+            "id": 47,
+            "name": "고전시가론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.13144032607526346
+        },
+        {
+            "id": 1022,
+            "name": "생물통계학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "한약자원학과",
+            "similarity": 0.10833441768710045
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.10478566223910063
+        },
+        {
+            "id": 4035,
+            "name": "중국현대문학의이해",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "중어중문학과",
+            "similarity": 0.19415701707996352
+        },
+        {
+            "id": 3812,
+            "name": "영유아디지털리터러시",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "아동학과",
+            "similarity": 0.12930356984194072
+        },
+        {
+            "id": 4673,
+            "name": "문화콘텐츠관리기술",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.11731643821940789
+        },
+        {
+            "id": 4654,
+            "name": "디지털도서관기술과실제",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.10522156897122313
+        },
+        {
+            "id": 2020,
+            "name": "시경과초사감상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "중어중문학과",
+            "similarity": 0.15075374791970972
+        },
+        {
+            "id": 350,
+            "name": "정보이론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.11583163032232906
+        },
+        {
+            "id": 4423,
+            "name": "창작의상",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "의류학과",
+            "similarity": 0.1268954938998864
+        },
+        {
+            "id": 2845,
+            "name": "헬스케어기기디자인",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.11429466803822874
+        },
+        {
+            "id": 2699,
+            "name": "고전산문론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.11120193281196981
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10180701761221908
+        }
+    ]
+}

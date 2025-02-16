@@ -1,0 +1,202 @@
+{
+    "meta_info": {
+        "user_query": "일본 시장을 타깃으로 하는 글로벌 비즈니스에서 경쟁력을 갖추려면 일본어뿐만 아니라 국제 무역 실무, 경제 분석, 해외 시장 조사를 포괄적으로 익혀야 한다고 생각합니다. 무역 이론과 실무를 함께 배우고 일본 경제를 깊이 이해하기 위한 최적의 학습 과정은 무엇인가요?",
+        "expanded_query": "일본 시장을 타깃으로 하는 글로벌 비즈니스에서 경쟁력을 갖추려면 일본어뿐만 아니라 국제 무역 실무, 경제 분석, 해외 시장 조사를 포괄적으로 익혀야 한다고 생각합니다. 무역 이론과 실무를 함께 배우고 일본 경제를 깊이 이해하기 위한 최적의 학습 과정은 무엇인가요? 일본 시장 타깃 글로벌 비즈니스 경쟁력 강화 일본 시장 전문 글로벌 비즈니스 전문가 국제 비즈니스 및 무역 일본 시장 전문 국제 무역 전문가 일본 시장을 대상으로 하는 비즈니스 전략을 수립하고, 국제 무역 절차를 관리하며, 일본 경제 환경 및 비즈니스 기회를 분석하여 글로벌 무역을 촉진하는 직무. 일본 시장 분석, 무역 전략 수립, 무역 실무 진행, 경제 데이터 분석, 해외 시장 조사 및 보고서 작성 일본어 능력, 국제 무역 이해, 경제 분석 비즈니스 전략 기획, 데이터 분석, 시장 조사 기법 국제 무역 이론, 경제학 기초, 일본 경제의 이해 일본 시장 및 경제 분석, 글로벌 마케팅 전략 무역 실무 절차, 일본어 비즈니스 커뮤니케이션, 시장 조사 방법론",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.24671446950168818
+        },
+        {
+            "id": 1651,
+            "name": "일본문학번역입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.21687577405798653
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.15790867307699044
+        },
+        {
+            "id": 4709,
+            "name": "일본단편소설강독",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "일본학과",
+            "similarity": 0.1472931070013892
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.12477586152089958
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10860593967209754
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.25519708303410105
+        },
+        {
+            "id": 2423,
+            "name": "산업조직론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.2211764701212267
+        },
+        {
+            "id": 841,
+            "name": "한일무역실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.15081941122590709
+        },
+        {
+            "id": 2231,
+            "name": "동아시아문명의발생과전개",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "고고문화인류학과",
+            "similarity": 0.10449108652279826
+        },
+        {
+            "id": 430,
+            "name": "국제운송·보험론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.10173897165704118
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.18822685049892435
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.14601405248907445
+        },
+        {
+            "id": 3009,
+            "name": "일본문학과영상미디어",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "일본학과",
+            "similarity": 0.1398062118128171
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.13226963663951158
+        },
+        {
+            "id": 3332,
+            "name": "일본고전문학사",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "일본학과",
+            "similarity": 0.12572564905859054
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.22805169772682754
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.12511111312934442
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.10845332698029257
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3236813315467275
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.28011348161277233
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.18986665213161746
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.16216779763148897
+        },
+        {
+            "id": 3446,
+            "name": "일본사상과근대문명",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "일본학과",
+            "similarity": 0.1476548958054682
+        }
+    ]
+}

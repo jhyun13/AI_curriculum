@@ -1,0 +1,266 @@
+{
+    "meta_info": {
+        "user_query": "기업이 글로벌 시장에서 성공하기 위해서는 경제 및 무역 정책을 이해하고, 데이터 기반 의사 결정과 금융 분석이 필수적입니다. 인공지능과 클라우드 기술을 활용해 국제 시장 데이터를 실시간으로 분석하고, 최적의 무역·투자 전략을 도출하려면 어떤 학습 과정이 필요할까요",
+        "expanded_query": "기업이 글로벌 시장에서 성공하기 위해서는 경제 및 무역 정책을 이해하고, 데이터 기반 의사 결정과 금융 분석이 필수적입니다. 인공지능과 클라우드 기술을 활용해 국제 시장 데이터를 실시간으로 분석하고, 최적의 무역·투자 전략을 도출하려면 어떤 학습 과정이 필요할까요? 국제 비즈니스 및 데이터 분석 전문성 확보 글로벌 시장에서의 전략적 투자 및 무역 전략 수립 국제 비즈니스 개발 및 데이터 분석 국제 비즈니스 전략 분석가 국제 비즈니스 전략 분석가는 기업이 글로벌 시장에서 성공할 수 있도록 경제 및 무역 정책 분석, 데이터 기반 의사 결정 지원, 금융 및 투자 분석을 수행하며, 인공지능 및 클라우드 기술을 활용해 국제 시장 데이터를 실시간으로 분석하여 최적의 전략을 도출하는 역할을 담당합니다. 경제 및 무역 정책 분석, 데이터 기반 의사 결정 지원, 금융 분석, 인공지능 및 클라우드 기술 활용, 국제 시장 데이터 분석, 무역 및 투자 전략 도출 데이터 분석, 경제 및 무역 정책 이해, 금융 분석, 인공지능 및 클라우드 기술 활용 경제학 이론, 무역 및 금융 원리, 정책 분석 기본 인공지능 및 클라우드 기술 응용, 데이터 분석 및 해석 기법, 국제 무역 및 투자 전략 실시간 데이터 처리 및 분석 기술, 데이터 기반 의사 결정 프로세스, 글로벌 시장 트렌드 분석",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2544,
+            "name": "통계학입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.15661728732384714
+        },
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.1531488652405316
+        },
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.10380093546348762
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.32819954306804283
+        },
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.20434176072913365
+        },
+        {
+            "id": 354,
+            "name": "데이터구조및프로그래밍실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.16876284972523425
+        },
+        {
+            "id": 2219,
+            "name": "결정학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "신소재공학부(전자재료공학)",
+            "similarity": 0.135629152537321
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.12364785934369295
+        },
+        {
+            "id": 3247,
+            "name": "행정통계학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.19193019326140798
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.14849033909554404
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.13942777917019847
+        },
+        {
+            "id": 4547,
+            "name": "디지털스토리텔링과데이터시각화",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.13192288405394825
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1312794930811446
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.16919367107374442
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.13551832190353819
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.11168818917931733
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.10668988681930619
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.28823564001907254
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.23862699777995264
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.2288802620961658
+        },
+        {
+            "id": 4354,
+            "name": "생체영상처리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.15244970588296725
+        },
+        {
+            "id": 3035,
+            "name": "실험계획법",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.13657150403218563
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.26133946589978013
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.21774013613593235
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.18762855195755543
+        },
+        {
+            "id": 1125,
+            "name": "소셜빅데이터분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.15641898960974163
+        },
+        {
+            "id": 405,
+            "name": "빅데이터분석과응용",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.14188018566461522
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3903180341323064
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.2803774087436328
+        },
+        {
+            "id": 3098,
+            "name": "한국사회분석실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.1489440654048395
+        },
+        {
+            "id": 4480,
+            "name": "미래형자동차공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전기공학과",
+            "similarity": 0.14614333346768932
+        },
+        {
+            "id": 4261,
+            "name": "운동동작분석",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.13651935645165456
+        }
+    ]
+}

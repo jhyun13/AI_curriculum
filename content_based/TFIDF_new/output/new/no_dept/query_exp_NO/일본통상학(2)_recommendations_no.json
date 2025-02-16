@@ -1,0 +1,154 @@
+{
+    "meta_info": {
+        "user_query": "일본 기업이 해외 시장에 성공적으로 진출할 수 있도록 지원하는 글로벌 시장 전략을 배우고 싶어요. 일본의 경제·산업 구조와 국제 교역 흐름을 이해하면서, 효과적인 시장 분석과 무역 실무를 익히려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.15687650526582475
+        },
+        {
+            "id": 1651,
+            "name": "일본문학번역입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.1344868465609827
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.11293079336267728
+        },
+        {
+            "id": 4171,
+            "name": "재정학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.14316150970815938
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10667949346066287
+        },
+        {
+            "id": 2423,
+            "name": "산업조직론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.29106363262538226
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.11741729698889555
+        },
+        {
+            "id": 2081,
+            "name": "미디어직업론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.11553994674738823
+        },
+        {
+            "id": 4398,
+            "name": "회계정보시스템",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.1272519595141328
+        },
+        {
+            "id": 3642,
+            "name": "재정학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.11061894463030952
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.11439392824880833
+        },
+        {
+            "id": 763,
+            "name": "일본드라마와영화",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.10267504203010622
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.10188578289013833
+        },
+        {
+            "id": 3446,
+            "name": "일본사상과근대문명",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "일본학과",
+            "similarity": 0.1989883605480019
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.19712046235335096
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1710506438395826
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.14566297839436756
+        },
+        {
+            "id": 3874,
+            "name": "식품산업조직론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.12011696395918424
+        }
+    ]
+}

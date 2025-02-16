@@ -1,0 +1,286 @@
+{
+    "meta_info": {
+        "user_query": "스마트 농업이 발전하면서 드론, 정밀 센서, 데이터 분석, 인공지능 기술이 결합되어 더욱 효율적인 농업 시스템이 구축되고 있습니다. 예를 들어, 드론이 실시간으로 농장 환경을 분석하고, 최적의 작물 관리 방법을 제공하며, 자동으로 방제를 수행하는 기술들이 연구되고 있습니다. 이러한 변화에 대비하여 농업용 드론 개발자가 갖춰야 할 필수적인 기술과 지식은 무엇이며, 이를 효과적으로 익히기 위해 어떤 학습 경로를 따라야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "항공우주공학과",
+            "생물산업기계공학과",
+            "스마트팜학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4287,
+            "name": "디지털농업기계개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.5051634635092567
+        },
+        {
+            "id": 4159,
+            "name": "디지털농업개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.4890093976419003
+        },
+        {
+            "id": 3888,
+            "name": "디지털농업프로그래밍개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.4156373207992081
+        },
+        {
+            "id": 4579,
+            "name": "전산이론기초",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.177755778799354
+        },
+        {
+            "id": 3,
+            "name": "항공드론기초설계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4494737305406118
+        },
+        {
+            "id": 420,
+            "name": "전산항공드론기초",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.42356730089327516
+        },
+        {
+            "id": 1993,
+            "name": "농업기계통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.4117451506611517
+        },
+        {
+            "id": 755,
+            "name": "원예산물시스템공학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.3687559367763049
+        },
+        {
+            "id": 2273,
+            "name": "작물재배및실습 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.32772166228183536
+        },
+        {
+            "id": 3539,
+            "name": "농업인공지능개론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.5297132239075094
+        },
+        {
+            "id": 3324,
+            "name": "농업데이터이해및분석",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.4532747136768441
+        },
+        {
+            "id": 4794,
+            "name": "농업기상학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.43333242070018785
+        },
+        {
+            "id": 4203,
+            "name": "스마트팜데이터과학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.4320938224471661
+        },
+        {
+            "id": 3594,
+            "name": "작물생리학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.3962776527132159
+        },
+        {
+            "id": 213,
+            "name": "정밀농업",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.5204231678280109
+        },
+        {
+            "id": 1575,
+            "name": "생물생산기계공학및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.4826234055596137
+        },
+        {
+            "id": 1399,
+            "name": "생물환경조절공학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.47577433614763387
+        },
+        {
+            "id": 1305,
+            "name": "항공드론CAD응용",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.460679555186483
+        },
+        {
+            "id": 839,
+            "name": "항공드론센서공학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4469418901035239
+        },
+        {
+            "id": 3259,
+            "name": "드론농업응용",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.6464573404633891
+        },
+        {
+            "id": 4106,
+            "name": "스마트농업프로그래밍",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.5419800889910018
+        },
+        {
+            "id": 4354,
+            "name": "생체영상처리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.5076577912598239
+        },
+        {
+            "id": 4165,
+            "name": "스마트팜환경제어",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.47814859262392284
+        },
+        {
+            "id": 4319,
+            "name": "바이오메카트로닉스",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.39898612754573726
+        },
+        {
+            "id": 1160,
+            "name": "정밀농업시스템공학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.5755825095396581
+        },
+        {
+            "id": 605,
+            "name": "농업환경지리정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.5051975684131277
+        },
+        {
+            "id": 5,
+            "name": "작물병해진단실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.4635278910370322
+        },
+        {
+            "id": 1377,
+            "name": "현장실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.419771030398025
+        },
+        {
+            "id": 993,
+            "name": "생물환경시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.41289162584418476
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4998980150334287
+        },
+        {
+            "id": 3765,
+            "name": "스마트농업세미나",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.4953802466325896
+        },
+        {
+            "id": 4702,
+            "name": "스마트팜경영분석",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.42060349236960876
+        },
+        {
+            "id": 2998,
+            "name": "항공우주공학프로젝트",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.2675704546584594
+        },
+        {
+            "id": 4623,
+            "name": "인공위성임무설계및해석",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.24785515743149056
+        }
+    ]
+}

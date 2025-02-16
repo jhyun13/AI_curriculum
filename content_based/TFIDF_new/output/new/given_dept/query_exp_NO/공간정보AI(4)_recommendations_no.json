@@ -1,0 +1,69 @@
+{
+    "meta_info": {
+        "user_query": "도시 환경 분석을 위한 AI 모델을 구축하는 연구자가 되고 싶어요. 컴퓨터 비전, 데이터 마이닝, 인공지능을 배우면서 어떤 방향으로 연구를 진행하면 좋을까요?",
+        "expanded_query": null,
+        "given_departments": [
+            "도시공학과",
+            "컴퓨터인공지능학부",
+            "산업정보시스템공학과"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2983,
+            "name": "도시학개론",
+            "description": "도시학은 인간이 살아가는 현장에서 가장 밀접하게 맞딱드리는 문제를 해결하려는 학문이다. 주거문제, 교통문제, 교육문제, 직장문제 등 모든 사회간접자본시설이 어떵 방식으로 그리고 어떤 규모로 배치되느냐에 따라 도시민에게 쾌적하고 건강한 삶이 보장되기도 하고 반대로 사회적 불안과 갈등에 노출되기도 한다. 이러한 도시 문제를 직시하며 도시학이라는 기초적인 지식 전달을 거쳐 학문적 이해를 높이는데 목적을 둔다.",
+            "curriculum": "수업소개YUMMI도시, 도시화, 도시의 모습\n- 도시의 정의, 개념, 특성, 기준\n- 도시화의 개념, 원인, 과정, 영향\n- 시대별 도시의 모습, 기록방법YUMMI도시의 역사\n-고대도시, 중세도시, 근대도시, 현대도시YUMMI도시와 주거\n- 도시의 토지\n- 도시와 주거YUMMI도시와 상업\n- 도시와 상업\n- 도시공간구조\n- 도시의 산업\n- 도시의 상업공간YUMMI도시와 교통\n- 도시와 교통\n- 도시교통 수단과 시설\n- 도시교통의 문제\n- 도시교통 정책YUMMI도시와 환경\n- 도시와 환경문제\n- 지속가능한 개발\n- 도시와 기후변화\n- 도시와 건강YUMMI중간시험YUMMI도시와 사회·문화\n- 도시사회\n- 사회계층과 빈부격차\n- 다문화 사회\n- 도시의 문화YUMMI도시의 행정, 재정, 복지\n- 도시의 행정\n- 도시의 재정\n- 도시의 복지YUMMI도시계획\n- 도시계획\n- 도시계획제도\n- 도시계획의 구성요소\n- 도시계획의 문제점과 방향YUMMI도시개발\n- 도시개발\n- 도시재생\n- 젠트리피케이션YUMMI우리나라의 도시발달우리나라의 도시발달\n- 1960년대\n- 1970년대\n- 1980년대\n- 1990년대\n- 2000년대YUMMI도시의 현재와 미래\n- 스마트도시, 공유경제, 정의로운 도시 등\n- 도시공학 전공자의 미래YUMMI기말시험YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "full_text": "도시학개론 도시학은 인간이 살아가는 현장에서 가장 밀접하게 맞딱드리는 문제를 해결하려는 학문이다. 주거문제, 교통문제, 교육문제, 직장문제 등 모든 사회간접자본시설이 어떵 방식으로 그리고 어떤 규모로 배치되느냐에 따라 도시민에게 쾌적하고 건강한 삶이 보장되기도 하고 반대로 사회적 불안과 갈등에 노출되기도 한다. 이러한 도시 문제를 직시하며 도시학이라는 기초적인 지식 전달을 거쳐 학문적 이해를 높이는데 목적을 둔다.",
+            "similarity": 0.13102829489069806
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "description": " 본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "curriculum": "Introduction & problem-solving by searchingYUMMIProblem-solving: Uninformed/Informed Search, Advanced searchYUMMIProblem-solving: Adversarial Search, Constraint satisfaction problemYUMMISymbolic AI: First order logicYUMMISymbolic AI: Inference in FOLYUMMIMachine Learning: Linear classification, logistic regressionYUMMIMidtermYUMMIMachine Learning: Deep learning basics - Feedforward neural networks, Backpropagation, Convolutional networksYUMMIProbabilistic reasonsing: Bayesian networks & InferenceYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIReinforcement learning: Monte carlo learning/Termporal difference learningYUMMIReinforcement learning: Policy gradient methods, Deep Q networksYUMMIGame theory, evolutionary computation, & AI YUMMIFinaltermYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인공지능  본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "similarity": 0.13405862316157952
+        },
+        {
+            "id": 3035,
+            "name": "실험계획법",
+            "description": "실험의 계획과 데이터 처리방법에 대해 논의한다. 주로 이론적인 내용에 치중하며, 데이터 처리를 위해 MINITAB 소프트웨어를 활용한다. 주요논제는 일원배치법, 이원배치법, 삼원배치법, 요인실험, 교락법, 일부실시법 등이다.",
+            "curriculum": "실험계획의 개념YUMMI일원배치법1YUMMI일원배치법2YUMMI반복이 없는 이원배치법YUMMI반복이 있는 이원배치법YUMMI다원배치법YUMMI분할법YUMMI라틴방격법YUMMI중간시험YUMMI요인배치법YUMMI교락법YUMMI일부실시법YUMMI직교배열표에 의한 실험계획 1YUMMI직교배열표에 의한 실험계획 2YUMMI기말시험YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "full_text": "실험계획법 실험의 계획과 데이터 처리방법에 대해 논의한다. 주로 이론적인 내용에 치중하며, 데이터 처리를 위해 MINITAB 소프트웨어를 활용한다. 주요논제는 일원배치법, 이원배치법, 삼원배치법, 요인실험, 교락법, 일부실시법 등이다.",
+            "similarity": 0.10488004123466149
+        },
+        {
+            "id": 277,
+            "name": "컴퓨터비전",
+            "description": "컴퓨터 비전은 카메라로 입력된 영상을 자동으로 분석하여 인간의 시각 기능을 흉내 내는 학문으로서 인공지능의 세부 분야이다. 자율주행차는 대표적인 응용 분야이다. 사람의 시각이 인간 행동의 기본이듯이, 컴퓨터 비전의 응용은 모든 분야에 걸쳐 있다. 이 강좌는 컴퓨터 비전의 이론을 폭넓게 이해하고 프로그래밍 능력을 배양함을 목표로 한다. 고전적인 규칙기반 알고리즘과 현대적인 딥러닝 알고리즘을 균형있게 다룬다. OpenCV와 Tensorflow를 이용한 프로그래밍 실습을 통해 컴퓨터 비전의 응용 능력을 기른다. ",
+            "curriculum": "인간의 시각을 흉내 내는 컴퓨터 비전YUMMIOpenCV로 시작하는 컴퓨터 비전YUMMI영상 처리YUMMI에지와 영역&지역특징YUMMI비전 에이전트YUMMI딥러닝 비전YUMMI중간 고사YUMMI컨볼루션 신경망YUMMI인식YUMMI동적 비전YUMMI비전 트랜스포머1YUMMI비전 트랜스포머2YUMMI3차원 비전YUMMI생성 비전YUMMI기말 고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "컴퓨터비전 컴퓨터 비전은 카메라로 입력된 영상을 자동으로 분석하여 인간의 시각 기능을 흉내 내는 학문으로서 인공지능의 세부 분야이다. 자율주행차는 대표적인 응용 분야이다. 사람의 시각이 인간 행동의 기본이듯이, 컴퓨터 비전의 응용은 모든 분야에 걸쳐 있다. 이 강좌는 컴퓨터 비전의 이론을 폭넓게 이해하고 프로그래밍 능력을 배양함을 목표로 한다. 고전적인 규칙기반 알고리즘과 현대적인 딥러닝 알고리즘을 균형있게 다룬다. OpenCV와 Tensorflow를 이용한 프로그래밍 실습을 통해 컴퓨터 비전의 응용 능력을 기른다. ",
+            "similarity": 0.11245585292908605
+        },
+        {
+            "id": 405,
+            "name": "빅데이터분석과응용",
+            "description": "4차 산업혁명, 데이터 과학, 빅데이터의 관계를 이해하고 빅데이터 분석에 적용할 데이터 과학 방법론을 배웁니다. ",
+            "curriculum": "강좌소개,  1장. 4차 산업혁명과 데이터 과학YUMMI빅데이터분석 이해\n2장. 빅데이터의 이해와 활용YUMMI빅데이터분석 이해\n3장. 데이터 과학 기반의 빅데이터 분석YUMMI빅데이터분석 준비\n4장. 파이썬 프로그래밍 기초YUMMI빅데이터분석 준비\n5장. 파이썬 크롤링 – API 이용 (공공데이터)YUMMI빅데이터분석 준비\n6장. 파이썬 크롤링 – 라이브러리 이용 (정적, 동적)YUMMI빅데이터분석 기본 프로젝트\n7장. 통계 분석 (기술통계+그래프, 상관분석+히트맵)YUMMI중간시험YUMMI빅데이터분석 기본 프로젝트\n8장. 텍스트 빈도 분석 (영문분석+워드클라우드, 한글분석+워드클라우드)YUMMI빅데이터분석 기본 프로젝트\n9장. 지리 정보 분석 (주소데이터 분석+지오맵, 행정구역별 데이터 분석+블록맵)YUMMI빅데이터분석 머신러닝 프로젝트\n10장. 회귀분석 (선형 회귀분석+산점도, 그래프, 회귀분석+산점도, 그래프)\n텀프로젝트 1차 제안서YUMMI빅데이터분석 머신러닝 프로젝트\n11장. 분류분석 (로지스틱 회귀분석, 결정트리분석)YUMMI빅데이터분석 머신러닝 프로젝트\n12장. 군집분석 (k-평균 군집화 분석 + 그래프)\n텀프로젝트 2차 중간보고서YUMMI빅데이터분석 머신러닝 프로젝트\n13장. 텍스트 마이닝 (감성분석 + 토픽 모델링)YUMMI기말시험 및 평가\n텀프로젝트 3차 최종 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "full_text": "빅데이터분석과응용 4차 산업혁명, 데이터 과학, 빅데이터의 관계를 이해하고 빅데이터 분석에 적용할 데이터 과학 방법론을 배웁니다. ",
+            "similarity": 0.10729172379615926
+        }
+    ]
+}

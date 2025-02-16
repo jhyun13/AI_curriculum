@@ -1,0 +1,285 @@
+{
+    "meta_info": {
+        "user_query": "사회복지 정책이 효과적으로 실행되려면 행정 조직 운영과 재정 관리가 필수적으로 뒷받침되어야 합니다. 복지 실천뿐만 아니라 정책 기획, 재정 조달, 공공 조직의 운영을 함께 연구하여 실무에 적용하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "사회복지 정책이 효과적으로 실행되려면 행정 조직 운영과 재정 관리가 필수적으로 뒷받침되어야 합니다. 복지 실천뿐만 아니라 정책 기획, 재정 조달, 공공 조직의 운영을 함께 연구하여 실무에 적용하려면 어떤 학습 과정이 필요할까요? 사회복지 정책의 효과적인 실행을 위한 복지 실천, 정책 기획, 재정 조달 및 공공 조직 운영에 대한 통합적 이해 및 응용 능력 개발 사회복지 정책의 기획, 실행 및 관리 전문가 공공 행정 및 사회복지 사회복지 정책 관리자 사회복지 정책의 기획, 실행, 평가를 총괄하며, 행정 조직 운영과 재정 관리를 통해 정책의 효과적인 수행을 도모하는 역할 사회복지 정책 개발, 재정 계획 및 관리, 공공 조직 운영 및 관리, 정책 평가 및 개선 정책 기획 능력, 재정 관리 능력, 조직 관리 능력 정책 분석 및 평가 능력 재무 계획 및 예산 편성 능력 조직 운영 및 리더십 정책학 이론, 재정학 기초, 행정학의 원리 사회복지 정책 분석 및 기획 방법론, 공공 재정 관리, 조직 관리 이론 사회복지 실천 전략, 예산 관리 및 운영 기술, 정책 실행 및 평가 프레임워크",
+        "given_departments": null,
+        "selected_departments": [
+            "사회복지학과",
+            "행정학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 1653,
+            "name": "사회복지학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.5219360046546536
+        },
+        {
+            "id": 4156,
+            "name": "사회문제론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.4919436797588055
+        },
+        {
+            "id": 4651,
+            "name": "인간행동과사회환경",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.44607426403934947
+        },
+        {
+            "id": 4253,
+            "name": "정책학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.4180545372676632
+        },
+        {
+            "id": 1250,
+            "name": "행정조사방법론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4517632238128969
+        },
+        {
+            "id": 2469,
+            "name": "사회보장론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.44921518301242447
+        },
+        {
+            "id": 661,
+            "name": "사회복지역사",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.4112617991585138
+        },
+        {
+            "id": 2075,
+            "name": "행정법 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.3923725329822033
+        },
+        {
+            "id": 285,
+            "name": "행정조직론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.3770853363601177
+        },
+        {
+            "id": 4567,
+            "name": "사회복지실천론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.5460419730773582
+        },
+        {
+            "id": 4215,
+            "name": "지역사회복지론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.5203250617006522
+        },
+        {
+            "id": 2530,
+            "name": "정신건강사회복지론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.5044057719650861
+        },
+        {
+            "id": 4536,
+            "name": "재무행정론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.4863970914416711
+        },
+        {
+            "id": 3079,
+            "name": "빈곤론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.4311804666035231
+        },
+        {
+            "id": 1920,
+            "name": "사회복지행정론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.6422014659199634
+        },
+        {
+            "id": 2400,
+            "name": "사례관리론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.559926665032576
+        },
+        {
+            "id": 359,
+            "name": "사회복지실천기술론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.5431101547297754
+        },
+        {
+            "id": 432,
+            "name": "사회복지윤리와철학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.5237348793371814
+        },
+        {
+            "id": 1953,
+            "name": "사회복지자료분석론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.5137403700763662
+        },
+        {
+            "id": 4081,
+            "name": "사회복지정책론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.5666235652609269
+        },
+        {
+            "id": 3063,
+            "name": "학교사회복지론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.5091310432006186
+        },
+        {
+            "id": 3146,
+            "name": "사회복지현장실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.4844482717349293
+        },
+        {
+            "id": 4721,
+            "name": "정책평가론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.4612572201651005
+        },
+        {
+            "id": 4968,
+            "name": "연금제도",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.45372852043750556
+        },
+        {
+            "id": 2300,
+            "name": "사회서비스정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.4861111960214354
+        },
+        {
+            "id": 386,
+            "name": "행정사무관리론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.46423950452783314
+        },
+        {
+            "id": 957,
+            "name": "노인복지론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.4301954465597316
+        },
+        {
+            "id": 1096,
+            "name": "지방재정론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4242448941708227
+        },
+        {
+            "id": 1140,
+            "name": "가족복지론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.4153013348805435
+        },
+        {
+            "id": 4557,
+            "name": "복지행정론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.6034597115556354
+        },
+        {
+            "id": 3593,
+            "name": "사회복지법제와실천",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.5520982277740367
+        },
+        {
+            "id": 3555,
+            "name": "사회복지와문화다양성",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.4988955230294542
+        },
+        {
+            "id": 3339,
+            "name": "사회복지와인권",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.47838710977007004
+        },
+        {
+            "id": 2601,
+            "name": "지역개발정책",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.4090042446526768
+        }
+    ]
+}

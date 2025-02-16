@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "사회적 정의와 윤리적 원칙을 반영한 공공정책을 수립하고, 효율적이고 공정한 행정 체계를 구축하는 데 기여하고 싶어요. 이를 위해 행정학적 이론과 공공정책의 원리를 깊이 있게 배우려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "사회적 정의와 윤리적 원칙을 반영한 공공정책을 수립하고, 효율적이고 공정한 행정 체계를 구축하는 데 기여하고 싶어요. 이를 위해 행정학적 이론과 공공정책의 원리를 깊이 있게 배우려면 어떤 학습 과정이 필요할까요? 행정학적 이론과 공공정책 원리의 심층적 이해 사회적 정의와 윤리적 원칙에 기반한 공공정책 수립 및 행정 체계 구축 공공 행정 및 정책 분석 정책 분석가 정책 분석가는 공공 및 민간 부문에서 데이터와 연구를 활용하여 정책 제안서를 작성하고, 정책의 효과성을 평가하여 사회 정의와 윤리적 원칙을 반영하는 방향으로 정책 수립과 실행을 지원합니다. 정책 데이터 분석, 정책 제안서 작성, 정책 효과성 평가, 공공정책 실행 지원 정책 분석, 데이터 해석, 윤리적 평가 공공행정 이론, 정책학, 정치철학 윤리적 의사결정, 사회적 정의 이념, 정책 효과성 분석 정책 연구 방법론, 데이터 분석 도구, 행정 절차 시스템",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1653,
+            "name": "사회복지학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.4213039887656803
+        },
+        {
+            "id": 735,
+            "name": "한옥학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "한옥학과",
+            "similarity": 0.36550921770130224
+        },
+        {
+            "id": 623,
+            "name": "환경생태학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.3441493682842753
+        },
+        {
+            "id": 1099,
+            "name": "경관자원론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "생명자원융합학과",
+            "similarity": 0.3363639490913194
+        },
+        {
+            "id": 167,
+            "name": "한국건축사",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "한옥학과",
+            "similarity": 0.3012590535758789
+        },
+        {
+            "id": 4253,
+            "name": "정책학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.5136188098401941
+        },
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.437187562186818
+        },
+        {
+            "id": 4651,
+            "name": "인간행동과사회환경",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.4343450309177047
+        },
+        {
+            "id": 4156,
+            "name": "사회문제론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.41542352938294647
+        },
+        {
+            "id": 3122,
+            "name": "농촌정책학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생명자원융합학과",
+            "similarity": 0.40542934650927903
+        },
+        {
+            "id": 1250,
+            "name": "행정조사방법론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.5709385579285279
+        },
+        {
+            "id": 2075,
+            "name": "행정법 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.5316774820008174
+        },
+        {
+            "id": 285,
+            "name": "행정조직론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4432122202642722
+        },
+        {
+            "id": 30,
+            "name": "이민정책론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.44051570189178557
+        },
+        {
+            "id": 603,
+            "name": "사회조사방법론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.4341464833128628
+        },
+        {
+            "id": 4639,
+            "name": "정책형성론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.5382797253319923
+        },
+        {
+            "id": 2751,
+            "name": "행정법 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.5079654197179999
+        },
+        {
+            "id": 3591,
+            "name": "식품정책론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.4724535444674622
+        },
+        {
+            "id": 4536,
+            "name": "재무행정론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.46200481277406497
+        },
+        {
+            "id": 3495,
+            "name": "인사행정론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.4518659680767577
+        },
+        {
+            "id": 1908,
+            "name": "행정철학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.5395895909538858
+        },
+        {
+            "id": 1920,
+            "name": "사회복지행정론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.5126260479978427
+        },
+        {
+            "id": 432,
+            "name": "사회복지윤리와철학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.5125785720693538
+        },
+        {
+            "id": 250,
+            "name": "정책분석론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.5112749526802234
+        },
+        {
+            "id": 1953,
+            "name": "사회복지자료분석론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.4691143887921445
+        },
+        {
+            "id": 4721,
+            "name": "정책평가론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.5365611606473417
+        },
+        {
+            "id": 4081,
+            "name": "사회복지정책론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.5116566570511386
+        },
+        {
+            "id": 2803,
+            "name": "공공관계론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.5031579310637845
+        },
+        {
+            "id": 3745,
+            "name": "환경정책론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.47423774169740135
+        },
+        {
+            "id": 4553,
+            "name": "정치경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.4626104770314238
+        },
+        {
+            "id": 1998,
+            "name": "규제정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.5190730695646719
+        },
+        {
+            "id": 2375,
+            "name": "행정통제와감사",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4796727228580759
+        },
+        {
+            "id": 2194,
+            "name": "과학기술정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4763680189979508
+        },
+        {
+            "id": 386,
+            "name": "행정사무관리론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4729615071071789
+        },
+        {
+            "id": 2300,
+            "name": "사회서비스정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.44986928713777385
+        },
+        {
+            "id": 4557,
+            "name": "복지행정론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.5264346201849432
+        },
+        {
+            "id": 4353,
+            "name": "정책사례연구",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.4977284126625973
+        },
+        {
+            "id": 2601,
+            "name": "지역개발정책",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.45703224365862716
+        },
+        {
+            "id": 3098,
+            "name": "한국사회분석실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.45226197100386917
+        },
+        {
+            "id": 4751,
+            "name": "공공외교이론과실제",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.440211668459588
+        }
+    ]
+}

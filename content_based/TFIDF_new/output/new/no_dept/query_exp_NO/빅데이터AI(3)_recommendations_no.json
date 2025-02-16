@@ -1,0 +1,178 @@
+{
+    "meta_info": {
+        "user_query": "대규모 데이터를 실시간으로 분석하기 위해서는 클라우드 환경에서 최적화된 데이터 처리 시스템이 필요합니다. 선형대수와 데이터베이스 기술을 기반으로 빅데이터를 효율적으로 저장·처리하고, 머신러닝과 클라우드 컴퓨팅을 활용하여 인공지능 모델을 확장하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.14411900259894211
+        },
+        {
+            "id": 2349,
+            "name": "산림전산설계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산림환경과학과",
+            "similarity": 0.19670378442280873
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.1916941279742462
+        },
+        {
+            "id": 3401,
+            "name": "데이터베이스론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.15719464498281296
+        },
+        {
+            "id": 4040,
+            "name": "환경공학실험 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(환경공학)",
+            "similarity": 0.14221746948044792
+        },
+        {
+            "id": 2864,
+            "name": "위성영상처리및실습",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "지구환경과학과",
+            "similarity": 0.10975722497568423
+        },
+        {
+            "id": 3187,
+            "name": "아날로그디지털통신 1",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.10903665172860172
+        },
+        {
+            "id": 3247,
+            "name": "행정통계학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.1090118692540752
+        },
+        {
+            "id": 1183,
+            "name": "데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.22800550177747164
+        },
+        {
+            "id": 2044,
+            "name": "데이터베이스및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.1872681853408713
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.17563860200565068
+        },
+        {
+            "id": 1450,
+            "name": "데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.15551414676770964
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.12808499077612073
+        },
+        {
+            "id": 4354,
+            "name": "생체영상처리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.18338004835781002
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.15412832026181097
+        },
+        {
+            "id": 3281,
+            "name": "기기분석학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물환경화학과",
+            "similarity": 0.13489526398641866
+        },
+        {
+            "id": 3528,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.1338099736184749
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.11751049735747791
+        },
+        {
+            "id": 53,
+            "name": "데이터베이스시스템설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.10894950320282164
+        },
+        {
+            "id": 1034,
+            "name": "미생물생명정보학 1",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생명공학부",
+            "similarity": 0.10594002720763092
+        },
+        {
+            "id": 3203,
+            "name": "멀티미디어시스템",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.11737989196760124
+        }
+    ]
+}

@@ -1,0 +1,286 @@
+{
+    "meta_info": {
+        "user_query": "환자의 움직임 데이터를 분석하여 AI 기반 재활 시스템을 개발하고 최적화하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "환자의 움직임 데이터를 분석하여 AI 기반 재활 시스템을 개발하고 최적화하려면 어떤 학습 과정이 필요할까요? AI 기반 재활 시스템 개발 및 최적화 학습 의료 분야의 인공지능 시스템 개발 전문가 헬스케어 및 의료 인공지능 의료 데이터 과학자 의료 데이터 과학자는 환자의 움직임 데이터를 분석하여 AI 알고리즘을 활용한 재활 시스템을 개발하고 최적화하는 역할을 합니다. 이들은 복합적인 의료 문제를 해결하기 위해 첨단 데이터 과학 기법을 활용하고, 데이터 기반의 결론을 통해 효과적인 치료 방법을 제시합니다. AI 알고리즘 설계 및 구현 환자 움직임 데이터 수집 및 분석 재활 치료 효과 향상을 위한 시스템 개발 시스템 최적화를 통한 사용자 경험 개선 인공지능 및 머신러닝 모델 개발 데이터 분석 및 처리 기술 헬스케어 도메인 지식 프로그래밍 언어(Python, R) 활용 능력 데이터 시각화 기법 프로젝트 관리 및 협업 능력 기계학습 이론 및 알고리즘 생명과학 기초 및 인간공학 의료 및 생체 정보학 신경공학 및 재활공학 데이터 처리 및 분석 도구 사용(예: Pandas, TensorFlow)  의료 데이터 표준과 규정 이해 임상 실무 환경에서의 시스템 통합 및 운영 기술",
+        "given_departments": null,
+        "selected_departments": [
+            "바이오메디컬공학부",
+            "컴퓨터인공지능학부",
+            "산업정보시스템공학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 3094,
+            "name": "컴퓨터공학총론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.29560862619077116
+        },
+        {
+            "id": 4696,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.29396018663659296
+        },
+        {
+            "id": 3796,
+            "name": "C++프로그래밍",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.21282338189673083
+        },
+        {
+            "id": 2729,
+            "name": "이산수학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.20316787848383855
+        },
+        {
+            "id": 302,
+            "name": "데이터기반헬스케어기술 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4269466187778099
+        },
+        {
+            "id": 1537,
+            "name": "확률통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3582604128008382
+        },
+        {
+            "id": 1773,
+            "name": "인체해부생리학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.34965659189017195
+        },
+        {
+            "id": 929,
+            "name": "생체역학 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.29147994539405375
+        },
+        {
+            "id": 764,
+            "name": "자료구조",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.26738213134439287
+        },
+        {
+            "id": 4307,
+            "name": "데이터기반헬스케어기술 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.39554206643060513
+        },
+        {
+            "id": 3192,
+            "name": "데이터분석과 R",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.35807284001515544
+        },
+        {
+            "id": 4942,
+            "name": "생체역학 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.33076990041217824
+        },
+        {
+            "id": 4094,
+            "name": "알고리즘",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.2819422292367009
+        },
+        {
+            "id": 3065,
+            "name": "임상의학개론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.2818680797601763
+        },
+        {
+            "id": 2093,
+            "name": "바이오메카닉스활용및실습 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4008703088765041
+        },
+        {
+            "id": 336,
+            "name": "생체계측및실험 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.368658936201197
+        },
+        {
+            "id": 283,
+            "name": "의료기기학 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.35277947016841943
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.34973881892883496
+        },
+        {
+            "id": 2192,
+            "name": "데이터시각화",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.33369713197255796
+        },
+        {
+            "id": 3788,
+            "name": "의료기기학 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3824058163634336
+        },
+        {
+            "id": 3166,
+            "name": "데이터마이닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.35678436493296173
+        },
+        {
+            "id": 2826,
+            "name": "바이오메카닉스활용및실습 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.35592233584618527
+        },
+        {
+            "id": 3331,
+            "name": "시스템건전성관리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.3527391595332937
+        },
+        {
+            "id": 2766,
+            "name": "생체계측및실험 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3403640891368115
+        },
+        {
+            "id": 1968,
+            "name": "재활공학및실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.45607368967521256
+        },
+        {
+            "id": 1561,
+            "name": "고령친화시스템공학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3803472384287695
+        },
+        {
+            "id": 405,
+            "name": "빅데이터분석과응용",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.3584454585471527
+        },
+        {
+            "id": 717,
+            "name": "병원정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.346285228739893
+        },
+        {
+            "id": 277,
+            "name": "컴퓨터비전",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.33434705459797043
+        },
+        {
+            "id": 2845,
+            "name": "헬스케어기기디자인",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3952165074696669
+        },
+        {
+            "id": 3730,
+            "name": "IT융복합통섭연구",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3655818441695516
+        },
+        {
+            "id": 4073,
+            "name": "패턴인식",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3490924597808579
+        },
+        {
+            "id": 4667,
+            "name": "IT융복합심화설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3013811546864326
+        },
+        {
+            "id": 3004,
+            "name": "정보검색",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.29080972287103196
+        }
+    ]
+}

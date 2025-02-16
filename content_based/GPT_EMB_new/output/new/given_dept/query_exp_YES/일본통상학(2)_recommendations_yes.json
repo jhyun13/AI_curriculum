@@ -1,0 +1,376 @@
+{
+    "meta_info": {
+        "user_query": "일본 기업이 해외 시장에 성공적으로 진출할 수 있도록 지원하는 글로벌 시장 전략을 배우고 싶어요. 일본의 경제·산업 구조와 국제 교역 흐름을 이해하면서, 효과적인 시장 분석과 무역 실무를 익히려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "일본 기업이 해외 시장에 성공적으로 진출할 수 있도록 지원하는 글로벌 시장 전략을 배우고 싶어요. 일본의 경제·산업 구조와 국제 교역 흐름을 이해하면서, 효과적인 시장 분석과 무역 실무를 익히려면 어떤 학습 과정이 필요할까요? 일본 경제와 산업 구조, 국제 교역 흐름에 대한 이해 및 글로벌 시장 전략 개발 글로벌 시장 전략가 국제 무역 및 비즈니스 전략 글로벌 사업 전략 전문가 글로벌 시장에서 일본 기업의 성공적인 시장 진출을 지원하며, 이를 위해 다양한 시장 분석 및 전략 계획을 수립하고 실행하는 역할을 수행함. 시장 조사 및 분석, 국제 교역 전략 수립, 비즈니스 기회 발굴 및 계획 실행, 일본 기업의 해외 진출 지원. 글로벌 시장 분석, 국제 비즈니스 전략 개발, 무역 실무 시행 국제 경제 이론, 무역 이론, 일본 경제 및 산업 구조 국제 비즈니스 전략, 글로벌 시장 조사 방법론, 무역 절차 및 규제 시장 트렌드 예측, 무역 문서 작성 및 관리, 글로벌 및 지역 시장 실행 전략",
+        "given_departments": [
+            "일본학과",
+            "무역학과"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 802,
+            "name": "일본어발음의이해",
+            "description": "仮名文字の基本音（清音）と、特殊音（　濁音、半濁音、拗音、促音、撥音、長音）を正しく聞き取り、正確な発音と正しい拍子（長さ）で話ができること。また、日本語の正しいイントネーションと、アクセントの習得をこの講座の目標とする。\n",
+            "curriculum": "オリエンテーションYUMMI平仮名と発音１YUMMI平仮名と発音２YUMMI平仮名と発音２YUMMI平仮名と発音３YUMMIカタカナとあいさつYUMMIカタカナとあいさつYUMMI中間考査YUMMI学生ですかYUMMIそれは何ですかYUMMI日本のお金YUMMIいくらですかYUMMI買い物YUMMI１学期の復習YUMMI期末考査YUMMI",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "일본학과",
+            "full_text": "일본어발음의이해 仮名文字の基本音（清音）と、特殊音（　濁音、半濁音、拗音、促音、撥音、長音）を正しく聞き取り、正確な発音と正しい拍子（長さ）で話ができること。また、日本語の正しいイントネーションと、アクセントの習得をこの講座の目標とする。\n",
+            "similarity": 0.29038455847001793
+        },
+        {
+            "id": 4844,
+            "name": "국제무역입문",
+            "description": "본 강의는 국가 간 무역과 정책을 분석하는 국제무역이론을 효과적으로 학습하기 위하여 시장경제를 이해하는데 필수적인 경제학적 기본개념과 내용을 학습하고 이를 토대로 경제원리를 무역이론에 적용하는 데 필요한 기초 능력을 함양하는 데 있음. 또한 국가 간 자본 이동, 환율변동에 따른 경상수지 변화, 환율제도 등 국제거시경제 차원에서 거시경제 변수들의 상호 작용과 연관관계를 이해하고, 적절한 경제정책을 이해하기 위한 기본적 국제거시경제 현상을 이해하기 위해 기본적인 거시경제학에 기반한 거시경제분석모형과 기초 개념을 본 강좌를 통해 학습하고자 함. ",
+            "curriculum": "경제학의 제 1법칙YUMMI공급과 수요\n가격규제와 수량규제YUMMI탄력성과 조세YUMMI공급곡선의 이면 : 투입과 비용YUMMI완전경쟁과 공급곡선 YUMMI독점, 과점 및 독점적 경쟁YUMMI공공재와 공유자원, 중간고사YUMMI거시경제학 개관YUMMI거시경제학 개관\nGDP와 CPI : 거시경제의 측정YUMMI실업과 인플레이션YUMMI장기 경제성장YUMMI총수요와 총공급YUMMI재정정책과 통화정책YUMMI글로벌 금융위기 분석YUMMI국제무역, 자본흐름 및 환율YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제무역입문 본 강의는 국가 간 무역과 정책을 분석하는 국제무역이론을 효과적으로 학습하기 위하여 시장경제를 이해하는데 필수적인 경제학적 기본개념과 내용을 학습하고 이를 토대로 경제원리를 무역이론에 적용하는 데 필요한 기초 능력을 함양하는 데 있음. 또한 국가 간 자본 이동, 환율변동에 따른 경상수지 변화, 환율제도 등 국제거시경제 차원에서 거시경제 변수들의 상호 작용과 연관관계를 이해하고, 적절한 경제정책을 이해하기 위한 기본적 국제거시경제 현상을 이해하기 위해 기본적인 거시경제학에 기반한 거시경제분석모형과 기초 개념을 본 강좌를 통해 학습하고자 함. ",
+            "similarity": 0.5661392854671293
+        },
+        {
+            "id": 3665,
+            "name": "무역학개론",
+            "description": "국제무역, 국제경영, 무역상무를 포괄하는 무역학 전반에 대한 이해를 고취한다.  ",
+            "curriculum": "오리엔테이션 및 무역의 기초YUMMI무역이론의 기초YUMMI무역정책YUMMI국제금융과 국제무역환경YUMMI글로벌경영과 해외시장진출YUMMI해외직접투자와 글로벌 생산관리YUMMI무역상무개요YUMMI중간고사YUMMI무역계약의 사전준비\nYUMMI무역계약의 체결\nYUMMI무역결제YUMMI무역운송YUMMI보험과 분쟁해결YUMMI전자무역과 국경 간 전자상거래YUMMI기말고사YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역학개론 국제무역, 국제경영, 무역상무를 포괄하는 무역학 전반에 대한 이해를 고취한다.  ",
+            "similarity": 0.5000053505064224
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "description": "모든 기업에게 새로운 비즈니스를 시작할 때뿐만 아니라 비즈니스를 성장시키기 위한 전략을 세울 때 시장 환경과 수요에 대한 충분한 데이터 확보와 이러한 데이터로부터 유용한 정보를 추출하는 일은 필수적인 일이 되고 있다. 이러한 상황에서 무역 분야의 전문가, 경영자, 정책담당자에게 데이터로부터 정보를 추출하기 위해 사용되어야 하는 통계기법에 대한 정확한 이해와 적용뿐만 아니라 통계분석결과를 정확하게 해석해낼 수 있는 능력이 점점 더 필수적인 역량으로 요구되고 있다. 이러한 시대 요청에 따라 본 강좌는 경영경제 기초 통계과정으로 기본적인 통계이론을 학습하고 다양한 사례와 자료를 이용해 추정 및 통계적 추론을 통해 학생들로 하여금 통계적 해석 능력을 함양하는 것을 목표로 한다.",
+            "curriculum": "과목 소개 및 개요설명YUMMI자료의 종류와 도시YUMMI중심경향치와 분산도YUMMI확률의 개념YUMMI확률분포YUMMI표본추출과 표본분포YUMMI통계적 추정과 신뢰구간YUMMI중간정리와 중간고사YUMMI통계적 추정과 신뢰구간YUMMI가설의 검정YUMMI가설의 검정YUMMI분산분석YUMMI상관분석과 단순회귀분석YUMMI다중회귀모형YUMMI기말정리와 기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "무역통계분석입문 모든 기업에게 새로운 비즈니스를 시작할 때뿐만 아니라 비즈니스를 성장시키기 위한 전략을 세울 때 시장 환경과 수요에 대한 충분한 데이터 확보와 이러한 데이터로부터 유용한 정보를 추출하는 일은 필수적인 일이 되고 있다. 이러한 상황에서 무역 분야의 전문가, 경영자, 정책담당자에게 데이터로부터 정보를 추출하기 위해 사용되어야 하는 통계기법에 대한 정확한 이해와 적용뿐만 아니라 통계분석결과를 정확하게 해석해낼 수 있는 능력이 점점 더 필수적인 역량으로 요구되고 있다. 이러한 시대 요청에 따라 본 강좌는 경영경제 기초 통계과정으로 기본적인 통계이론을 학습하고 다양한 사례와 자료를 이용해 추정 및 통계적 추론을 통해 학생들로 하여금 통계적 해석 능력을 함양하는 것을 목표로 한다.",
+            "similarity": 0.5348938633132899
+        },
+        {
+            "id": 1750,
+            "name": "한국무역법",
+            "description": "-무역의 일련과정을 진행하기 위하여 필요한 3대 법규를 알아보고 이를 실무에 적용하는 방안을 고찰해 본다.\n-수출입통관시에 적용되는 규정사항을 이해하고 이에 필요한 법규를 적용해 본다.\n-대외무역법, 관세법, 외국환거래법과 관련된 국가공인자격증과 이를 통한 무역실무를 이해하고 고찰함으로써 실무에 적용되는 사례를 통해 무역실무를 이해한다.\n",
+            "curriculum": "수업진행 방식 안내 및 수업소개를 통해 한학기 내용에 대한 전반적인 이해를 한다. YUMMI무역법규의 일반적인 이해 및 분류 그리고 국내외 법규에 대해서 고찰한다. YUMMI대외무역법에 대한 이해와 규정에 대한 사항들을 고찰한다. YUMMI대외무역법상에 규정한 수출입실적적용 방식과 제도를 알아보고 실무에 적용하는 방법에 대해 고찰해 본다.YUMMI외국환거래법에 대한 이해와 규정에 대한 사항들을 고찰한다.YUMMI외국환거래법상에 규정한 지급과 수령 그리고 지급방법을 이해하고 자본거래를 고찰해 봄으로써 무역실무에서 일어날 수 있는 사항들을 이해한다. YUMMI글로벌 무역의 자본흐름을 이해하기 위해 현지금융, 직접투자 등을 이해하고 우리나라 기업들의 해외 투자와 해외기업들의 국내투자 방법을 고찰해 본다. YUMMI중간고사 시험YUMMI관세법에 대한 이해와 규정에 대한 사항들을 고찰한다.YUMMI관세법상에 규정한 수출통관제도, 반송 및 특수통관제도 및 과세에 대해서 이해하고 고찰해 본다. YUMMI관세법상에 규정한 보세제도와 관세의 납부를 알아보고 관세를 위한 상품분유에 대해 이해한다. YUMMI관세법상에 규정된 수출을 통한 관세환급과 관세행정구제제도를 이해하고 기타통관관련제도를 고찰한다.YUMMI국제무역법규에 대한 이해하고 이를 통해 무역의 흐름을 고찰한다. YUMMI국제무역에서의 국제운송과 보험규정을 이해하고 국제 규정을 고찰해 본다. YUMMI기말고사 시험YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "한국무역법 -무역의 일련과정을 진행하기 위하여 필요한 3대 법규를 알아보고 이를 실무에 적용하는 방안을 고찰해 본다.\n-수출입통관시에 적용되는 규정사항을 이해하고 이에 필요한 법규를 적용해 본다.\n-대외무역법, 관세법, 외국환거래법과 관련된 국가공인자격증과 이를 통한 무역실무를 이해하고 고찰함으로써 실무에 적용되는 사례를 통해 무역실무를 이해한다.\n",
+            "similarity": 0.4402791692473581
+        },
+        {
+            "id": 1651,
+            "name": "일본문학번역입문",
+            "description": "일본 문학작품 번역에 필요한 지식과 실천력을 몸에 익히는 것을 목표로 한다.\n\n\n일본 문학 번역 입문은 일본어 능력 향상을 위한 기초학문이 될 것이라 기대하며 문학 작품을 읽고 문법적인 내용을 이해하고 또한 직역이 아닌 의역을 통해 한국어로 번역할 때에 자연스러운 번역이 될 수 있도록 그 스킬을 익혀간다. 또한 일본 문학 작품에 등장하는 일본 문화 및 일본의 역사를 설명하여 통합적인 이해를 도울 수 있도록 학습하고자 한다. \n목표로 하는 구체적인 기술은 아래와 같다.\n1. 한국어로 번역했을 때 자연스럽고, 이해하기 쉬운 표현력을 갖춘다.\n2. 문학 작품을 통해 일본문화와 사회를 이해하고 정보를 간결하게 정리하여 전달하는 힘을 키운다.",
+            "curriculum": "오리엔테이션YUMMI일본 초등학교 교과서에 수록된 작품을 이해한다.YUMMI일본 초등학교 교과서에 수록된 작품을 이해한다.YUMMI일본 초등학교 교과서에 수록된 작품을 이해한다.YUMMI일본 초등학교 교과서에 수록된 작품을 이해한다.YUMMI일본 중학교 교과서에 수록된 작품을 이해한다.YUMMI일본 중학교 교과서에 수록된 작품을 이해한다.YUMMI중간고사YUMMI일본 중학교 교과서에 수록된 작품을 이해한다.YUMMI일본 중학교 교과서에 수록된 작품을 이해한다.YUMMI일본 고등학교 교과서에 수록된 작품을 이해한다.YUMMI일본 고등학교 교과서에 수록된 작품을 이해한다.YUMMI일본 고등학교 교과서에 수록된 작품을 이해한다.YUMMI일본 고등학교 교과서에 수록된 작품을 이해한다.YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "일본학과",
+            "full_text": "일본문학번역입문 일본 문학작품 번역에 필요한 지식과 실천력을 몸에 익히는 것을 목표로 한다.\n\n\n일본 문학 번역 입문은 일본어 능력 향상을 위한 기초학문이 될 것이라 기대하며 문학 작품을 읽고 문법적인 내용을 이해하고 또한 직역이 아닌 의역을 통해 한국어로 번역할 때에 자연스러운 번역이 될 수 있도록 그 스킬을 익혀간다. 또한 일본 문학 작품에 등장하는 일본 문화 및 일본의 역사를 설명하여 통합적인 이해를 도울 수 있도록 학습하고자 한다. \n목표로 하는 구체적인 기술은 아래와 같다.\n1. 한국어로 번역했을 때 자연스럽고, 이해하기 쉬운 표현력을 갖춘다.\n2. 문학 작품을 통해 일본문화와 사회를 이해하고 정보를 간결하게 정리하여 전달하는 힘을 키운다.",
+            "similarity": 0.4374827855594612
+        },
+        {
+            "id": 2051,
+            "name": "일본어독해 1",
+            "description": "일본어 능력 중에서도 독해력을 향상시켜 일본을 이해하는 역량을 성장시키는 데에 목표가 있다. 기초적인 어회와 문법을 습득한 학생들에게 적당한 수업내용으로서, 전공 2학년 학생들 정도의 일어 능력을 지니고 있다면 참여 가능하다. 소설 등을 비롯한 문학작품은 물론, 신문, 설명문, 광고문, 편지 등 실용적인 글을 읽고 이해하는 데에도 초점을 두고 진행한다.  ",
+            "curriculum": "일본어 독해를 위한 기초적 문법1YUMMI소설읽기1YUMMI소설읽기2YUMMI소설읽기3YUMMI소설읽기4YUMMI광고읽기1YUMMI광고읽기2YUMMI중간고사 YUMMI설명문읽기1YUMMI설명문읽기2YUMMI광고문읽기YUMMI신문읽기1YUMMI신문읽기2YUMMI편지읽기YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "일본학과",
+            "full_text": "일본어독해 1 일본어 능력 중에서도 독해력을 향상시켜 일본을 이해하는 역량을 성장시키는 데에 목표가 있다. 기초적인 어회와 문법을 습득한 학생들에게 적당한 수업내용으로서, 전공 2학년 학생들 정도의 일어 능력을 지니고 있다면 참여 가능하다. 소설 등을 비롯한 문학작품은 물론, 신문, 설명문, 광고문, 편지 등 실용적인 글을 읽고 이해하는 데에도 초점을 두고 진행한다.  ",
+            "similarity": 0.4064431356605749
+        },
+        {
+            "id": 437,
+            "name": "일본학개론",
+            "description": "본 강의는 고대 부터 현대까지의 일본의 사회, 문화, 역사, 정치, 경제에 이르는 다양한 기초 정보를 습득하여 차후의 전공 학습의 기본기를 다지기 위한 과목임.",
+            "curriculum": "강의 가이던스 및 지리적 요소 학습YUMMI일본의 국토, 행정구역, 기후 등에 대해 학습YUMMI일본의 정치 시스템, 경제 구조, 산업 내용 등에 대해 학습YUMMI일본인들의 실 생활 속 문화제도 등에 대해 학습YUMMI일본인들의 실 생활 속 문화제도 등에 대해 학습YUMMI일본의 역사에 대해 학습YUMMI일본의 역사에 대해 학습YUMMI중간평가YUMMI일본의 문학에 대해 학습YUMMI일본의 문학에 대해 학습YUMMI일본의 전통문화 중 예능 및 오락에 대해 학습YUMMI일본의 근현대 대중 오락에 대해 학습YUMMI일본 사회 속 실생활에 활용되는 매너에 대해 학습YUMMI일본 사회에서 최근 주목 받는 정보/유행 등에 대해 학습YUMMI기말평가YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "일본학과",
+            "full_text": "일본학개론 본 강의는 고대 부터 현대까지의 일본의 사회, 문화, 역사, 정치, 경제에 이르는 다양한 기초 정보를 습득하여 차후의 전공 학습의 기본기를 다지기 위한 과목임.",
+            "similarity": 0.4048382034072729
+        },
+        {
+            "id": 4313,
+            "name": "국제무역이론",
+            "description": "급변하는 세계화(globalization) 속에서 국제경제학의 중요성이 더욱 강조되고 있다. 모든 경제주체(국가, 기업, 개인)의 합리적 의사결정은 국제경제의 흐름과 매우 밀접하게 연관되어 있다. 하지만 복잡한 국제경제(무역)의 흐름 및 현상을 제대로 이해하는 것은 결코 쉬운일이 아니다. 이에 복잡한 국제무역발생 원인을 제대로 이해하는 것이 본 강의의 주된 목적이다. 본 강의를 통해 첫째 국제무역의 발생 원인을 설명하고 있는 주요 이론을 소개하고, 둘째 각각의 이론과 모형이 현실에서 어떻게 적용되고 있는지를 살펴본다. 셋째, 국제무역 이론을 실증분석하고 있는 주요 연구들을 살펴보고 국제무역의 결과에 대하여 설명한다. 마지막으로 국제무역의 최근 주요 이슈(자국우선주의, 신보호무역주의, 비관세장벽, 코로나19, 4차산업혁명, 디지털무역, 경제통상 안보 등)를 살펴보고 이러한 움직임이 우리나라에 미칠 영향에 대하여 논의한다. 무엇보다 국제무역의 흐름을 체계적으로 이해하고 논리적으로 설명할 수 있는 능력을 배양하는 것이 본 강의가 추구하는 또 다른 목적이다. \n\n\n\n\n",
+            "curriculum": "강의개요, 국제무역의 기본개념 및 중요성(국제무역의 연구범위 및 방법론)YUMMI절대우위이론, 비교우위이론YUMMI비교우위이론YUMMI국제무역의 표준이론\nYUMMI수요와 공급, 오퍼곡선과 교역조건YUMMI요소부존과 헥셔-오린 이론YUMMI요소부존과 헥셔-오린 이론YUMMI중간고사YUMMI신무역이론YUMMI신무역이론YUMMI경제성장과 국제무역YUMMI무역정책:관세 및 비관세YUMMI무역정책YUMMI최근의 무역이슈YUMMI기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제무역이론 급변하는 세계화(globalization) 속에서 국제경제학의 중요성이 더욱 강조되고 있다. 모든 경제주체(국가, 기업, 개인)의 합리적 의사결정은 국제경제의 흐름과 매우 밀접하게 연관되어 있다. 하지만 복잡한 국제경제(무역)의 흐름 및 현상을 제대로 이해하는 것은 결코 쉬운일이 아니다. 이에 복잡한 국제무역발생 원인을 제대로 이해하는 것이 본 강의의 주된 목적이다. 본 강의를 통해 첫째 국제무역의 발생 원인을 설명하고 있는 주요 이론을 소개하고, 둘째 각각의 이론과 모형이 현실에서 어떻게 적용되고 있는지를 살펴본다. 셋째, 국제무역 이론을 실증분석하고 있는 주요 연구들을 살펴보고 국제무역의 결과에 대하여 설명한다. 마지막으로 국제무역의 최근 주요 이슈(자국우선주의, 신보호무역주의, 비관세장벽, 코로나19, 4차산업혁명, 디지털무역, 경제통상 안보 등)를 살펴보고 이러한 움직임이 우리나라에 미칠 영향에 대하여 논의한다. 무엇보다 국제무역의 흐름을 체계적으로 이해하고 논리적으로 설명할 수 있는 능력을 배양하는 것이 본 강의가 추구하는 또 다른 목적이다. \n\n\n\n\n",
+            "similarity": 0.5156038433552
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "description": "- 세계경제의 글로벌화에 따른 기업들의 자금조달과 운용도 국내금융시장 이외 글로벌 금융시장에서 활발하게 이루어 지고 있어 국제금융시장의 역할과 기능에 관한 지식을 터득함\n- 자본시장, 채권시장 등  국제금융시장의 기능과 특성에 대한 이해를 바탕으로 글로벌 기업들의 자금차입과 운용과 관련하여 금융상품과 기법을 터득하여 국제 재무관리 실무자로서 기본 역할을 수행할 수 있는 지식을 함양함\n- 대외 결제수단인 외환거래와 연관된 환위험 개념과 환율결정에 관한 이론 등 외환시장의 기능과 특성 등 무역거래에 따른 결제, 송금 등 외국환 관리에 대한 내용을 이해한다",
+            "curriculum": "ch11. International Financing and Natioanl Capital Markets(국제금융과 자본시장의 특성)YUMMIch 12. The Euromarkets(유로금융시장: 유로본드 발행 및 유통시장)YUMMIch3. The International Monetary System(국제통화제도)YUMMIch5. The Balance of Payments and International Economic linkages(국제경상수지의 개념과 자금흐름)YUMMIch6. The Foreign Exchange Market(외환시장의 특성)YUMMIch8. Currency, Interest Rate, and Credit Derivatives and Swaps(이자율 스왑, 통화스왑, 구조화 파생상품)YUMMI 중간고사YUMMIch9. Measuring and Managing Translation and Transaction Exposure( 거래적 환위험, 환산적 환위험 측정 등)YUMMIch10. Measuring and Managing Economic Exposure(경제적 환위험의 개념과 관리)YUMMIch11. International Financing and National Capital Markets(국제금융시장과 국내자본시장)YUMMIch12. International Portfolio Management(국제포트폴리오 투자 및 관리)YUMMIch15. The Cost of Capital for Foreign Investments(해외투자 자본비용 개념과 측정)YUMMIch17. Capital Budgeting for the Multinational Corporation(다국적기업의 자본예산 배정관리),YUMMIch 18. Managing the International Capital Markets of Multinational Corporations(다국적기업의 자금관리 전략 등)YUMMI기말시험 평가YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제재무론 - 세계경제의 글로벌화에 따른 기업들의 자금조달과 운용도 국내금융시장 이외 글로벌 금융시장에서 활발하게 이루어 지고 있어 국제금융시장의 역할과 기능에 관한 지식을 터득함\n- 자본시장, 채권시장 등  국제금융시장의 기능과 특성에 대한 이해를 바탕으로 글로벌 기업들의 자금차입과 운용과 관련하여 금융상품과 기법을 터득하여 국제 재무관리 실무자로서 기본 역할을 수행할 수 있는 지식을 함양함\n- 대외 결제수단인 외환거래와 연관된 환위험 개념과 환율결정에 관한 이론 등 외환시장의 기능과 특성 등 무역거래에 따른 결제, 송금 등 외국환 관리에 대한 내용을 이해한다",
+            "similarity": 0.5067070989238631
+        },
+        {
+            "id": 2859,
+            "name": "국제경영학",
+            "description": "본 수업은 세계경제의 글로벌화 및 다국적기업에 대해 관심이 있고 공부를 하고자 하는 학부 학생들의 국제경영학 분야에 대한 기초적이고 종합적인 이해 함양을 주요 목표로 한다.",
+            "curriculum": "국제경영학 소개 및 개론YUMMI글로벌경영환경에 대한 이해YUMMI새로운 국제무역질서YUMMI글로벌금융 및 정치적, 문화적 환경YUMMI글로벌전략의 수립YUMMI수출과 계약을 통한 해외사업운영YUMMI해외직접투자YUMMI중간고사YUMMI국제합작투자와 전략적 제휴YUMMI해외인수합병YUMMI글로벌기업의 조직구조와 인적자원관리YUMMI글로벌제품개발과 마케팅활동의 조정, 생산 및 연구개발활동의 세계적인 배치와 조정YUMMI글로벌경영활동의 재무적.회계적 통제, 미래의 글로벌기업YUMMIGroup presentationYUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제경영학 본 수업은 세계경제의 글로벌화 및 다국적기업에 대해 관심이 있고 공부를 하고자 하는 학부 학생들의 국제경영학 분야에 대한 기초적이고 종합적인 이해 함양을 주요 목표로 한다.",
+            "similarity": 0.4636191832463079
+        },
+        {
+            "id": 3151,
+            "name": "일본어학의이해",
+            "description": "일본어에 관한 기초 지식을 학습한다.\n\n초급, 생활 일본어와 문법, 강독 등을 통해 익힌 일본어의 단편적인 지식들을 체계적으로 연결하여 일본어의 여러 영역에 관한 제 지식을 종합적으로 이해하는 강의를 목표로 한다.",
+            "curriculum": "가이던스YUMMI일본어학이란?YUMMI음성/음운 1 YUMMI음성/음운 2YUMMI문자/표기 1 YUMMI문자/표기 2 YUMMI어휘 1 YUMMI어휘 2YUMMI문법 1YUMMI문법 2YUMMI문법 3YUMMI문법 4 YUMMI문법 5 YUMMI문법 6YUMMI기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "일본학과",
+            "full_text": "일본어학의이해 일본어에 관한 기초 지식을 학습한다.\n\n초급, 생활 일본어와 문법, 강독 등을 통해 익힌 일본어의 단편적인 지식들을 체계적으로 연결하여 일본어의 여러 영역에 관한 제 지식을 종합적으로 이해하는 강의를 목표로 한다.",
+            "similarity": 0.42285789954341313
+        },
+        {
+            "id": 3317,
+            "name": "일본대중문화의이해",
+            "description": "본 강의는 대중문화적 시각에서 일본문화의 성격과 특징을 이해하는 것을 목표로 하고 있다.   1. 먼저, 대중문화가 발생하게 된 역사적 배경과 연원을 6기로 나누어 메이지기를 기점으로 현대의 고도소비사회에 이르는 과정에 대해 살펴본다.  2. 2부에서는 연중행사, 의식주, 전통예술, 종교, 미디어예술 등 구체적 장르를 통해 보다 심층적으로 일본대중문화의 성격을 이해한다. 3. 이를 통해 스스로가 대중문화를 만들어가는 주체임을 자각, 대중문화를 비판적으로 수용하고 즐길 수 있는 안목을 기르고자 한다. ",
+            "curriculum": "매스미디어의 성립과정을 살펴보고 미디어에서 표상되고 있는 대중문화의 성격을 이해한다.YUMMI일본의 자연적 지리적 환경과 행정구역체계의 구분방식을 알고 이것이 대중문화 탄생의 기반이 됨을 이해한다. YUMMI메이지유신의 목표와 진행과정을 통해 일본근대국가의 성립과정과 소설의 변화과정을 이해한다. YUMMI러일전쟁과 1차대전을 기점으로 중공업산업이 확장되고 라디오라는 미디어의 탄생과정을 통해 대중사회가 성립되는 과정을 이해한다.YUMMI만주사변을 기점으로 전시기로 이어지는 1930-40년대의 문화통제와 변화하는 대중사회의 모습을 이해한다.  YUMMI2차대전패배후 미점령군통제하에 실시된 검열과 이를 통해 변화하는 대중문화의 성격을 이해한다.YUMMI6-70년대 일본의 경제성장의 배경과 성장이 TV라는 매체를 통해  어떻게 대중문화의 성격을 변화시키며 확산되는지 그 양상을 이해한다,YUMMI중간고사YUMMI한국과 일본의 바람직한 관계정립을 위해 필요한 과제는 무엇인지 전문가를 초청하여 고민해 본다.YUMMI일본의 전통예술에는 무엇이 있으며 현대예술에 어떤 영향을 미치고 있는지 미디어를 통해 구체적으로 살펴본다.YUMMI일본인들의 의식과 생활질서의 근원이 어디에서 연유하고 있는지 미디어를 통해 살펴본다.YUMMI일본 미디어예술의 발달과정을 살펴보고 현재의 미디어에 어떻게 반영되고 있는지 살표본다.YUMMI일본의 종교와 마쯔리행사에 대해 살펴보고 어떤 방식으로 일상에 계승되고 있는지 살펴본다.YUMMI일본인들의 인생의례와 연중행사에 대해 살펴보고 일상에 어떻게 반영되고 있는지 살펴본다. YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "일본학과",
+            "full_text": "일본대중문화의이해 본 강의는 대중문화적 시각에서 일본문화의 성격과 특징을 이해하는 것을 목표로 하고 있다.   1. 먼저, 대중문화가 발생하게 된 역사적 배경과 연원을 6기로 나누어 메이지기를 기점으로 현대의 고도소비사회에 이르는 과정에 대해 살펴본다.  2. 2부에서는 연중행사, 의식주, 전통예술, 종교, 미디어예술 등 구체적 장르를 통해 보다 심층적으로 일본대중문화의 성격을 이해한다. 3. 이를 통해 스스로가 대중문화를 만들어가는 주체임을 자각, 대중문화를 비판적으로 수용하고 즐길 수 있는 안목을 기르고자 한다. ",
+            "similarity": 0.41467965936642204
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "description": "- 국제적인 비즈니스 환경에서의 도전에 대한 이해\n- 글로벌 시장에서의 기회를 효과적으로 활용하는 능력 강화\n- 문화적 다양성을 고려한 효과적인 국제마케팅 전략 수립 능력 향상\n- 글로벌 브랜딩과 가격 책정에 대한 전문 지식 습득",
+            "curriculum": "-오리엔테이션\n-기업의 글로벌화와 글로벌마케팅의 개념YUMMI-글로벌마케팅 환경YUMMI글로벌 마케팅조사\nYUMMI-글로벌 시장세분화전략\n-사례연구YUMMI-글로벌 표적시장선정과 포지셔닝전략\n-사례연구YUMMI-글로벌 시장진입전략\n-사례연구YUMMI-글로벌마케팅 믹스전략의 개념적 기초\n-사례연구YUMMI중간시험 YUMMI-글로벌 제품전략, 가격전략\n-사례연구YUMMI-글로벌 유통전략, 촉진전략                       -사례연구YUMMI- 전시마케팅                                            -사례연구YUMMI-글로벌마케팅 관리\n-사례연구YUMMI-글로벌마케팅의 조직\n-사례연구YUMMI- 디지털 시대의 국제마케팅                 ---사례연구YUMMI기말시험 YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "국제마케팅 - 국제적인 비즈니스 환경에서의 도전에 대한 이해\n- 글로벌 시장에서의 기회를 효과적으로 활용하는 능력 강화\n- 문화적 다양성을 고려한 효과적인 국제마케팅 전략 수립 능력 향상\n- 글로벌 브랜딩과 가격 책정에 대한 전문 지식 습득",
+            "similarity": 0.5864359086682916
+        },
+        {
+            "id": 664,
+            "name": "글로벌전략론",
+            "description": "본 수업은 다국적기업이 성공적인 국경간 경영활동을 위해 수행하는 다양한 경영전략에 대한 학습과 이해 함양을 수업목표로 한다.\n본 수업에서는 주로 기초적인 경영전략에 대한 지식, 다국적기업을 둘러싼 외부환경, 다국적기업의 경영자원과 경쟁우위, 다국적기업의 다양한 해외시장 진출 전략에 대해 학습한다.\n본 수업의 수강생은 향후 다국적기업의 구성원 및 창업가, 경영컨설턴트 및 애널리스트, 국제경영학 여러 분야의 연구자 등으로 성장할 수 있기를 기대한다.",
+            "curriculum": "글로벌전략론 소개 및 개론YUMMI경영전략에 대한 이해YUMMI글로벌경영환경하의 다국적기업의 목표와 지배구조YUMMI다국적기업의 외부환경분석YUMMI다국적기업의 경영자원과 핵심역량YUMMI다국적기업의 경쟁우위와 경쟁전략YUMMI다국적기업의 비용우위 및 차별화전략YUMMI중간고사YUMMI다국적기업의 해외시장 진출전략 IYUMMI다국적기업의 해외시장 진출전략 IIYUMMI다국적기업의 해외시장 진출전략 IIIYUMMI다국적기업의 해외시장 진출전략 IVYUMMI다국적기업의 사회적책임과 경영혁신YUMMI팀별 기말발표YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "글로벌전략론 본 수업은 다국적기업이 성공적인 국경간 경영활동을 위해 수행하는 다양한 경영전략에 대한 학습과 이해 함양을 수업목표로 한다.\n본 수업에서는 주로 기초적인 경영전략에 대한 지식, 다국적기업을 둘러싼 외부환경, 다국적기업의 경영자원과 경쟁우위, 다국적기업의 다양한 해외시장 진출 전략에 대해 학습한다.\n본 수업의 수강생은 향후 다국적기업의 구성원 및 창업가, 경영컨설턴트 및 애널리스트, 국제경영학 여러 분야의 연구자 등으로 성장할 수 있기를 기대한다.",
+            "similarity": 0.5759156392054122
+        },
+        {
+            "id": 841,
+            "name": "한일무역실습",
+            "description": "이 수업은 일본학 전공자 3학년 수준을 위한 수업으로서, 일본과의 무역  등 실무 업무를 위해 필요한 기초적인 말하기, 쓰기, 읽기, 듣기를 위한 수업이다. \n이를 위해 가상의 기업 현장을 상정하고, 강의 및 발표를 통해 일본어 역량을 함양한다. ",
+            "curriculum": "일본기업의 업종별 상황 이해하기1YUMMI일본기업의 업종별 상황 이해하기2YUMMI호텔에서YUMMI은행에서YUMMI공항에서YUMMI학교에서YUMMI기업에서1YUMMI중간고사YUMMI기업에서2YUMMI기업에서3YUMMI관공서에서YUMMI여행안내소에서YUMMI일어로 메일쓰기YUMMI일어로 지원서쓰기YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "full_text": "한일무역실습 이 수업은 일본학 전공자 3학년 수준을 위한 수업으로서, 일본과의 무역  등 실무 업무를 위해 필요한 기초적인 말하기, 쓰기, 읽기, 듣기를 위한 수업이다. \n이를 위해 가상의 기업 현장을 상정하고, 강의 및 발표를 통해 일본어 역량을 함양한다. ",
+            "similarity": 0.5376127179889564
+        },
+        {
+            "id": 345,
+            "name": "무역실무교육",
+            "description": "국제무역 실무의 이해",
+            "curriculum": "오리엔테이션YUMMI무역업의 이해YUMMI국제규칙의 이해YUMMI해외시장조사 IYUMMI해외시장조사 IIYUMMI수출아이템 발굴 방법YUMMI무역계약 준비  IYUMMI무역계약 준비  IIYUMMI무역계약 준비 ⅢYUMMI바이어 상담 및 협상 실무YUMMI무역실무 Case Study IYUMMI무역실무 Case Study IIYUMMI무역실무 Case Study ⅢYUMMI전시회 시뮬레이션YUMMI최종 보고 및 평가YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "무역실무교육 국제무역 실무의 이해",
+            "similarity": 0.5034598725016537
+        },
+        {
+            "id": 395,
+            "name": "글로벌비즈니스회화및영작",
+            "description": "The class is desinged to teach English for International Business. The contents will be overseas adevertisement, business proposals, offers, orders, making contracts, payments, letter of credit, and rasing claims and settlements.",
+            "curriculum": "Story 1. Situation 1YUMMIStory 1. Situations 2~3YUMMIStory 1. Situations 4~6YUMMIStory 1. Situations 7~8YUMMIStory 1. Situations 9~10YUMMIStory 1. Situations 11~12YUMMIMid-term ExamYUMMIStory 1. Situations 13~14YUMMIStory 1. Situations 15~16YUMMIStory 1. Situations 17~18YUMMIStory 1. Situations 19~20YUMMIStory 1. Situations 21~23YUMMIStory 2YUMMIStory 3YUMMIFinal ExamYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "글로벌비즈니스회화및영작 The class is desinged to teach English for International Business. The contents will be overseas adevertisement, business proposals, offers, orders, making contracts, payments, letter of credit, and rasing claims and settlements.",
+            "similarity": 0.4867585994411484
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "description": "오늘날 글로벌 기업들은 해외시장진출을 위하여 기본적으로 시장조사에 깊은 이해가 필요합니다. 이에 다양한 시장조사 방법과 데이터 분석 기술을 익힘으로써 현실적인 비즈니스 시나리오에서 효과적으로 대응할 수 있도록 한다.",
+            "curriculum": "오리엔테이션YUMMI 해외시장조사의 개요YUMMI해외시장조사 산업YUMMI해외시장조사 대상 국가 선정 및 분석YUMMI해외시장조사방법YUMMI조사설계 및 2차 데이터 패키지 정보YUMMI정성적 조사기술과 설문데이터 수집방법YUMMI중간고사YUMMI측정의 이해, 문항개발, 설문지 설계YUMMI표본추출 및 크기결정YUMMI통계분석 및 조사보고서YUMMI실습하기 1YUMMI실습하기 2YUMMIReview & PresentationYUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "해외시장조사론 오늘날 글로벌 기업들은 해외시장진출을 위하여 기본적으로 시장조사에 깊은 이해가 필요합니다. 이에 다양한 시장조사 방법과 데이터 분석 기술을 익힘으로써 현실적인 비즈니스 시나리오에서 효과적으로 대응할 수 있도록 한다.",
+            "similarity": 0.559541332316281
+        },
+        {
+            "id": 4088,
+            "name": "무역현장마케팅 2",
+            "description": "무역실무 및 현장실습을 통해 전문인력 양성, 도내 중소 수출업체 실무지원(시장조사보고서, CL작성, Inquiry응대, 통번역, 바이어상담, 사후관리 등)을 통한 무역현장실습을 익힌다.",
+            "curriculum": "현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI현장실습YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역현장마케팅 2 무역실무 및 현장실습을 통해 전문인력 양성, 도내 중소 수출업체 실무지원(시장조사보고서, CL작성, Inquiry응대, 통번역, 바이어상담, 사후관리 등)을 통한 무역현장실습을 익힌다.",
+            "similarity": 0.532503023032638
+        },
+        {
+            "id": 2628,
+            "name": "글로벌기업론",
+            "description": "국경을 초월한 기업활동의 증가로 글로벌기업에 대한 연구과제가 크게 부각되고있다. 글로벌기업에 대한 연구는 글로벌기업의 생성원리, 경제적효과 등과 같은 분야를 연구하는 국제경제학적 접근, 그리고 글로벌기업의 경영전략을 연구하는 국제경영학적 접근으로 나누어 볼 수 있다. 본 강의에서는 전반기에 경제적접근에 따른 글로벌기업의 생성원리 및 경제적효과를 살펴보고 후반기에는 글로벌기업의 경영전략에 대해 연구한다. 학습효과를 높이기위해 세계주요 글로벌기업의 경영전략에 대한 case study로 발표수업을 병행하고자 한다.",
+            "curriculum": "기업의 글로벌화 동기 및 과정YUMMI기업의 해외진출 형태YUMMI기업의 해외진출 결정요인YUMMI해외직접투자YUMMI글로벌기업의 경제적 효과(세계경제)YUMMI글로벌기업의 경제적 효과(투자본국)YUMMI글로벌기업의 경제적 효과(현지국)YUMMI중간고사YUMMI글로벌기업과정부YUMMI글로벌기업과 국제적 규제YUMMI글로벌기업의 경영전략YUMMI글로벌기업의 case studyYUMMI글로벌기업의 case studyYUMMI글로벌기업의 case studyYUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "글로벌기업론 국경을 초월한 기업활동의 증가로 글로벌기업에 대한 연구과제가 크게 부각되고있다. 글로벌기업에 대한 연구는 글로벌기업의 생성원리, 경제적효과 등과 같은 분야를 연구하는 국제경제학적 접근, 그리고 글로벌기업의 경영전략을 연구하는 국제경영학적 접근으로 나누어 볼 수 있다. 본 강의에서는 전반기에 경제적접근에 따른 글로벌기업의 생성원리 및 경제적효과를 살펴보고 후반기에는 글로벌기업의 경영전략에 대해 연구한다. 학습효과를 높이기위해 세계주요 글로벌기업의 경영전략에 대한 case study로 발표수업을 병행하고자 한다.",
+            "similarity": 0.5016378192174142
+        },
+        {
+            "id": 3576,
+            "name": "국제물류론",
+            "description": "① 글로벌 경쟁체제하에서 기업에게 물류는 생존을 위한 전략적 수단으로 기업경쟁력과 더 나아가 국가경쟁력의 주요한 원천이 되고 있음. 특히 무역의존도가 높은 우리나라는 국제물류과정상 물류비용을 낮추고, 고객만족을 극대화할 수 있는 국제물류 관리와 SCM전략이 매우 중요해지고 있음. 따라서 본 과목에서는 국제물류과정의 각 영역인 운송, 보관, 하역, 포장, 유통가공, 정보 등에 대한 전반적 내용을 학습하고, 관련된 이슈들을 함께 살펴봄으로써 통합된 국제물류전략에 대한 이해와 적용을 높이고자 함. \n② 발표 및 토론수업 진행 :  국내외 물류기업을 대상으로 다양한 주제를 발굴, 조사하여 발표함으로써 국제물류실무에 대한 이해를 돕고자 함. \n③ 스크랩과제진행 :  수업과 병행하여, 국내외 경영․경제 관련 기사 스크랩 과제를 함께 진행함으로써 국내외 경제전반에 관한 관심과 안목을 확대할 수 있는 기회로 삼고자 함. ",
+            "curriculum": "오리엔테이션(Orientation)YUMMI제1장. 물류의 일반적 개요와 국제물류YUMMI제2장. 국제물류의 영역 -글로벌 운송 관리YUMMI제2장. 국제물류의 영역 -글로벌 운송 관리YUMMI제3장. 국제물류의 영역 -보관물류, 하역 및 포장 YUMMI제4장. 물류시설과 물류기지 YUMMI제4장. 물류시설과 물류기지 YUMMI중간고사YUMMI제5장 국제물류와 무역YUMMI제6장 국제물류 이슈와 한국의 물류산업  YUMMI제6장 국제물류 이슈와 한국의 물류산업  YUMMI제7장 통합된 국제물류전략  YUMMI국제물류이슈 발표 & 토론YUMMI국제물류이슈 발표 & 토론YUMMI기말고사 YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제물류론 ① 글로벌 경쟁체제하에서 기업에게 물류는 생존을 위한 전략적 수단으로 기업경쟁력과 더 나아가 국가경쟁력의 주요한 원천이 되고 있음. 특히 무역의존도가 높은 우리나라는 국제물류과정상 물류비용을 낮추고, 고객만족을 극대화할 수 있는 국제물류 관리와 SCM전략이 매우 중요해지고 있음. 따라서 본 과목에서는 국제물류과정의 각 영역인 운송, 보관, 하역, 포장, 유통가공, 정보 등에 대한 전반적 내용을 학습하고, 관련된 이슈들을 함께 살펴봄으로써 통합된 국제물류전략에 대한 이해와 적용을 높이고자 함. \n② 발표 및 토론수업 진행 :  국내외 물류기업을 대상으로 다양한 주제를 발굴, 조사하여 발표함으로써 국제물류실무에 대한 이해를 돕고자 함. \n③ 스크랩과제진행 :  수업과 병행하여, 국내외 경영․경제 관련 기사 스크랩 과제를 함께 진행함으로써 국내외 경제전반에 관한 관심과 안목을 확대할 수 있는 기회로 삼고자 함. ",
+            "similarity": 0.5009976557549171
+        },
+        {
+            "id": 3679,
+            "name": "국제통상정책론",
+            "description": "This course, taught in English, explores the current issues associated with international commercial policies.\n\nKey words : WTo, FTA, Exchange rates, current account, capital flows, elementary open economy macroeconomics, and international monetory institutiions.",
+            "curriculum": "This course examines the current issues associated with international economic and commercial policies.YUMMIPractical and policy questions about key issues.YUMMIWhy is the economic cooperation inportant?YUMMI \tHow does the FTA affect the trade surplus? Investment flows in and out of the economy?YUMMI \tWhat is the relation, if any, amongst the FTA, trade policy, exchange rate, inflation, and productivity?YUMMI \tWhy did the value of a number of Asian currencies decline dramatically in 1997 and 1998? YUMMIFirst Presentation YUMMIFirst PrestntationYUMMI \tWhy did many nations once define their currencies in terms of a given weight of gold? YUMMI \tWhy did a number of European and Asian nations adopt the FTA policy? Should other nations imitate their example?YUMMIThis is a 'why' and 'so what' type of class. Although we all understand rapid changes in the world economy, students will be asked \"why is this happen?\" And \"what will be its consequences?\" And \"What are we going to solve it?\" Seeking solutions in this study, we will be acquired an understanding of the   interactions among economiesYUMMIestablish a coherent view of this mix and provide a conceptual framework for the managerial decision of diagnosing, predicting and responding to changes in the global trading environments. YUMMIIn attempting to bring order to international economic affairs, public institutions such as the IMF, WTO, and World Bank must analyze the consequences of their policies on the private sector.\n\nYUMMIFinal PresentationYUMMIFinal PresentationYUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제통상정책론 This course, taught in English, explores the current issues associated with international commercial policies.\n\nKey words : WTo, FTA, Exchange rates, current account, capital flows, elementary open economy macroeconomics, and international monetory institutiions.",
+            "similarity": 0.4782253932940579
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "description": "현대 세계 경제에서 서비스 무역의 중요성을 배울 수 있는 기회를 제공\n서비스 무역의 틀, 서비스 무역 분석 관련 주제 연구",
+            "curriculum": "서비스 산업의 이해YUMMI우리나라 경제 현황의 이해YUMMI우리나라 경제 현황의 이해YUMMI서비스 산업 프로젝트 1 구성YUMMI서비스 산업과 경제성장의 관련성YUMMI서비스 산업과 경제성장의 관련성YUMMI프로젝트 1 발표YUMMI프로젝트 1 발표YUMMI문화산업의 분류\n프로젝트 2 구성YUMMI문화산업 관련 이슈 연구YUMMI문화산업 정책 연구YUMMI문화산업의 국제적 전략 수립YUMMI프로젝트 2 조율YUMMI프로젝트 2 발표YUMMI프로젝트 2 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "서비스통상론 현대 세계 경제에서 서비스 무역의 중요성을 배울 수 있는 기회를 제공\n서비스 무역의 틀, 서비스 무역 분석 관련 주제 연구",
+            "similarity": 0.44982446064041426
+        },
+        {
+            "id": 2335,
+            "name": "FTA와WTO법",
+            "description": "글로벌 무역환경에 맞추어 FTA와 WTO협정문을 이해하고 새로운 무역환경에 대처하는 법을 배우며, FTA원산지관리사와 FTA원산지실무사 자격증을 취득할 수 있는 기초소양을 배양하는데 학습목표를 둔다. ",
+            "curriculum": "오리엔테이션을 통해 수업전체흐름 및 수업과목 목표를 이해한다. YUMMIWTO개요.  농업, 섬유 및 의류에 관한 협정과 무역관련 투자조치에 관한 협정을 이해한다. YUMMI관세 및 무역에 관한 일반협정 6조의 이행에 관한 협정[반덤핑]에 대한 이해와 보조금 및 상계조치에 관한 협정에 이해와 적응에 대해 고찰해 본다. YUMMI원산지 규정, 긴급수입제한조치, 서비스 무역, 무역관련지적재산권에 관한 협정을 이해하고 고찰해 본다. YUMMI분쟁해결 규칙 및 절차에 관한 양해 무역정책을 이해하고 검토제도 및 복수국간 무역협정을 이해 및 고찰해 본다. YUMMIFTA 개요 및 법령에 대해 이해하고 고찰해 본다. YUMMIFTA 원산지 증명서 활용 및 실무 범위에 대해 고찰해 본다. YUMMI중간고사 / 주관식 필기시험YUMMIHS 품목분류제도와 관세율표에 해석에 관한 통칙을 이해하고 적용하는 실무적 행태를 고찰해 본다. YUMMIFTA 적용요건을 고찰하고 실무적 활용방안[결정요건]에 대해 알아본다.YUMMIFTA 원산지결정을 품목별로 알아보고 개별기준에 따라 활용할 방안을 고찰해 본다.YUMMIFTA 원산지 결정요건[품목별기준/공통기준]을 공통기준에서 알아보고 활용할 방안을 고찰해 본다.YUMMIFTA 원산지 결정요건[일반기준/본야별특례-보충기준]을 알아보고 실무적 활용방안을 고찰해 본다. YUMMI관세절차 및 통관, 관세환급 방안을 알아보고 고찰해 본다. YUMMI기말고사 / 주관식 필기시험YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "FTA와WTO법 글로벌 무역환경에 맞추어 FTA와 WTO협정문을 이해하고 새로운 무역환경에 대처하는 법을 배우며, FTA원산지관리사와 FTA원산지실무사 자격증을 취득할 수 있는 기초소양을 배양하는데 학습목표를 둔다. ",
+            "similarity": 0.44921377192218903
+        },
+        {
+            "id": 1431,
+            "name": "일본사회와일본어",
+            "description": "본 수업은 일본문화 콘텐츠를 통해 일본어를 학습하고 일본의 문화와 사회를 이해하는데 도움을 주기 위한 것을 목표로 한다. 특히 신문기사, 잡지기사, 지역뉴스 및 tv뉴스, 넷 뉴스, 블로그, tv프로그램 등 다양한 매체에 수록된 기사를 통해 일본문화를 이해하고 그와 관련된 단어를 학습하고, 번역하는 방법을 학습한다. ",
+            "curriculum": "오리엔테이션(수업 진행 방식 및 강의 개요)YUMMI신문기사를 통한 학습YUMMI일본의 초밥에 대해 학습한다.YUMMI일본의 신문기사를 학습한다.YUMMI일본의 경찰제도에 대해 학습한다.YUMMI일본의 지역문화에 대해 학습한다.YUMMI일본의 독특한 문화에 대해 학습한다.YUMMI중간고사YUMMI일본의 지역 맛집에 대해 학습한다.YUMMI일본의 식문화에 대해 학습한다.YUMMI일본의 2020도쿄 올림픽에 대해 학습한다.YUMMI일본의 만화에 대해 학습한다.YUMMI일본의 도시 중 신주쿠에 대해 학습한다.YUMMI일본의 날씨에 대해 학습한다.YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "일본학과",
+            "full_text": "일본사회와일본어 본 수업은 일본문화 콘텐츠를 통해 일본어를 학습하고 일본의 문화와 사회를 이해하는데 도움을 주기 위한 것을 목표로 한다. 특히 신문기사, 잡지기사, 지역뉴스 및 tv뉴스, 넷 뉴스, 블로그, tv프로그램 등 다양한 매체에 수록된 기사를 통해 일본문화를 이해하고 그와 관련된 단어를 학습하고, 번역하는 방법을 학습한다. ",
+            "similarity": 0.4201952880752656
+        },
+        {
+            "id": 730,
+            "name": "무역서류작성실무",
+            "description": "본 과목은 GTEP 학생을 위한 과목으로서 실제 무역업무를 추진하는 과정에서 사용되는 각종 무역서류에 대한 검토와 이해를 목표로 하고 있음.   \n",
+            "curriculum": "오리엔테이션YUMMI무역실무과정 이해 YUMMI무역계약 체결 이전에 관련된 무역서식 YUMMI무역계약서 YUMMI매매관련서류 YUMMI수출입통관을 위한 서류YUMMI해상운송계약과 관련한 서류 YUMMI항공운송계약과 관련한 서류YUMMI적하보험 계약 및 증권YUMMI내국신용장YUMMI환어음 및 신용장 YUMMI환어음 및 신용장 YUMMI수입화물선취보증서YUMMI중재신청서YUMMI요약 점검YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "무역서류작성실무 본 과목은 GTEP 학생을 위한 과목으로서 실제 무역업무를 추진하는 과정에서 사용되는 각종 무역서류에 대한 검토와 이해를 목표로 하고 있음.   \n",
+            "similarity": 0.39383975819235184
+        },
+        {
+            "id": 390,
+            "name": "일본대중소설의이해",
+            "description": "엄선된 우수한 일본의 대중 소설을 읽고 감상한다. 이를 통해 작품이 그려내고 있는 현대 일본 사회에 대한 이해와 그 사회를 살아가는 다양한 군상의 인간을 통해,  우리가 살아가는 사회와 인간에 대한 이해를 도울 수 있다.   ",
+            "curriculum": "수업안내YUMMI호시 신이치 봇코짱 외YUMMI이마모토 후미오 플라나리아YUMMI다나베 세이코 조제와 호랑이, 그리고 물고기YUMMI야마다 무네키 혐오스런 마쯔코의 일생YUMMI가네시로 가즈키 GOYUMMI고레에다 히로카즈 원더풀 데이즈YUMMI중간고사YUMMI미야베 미유키 이유YUMMI아오야마 나나에 혼자있기 좋은날YUMMI무라타 사야카 편의점 인간YUMMI히가시노 게이고 나미야 잡화점의 기적YUMMI오쿠다 히데오 공중그네YUMMI온다 리쿠 꿀벌과 천둥YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "일본학과",
+            "full_text": "일본대중소설의이해 엄선된 우수한 일본의 대중 소설을 읽고 감상한다. 이를 통해 작품이 그려내고 있는 현대 일본 사회에 대한 이해와 그 사회를 살아가는 다양한 군상의 인간을 통해,  우리가 살아가는 사회와 인간에 대한 이해를 도울 수 있다.   ",
+            "similarity": 0.3739187130661401
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "description": "기업의 국제화와 세계시장의 글로벌화에 대응해 지역별, 국별 시장 특성과 동향을 이해하고 분석하는 능력을  함양하는데 그 목적이 있다. ",
+            "curriculum": "세계지역론 소개 및 연구범위YUMMI세계국가 무역환경분석YUMMI세계국가 무역환경분석YUMMI세계국가 산업분석YUMMI세계국가 무역분석YUMMI세계국가 무역분석YUMMI세계지역 전략 수출상품 연구YUMMIProject 1 최종발표YUMMI4차 산업혁명과 무역환경YUMMIDiana EconomyYUMMIproject 1 심화 발표YUMMIGlobal RPM 응용 전략YUMMI시장진출과 국제경쟁력 확보방안YUMMIProject 2 최종발표YUMMIProject 2 최종발표YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "세계지역론 기업의 국제화와 세계시장의 글로벌화에 대응해 지역별, 국별 시장 특성과 동향을 이해하고 분석하는 능력을  함양하는데 그 목적이 있다. ",
+            "similarity": 0.5267617752650455
+        },
+        {
+            "id": 3928,
+            "name": "비즈니스실무일본어",
+            "description": "日本語のビジネス会話およびビジネスマナ―について学び、日本(語)で実務に携わることができるレベルの習得を目標とする。\n1）相手、場面にふさわしい敬語表現の習得。\n2）ビジネスシ―ンに必要なマナ―および対応能力の習得。",
+            "curriculum": "オリエンテ―ション\n\n敬語の基本を確認する(1)YUMMI敬語の基本を確認する(２)　YUMMI挨拶、出迎え\n-コミュニケーションの第一歩、適切な挨拶ができるようになる\nYUMMI名刺交換、関係者の安否確認\n-正しい名刺交換の仕方を身につけるYUMMI訪問客の応対\n-訪問場面で、相手に失礼のない立ち居ふるまいができるようになるYUMMI電話対応(1)\n－基本的な電話応対ができるようになるYUMMI復習YUMMI中間テストYUMMI中間テストのフィードバック\n\n電話対応(2)\n-電話で予約、予約変更などができるようになる\nYUMMIお客様の接待\n－接待や訪問場面で、相手に失礼のないふるまいができるようになるYUMMIお客様の招待\n－接待や訪問場面で、相手に失礼のないふるまいができるようになるYUMMIビジネスメール(1)\n-基本的なビジネスメールが書けるようになるYUMMIビジネスメール(2)\n-基本的なビジネスメールが書けるようになるYUMMI復習YUMMI期末テストYUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "일본학과",
+            "full_text": "비즈니스실무일본어 日本語のビジネス会話およびビジネスマナ―について学び、日本(語)で実務に携わることができるレベルの習得を目標とする。\n1）相手、場面にふさわしい敬語表現の習得。\n2）ビジネスシ―ンに必要なマナ―および対応能力の習得。",
+            "similarity": 0.4817888501794715
+        },
+        {
+            "id": 3186,
+            "name": "국제벤처창업경영론",
+            "description": "국가 간 거래를 위한 국제벤처창업경영의 이론과 실무적 지식을 이해하고 창업 시뮬레이션으로 실무역량을 강화한다. ",
+            "curriculum": "오리엔테이션YUMMI벤처창업 시뮬레이션 팀 구성YUMMI기업가 정신의 이해YUMMI기업조직 구성 등YUMMI팀별 상품 선정 및 상품성 확인, 조직, 경영을 위한 창조성과 창의력 발휘YUMMI창업 아이디어 발굴 기법YUMMI사업타당성 및 지속가능성YUMMI중간고사YUMMI사업타당성 및 리스크관리 방안YUMMI사업계획서 작성방법YUMMI회사 재무상태 확인YUMMI정부지원자금 조달 YUMMI벤처스타트업의 세계화YUMMI벤처스타트업 사례 분석YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제벤처창업경영론 국가 간 거래를 위한 국제벤처창업경영의 이론과 실무적 지식을 이해하고 창업 시뮬레이션으로 실무역량을 강화한다. ",
+            "similarity": 0.46718763339621144
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "description": "한국의 경제성장과 무역의 상관관계, 한국 무역의 역사, 한국 정부의 무역 및 산업 정책 변화 과정, 한국 무역 관련 주요 기관 및 기능, 한국 무역 관련 주요 법률 고찰 및 한국 무역에 영향을 미치는 글로벌 무역 환경과 최근 주요 이슈 등을 분석 연구하여 궁극적으로 한국 및 세계 무역 환경과 그에 관련된 주요 이슈에 대한 분석 연구 능력을 제고코자 함 ",
+            "curriculum": "한국 무역학 연구 강좌 소개YUMMI무역의 개념 및 추세YUMMI경제성장과 무역의 상관관계YUMMI한국 경제와 한국 무역의 성장과정YUMMI최근 10년간 한국 무역의 특징 변화YUMMI한국의 무역관리 시스템YUMMI세계 경제 및 글로벌 무역의 이해YUMMI중간고사YUMMI글로벌 무역 운송 루트YUMMIWTO와 한국 무역YUMMIFTA와 한국 무역YUMMIFDI와 한국 무역YUMMI한국의 주요 수출시장 이해 I - 팀프로젝트YUMMI한국의 주요 수출시장 이해 II - 팀프로젝트YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "한국무역론 한국의 경제성장과 무역의 상관관계, 한국 무역의 역사, 한국 정부의 무역 및 산업 정책 변화 과정, 한국 무역 관련 주요 기관 및 기능, 한국 무역 관련 주요 법률 고찰 및 한국 무역에 영향을 미치는 글로벌 무역 환경과 최근 주요 이슈 등을 분석 연구하여 궁극적으로 한국 및 세계 무역 환경과 그에 관련된 주요 이슈에 대한 분석 연구 능력을 제고코자 함 ",
+            "similarity": 0.45300634503042003
+        },
+        {
+            "id": 3342,
+            "name": "중국무역투자론",
+            "description": "세계 정치 및 경제 무대에서의 위상이 급상승하고 있는 중국의 통상환경에 대한 기본개념을 파악하기 위하여 중국의 대외개방정책의 성립 및 전개과정, 통상정책의 변화와 한중무역, 대중국 직접투자 등의 고찰을 통한 중국통상에 관한 이해증진을 목표로 한다.",
+            "curriculum": "중국개황YUMMI중국과 중국인 1 : 중국민족YUMMI중국과 중국인 2 : 중국의 소비시장YUMMI중국의 대외개방경제체제 성립YUMMI중국의 대외개방정책 전개과정YUMMI중국의 통상정책YUMMI중국의 WTO가입과 통상정책의 변화YUMMI중간고사YUMMI중국의 대외무역구조의 변화YUMMI한중 경제관계의 변화YUMMI중국의 외자유치정책과 중국기업의 해외진출 1YUMMI중국의 외자유치정책과 중국기업의 해외진출 2YUMMI글로벌기업의 대중국투자YUMMI한국기업의 대중국 권역별 진출전략YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "중국무역투자론 세계 정치 및 경제 무대에서의 위상이 급상승하고 있는 중국의 통상환경에 대한 기본개념을 파악하기 위하여 중국의 대외개방정책의 성립 및 전개과정, 통상정책의 변화와 한중무역, 대중국 직접투자 등의 고찰을 통한 중국통상에 관한 이해증진을 목표로 한다.",
+            "similarity": 0.422047073758153
+        }
+    ]
+}

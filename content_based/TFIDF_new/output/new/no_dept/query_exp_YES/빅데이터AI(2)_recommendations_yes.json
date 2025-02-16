@@ -1,0 +1,266 @@
+{
+    "meta_info": {
+        "user_query": "대량의 데이터를 분석하고 인공지능을 활용하여 의미 있는 패턴을 찾는 방법을 배우고 싶어요. 머신러닝과 데이터 마이닝을 함께 학습하려면 어떤 과목을 수강해야 할까요?",
+        "expanded_query": "대량의 데이터를 분석하고 인공지능을 활용하여 의미 있는 패턴을 찾는 방법을 배우고 싶어요. 머신러닝과 데이터 마이닝을 함께 학습하려면 어떤 과목을 수강해야 할까요? 대량 데이터 분석 및 인공지능을 활용한 패턴 발견 기법 습득 데이터 분석 및 인공지능 전문가 데이터 과학 및 인공지능 데이터 사이언티스트 데이터 사이언티스트는 대량의 데이터를 분석하여 패턴을 식별하고, 인공지능 및 머신러닝 기법을 사용하여 비즈니스 인사이트를 도출하는 역할을 합니다. 대량 데이터 수집, 정제 및 분석 머신러닝 모델 개발 및 테스트 데이터 마이닝을 통해 의미 있는 패턴 발견 대용량 데이터 분석 기술 머신러닝 알고리즘에 대한 이해 데이터 마이닝 기법 파이썬 또는 R 프로그래밍 언어 스킬 데이터 시각화 및 해석 능력 통계학 및 확률 데이터베이스 관리 머신러닝 이론 및 응용 데이터 마이닝 기법 심화 빅데이터 처리 도구 (예: Hadoop, Spark) 인공지능 실험 플랫폼 활용 (예: TensorFlow, PyTorch)",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.3351429484637304
+        },
+        {
+            "id": 2544,
+            "name": "통계학입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.27466154664043496
+        },
+        {
+            "id": 4293,
+            "name": "인체와의복",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "의류학과",
+            "similarity": 0.10076487346644646
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.5251055113957325
+        },
+        {
+            "id": 354,
+            "name": "데이터구조및프로그래밍실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.29674393474511584
+        },
+        {
+            "id": 2211,
+            "name": "머신러닝개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.23229692652346415
+        },
+        {
+            "id": 909,
+            "name": "빅데이터개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.19280523035118677
+        },
+        {
+            "id": 4547,
+            "name": "디지털스토리텔링과데이터시각화",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.2889279330603447
+        },
+        {
+            "id": 3247,
+            "name": "행정통계학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.28070489664507814
+        },
+        {
+            "id": 4307,
+            "name": "데이터기반헬스케어기술 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.24284682316734096
+        },
+        {
+            "id": 4277,
+            "name": "수리통계학 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.21346927874189836
+        },
+        {
+            "id": 2864,
+            "name": "위성영상처리및실습",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "지구환경과학과",
+            "similarity": 0.19333237490369126
+        },
+        {
+            "id": 2192,
+            "name": "데이터시각화",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.2462183430601469
+        },
+        {
+            "id": 444,
+            "name": "기계공학실험",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.21810467910947043
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.21072134180299348
+        },
+        {
+            "id": 2044,
+            "name": "데이터베이스및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.20048211760646767
+        },
+        {
+            "id": 1183,
+            "name": "데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.19306493089019705
+        },
+        {
+            "id": 3035,
+            "name": "실험계획법",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.28266575060160215
+        },
+        {
+            "id": 4354,
+            "name": "생체영상처리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.27884426909935667
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.2614481939647562
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.2593882836303736
+        },
+        {
+            "id": 4106,
+            "name": "스마트농업프로그래밍",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.23293092635996673
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.3736637992325504
+        },
+        {
+            "id": 405,
+            "name": "빅데이터분석과응용",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.34025457096168066
+        },
+        {
+            "id": 251,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.27820410063236833
+        },
+        {
+            "id": 1125,
+            "name": "소셜빅데이터분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.1937739896362824
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.12015179613169683
+        },
+        {
+            "id": 3098,
+            "name": "한국사회분석실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.18451395101164667
+        },
+        {
+            "id": 3352,
+            "name": "중남미국제기구와개발협력",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.1442123493777118
+        },
+        {
+            "id": 2806,
+            "name": "6시그마",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.13076374718324918
+        },
+        {
+            "id": 3952,
+            "name": "로봇비전",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.12132016940185428
+        },
+        {
+            "id": 4261,
+            "name": "운동동작분석",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.10784923320012171
+        }
+    ]
+}

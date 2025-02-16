@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "의료 기술이 발전하고 있지만, 아직도 많은 의료 현장에서 진단 오류나 의료 접근성이 부족한 문제가 존재합니다. 저는 데이터 기반 헬스케어 기술을 활용해 환자의 질병을 조기에 진단하고, 의료 서비스의 효율성을 높이는 데 기여하고 싶어요. 이를 위해 어떤 학습 경로를 따라야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 757,
+            "name": "컴퓨터응용제도및설계",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.24839013836801246
+        },
+        {
+            "id": 1987,
+            "name": "생명자원산업론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "생명자원융합학과",
+            "similarity": 0.24624525659789212
+        },
+        {
+            "id": 1329,
+            "name": "기초기하학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "수학과",
+            "similarity": 0.24422490773563066
+        },
+        {
+            "id": 623,
+            "name": "환경생태학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.24359089645112447
+        },
+        {
+            "id": 1689,
+            "name": "한약학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "한약자원학과",
+            "similarity": 0.24246553312909608
+        },
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.33480661700542763
+        },
+        {
+            "id": 3888,
+            "name": "디지털농업프로그래밍개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.32400482018899557
+        },
+        {
+            "id": 3880,
+            "name": "통계정보학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.3093988445654873
+        },
+        {
+            "id": 4310,
+            "name": "데이터과학프로그래밍입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.2964806408471831
+        },
+        {
+            "id": 4287,
+            "name": "디지털농업기계개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.2927824827288126
+        },
+        {
+            "id": 302,
+            "name": "데이터기반헬스케어기술 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4532338728816169
+        },
+        {
+            "id": 1537,
+            "name": "확률통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.38288173196490677
+        },
+        {
+            "id": 2379,
+            "name": "컴퓨터정보처리",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.3779572160571528
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.36289967162063996
+        },
+        {
+            "id": 909,
+            "name": "빅데이터개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.34455597987801373
+        },
+        {
+            "id": 4307,
+            "name": "데이터기반헬스케어기술 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4535589879109342
+        },
+        {
+            "id": 3065,
+            "name": "임상의학개론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3695334527865579
+        },
+        {
+            "id": 3389,
+            "name": "데이터사이언스",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.36407103651432693
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.35171814635367454
+        },
+        {
+            "id": 4063,
+            "name": "빅데이터분석의이해",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.3197729906938897
+        },
+        {
+            "id": 283,
+            "name": "의료기기학 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4213492887830337
+        },
+        {
+            "id": 336,
+            "name": "생체계측및실험 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.39792849412254494
+        },
+        {
+            "id": 1810,
+            "name": "보건경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.3927021140649738
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.38538116288362434
+        },
+        {
+            "id": 923,
+            "name": "생체시스템개론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "기계설계공학부",
+            "similarity": 0.3800529005200267
+        },
+        {
+            "id": 4347,
+            "name": "생체계측및실험",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.48213022966488545
+        },
+        {
+            "id": 3218,
+            "name": "첨단의료기기학개론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.4521377387635799
+        },
+        {
+            "id": 3788,
+            "name": "의료기기학 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.42349017628699503
+        },
+        {
+            "id": 2921,
+            "name": "생명과학자료분석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.4079439684634326
+        },
+        {
+            "id": 3166,
+            "name": "데이터마이닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.36096870215733723
+        },
+        {
+            "id": 1911,
+            "name": "딥러닝과신약개발",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생명과학부(분자생물학)",
+            "similarity": 0.385653648128414
+        },
+        {
+            "id": 405,
+            "name": "빅데이터분석과응용",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.3844915856256653
+        },
+        {
+            "id": 717,
+            "name": "병원정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.37031384006081597
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.3648781328060516
+        },
+        {
+            "id": 5,
+            "name": "작물병해진단실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.3608986429307554
+        },
+        {
+            "id": 3730,
+            "name": "IT융복합통섭연구",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.40085354915249083
+        },
+        {
+            "id": 2845,
+            "name": "헬스케어기기디자인",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.38749495765402586
+        },
+        {
+            "id": 2702,
+            "name": "바이오기기설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.37969685120656177
+        },
+        {
+            "id": 3963,
+            "name": "기기분석및실험",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "한약자원학과",
+            "similarity": 0.355127084959127
+        },
+        {
+            "id": 3924,
+            "name": "의약및생나노화학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "화학과",
+            "similarity": 0.3345009418979662
+        }
+    ]
+}

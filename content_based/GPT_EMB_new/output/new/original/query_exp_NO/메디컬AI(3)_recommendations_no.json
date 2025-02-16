@@ -1,0 +1,277 @@
+{
+    "meta_info": {
+        "user_query": "병원 내 대규모 의료 데이터를 효율적으로 저장·관리하고, 환자 데이터 보안을 강화하는 시스템을 구축하려면 어떤 학습이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "바이오메디컬공학부",
+            "컴퓨터인공지능학부"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 3796,
+            "name": "C++프로그래밍",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.2259276217314658
+        },
+        {
+            "id": 2729,
+            "name": "이산수학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.22298841935767336
+        },
+        {
+            "id": 3094,
+            "name": "컴퓨터공학총론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.20590796142364498
+        },
+        {
+            "id": 302,
+            "name": "데이터기반헬스케어기술 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4669000295401804
+        },
+        {
+            "id": 1537,
+            "name": "확률통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3524550974725754
+        },
+        {
+            "id": 764,
+            "name": "자료구조",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3317895482230369
+        },
+        {
+            "id": 1773,
+            "name": "인체해부생리학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3180882533417524
+        },
+        {
+            "id": 929,
+            "name": "생체역학 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.2901614924169242
+        },
+        {
+            "id": 4307,
+            "name": "데이터기반헬스케어기술 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4610071137597208
+        },
+        {
+            "id": 4505,
+            "name": "데이터베이스",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4091864409082549
+        },
+        {
+            "id": 3065,
+            "name": "임상의학개론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.39694992908443705
+        },
+        {
+            "id": 4094,
+            "name": "알고리즘",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.28623301412946334
+        },
+        {
+            "id": 4679,
+            "name": "분자생물학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.2861370005431641
+        },
+        {
+            "id": 1183,
+            "name": "데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.4228705379210923
+        },
+        {
+            "id": 2044,
+            "name": "데이터베이스및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.40679283555384227
+        },
+        {
+            "id": 283,
+            "name": "의료기기학 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.37073079532695485
+        },
+        {
+            "id": 1715,
+            "name": "암호론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.34094822980663286
+        },
+        {
+            "id": 336,
+            "name": "생체계측및실험 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3355319976523056
+        },
+        {
+            "id": 3166,
+            "name": "데이터마이닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3922857231938044
+        },
+        {
+            "id": 3734,
+            "name": "클라우드컴퓨팅",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.37117515274279567
+        },
+        {
+            "id": 3788,
+            "name": "의료기기학 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.35631276883973273
+        },
+        {
+            "id": 3995,
+            "name": "생명정보학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.34171026249796
+        },
+        {
+            "id": 4527,
+            "name": "의료영상 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3410382973582502
+        },
+        {
+            "id": 717,
+            "name": "병원정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4883338441283321
+        },
+        {
+            "id": 1428,
+            "name": "의료기기법규및안전관리",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.33283455349479873
+        },
+        {
+            "id": 557,
+            "name": "의료영상 2",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.33160954328091363
+        },
+        {
+            "id": 2311,
+            "name": "임베디드시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.30376725495118556
+        },
+        {
+            "id": 1561,
+            "name": "고령친화시스템공학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3010711053377353
+        },
+        {
+            "id": 4308,
+            "name": "시스템보안",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.39839822874385017
+        },
+        {
+            "id": 3730,
+            "name": "IT융복합통섭연구",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.375552195480483
+        },
+        {
+            "id": 3004,
+            "name": "정보검색",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.31270471429746916
+        },
+        {
+            "id": 2845,
+            "name": "헬스케어기기디자인",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.29185076119361936
+        },
+        {
+            "id": 4073,
+            "name": "패턴인식",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.2707044078733776
+        }
+    ]
+}

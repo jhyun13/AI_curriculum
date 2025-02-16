@@ -1,0 +1,130 @@
+{
+    "meta_info": {
+        "user_query": "드론을 활용한 스마트 농업 시스템 구축에 관심이 있습니다. 드론 기술과 센서 시스템을 효과적으로 적용하여 정밀 농업을 실현하고 싶습니다. 이를 위해 어떤 지식이 필요하며, 어떤 학습 경로를 따라가면 좋을까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3377,
+            "name": "과학학의기초",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "과학학과",
+            "similarity": 0.11332617658358504
+        },
+        {
+            "id": 2262,
+            "name": "원가회계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.12798338412747853
+        },
+        {
+            "id": 2386,
+            "name": "스마트팩토리(IoT)개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.11645319187246216
+        },
+        {
+            "id": 550,
+            "name": "실험통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생명공학부",
+            "similarity": 0.10058384723673189
+        },
+        {
+            "id": 2913,
+            "name": "기업경제학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.12377471377217444
+        },
+        {
+            "id": 4973,
+            "name": "영어의역사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "영어영문학과",
+            "similarity": 0.1034861372380262
+        },
+        {
+            "id": 1687,
+            "name": "비교발전행정론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.11432731195015172
+        },
+        {
+            "id": 4165,
+            "name": "스마트팜환경제어",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.12315237823493713
+        },
+        {
+            "id": 3642,
+            "name": "재정학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.12061330897542996
+        },
+        {
+            "id": 3303,
+            "name": "메카트로닉스및실험",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.11670156351423003
+        },
+        {
+            "id": 3518,
+            "name": "스페인어교재연구및지도법",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.10232087172081047
+        },
+        {
+            "id": 605,
+            "name": "농업환경지리정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.1538068605189925
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.15625195875168116
+        },
+        {
+            "id": 4963,
+            "name": "정밀가공",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "similarity": 0.13663398116146686
+        },
+        {
+            "id": 3339,
+            "name": "사회복지와인권",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.13049839443008376
+        }
+    ]
+}

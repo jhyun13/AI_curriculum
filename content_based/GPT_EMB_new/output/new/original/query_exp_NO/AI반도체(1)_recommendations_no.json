@@ -1,0 +1,261 @@
+{
+    "meta_info": {
+        "user_query": "데이터가 폭발적으로 증가하는 시대에서, AI 연산을 가속화하는 반도체와 메모리 기술이 필요합니다. AI와 반도체 아키텍처를 최적화하여 고성능 AI 칩을 개발하는 엔지니어가 되고 싶어요. 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "전자공학부",
+            "반도체과학기술학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 3385,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.324199993261971
+        },
+        {
+            "id": 1134,
+            "name": "디지털논리공학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.43131592133701463
+        },
+        {
+            "id": 33,
+            "name": "응용수학 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.4285838502557486
+        },
+        {
+            "id": 354,
+            "name": "데이터구조및프로그래밍실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.37705446924984615
+        },
+        {
+            "id": 466,
+            "name": "회로이론 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.37084955355769306
+        },
+        {
+            "id": 2299,
+            "name": "디지털공학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.3700658852195882
+        },
+        {
+            "id": 4703,
+            "name": "응용수학 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.44376738347391154
+        },
+        {
+            "id": 3678,
+            "name": "반도체소자 1",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.32010467202314496
+        },
+        {
+            "id": 4841,
+            "name": "회로이론 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.3146986967430285
+        },
+        {
+            "id": 3955,
+            "name": "전자회로 1",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.31190134299002603
+        },
+        {
+            "id": 4720,
+            "name": "회로이론 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.2867047171551934
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.5114037740790855
+        },
+        {
+            "id": 956,
+            "name": "마이크로프로세서및실험",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.39617166537949733
+        },
+        {
+            "id": 97,
+            "name": "반도체공정",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.3848695302954436
+        },
+        {
+            "id": 2330,
+            "name": "컴퓨터구조",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.3827184688350861
+        },
+        {
+            "id": 812,
+            "name": "초급양자역학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.34855344826859164
+        },
+        {
+            "id": 4575,
+            "name": "딥러닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.43989397683880127
+        },
+        {
+            "id": 3211,
+            "name": "반도체소자",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.4027096384463705
+        },
+        {
+            "id": 3821,
+            "name": "반도체공정실험 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.32284896852539424
+        },
+        {
+            "id": 3661,
+            "name": "디스플레이공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.3169523970497625
+        },
+        {
+            "id": 4058,
+            "name": "반도체소자 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.2803950383107352
+        },
+        {
+            "id": 356,
+            "name": "아날로그집적회로설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.4069745485617361
+        },
+        {
+            "id": 1403,
+            "name": "반도체소자설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.3786719084180429
+        },
+        {
+            "id": 1239,
+            "name": "반도체공정실험 2",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.37640873626308025
+        },
+        {
+            "id": 1252,
+            "name": "영상처리",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.3686441683618328
+        },
+        {
+            "id": 1650,
+            "name": "반도체연구특론 1",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.3396135468227442
+        },
+        {
+            "id": 3315,
+            "name": "알고리즘",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.43690144182382434
+        },
+        {
+            "id": 4093,
+            "name": "시스템및메모리반도체",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.4138744825900612
+        },
+        {
+            "id": 3952,
+            "name": "로봇비전",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.34637988592950286
+        },
+        {
+            "id": 3496,
+            "name": "센서반도체",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.33434261656987757
+        },
+        {
+            "id": 4111,
+            "name": "반도체연구특론 2",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.3223668968917665
+        }
+    ]
+}

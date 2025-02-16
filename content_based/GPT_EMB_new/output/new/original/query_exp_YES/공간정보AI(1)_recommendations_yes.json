@@ -1,0 +1,293 @@
+{
+    "meta_info": {
+        "user_query": "AI와 데이터 기반의 도시 계획 시뮬레이션을 통해 실제 도시 개발 이전에 최적화된 가상 모델을 구축하는 것이 중요합니다. 저는 컴퓨터 그래픽스, GIS 분석, AI 기반 예측 모델링, 도시 설계 시뮬레이션 등을 배워서 가상 공간에서 도시 환경을 미리 시뮬레이션할 수 있는 시스템을 개발하고 싶습니다. 어떤 과정이 필요할까요?",
+        "expanded_query": "AI와 데이터 기반의 도시 계획 시뮬레이션을 통해 실제 도시 개발 이전에 최적화된 가상 모델을 구축하는 것이 중요합니다. 저는 컴퓨터 그래픽스, GIS 분석, AI 기반 예측 모델링, 도시 설계 시뮬레이션 등을 배워서 가상 공간에서 도시 환경을 미리 시뮬레이션할 수 있는 시스템을 개발하고 싶습니다. 어떤 과정이 필요할까요? AI와 데이터 기반의 도시 계획 시뮬레이션 시스템 개발 가상 도시 시뮬레이션 시스템 개발자 또는 도시 계획 시뮬레이션 전문가 도시 계획 및 시뮬레이션 기술 도시 시뮬레이션 시스템 개발자 도시 시뮬레이션 시스템 개발자는 AI 및 데이터 분석 기술을 활용하여 가상의 도시 환경을 모델링하고 시뮬레이션하는 시스템을 개발합니다. 이를 통해 도시 계획 및 개발 전략을 최적화하도록 지원합니다. AI 및 데이터 기반 예측 모델 설계, GIS 및 컴퓨터 그래픽스를 사용한 가상 도시 모델링, 도시 환경 시뮬레이션 시스템 개발 및 테스트 컴퓨터 그래픽스, GIS 분석, AI 기반 예측 모델링, 데이터 시각화, 프로그래밍(주로 Python, R) 도시 계획 및 설계의 기초, 컴퓨터 그래픽스 이론, GIS 기본 원리 AI 및 머신러닝 알고리즘, 고급 GIS 기술, 도시 시뮬레이션 및 모델링 기법 데이터 처리 및 분석 도구 사용법, 시뮬레이션 소프트웨어(예: Unity, ArcGIS)의 활용, 실시간 데이터 적용 방법",
+        "given_departments": null,
+        "selected_departments": [
+            "도시공학과",
+            "컴퓨터인공지능학부"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 1641,
+            "name": "컴퓨터그래픽스기초",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.36921215161956505
+        },
+        {
+            "id": 3094,
+            "name": "컴퓨터공학총론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3637227929754772
+        },
+        {
+            "id": 2983,
+            "name": "도시학개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.3598256511761863
+        },
+        {
+            "id": 2729,
+            "name": "이산수학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.2644954294438016
+        },
+        {
+            "id": 3796,
+            "name": "C++프로그래밍",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.21033863053561325
+        },
+        {
+            "id": 1914,
+            "name": "도시공간조사분석론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.507256068785773
+        },
+        {
+            "id": 2226,
+            "name": "도시계획론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.44107533967082846
+        },
+        {
+            "id": 1857,
+            "name": "건축및환경설계의이해",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.37627323009844005
+        },
+        {
+            "id": 1977,
+            "name": "가로설계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.364004729678953
+        },
+        {
+            "id": 764,
+            "name": "자료구조",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.33836030836553044
+        },
+        {
+            "id": 4470,
+            "name": "도시계획사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.46525255810069216
+        },
+        {
+            "id": 4046,
+            "name": "토지이용계획",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.4313210284643713
+        },
+        {
+            "id": 4443,
+            "name": "GIS공간분석기초",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.3794622758343312
+        },
+        {
+            "id": 3563,
+            "name": "도시건축론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.33207338335330205
+        },
+        {
+            "id": 4094,
+            "name": "알고리즘",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.32114520148082004
+        },
+        {
+            "id": 1192,
+            "name": "도시개발론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.48941050739776637
+        },
+        {
+            "id": 1702,
+            "name": "도시종합설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.4310768309718594
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3919185353049912
+        },
+        {
+            "id": 1523,
+            "name": "단지계획및지구단위계획",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.382903233114482
+        },
+        {
+            "id": 2101,
+            "name": "교통계획",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.35385596662688373
+        },
+        {
+            "id": 3871,
+            "name": "도시관계법규",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.45483552494884405
+        },
+        {
+            "id": 2709,
+            "name": "도시계획실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.43257514335321046
+        },
+        {
+            "id": 4456,
+            "name": "환경계획개론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.4022702985359801
+        },
+        {
+            "id": 4541,
+            "name": "컴퓨터그래픽스",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.40123111021800767
+        },
+        {
+            "id": 3684,
+            "name": "도시경관학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.3963952201390293
+        },
+        {
+            "id": 2177,
+            "name": "공간정보캡스톤디자인",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.5378834530986337
+        },
+        {
+            "id": 1647,
+            "name": "공간관리및스마트도시정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.4779819415611195
+        },
+        {
+            "id": 2056,
+            "name": "교통계획실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.4085491386036736
+        },
+        {
+            "id": 84,
+            "name": "게임및혼합현실",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.38434262107185935
+        },
+        {
+            "id": 277,
+            "name": "컴퓨터비전",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.36293619593267085
+        },
+        {
+            "id": 3333,
+            "name": "도시부동산학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.43685831682311127
+        },
+        {
+            "id": 3004,
+            "name": "정보검색",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.33407203934687957
+        },
+        {
+            "id": 3379,
+            "name": "산학실전캡스톤 3",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3039700118903662
+        },
+        {
+            "id": 4308,
+            "name": "시스템보안",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.29225138500788317
+        },
+        {
+            "id": 3978,
+            "name": "창업특강",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.2788985753372077
+        }
+    ]
+}

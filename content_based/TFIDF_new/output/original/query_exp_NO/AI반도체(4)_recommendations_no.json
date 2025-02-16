@@ -1,0 +1,35 @@
+{
+    "meta_info": {
+        "user_query": "AI 반도체 설계 엔지니어로서 AI 가속기 및 고성능 연산 반도체를 개발하는 일을 하고 싶어요. 어떤 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "반도체과학기술학과",
+            "전자공학부"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 3211,
+            "name": "반도체소자",
+            "description": "본 교과에서는 전자회로의 기초가 되는 반도체 물성 이론과 기본적인 양자역학의 개념을 복습하고 이를 통해 다양한 반도체 소자(금속-반도체 접합, BJT, MOSFET)의 특성을 학습하는 것을 목표로 한다. 나아가 집적회로에서의 전자소자(MOSFET)의 스케일링에 따른 물리적 현상과 이를 극복하기 위한 FinFET, Nanosheet FET 신기술 내용을 학습하고 TCAD 시뮬레이션을 활용한 MOSFET 설계 실습을 수행한다.\n1. 반도체 물성의 이해\n2. 반도체 접합 및 금속-반도체 접합의 물성 및 동작 특성 이해\n3. MOS 캐피시터와 MOSFET의 물성 및 동작 특성 이해\n4. 집적회로에서의 MOSFET 축소화와 멀티게이트 MOSFET 소개",
+            "curriculum": "교과목 소개YUMMI에너지 밴드 다이어그램, 캐리어 분포, 캐리어 이동과 재결합YUMMI PN 접합의 구조와 물리적 특성YUMMI PN 접합 다이오드의 이상적 특성 및 비이상적 특성YUMMI금속-반도체 접합 종류와 특성YUMMI금속-반도체 접합 종류와 특성YUMMI바이폴라 트랜지스터YUMMI중간고사YUMMIMOS 캐패시터 구조와 특성YUMMIMOSFET의 구조와 동작 특성YUMMIMOSFET의 구조와 동작 특성YUMMIMOSFET 축소화와 멀티게이트 MOSFETYUMMIMOSFET 축소화와 멀티게이트 MOSFETYUMMIMOSFET 응용YUMMI기말고사를 통한 평가YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "반도체소자 본 교과에서는 전자회로의 기초가 되는 반도체 물성 이론과 기본적인 양자역학의 개념을 복습하고 이를 통해 다양한 반도체 소자(금속-반도체 접합, BJT, MOSFET)의 특성을 학습하는 것을 목표로 한다. 나아가 집적회로에서의 전자소자(MOSFET)의 스케일링에 따른 물리적 현상과 이를 극복하기 위한 FinFET, Nanosheet FET 신기술 내용을 학습하고 TCAD 시뮬레이션을 활용한 MOSFET 설계 실습을 수행한다.\n1. 반도체 물성의 이해\n2. 반도체 접합 및 금속-반도체 접합의 물성 및 동작 특성 이해\n3. MOS 캐피시터와 MOSFET의 물성 및 동작 특성 이해\n4. 집적회로에서의 MOSFET 축소화와 멀티게이트 MOSFET 소개",
+            "similarity": 0.12023945337172225
+        },
+        {
+            "id": 1239,
+            "name": "반도체공정실험 2",
+            "description": "화합물계 반도체 소자를 설계하고, 제작, 측정을 진행해 봄으로써 반도체 공정 실무 능력을 배양시키고자 함\n\n한 학기 동안 팀별로 화합물 반도체 소자를 선정하여 제작, 측정, 평가함\n소자종류: Schottky diode, LED, HFET",
+            "curriculum": "IntroductionYUMMI반도체 소자의 종류와 특징 1YUMMI반도체 소자의 종류와 특징 2YUMMI반도체 소자 실험 계획 1YUMMI반도체 소자 실험 계획 2YUMMI반도체 소자 실험 - 단위공정YUMMI반도체 소자 실험 - 단위공정YUMMI반도체 소자 실험 1차 점검YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 2차 점검YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 3차 점검YUMMI반도체 소자 실험 - 측정YUMMI소자 제작 및 특성 측정 결과 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체공정실험 2 화합물계 반도체 소자를 설계하고, 제작, 측정을 진행해 봄으로써 반도체 공정 실무 능력을 배양시키고자 함\n\n한 학기 동안 팀별로 화합물 반도체 소자를 선정하여 제작, 측정, 평가함\n소자종류: Schottky diode, LED, HFET",
+            "similarity": 0.10518312287307628
+        }
+    ]
+}

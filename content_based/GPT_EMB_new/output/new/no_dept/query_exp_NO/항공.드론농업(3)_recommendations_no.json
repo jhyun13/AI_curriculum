@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "드론의 경량화와 내구성을 높이면서 농업 환경에 최적화된 기체를 설계하고 싶습니다. 공기역학, 구조공학, 센서 기술 등을 포함한 학습 과정은 무엇이 될까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 945,
+            "name": "기계공학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.35131544121143055
+        },
+        {
+            "id": 1665,
+            "name": "식량자원학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "생명자원융합학과",
+            "similarity": 0.32895147509826045
+        },
+        {
+            "id": 157,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "전기공학과",
+            "similarity": 0.32057896301629335
+        },
+        {
+            "id": 757,
+            "name": "컴퓨터응용제도및설계",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.31254655110430635
+        },
+        {
+            "id": 1094,
+            "name": "공학설계기초",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.31065147584218705
+        },
+        {
+            "id": 2943,
+            "name": "공업역학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.38668385919248
+        },
+        {
+            "id": 3888,
+            "name": "디지털농업프로그래밍개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.3793713158291329
+        },
+        {
+            "id": 2633,
+            "name": "동물생명공학및실험",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물생명공학과",
+            "similarity": 0.35850857559588967
+        },
+        {
+            "id": 3615,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.3571675744759891
+        },
+        {
+            "id": 4287,
+            "name": "디지털농업기계개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.34917792320404994
+        },
+        {
+            "id": 3,
+            "name": "항공드론기초설계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5755500972067521
+        },
+        {
+            "id": 420,
+            "name": "전산항공드론기초",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.518240714761579
+        },
+        {
+            "id": 744,
+            "name": "항공공학개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.48649491629447245
+        },
+        {
+            "id": 755,
+            "name": "원예산물시스템공학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.37522995450161734
+        },
+        {
+            "id": 1398,
+            "name": "공업역학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3663539440183573
+        },
+        {
+            "id": 2638,
+            "name": "항공드론재료역학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5128186524140166
+        },
+        {
+            "id": 2832,
+            "name": "항공우주로봇입문",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.43556065522089504
+        },
+        {
+            "id": 4656,
+            "name": "재료역학및연습",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "지역건설공학과",
+            "similarity": 0.41236254702271935
+        },
+        {
+            "id": 4476,
+            "name": "응용유체역학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.40606210800626946
+        },
+        {
+            "id": 3910,
+            "name": "섬유공학개론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "유기소재섬유공학과",
+            "similarity": 0.4047882012022322
+        },
+        {
+            "id": 839,
+            "name": "항공드론센서공학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.524654344074211
+        },
+        {
+            "id": 311,
+            "name": "항공드론제어설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4986175334236995
+        },
+        {
+            "id": 1305,
+            "name": "항공드론CAD응용",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.48561577411553913
+        },
+        {
+            "id": 1861,
+            "name": "항공우주구조역학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.47237766867864855
+        },
+        {
+            "id": 2098,
+            "name": "항공우주진동및설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4452312601899465
+        },
+        {
+            "id": 3259,
+            "name": "드론농업응용",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.5205678973289822
+        },
+        {
+            "id": 3137,
+            "name": "드론측량굴착공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(자원에너지공학)",
+            "similarity": 0.47797649506271245
+        },
+        {
+            "id": 4131,
+            "name": "인공지능물리탐사",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(자원에너지공학)",
+            "similarity": 0.4571608924483585
+        },
+        {
+            "id": 4165,
+            "name": "스마트팜환경제어",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.4225640478230701
+        },
+        {
+            "id": 4755,
+            "name": "압축성유체역학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4174886875244206
+        },
+        {
+            "id": 1160,
+            "name": "정밀농업시스템공학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.45124691217368473
+        },
+        {
+            "id": 983,
+            "name": "복합재료설계및풍력활용",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4471575173107879
+        },
+        {
+            "id": 282,
+            "name": "수공설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "토목환경자원에너지공학부(토목공학)",
+            "similarity": 0.42745831951987723
+        },
+        {
+            "id": 1015,
+            "name": "전산항공드론심화",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4133855110117433
+        },
+        {
+            "id": 1181,
+            "name": "캡스톤디자인 1",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "동물생명공학과",
+            "similarity": 0.40930946553975434
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5583160342220048
+        },
+        {
+            "id": 2998,
+            "name": "항공우주공학프로젝트",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.41670209215381127
+        },
+        {
+            "id": 2712,
+            "name": "첨단소재공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "신소재공학부(금속시스템공학)",
+            "similarity": 0.3915349616396935
+        },
+        {
+            "id": 3523,
+            "name": "농업시스템공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "지역건설공학과",
+            "similarity": 0.3849735038407834
+        },
+        {
+            "id": 4825,
+            "name": "환경바이오융합기술캡스톤디자인",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "생명공학부",
+            "similarity": 0.37119365970713886
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "meta_info": {
+        "user_query": "효율적이고 가벼운 항공기 및 드론 구조를 설계하기 위해 재료공학, 구조해석, CAD 응용을 학습하고 싶습니다. 이러한 연구를 위해 어떤 학습 경로가 적절할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "항공우주공학과",
+            "기계공학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 1094,
+            "name": "공학설계기초",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.36269903703636625
+        },
+        {
+            "id": 2508,
+            "name": "전산제도",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "similarity": 0.3696653092889022
+        },
+        {
+            "id": 2975,
+            "name": "정역학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "similarity": 0.32144665014645035
+        },
+        {
+            "id": 3,
+            "name": "항공드론기초설계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.6183072536116512
+        },
+        {
+            "id": 420,
+            "name": "전산항공드론기초",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5822123867437371
+        },
+        {
+            "id": 744,
+            "name": "항공공학개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5406284430517541
+        },
+        {
+            "id": 1398,
+            "name": "공업역학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4855252173962654
+        },
+        {
+            "id": 611,
+            "name": "CAD응용",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.4314410661546556
+        },
+        {
+            "id": 2638,
+            "name": "항공드론재료역학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.6184602566743198
+        },
+        {
+            "id": 2832,
+            "name": "항공우주로봇입문",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.46065028001199537
+        },
+        {
+            "id": 2877,
+            "name": "항공역학입문",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.42164114184078677
+        },
+        {
+            "id": 4518,
+            "name": "기계공작법",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "similarity": 0.39594973310968423
+        },
+        {
+            "id": 4798,
+            "name": "고체역학 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "similarity": 0.39580733181808136
+        },
+        {
+            "id": 1861,
+            "name": "항공우주구조역학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5845671203402338
+        },
+        {
+            "id": 1305,
+            "name": "항공드론CAD응용",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.558645707991724
+        },
+        {
+            "id": 2098,
+            "name": "항공우주진동및설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5506013180825035
+        },
+        {
+            "id": 311,
+            "name": "항공드론제어설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5155847160548432
+        },
+        {
+            "id": 839,
+            "name": "항공드론센서공학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.46966583109995746
+        },
+        {
+            "id": 3930,
+            "name": "유체기계",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "similarity": 0.4448884145918079
+        },
+        {
+            "id": 2648,
+            "name": "기소설계 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "similarity": 0.4364555157422806
+        },
+        {
+            "id": 4755,
+            "name": "압축성유체역학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4274690549017893
+        },
+        {
+            "id": 2644,
+            "name": "전산구조모형및해석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4100817687489243
+        },
+        {
+            "id": 4878,
+            "name": "스마트모빌리티공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "similarity": 0.36494325080392687
+        },
+        {
+            "id": 983,
+            "name": "복합재료설계및풍력활용",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5549463591909711
+        },
+        {
+            "id": 1015,
+            "name": "전산항공드론심화",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5450317736729078
+        },
+        {
+            "id": 2293,
+            "name": "현장실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.42136610304778876
+        },
+        {
+            "id": 1784,
+            "name": "풍력터빈공력설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.3905007419026866
+        },
+        {
+            "id": 1594,
+            "name": "종합설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.3748995477733423
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.5615000596616767
+        },
+        {
+            "id": 2998,
+            "name": "항공우주공학프로젝트",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.4404943372098486
+        },
+        {
+            "id": 2591,
+            "name": "로봇공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "similarity": 0.38834051055623203
+        },
+        {
+            "id": 4623,
+            "name": "인공위성임무설계및해석",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.34925995368433904
+        },
+        {
+            "id": 4963,
+            "name": "정밀가공",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "similarity": 0.33137943001137465
+        }
+    ]
+}

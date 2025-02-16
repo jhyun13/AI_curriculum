@@ -1,0 +1,301 @@
+{
+    "meta_info": {
+        "user_query": "컴퓨터 그래픽스와 3D 공간 설계를 배우고, 이를 활용해 도시 시뮬레이션을 구축하는 방법을 익히고 싶어요. 어떤 학습 과정을 거쳐야 할까요?",
+        "expanded_query": "컴퓨터 그래픽스와 3D 공간 설계를 배우고, 이를 활용해 도시 시뮬레이션을 구축하는 방법을 익히고 싶어요. 컴퓨터 그래픽스 및 3D 공간 설계와 도시 시뮬레이션 구축 기술 습득 도시 시뮬레이션 개발 전문가 가상 현실 및 시뮬레이션 개발 도시 시뮬레이션 개발자 컴퓨터 그래픽스와 3D 공간 설계 기술을 활용하여 도시 환경 및 시뮬레이션을 설계하고 구현하는 전문가로, 도시 계획과 설계에 관한 데이터를 현실감 있게 시뮬레이션하여 결과를 예측하거나 테스트하는 역할을 수행합니다. 도시 시뮬레이션 설계 및 개발 시뮬레이션 환경 생성 및 테스트 그래픽 렌더링을 통한 시각화 도시 계획 및 설계 자료의 분석 및 적용 3D 모델링 및 렌더링 컴퓨터 그래픽스 프로그래밍 시뮬레이션 소프트웨어 사용 및 개발  CAD 및 기타 3D 설계 도구 사용 과학적 컴퓨팅 및 데이터 분석 컴퓨터 그래픽스 이론 및 알고리즘 3D 공간 모델링/렌더링 기법  도시 계획 및 설계 원리 시뮬레이션 소프트웨어 개발 시뮬레이션 및 가상 현실 플랫폼 활용  프로젝트 관리 및 멀티 플랫폼 개발 기술",
+        "given_departments": null,
+        "selected_departments": [
+            "도시공학과",
+            "조경학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 1641,
+            "name": "컴퓨터그래픽스기초",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.4643557524797185
+        },
+        {
+            "id": 1839,
+            "name": "조경제도및표현기법",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.39678487763259285
+        },
+        {
+            "id": 623,
+            "name": "환경생태학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.29377259843745884
+        },
+        {
+            "id": 3461,
+            "name": "CAD및컴퓨터그래픽기초",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.4569002619877745
+        },
+        {
+            "id": 2518,
+            "name": "공간구성론및실습",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.37592154092025026
+        },
+        {
+            "id": 2773,
+            "name": "인간행태와환경설계",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.3631625935164825
+        },
+        {
+            "id": 2983,
+            "name": "도시학개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.3553562691262267
+        },
+        {
+            "id": 3036,
+            "name": "조경식물학및실습 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.23446608579784917
+        },
+        {
+            "id": 1914,
+            "name": "도시공간조사분석론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.4881392623072546
+        },
+        {
+            "id": 2226,
+            "name": "도시계획론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.44485576435135565
+        },
+        {
+            "id": 1857,
+            "name": "건축및환경설계의이해",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.4305150603855355
+        },
+        {
+            "id": 1977,
+            "name": "가로설계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.3664078915748689
+        },
+        {
+            "id": 366,
+            "name": "측량학및실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.34209089101226087
+        },
+        {
+            "id": 4470,
+            "name": "도시계획사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.4271481827934627
+        },
+        {
+            "id": 4046,
+            "name": "토지이용계획",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.4194194025392959
+        },
+        {
+            "id": 4443,
+            "name": "GIS공간분석기초",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.36283688046957063
+        },
+        {
+            "id": 3563,
+            "name": "도시건축론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.3470425556290864
+        },
+        {
+            "id": 3721,
+            "name": "조경공학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.3410331605174939
+        },
+        {
+            "id": 1192,
+            "name": "도시개발론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.4396465127801452
+        },
+        {
+            "id": 1702,
+            "name": "도시종합설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.4350227409764586
+        },
+        {
+            "id": 458,
+            "name": "현대조경사례연구",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.3996781257505319
+        },
+        {
+            "id": 1523,
+            "name": "단지계획및지구단위계획",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.3911084174106898
+        },
+        {
+            "id": 1846,
+            "name": "지형설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.38382767416561714
+        },
+        {
+            "id": 3871,
+            "name": "도시관계법규",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.4459659760022284
+        },
+        {
+            "id": 2709,
+            "name": "도시계획실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.4316738337077711
+        },
+        {
+            "id": 3774,
+            "name": "단지계획-캡스톤디자인",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.4141864829639682
+        },
+        {
+            "id": 2770,
+            "name": "단지설계",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.4103926920819824
+        },
+        {
+            "id": 3684,
+            "name": "도시경관학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.40485224289301747
+        },
+        {
+            "id": 2177,
+            "name": "공간정보캡스톤디자인",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.5303960890444263
+        },
+        {
+            "id": 1647,
+            "name": "공간관리및스마트도시정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.44456765424780653
+        },
+        {
+            "id": 2056,
+            "name": "교통계획실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.43932708673606047
+        },
+        {
+            "id": 672,
+            "name": "환경GIS실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.37531783131365076
+        },
+        {
+            "id": 2376,
+            "name": "경관계획및관리론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.3683296574838946
+        },
+        {
+            "id": 3333,
+            "name": "도시부동산학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.4455400638552923
+        },
+        {
+            "id": 2978,
+            "name": "관광및휴양공간계획론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.3090842798561652
+        },
+        {
+            "id": 3876,
+            "name": "자연자원관리론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.2581665171439207
+        }
+    ]
+}

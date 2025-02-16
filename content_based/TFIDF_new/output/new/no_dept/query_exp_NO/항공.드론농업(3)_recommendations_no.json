@@ -1,0 +1,194 @@
+{
+    "meta_info": {
+        "user_query": "드론의 경량화와 내구성을 높이면서 농업 환경에 최적화된 기체를 설계하고 싶습니다. 공기역학, 구조공학, 센서 기술 등을 포함한 학습 과정은 무엇이 될까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 928,
+            "name": "감각과지각",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "심리학과",
+            "similarity": 0.12861989707886726
+        },
+        {
+            "id": 2096,
+            "name": "환경친화농업",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생명자원융합학과",
+            "similarity": 0.12588627826971513
+        },
+        {
+            "id": 2062,
+            "name": "식품자원경제학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.12096437083749662
+        },
+        {
+            "id": 766,
+            "name": "탁구 2",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스포츠과학과",
+            "similarity": 0.12041396046404423
+        },
+        {
+            "id": 117,
+            "name": "농촌자원경제학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생명자원융합학과",
+            "similarity": 0.10985519804528537
+        },
+        {
+            "id": 4794,
+            "name": "농업기상학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.15032253442518959
+        },
+        {
+            "id": 3749,
+            "name": "응용소프트웨어개발",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.14540112356683477
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.16608594825894493
+        },
+        {
+            "id": 1970,
+            "name": "응용계측학및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.14572718022215975
+        },
+        {
+            "id": 2281,
+            "name": "선진농촌사례연구",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생명자원융합학과",
+            "similarity": 0.12033204224669
+        },
+        {
+            "id": 845,
+            "name": "영어교육론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "영어영문학과",
+            "similarity": 0.10521622724785377
+        },
+        {
+            "id": 3259,
+            "name": "드론농업응용",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.2313443650175488
+        },
+        {
+            "id": 3281,
+            "name": "기기분석학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물환경화학과",
+            "similarity": 0.20114209065145822
+        },
+        {
+            "id": 4198,
+            "name": "실내건축재료학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "주거환경학과",
+            "similarity": 0.12920100477385682
+        },
+        {
+            "id": 3303,
+            "name": "메카트로닉스및실험",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.11323492291946732
+        },
+        {
+            "id": 4178,
+            "name": "노화및스포츠",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.10837718641152182
+        },
+        {
+            "id": 474,
+            "name": "대체요법 1",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "한약자원학과",
+            "similarity": 0.1172539102865589
+        },
+        {
+            "id": 530,
+            "name": "생물공정설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "화학공학부",
+            "similarity": 0.10033327105076918
+        },
+        {
+            "id": 4953,
+            "name": "농업.농촌의사회학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.14108341935400223
+        },
+        {
+            "id": 3523,
+            "name": "농업시스템공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "지역건설공학과",
+            "similarity": 0.12244674084567514
+        },
+        {
+            "id": 3200,
+            "name": "식물유전자원보존학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "작물생명과학과",
+            "similarity": 0.11927511048160902
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.11180956891149096
+        },
+        {
+            "id": 3954,
+            "name": "로봇공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.10611280815364005
+        }
+    ]
+}

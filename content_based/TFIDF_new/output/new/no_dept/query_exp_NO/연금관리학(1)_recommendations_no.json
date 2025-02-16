@@ -1,0 +1,122 @@
+{
+    "meta_info": {
+        "user_query": "기업과 공공 기관은 각각 영리와 공공 서비스를 목표로 하지만, 두 조직 모두 예산 관리, 세무 운영, 회계 전략이 필수적입니다. 민간 기업과 공공 재정 운영을 비교하며 실무적인 재무 관리 역량을 기르려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2723,
+            "name": "도서관정보센타경영론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.11741251050102383
+        },
+        {
+            "id": 1868,
+            "name": "교통운영",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.10279978210832942
+        },
+        {
+            "id": 4536,
+            "name": "재무행정론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.19345912564867834
+        },
+        {
+            "id": 4811,
+            "name": "특용수재배학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "산림환경과학과",
+            "similarity": 0.152657101074307
+        },
+        {
+            "id": 2165,
+            "name": "공공도서관경영",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.12789489236962506
+        },
+        {
+            "id": 1934,
+            "name": "산업및조직심리학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "심리학과",
+            "similarity": 0.1156745726013281
+        },
+        {
+            "id": 1833,
+            "name": "경관재료및시공",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생태조경디자인학과",
+            "similarity": 0.11487146886874369
+        },
+        {
+            "id": 1563,
+            "name": "농토목시공학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지역건설공학과",
+            "similarity": 0.10262253346717437
+        },
+        {
+            "id": 4292,
+            "name": "조경관리학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.1259915983609092
+        },
+        {
+            "id": 2819,
+            "name": "소프트웨어공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.11824242745079334
+        },
+        {
+            "id": 2582,
+            "name": "신재생에너지공학및실험",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전기공학과",
+            "similarity": 0.10565647617055383
+        },
+        {
+            "id": 1435,
+            "name": "식사요법및실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "식품영양학과",
+            "similarity": 0.12155263227832
+        },
+        {
+            "id": 2325,
+            "name": "소비자행동론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.11077933828455963
+        },
+        {
+            "id": 3874,
+            "name": "식품산업조직론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.15545286144551332
+        }
+    ]
+}

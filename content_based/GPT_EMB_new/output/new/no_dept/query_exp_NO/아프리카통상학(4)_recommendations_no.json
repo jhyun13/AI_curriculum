@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "다국적 기업에서 프랑스 및 프랑스어권 아프리카 시장 진출을 담당하는 국제 마케팅 전문가가 되고 싶어요. 이를 위해 어떤 학습이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 623,
+            "name": "환경생태학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.22235478191150992
+        },
+        {
+            "id": 2365,
+            "name": "기초스페인어 1",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.21436171111692556
+        },
+        {
+            "id": 735,
+            "name": "한옥학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "한옥학과",
+            "similarity": 0.21141001214135485
+        },
+        {
+            "id": 252,
+            "name": "일반수학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.2099641112169524
+        },
+        {
+            "id": 157,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "전기공학과",
+            "similarity": 0.20841881248135097
+        },
+        {
+            "id": 3585,
+            "name": "프랑스어입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.396931615922062
+        },
+        {
+            "id": 3665,
+            "name": "무역학개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.35654062604225023
+        },
+        {
+            "id": 3534,
+            "name": "프랑스어청취",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.35301139392855085
+        },
+        {
+            "id": 4844,
+            "name": "국제무역입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3325427507661603
+        },
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.3053093436758414
+        },
+        {
+            "id": 2106,
+            "name": "마케팅원론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.4099580885798364
+        },
+        {
+            "id": 177,
+            "name": "기초프랑스어문법",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.35228484761656687
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.3343688561200072
+        },
+        {
+            "id": 113,
+            "name": "마케팅관리론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경영학과",
+            "similarity": 0.33115570412132944
+        },
+        {
+            "id": 501,
+            "name": "초급프랑스어회화",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.32690113632956364
+        },
+        {
+            "id": 4956,
+            "name": "아프리카지역의이해",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.44135670527295706
+        },
+        {
+            "id": 2859,
+            "name": "국제경영학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3958215986835425
+        },
+        {
+            "id": 3443,
+            "name": "중급프랑스어문법",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.3872203241899947
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.38358139544668846
+        },
+        {
+            "id": 3173,
+            "name": "프랑스언어학의이해",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.3818691724979236
+        },
+        {
+            "id": 1141,
+            "name": "아프리카비즈니스입문",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.5580929593731337
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.511427678432801
+        },
+        {
+            "id": 1454,
+            "name": "프랑스어권디지털자료분석과활용",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.4329494593259977
+        },
+        {
+            "id": 664,
+            "name": "글로벌전략론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.42331874242803474
+        },
+        {
+            "id": 1713,
+            "name": "마케팅조사분석론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.40168019262997035
+        },
+        {
+            "id": 3699,
+            "name": "프랑스어교재연구및지도법",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.4256887465506781
+        },
+        {
+            "id": 4088,
+            "name": "무역현장마케팅 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.39728901438204467
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.38665333631618665
+        },
+        {
+            "id": 4598,
+            "name": "프랑스어듣기연습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.38030746512717806
+        },
+        {
+            "id": 3824,
+            "name": "아프리카문화와예술의이해",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.3717401664383578
+        },
+        {
+            "id": 1495,
+            "name": "식품마케팅및캡스톤",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.4281641833476185
+        },
+        {
+            "id": 412,
+            "name": "아프리카의세계문화유산",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.40976721539699423
+        },
+        {
+            "id": 85,
+            "name": "시사프랑스어",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.36571298442293715
+        },
+        {
+            "id": 2325,
+            "name": "소비자행동론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.36121022535154446
+        },
+        {
+            "id": 1919,
+            "name": "어패럴디자인",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "의류학과",
+            "similarity": 0.34660960166768
+        },
+        {
+            "id": 4142,
+            "name": "프랑스아프리카정치",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.4476523676122686
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4252478730582942
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.40433315009105225
+        },
+        {
+            "id": 2815,
+            "name": "프랑스융복합문학과스토리텔링",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.37817591455573357
+        },
+        {
+            "id": 4224,
+            "name": "식품마케팅전략론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.3480261484507751
+        }
+    ]
+}

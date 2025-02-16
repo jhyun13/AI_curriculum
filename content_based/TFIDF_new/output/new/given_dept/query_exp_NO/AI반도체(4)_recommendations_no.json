@@ -1,0 +1,35 @@
+{
+    "meta_info": {
+        "user_query": "AI 반도체 설계 엔지니어로서 AI 가속기 및 고성능 연산 반도체를 개발하는 일을 하고 싶어요. 어떤 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": [
+            "전자공학부",
+            "컴퓨터인공지능학부"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 793,
+            "name": "인공지능",
+            "description": " 본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "curriculum": "Introduction & problem-solving by searchingYUMMIProblem-solving: Uninformed/Informed Search, Advanced searchYUMMIProblem-solving: Adversarial Search, Constraint satisfaction problemYUMMISymbolic AI: First order logicYUMMISymbolic AI: Inference in FOLYUMMIMachine Learning: Linear classification, logistic regressionYUMMIMidtermYUMMIMachine Learning: Deep learning basics - Feedforward neural networks, Backpropagation, Convolutional networksYUMMIProbabilistic reasonsing: Bayesian networks & InferenceYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIReinforcement learning: Monte carlo learning/Termporal difference learningYUMMIReinforcement learning: Policy gradient methods, Deep Q networksYUMMIGame theory, evolutionary computation, & AI YUMMIFinaltermYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인공지능  본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "similarity": 0.22949817789197685
+        },
+        {
+            "id": 3211,
+            "name": "반도체소자",
+            "description": "본 교과에서는 전자회로의 기초가 되는 반도체 물성 이론과 기본적인 양자역학의 개념을 복습하고 이를 통해 다양한 반도체 소자(금속-반도체 접합, BJT, MOSFET)의 특성을 학습하는 것을 목표로 한다. 나아가 집적회로에서의 전자소자(MOSFET)의 스케일링에 따른 물리적 현상과 이를 극복하기 위한 FinFET, Nanosheet FET 신기술 내용을 학습하고 TCAD 시뮬레이션을 활용한 MOSFET 설계 실습을 수행한다.\n1. 반도체 물성의 이해\n2. 반도체 접합 및 금속-반도체 접합의 물성 및 동작 특성 이해\n3. MOS 캐피시터와 MOSFET의 물성 및 동작 특성 이해\n4. 집적회로에서의 MOSFET 축소화와 멀티게이트 MOSFET 소개",
+            "curriculum": "교과목 소개YUMMI에너지 밴드 다이어그램, 캐리어 분포, 캐리어 이동과 재결합YUMMI PN 접합의 구조와 물리적 특성YUMMI PN 접합 다이오드의 이상적 특성 및 비이상적 특성YUMMI금속-반도체 접합 종류와 특성YUMMI금속-반도체 접합 종류와 특성YUMMI바이폴라 트랜지스터YUMMI중간고사YUMMIMOS 캐패시터 구조와 특성YUMMIMOSFET의 구조와 동작 특성YUMMIMOSFET의 구조와 동작 특성YUMMIMOSFET 축소화와 멀티게이트 MOSFETYUMMIMOSFET 축소화와 멀티게이트 MOSFETYUMMIMOSFET 응용YUMMI기말고사를 통한 평가YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "반도체소자 본 교과에서는 전자회로의 기초가 되는 반도체 물성 이론과 기본적인 양자역학의 개념을 복습하고 이를 통해 다양한 반도체 소자(금속-반도체 접합, BJT, MOSFET)의 특성을 학습하는 것을 목표로 한다. 나아가 집적회로에서의 전자소자(MOSFET)의 스케일링에 따른 물리적 현상과 이를 극복하기 위한 FinFET, Nanosheet FET 신기술 내용을 학습하고 TCAD 시뮬레이션을 활용한 MOSFET 설계 실습을 수행한다.\n1. 반도체 물성의 이해\n2. 반도체 접합 및 금속-반도체 접합의 물성 및 동작 특성 이해\n3. MOS 캐피시터와 MOSFET의 물성 및 동작 특성 이해\n4. 집적회로에서의 MOSFET 축소화와 멀티게이트 MOSFET 소개",
+            "similarity": 0.12023945337172225
+        }
+    ]
+}

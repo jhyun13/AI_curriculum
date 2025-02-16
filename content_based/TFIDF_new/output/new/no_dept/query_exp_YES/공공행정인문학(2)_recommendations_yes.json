@@ -1,0 +1,122 @@
+{
+    "meta_info": {
+        "user_query": "공공 행정에서의 정책 결정 과정은 논리적이고 정량적인 분석이 필요합니다. 논리학과 정책평가 기법을 활용하여 의사결정의 객관성을 높이고, 정량적 평가와 철학적 판단을 조화롭게 결합하는 방안을 연구하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "공공 행정에서의 정책 결정 과정은 논리적이고 정량적인 분석이 필요합니다. 논리학과 정책평가 기법을 활용하여 의사결정의 객관성을 높이고, 정량적 평가와 철학적 판단을 조화롭게 결합하는 방안을 연구하려면 어떤 학습 과정이 필요할까요?정량적 평가와 철학적 판단을 결합하여 정책 결정 과정에서의 의사결정의 객관성 최적화 공공 행정 분야에서의 정책 결정 과정 개선 공공 행정 정책 분석가 또는 공공 행정 컨설턴트 공공 분야에서 정책의 효율성과 효과성을 평가하고 논리적 분석과 정량적 데이터를 통해 정책 결정의 질을 높이는 직무 정책 연구 및 분석, 정량적 평가 수행, 정책 개선 제안, 논리적 및 철학적 판단 통합 논리학, 정책평가 기법, 정량 분석 데이터 분석, 평가 기법 개발, 의사소통 능력 논리학, 통계학, 정책학 원론 정책 평가 기법, 정책 결정 이론, 철학적 판단 공공 행정 시스템, 데이터 분석 소프트웨어 활용",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 175,
+            "name": "농촌관광학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "지역건설공학과",
+            "similarity": 0.12630524910913027
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.12621240159971162
+        },
+        {
+            "id": 1931,
+            "name": "건강가정론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "아동학과",
+            "similarity": 0.11157374041446522
+        },
+        {
+            "id": 2444,
+            "name": "정신건강론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.10256732674750794
+        },
+        {
+            "id": 4769,
+            "name": "화폐금융이론및정책",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.19939401716067318
+        },
+        {
+            "id": 3495,
+            "name": "인사행정론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.10524253056640229
+        },
+        {
+            "id": 1746,
+            "name": "도시및지역경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.15848089083855305
+        },
+        {
+            "id": 1953,
+            "name": "사회복지자료분석론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.10834813646193207
+        },
+        {
+            "id": 2956,
+            "name": "고체물리학 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "물리학과",
+            "similarity": 0.11587534996952412
+        },
+        {
+            "id": 4970,
+            "name": "언어철학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "철학과",
+            "similarity": 0.10826087140454169
+        },
+        {
+            "id": 1014,
+            "name": "논리와철학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "철학과",
+            "similarity": 0.14192736344211548
+        },
+        {
+            "id": 3876,
+            "name": "자연자원관리론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.2377546183834306
+        },
+        {
+            "id": 2549,
+            "name": "화공안전공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "화학공학부",
+            "similarity": 0.11063174274282903
+        },
+        {
+            "id": 3394,
+            "name": "문화경제학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.10802593767482238
+        }
+    ]
+}

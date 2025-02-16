@@ -1,0 +1,146 @@
+{
+    "meta_info": {
+        "user_query": "AI 반도체 설계 엔지니어로서 AI 가속기 및 고성능 연산 반도체를 개발하는 일을 하고 싶어요. 어떤 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1260,
+            "name": "원자로열수력학 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "양자시스템공학과",
+            "similarity": 0.10099633918937347
+        },
+        {
+            "id": 4246,
+            "name": "생산자동화",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.10209789087817771
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.22949817789197685
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.2246500011240578
+        },
+        {
+            "id": 1747,
+            "name": "반도체재료및소자 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "신소재공학부(전자재료공학)",
+            "similarity": 0.1256431173450399
+        },
+        {
+            "id": 2489,
+            "name": "작물모델링이론과실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.13973552099642633
+        },
+        {
+            "id": 3211,
+            "name": "반도체소자",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.12023945337172225
+        },
+        {
+            "id": 3967,
+            "name": "영어교재연구및지도법",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "영어영문학과",
+            "similarity": 0.11802794661127616
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.11214352829197788
+        },
+        {
+            "id": 4420,
+            "name": "반도체화학공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "화학공학부",
+            "similarity": 0.10279945367764737
+        },
+        {
+            "id": 2121,
+            "name": "현대한국경제론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.1436048934221952
+        },
+        {
+            "id": 2343,
+            "name": "반도체패키징공학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "신소재공학부(정보소재공학)",
+            "similarity": 0.12635774683499418
+        },
+        {
+            "id": 149,
+            "name": "방송통신매체론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.12357417808276963
+        },
+        {
+            "id": 402,
+            "name": "광자학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "물리학과",
+            "similarity": 0.10536721953010016
+        },
+        {
+            "id": 1239,
+            "name": "반도체공정실험 2",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.10518312287307628
+        },
+        {
+            "id": 3681,
+            "name": "가속기공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "양자시스템공학과",
+            "similarity": 0.18110543473391327
+        },
+        {
+            "id": 3533,
+            "name": "인공지능",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.157732873535004
+        }
+    ]
+}

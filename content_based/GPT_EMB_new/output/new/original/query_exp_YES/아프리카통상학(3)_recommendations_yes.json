@@ -1,0 +1,261 @@
+{
+    "meta_info": {
+        "user_query": "아프리카는 빠르게 성장하는 경제 시장이며, 프랑스어권 국가가 많아 프랑스어 능력이 중요한 경쟁력이 될 수 있습니다. 아프리카 시장 진출 전략을 연구하고, 무역 및 경제 협력을 효과적으로 수행하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "아프리카는 빠르게 성장하는 경제 시장이며, 프랑스어권 국가가 많아 프랑스어 능력이 중요한 경쟁력이 될 수 있습니다. 아프리카 시장 진출 전략을 연구하고, 무역 및 경제 협력을 효과적으로 수행하려면 어떤 학습 과정이 필요할까요? 아프리카 시장 진출 전략 및 무역 및 경제 협력 방법 습득 국제 무역 및 경제 협력 전문가 국제 비즈니스 및 경제 협력 아프리카의 프랑스어권 시장에서 무역 및 경제 협력을 추진하고, 시장 진출 전략을 개발하여 비즈니스 기회를 창출하고 장기적인 협력 관계를 구축하는 역할을 담당합니다. 아프리카 프랑스어권 국가 시장 분석, 진출 전략 수립, 무역 협상 및 계약 체결, 경제 협력 프로젝트 관리 프랑스어 순발력, 시장 진출 전략 개발 능력, 무역 및 경제 협력 기획 능력 문화 간 커뮤니케이션 능력, 협상 및 의사소통 기술, 리서치 및 분석 능력 국제 경제 및 무역 이론 비즈니스 및 마케팅 원칙 아프리카 경제 및 프랑스어 기본 아프리카 시장 및 산업 동향 무역 및 경제 협력 정책 프랑스어권 국가 문화 및 규제 이해 시장 조사 및 데이터 분석 실용적인 비즈니스 전략 수립 아프리카 내 경제 협력 네트워크 구축 및 유지",
+        "given_departments": null,
+        "selected_departments": [
+            "프랑스·아프리카학과",
+            "무역학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4844,
+            "name": "국제무역입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.38222273017792796
+        },
+        {
+            "id": 3665,
+            "name": "무역학개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.32754478668529075
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.4061262250967428
+        },
+        {
+            "id": 1750,
+            "name": "한국무역법",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.29536187015568405
+        },
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.2699863794240889
+        },
+        {
+            "id": 1591,
+            "name": "미시경제론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.23727027695368094
+        },
+        {
+            "id": 1877,
+            "name": "해외직접투자론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.2324002401152619
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3551876383812834
+        },
+        {
+            "id": 4313,
+            "name": "국제무역이론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3382996071673351
+        },
+        {
+            "id": 4601,
+            "name": "무역계약론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3364040424624486
+        },
+        {
+            "id": 3817,
+            "name": "무역서신영어",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.31486508045057665
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.26677393030140617
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.440090295579865
+        },
+        {
+            "id": 345,
+            "name": "무역실무교육",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.3818473560391379
+        },
+        {
+            "id": 1166,
+            "name": "국제문화통상론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.3736285139319219
+        },
+        {
+            "id": 664,
+            "name": "글로벌전략론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.367034770093346
+        },
+        {
+            "id": 1551,
+            "name": "무역영어회화",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.35574323247124684
+        },
+        {
+            "id": 4088,
+            "name": "무역현장마케팅 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4211183260932309
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.40846208788680444
+        },
+        {
+            "id": 3220,
+            "name": "동남아무역실무론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.36984907053573235
+        },
+        {
+            "id": 3679,
+            "name": "국제통상정책론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.35740476915941444
+        },
+        {
+            "id": 4793,
+            "name": "인터넷무역실무",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3443170002384421
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.37990867430176767
+        },
+        {
+            "id": 2335,
+            "name": "FTA와WTO법",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.35794158847718627
+        },
+        {
+            "id": 1273,
+            "name": "경제통합론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.30678974268174153
+        },
+        {
+            "id": 730,
+            "name": "무역서류작성실무",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.2682980565145642
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.41239813120872104
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.40825310048944674
+        },
+        {
+            "id": 3186,
+            "name": "국제벤처창업경영론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3410523337308681
+        },
+        {
+            "id": 3342,
+            "name": "중국무역투자론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.32977502764777245
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.32552631930333276
+        }
+    ]
+}

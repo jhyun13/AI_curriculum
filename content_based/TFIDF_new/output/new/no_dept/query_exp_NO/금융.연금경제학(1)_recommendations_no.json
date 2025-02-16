@@ -1,0 +1,50 @@
+{
+    "meta_info": {
+        "user_query": "금융 시장에서의 위험을 효과적으로 관리하는 것이 중요해지고 있습니다. 저는 금융 리스크 관리 및 금융 수학을 활용하여 보다 정교한 리스크 모델을 구축하고, 투자 결정을 돕는 연구를 하고 싶어요. 어떤 과정을 학습해야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.20047047264813722
+        },
+        {
+            "id": 2105,
+            "name": "보험수리학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.1388242270447027
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.2694385237686666
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.2292929061191787
+        },
+        {
+            "id": 3333,
+            "name": "도시부동산학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.22744715041485816
+        }
+    ]
+}

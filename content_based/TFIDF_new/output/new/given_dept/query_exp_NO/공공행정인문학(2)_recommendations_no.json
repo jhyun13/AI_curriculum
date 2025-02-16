@@ -1,0 +1,24 @@
+{
+    "meta_info": {
+        "user_query": "공공 행정에서의 정책 결정 과정은 논리적이고 정량적인 분석이 필요합니다. 논리학과 정책평가 기법을 활용하여 의사결정의 객관성을 높이고, 정량적 평가와 철학적 판단을 조화롭게 결합하는 방안을 연구하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": [
+            "행정학과",
+            "철학과"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1014,
+            "name": "논리와철학",
+            "description": "1. 전통 논리의 철학적 배경\n2. 고전 논리와 비고전 논리의 철학적 배경\n이 두가지를 배중률과 모순율을 중심으로 검토합니다.\n2. ",
+            "curriculum": "수업 소개YUMMI1장: 논리와 철학 이해YUMMI2장: 예비적 논의 이해YUMMI3장: 배중률의 언어 철학적 전제 이해YUMMI상동YUMMI4장: 논리주의와 이상언어 이해YUMMI상동YUMMI중간고사YUMMI5장: 직관주의와 선험적 의식 이해YUMMI상동YUMMI6장: 자연주의와 자연언어 이해YUMMI상동YUMMI7장: 비트겐슈타인과 초일관성 이해YUMMI9장: 인공지능과 퍼지 논리 이해YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "철학과",
+            "full_text": "논리와철학 1. 전통 논리의 철학적 배경\n2. 고전 논리와 비고전 논리의 철학적 배경\n이 두가지를 배중률과 모순율을 중심으로 검토합니다.\n2. ",
+            "similarity": 0.13544393933605436
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "meta_info": {
+        "user_query": "항공기 및 드론의 공기역학적 성능을 분석하고 최적화하는 항공 역학 엔지니어(Aerodynamics Engineer)가 되고 싶어요. 필요한 과정은 무엇인가요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 904,
+            "name": "역학 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "물리학과",
+            "similarity": 0.13759196930996528
+        },
+        {
+            "id": 744,
+            "name": "항공공학개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.13152151912976495
+        },
+        {
+            "id": 3026,
+            "name": "역학 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "물리학과",
+            "similarity": 0.1413703467700033
+        },
+        {
+            "id": 2430,
+            "name": "비행동역학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.20699065987319318
+        },
+        {
+            "id": 1844,
+            "name": "목재표면처리공학및실험",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "목재응용과학과",
+            "similarity": 0.18015198964758117
+        },
+        {
+            "id": 311,
+            "name": "항공드론제어설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.11755141729618257
+        },
+        {
+            "id": 3259,
+            "name": "드론농업응용",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.22576513480959448
+        },
+        {
+            "id": 4169,
+            "name": "항공기추진기관",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.1867860442635081
+        },
+        {
+            "id": 4755,
+            "name": "압축성유체역학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.10088385940407238
+        },
+        {
+            "id": 605,
+            "name": "농업환경지리정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.11191343040981809
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.1505757724756432
+        },
+        {
+            "id": 3200,
+            "name": "식물유전자원보존학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "작물생명과학과",
+            "similarity": 0.11639860514980375
+        }
+    ]
+}

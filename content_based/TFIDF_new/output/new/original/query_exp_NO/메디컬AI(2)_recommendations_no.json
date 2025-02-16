@@ -1,0 +1,38 @@
+{
+    "meta_info": {
+        "user_query": "환자의 움직임 데이터를 분석하여 AI 기반 재활 시스템을 개발하고 최적화하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "바이오메디컬공학부",
+            "컴퓨터인공지능학부",
+            "산업정보시스템공학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4346,
+            "name": "데이터통신",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.1045518945307651
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.15955159107836625
+        },
+        {
+            "id": 2093,
+            "name": "바이오메카닉스활용및실습 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.11802013916900667
+        }
+    ]
+}

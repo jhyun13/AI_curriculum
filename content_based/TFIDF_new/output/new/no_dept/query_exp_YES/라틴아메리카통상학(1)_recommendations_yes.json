@@ -1,0 +1,210 @@
+{
+    "meta_info": {
+        "user_query": "스페인어 기반의 경제 데이터를 분석하고, 국제 무역 정책과 금융 전략을 연구하여 기업과 국가가 최적의 경제 결정을 내릴 수 있도록 하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "스페인어 기반의 경제 데이터를 분석하고, 국제 무역 정책과 금융 전략을 연구하여 기업과 국가가 최적의 경제 결정을 내릴 수 있도록 하려면 어떤 학습 과정이 필요할까요? 스페인어 기반 경제 데이터 분석 능력과 국제 경제 및 금융 전략에 대한 깊이 있는 이해. 경제 및 금융 분석 전문가로서 기업과 국가의 경제 의사결정 지원. 경제 분석 및 국제 금융. 국제 경제 분석가 국제 경제 분석가는 글로벌 경제 데이터와 무역 정책, 금융 전략을 분석하여 기업과 정부의 경제적 의사 결정을 지원한다. 스페인어로 작성된 경제 및 금융 자료 해석 국제 무역 정책 및 금융 전략 연구 스페인어 언어 능력 국제 금융 및 무역 정책 이해 경제 연구 및 보고서 작성 능력 향후 경제적 추세 예측 능력 경제학 기초 이론 (거시경제학, 미시경제학) 스페인어 언어와 문법 국제 무역 및 금융 이론 글로벌 경제 보고서 작성 및 프레젠테이션 능력",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.21649813332318552
+        },
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.13072710560318831
+        },
+        {
+            "id": 2383,
+            "name": "농식품연관산업론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.12047151101929608
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.18373393557348533
+        },
+        {
+            "id": 2565,
+            "name": "중국사회경제사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.16168515649349513
+        },
+        {
+            "id": 3474,
+            "name": "조선시대사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.13312833394001378
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.11900004239581992
+        },
+        {
+            "id": 3159,
+            "name": "고려시대사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.10206375691884487
+        },
+        {
+            "id": 1505,
+            "name": "빅데이터경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.1395823856247681
+        },
+        {
+            "id": 1536,
+            "name": "스페인어의이해 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.10694437449648128
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.10387575606394395
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.24571352415413725
+        },
+        {
+            "id": 3953,
+            "name": "사회적경제론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.18267211439733935
+        },
+        {
+            "id": 3220,
+            "name": "동남아무역실무론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10840902601807437
+        },
+        {
+            "id": 2500,
+            "name": "제어공학 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.10269042183929063
+        },
+        {
+            "id": 1061,
+            "name": "미디어경제경영론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.2129845595299828
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.1760204931946409
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.14965525246970746
+        },
+        {
+            "id": 279,
+            "name": "일반사회논리및논술론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.12974220325680155
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.12449516967041453
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.301579207795065
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.18063905720271303
+        },
+        {
+            "id": 3333,
+            "name": "도시부동산학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.1648087079771061
+        },
+        {
+            "id": 4941,
+            "name": "환경경영및정책",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(환경공학)",
+            "similarity": 0.14715121096066855
+        },
+        {
+            "id": 3707,
+            "name": "중국어통번역실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "중어중문학과",
+            "similarity": 0.14109472737028833
+        }
+    ]
+}

@@ -1,0 +1,296 @@
+{
+    "meta_info": {
+        "user_query": "한국 문학을 기반으로 한 웹 콘텐츠 및 모바일 애플리케이션을 개발하고 싶어요. 디지털 환경에서 문학적 자료를 효과적으로 활용하고, 이를 창의적인 방식으로 구현하기 위해 필요한 기술과 학습 과정은 무엇인가요?",
+        "expanded_query": "한국 문학을 기반으로 한 웹 콘텐츠 및 모바일 애플리케이션을 개발하고 싶어요. 디지털 환경에서 문학적 자료를 효과적으로 활용하고, 이를 창의적인 방식으로 구현하기 위해 필요한 기술과 학습 과정은 무엇인가요? 한국 문학을 활용한 디지털 콘텐츠 개발 문학 기반의 디지털 콘텐츠 개발자 디지털 콘텐츠 개발 웹 및 모바일 애플리케이션 개발자 한국 문학을 기반으로 한 웹 및 모바일 애플리케이션을 설계, 개발 및 유지보수하며, 디지털 환경에서 문학적 콘텐츠를 창의적으로 활용하고 이를 전달하는 역할을 수행한다. 문학적 자료의 디지털화, 사용자 경험 설계, 앱 개발 및 배포, 콘텐츠 관리 웹 및 모바일 앱 개발, UX/UI 설계, 콘텐츠 관리 시스템 활용프로그래밍 언어 (예: JavaScript, Python), 모바일 앱 개발 프레임워크 (예: React Native, Flutter), 사용자 경험 디자인 한국 문학, 웹 및 모바일 애플리케이션 개발 기초, 컴퓨터 과학의 기본 개념 앱 개발 프레임워크, 사용자 경험 디자인 이론, 콘텐츠 전략 앱 개발 툴 사용법, 문학 기반 콘텐츠의 디지털화 기법, 사용자 피드백 수집 및 분석",
+        "given_departments": null,
+        "selected_departments": [
+            "국어국문학과",
+            "컴퓨터인공지능학부",
+            "사학과",
+            "영어영문학과",
+            "문헌정보학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 3082,
+            "name": "아동.청소년정보",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.38609783287981586
+        },
+        {
+            "id": 3094,
+            "name": "컴퓨터공학총론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.32628333455634373
+        },
+        {
+            "id": 4474,
+            "name": "영어산문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "영어영문학과",
+            "similarity": 0.3214215733139423
+        },
+        {
+            "id": 2807,
+            "name": "학술영어",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "영어영문학과",
+            "similarity": 0.30780747801037023
+        },
+        {
+            "id": 3796,
+            "name": "C++프로그래밍",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.30376088016825925
+        },
+        {
+            "id": 2379,
+            "name": "컴퓨터정보처리",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.4677127353902697
+        },
+        {
+            "id": 2070,
+            "name": "영미단편소설",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "영어영문학과",
+            "similarity": 0.43320256637285487
+        },
+        {
+            "id": 2164,
+            "name": "국문학의이해",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.35955765535629836
+        },
+        {
+            "id": 746,
+            "name": "웹DB탐색",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.3578073356654632
+        },
+        {
+            "id": 817,
+            "name": "독서교육론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.35747707914892374
+        },
+        {
+            "id": 3117,
+            "name": "모바일프로그래밍",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.4620017676125754
+        },
+        {
+            "id": 2749,
+            "name": "영어와인문학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "영어영문학과",
+            "similarity": 0.405176829993259
+        },
+        {
+            "id": 4094,
+            "name": "알고리즘",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.37653190118907387
+        },
+        {
+            "id": 4005,
+            "name": "현대문학사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.36579301828891725
+        },
+        {
+            "id": 3417,
+            "name": "산문창작연습",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.3554403468421318
+        },
+        {
+            "id": 1786,
+            "name": "디지털도서관론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.4867525436846131
+        },
+        {
+            "id": 288,
+            "name": "문화컨텐츠서비스론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.4690184418529567
+        },
+        {
+            "id": 70,
+            "name": "국어자료정보처리론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.372174108525682
+        },
+        {
+            "id": 1902,
+            "name": "현대시론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.3676014664561398
+        },
+        {
+            "id": 931,
+            "name": "한국사강독",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사학과",
+            "similarity": 0.3622667665184153
+        },
+        {
+            "id": 4654,
+            "name": "디지털도서관기술과실제",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.5108804731599834
+        },
+        {
+            "id": 3363,
+            "name": "웹서비스설계",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.42101935813279445
+        },
+        {
+            "id": 3440,
+            "name": "디지털셰익스피어",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "영어영문학과",
+            "similarity": 0.41550458713775423
+        },
+        {
+            "id": 3734,
+            "name": "클라우드컴퓨팅",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.4064226304650595
+        },
+        {
+            "id": 4673,
+            "name": "문화콘텐츠관리기술",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.4049403916053075
+        },
+        {
+            "id": 1800,
+            "name": "고서와스토리텔링",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.45152525188515
+        },
+        {
+            "id": 1417,
+            "name": "출판저작권의이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.37761178239785187
+        },
+        {
+            "id": 640,
+            "name": "데이터기반사회이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.3667875236188158
+        },
+        {
+            "id": 882,
+            "name": "희곡론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.35478716138359445
+        },
+        {
+            "id": 1520,
+            "name": "오픈소스소프트웨어개발",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.35138846433193777
+        },
+        {
+            "id": 3004,
+            "name": "정보검색",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3630055304049358
+        },
+        {
+            "id": 3059,
+            "name": "영미문예비평",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "영어영문학과",
+            "similarity": 0.35441619433848726
+        },
+        {
+            "id": 3379,
+            "name": "산학실전캡스톤 3",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.33059313514181005
+        },
+        {
+            "id": 4761,
+            "name": "한국어어문규범의이해와적용",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.31477825333910153
+        },
+        {
+            "id": 3978,
+            "name": "창업특강",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3139710343602063
+        }
+    ]
+}

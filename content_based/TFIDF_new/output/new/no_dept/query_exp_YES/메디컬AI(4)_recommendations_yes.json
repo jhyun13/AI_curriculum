@@ -1,0 +1,154 @@
+{
+    "meta_info": {
+        "user_query": "CT, MRI 등의 의료 영상을 분석하여 질병 진단을 돕는 인공지능 모델을 구축하고 최적화하려면 어떤 과정이 필요할까요?",
+        "expanded_query": "CT, MRI 등의 의료 영상을 분석하여 질병 진단을 돕는 인공지능 모델을 구축하고 최적화하려면 어떤 과정이 필요할까요? 의료 영상 데이터를 분석할 수 있는 인공지능 모델 구축과 최적화 관련 지식 습득 의료 영상 분석 및 진단 지원 시스템 개발 의료 인공지능 및 데이터 과학 의료 영상 분석 인공지능 엔지니어 의료 영상(CT, MRI 등)을 분석하여 질병 진단을 돕는 인공지능 모델을 설계, 개발, 및 최적화하는 역할을 담당합니다. 의료 영상의 데이터 전처리 및 분석 인공지능 알고리즘 설계 및 구현 AI 모델의 성능 향상 및 최적화 의료 전문가와 협력하여 시스템 결과 해석 지원 머신러닝 및 딥러닝 알고리즘 Python, TensorFlow, PyTorch, 및 관련 툴킷 의료 영상 처리 기술 데이터 전처리 및 분석 기술 공지능 모델 평가 및 최적화 기법 의료 영상 처리의 기본 원리 머신러닝 및 딥러닝 기초 영상 분할 및 객체 탐지 알고리즘 의료 데이터의 특징 및 AI 적용 방법론 AI 기반 의료 영상 분석 툴 및 시스템 실제 의료 데이터를 다루는 방법 및 규제 준수 사항",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3659,
+            "name": "딥러닝-AI기초",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.1373486188122192
+        },
+        {
+            "id": 354,
+            "name": "데이터구조및프로그래밍실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.15512704042826106
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.14478259959505885
+        },
+        {
+            "id": 4457,
+            "name": "디지털영화영상제작기획",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.15751723476362248
+        },
+        {
+            "id": 3818,
+            "name": "디지털차이나",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "중어중문학과",
+            "similarity": 0.1484241065292131
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.11350580794774388
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.17594816578700234
+        },
+        {
+            "id": 1930,
+            "name": "분자생물공학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "화학공학부",
+            "similarity": 0.12476215503211235
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.12233197074061275
+        },
+        {
+            "id": 4650,
+            "name": "영화영상제작실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.1964605127837615
+        },
+        {
+            "id": 4575,
+            "name": "딥러닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.1952775339606579
+        },
+        {
+            "id": 3528,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.1819330411344201
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.17030321740741222
+        },
+        {
+            "id": 4106,
+            "name": "스마트농업프로그래밍",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.10707591080425163
+        },
+        {
+            "id": 557,
+            "name": "의료영상 2",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.39419496697770273
+        },
+        {
+            "id": 717,
+            "name": "병원정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3528803592172349
+        },
+        {
+            "id": 763,
+            "name": "일본드라마와영화",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.10048187080014297
+        },
+        {
+            "id": 3954,
+            "name": "로봇공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.16909240891722063
+        }
+    ]
+}

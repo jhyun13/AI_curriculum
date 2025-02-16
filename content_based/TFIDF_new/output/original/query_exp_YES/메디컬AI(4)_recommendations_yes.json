@@ -1,0 +1,59 @@
+{
+    "meta_info": {
+        "user_query": "CT, MRI 등의 의료 영상을 분석하여 질병 진단을 돕는 인공지능 모델을 구축하고 최적화하려면 어떤 과정이 필요할까요?",
+        "expanded_query": "CT, MRI 등의 의료 영상을 분석하여 질병 진단을 돕는 인공지능 모델을 구축하고 최적화하려면 어떤 과정이 필요할까요? 의료 영상 데이터를 분석할 수 있는 인공지능 모델 구축과 최적화 관련 지식 습득 의료 영상 분석 및 진단 지원 시스템 개발 의료 인공지능 및 데이터 과학 의료 영상 분석 인공지능 엔지니어 의료 영상(CT, MRI 등)을 분석하여 질병 진단을 돕는 인공지능 모델을 설계, 개발, 및 최적화하는 역할을 담당합니다. 의료 영상의 데이터 전처리 및 분석 인공지능 알고리즘 설계 및 구현 AI 모델의 성능 향상 및 최적화 의료 전문가와 협력하여 시스템 결과 해석 지원 머신러닝 및 딥러닝 알고리즘 Python, TensorFlow, PyTorch, 및 관련 툴킷 의료 영상 처리 기술 데이터 전처리 및 분석 기술 공지능 모델 평가 및 최적화 기법 의료 영상 처리의 기본 원리 머신러닝 및 딥러닝 기초 영상 분할 및 객체 탐지 알고리즘 의료 데이터의 특징 및 AI 적용 방법론 AI 기반 의료 영상 분석 툴 및 시스템 실제 의료 데이터를 다루는 방법 및 규제 준수 사항",
+        "given_departments": null,
+        "selected_departments": [
+            "바이오메디컬공학부",
+            "산업정보시스템공학과",
+            "컴퓨터인공지능학부",
+            "융합기술공학부(IT응용시스템공학)"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "description": "본 강의는 ‘고급프로그래밍언어’ 과정의 일환으로, Python을 활용한 데이터 분석에 중점을 두고 있다. 이 과목은 실세계 데이터를 이해하고 분석하는 데 필수적인 기술을 제공하는 것을 목표로 한다. 공공데이터를 활용하여 실생활에 밀접한 문제를 해결하는 방법을 탐구함으로써, 데이터 분석의 기본 원리와 실용적인 응용 방법을 학습한다.\n본 강의의 세부 목표는 다음과 같다.\n1. Python 기반 데이터 분석 기술 학습 : 데이터 과학과 분석에 널리 사용되는 Python 언어를 사용하여 데이터 처리, 분석 및 시각화 방법을 학습함\n2. 공공데이터를 이용한 실습 : 공공데이터를 활용한 실습을 통해, 실세계 데이터를 다룸으로써 데이터 분석의 개념을 이론적으로만 이해하는 것이 아니라, 실제 데이터 분석 및 학습함\n3. 다양한 데이터 분석 방법 : 본 과목에서는 기초적인 데이터 처리부터 고급 분석 기술까지 다양한 방법을 소개하고, 데이터 분석의 다양한 측면을 이해함으로써 다양한 문제해결 능력을 함양함",
+            "curriculum": "데이터 분석\n- 데이터 분석 및 과학의 개념, 개발 환경 설정YUMMI데이터 수집\n- API 사용 및 웹 스크래핑 사용YUMMI데이터 정제\n- 불필요한 데이터 삭제 및 수정YUMMI데이터 요약\n- 데이터에 따른 통계 및 분석YUMMI데이터 시각화\n- 선 그래프 및 막대 그래프 표현YUMMI복잡한 데이터(1)\n- 객체지향 API로 그래프 표현YUMMI복잡한 데이터(2)\n- Matplotlib의 고급 기능 학습YUMMI중간고사YUMMI검증 및 예측(1)\n- 통계적 추론YUMMI검증 및 예측(2)\n- 머신러닝 예측YUMMI데이터 가공 실습\n- 웹에서 주문 수 분석 및 대리점 데이터 가공YUMMI머신러닝 실습(1)\n- 고객의 전체 모습 파악YUMMI머신러닝 실습(2)\n- 고객의 행동 예측YUMMI최적화 실습\n- 물류의 최적 경로 컨설팅 및 물류 네트워크 최적 설계YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "full_text": "고급프로그래밍언어 본 강의는 ‘고급프로그래밍언어’ 과정의 일환으로, Python을 활용한 데이터 분석에 중점을 두고 있다. 이 과목은 실세계 데이터를 이해하고 분석하는 데 필수적인 기술을 제공하는 것을 목표로 한다. 공공데이터를 활용하여 실생활에 밀접한 문제를 해결하는 방법을 탐구함으로써, 데이터 분석의 기본 원리와 실용적인 응용 방법을 학습한다.\n본 강의의 세부 목표는 다음과 같다.\n1. Python 기반 데이터 분석 기술 학습 : 데이터 과학과 분석에 널리 사용되는 Python 언어를 사용하여 데이터 처리, 분석 및 시각화 방법을 학습함\n2. 공공데이터를 이용한 실습 : 공공데이터를 활용한 실습을 통해, 실세계 데이터를 다룸으로써 데이터 분석의 개념을 이론적으로만 이해하는 것이 아니라, 실제 데이터 분석 및 학습함\n3. 다양한 데이터 분석 방법 : 본 과목에서는 기초적인 데이터 처리부터 고급 분석 기술까지 다양한 방법을 소개하고, 데이터 분석의 다양한 측면을 이해함으로써 다양한 문제해결 능력을 함양함",
+            "similarity": 0.14478259959505885
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "description": " 본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "curriculum": "Introduction & problem-solving by searchingYUMMIProblem-solving: Uninformed/Informed Search, Advanced searchYUMMIProblem-solving: Adversarial Search, Constraint satisfaction problemYUMMISymbolic AI: First order logicYUMMISymbolic AI: Inference in FOLYUMMIMachine Learning: Linear classification, logistic regressionYUMMIMidtermYUMMIMachine Learning: Deep learning basics - Feedforward neural networks, Backpropagation, Convolutional networksYUMMIProbabilistic reasonsing: Bayesian networks & InferenceYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIReinforcement learning: Monte carlo learning/Termporal difference learningYUMMIReinforcement learning: Policy gradient methods, Deep Q networksYUMMIGame theory, evolutionary computation, & AI YUMMIFinaltermYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인공지능  본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "similarity": 0.17594816578700234
+        },
+        {
+            "id": 557,
+            "name": "의료영상 2",
+            "description": "의료 영상들에 대한 기본 원리 및 실제 적용 분야에 대한 이해를 목표로 한다.",
+            "curriculum": "의료영상 개론1YUMMI의료영상 개론2YUMMI방사선 영상1YUMMI방사선 영상2YUMMI방사선 영상3YUMMI핵의학 영상1YUMMI핵의학 영상2YUMMI중간고사YUMMI초음파 영상1YUMMI초음파 영상2YUMMI자기공명 영상1YUMMI자기공명 영상2YUMMI자기공명 영상3YUMMI자기공명 영상4YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "의료영상 2 의료 영상들에 대한 기본 원리 및 실제 적용 분야에 대한 이해를 목표로 한다.",
+            "similarity": 0.39419496697770273
+        },
+        {
+            "id": 717,
+            "name": "병원정보시스템",
+            "description": "보건 의료 분야의 핵심인 병원 정보시스템은 의료 정보 시스템 중에서 가장 많이 가동되고 있다.\n본 과목에서는 병원정보시스템의 기능, 설계 계발, 도입 방법, 운용, 교육에 이르는 총체적이고 체계적인 지식을 습득하여 관련 분야의 전문 요원으로 활동 할 수 있는 능력을 함양함에 있다.",
+            "curriculum": "병원정보시스템 교과목 학습의 목적 및 과목 개요 설명YUMMI의료정보학, 의료정보 시스템, 병원정보 시스템의 정의YUMMI의료정보시스템과 데이터베이스YUMMI용어 및 분류체계YUMMI의학적 의사결정지원시스템YUMMI인터넷과 자료보안 및 보호YUMMI보건의료정보 표준화YUMMI중간고사YUMMI임상병리 정보시스템YUMMI의원급 종합 의료 정보시스템YUMMI병원경영정보시스템YUMMI약국관리시스템YUMMI인공지능 의료시스템YUMMI병원정보시스템 사례 연구YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "병원정보시스템 보건 의료 분야의 핵심인 병원 정보시스템은 의료 정보 시스템 중에서 가장 많이 가동되고 있다.\n본 과목에서는 병원정보시스템의 기능, 설계 계발, 도입 방법, 운용, 교육에 이르는 총체적이고 체계적인 지식을 습득하여 관련 분야의 전문 요원으로 활동 할 수 있는 능력을 함양함에 있다.",
+            "similarity": 0.3528803592172349
+        }
+    ]
+}

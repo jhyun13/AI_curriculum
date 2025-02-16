@@ -1,0 +1,178 @@
+{
+    "meta_info": {
+        "user_query": "병원 내 대규모 의료 데이터를 효율적으로 저장·관리하고, 환자 데이터 보안을 강화하는 시스템을 구축하려면 어떤 학습이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.1034684594848183
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.1862373589890693
+        },
+        {
+            "id": 2349,
+            "name": "산림전산설계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산림환경과학과",
+            "similarity": 0.14264668054936036
+        },
+        {
+            "id": 586,
+            "name": "학교미디어센터경영",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.12607626903359043
+        },
+        {
+            "id": 2262,
+            "name": "원가회계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.11106724752446204
+        },
+        {
+            "id": 1586,
+            "name": "R프로그래밍",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.10334087859398554
+        },
+        {
+            "id": 3247,
+            "name": "행정통계학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.1402949216245925
+        },
+        {
+            "id": 4346,
+            "name": "데이터통신",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.13894994042354333
+        },
+        {
+            "id": 2552,
+            "name": "데이터로보는중남미",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.11272151960163951
+        },
+        {
+            "id": 2304,
+            "name": "건축환경공학 3",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "건축공학과",
+            "similarity": 0.12993702603190815
+        },
+        {
+            "id": 1450,
+            "name": "데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.11673256388722492
+        },
+        {
+            "id": 4354,
+            "name": "생체영상처리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.14129270740661948
+        },
+        {
+            "id": 3035,
+            "name": "실험계획법",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.10182506360653248
+        },
+        {
+            "id": 717,
+            "name": "병원정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.24589244476260225
+        },
+        {
+            "id": 557,
+            "name": "의료영상 2",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.1776687426836532
+        },
+        {
+            "id": 640,
+            "name": "데이터기반사회이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.12259348682962698
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.11763664644424125
+        },
+        {
+            "id": 2173,
+            "name": "자원에너지경제성평가",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "토목환경자원에너지공학부(자원에너지공학)",
+            "similarity": 0.11424959104942319
+        },
+        {
+            "id": 3730,
+            "name": "IT융복합통섭연구",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.13258838777221418
+        },
+        {
+            "id": 3280,
+            "name": "식품저장학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "식품공학과",
+            "similarity": 0.1246712441814633
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.1102215141575945
+        }
+    ]
+}

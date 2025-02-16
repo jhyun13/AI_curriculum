@@ -1,0 +1,277 @@
+{
+    "meta_info": {
+        "user_query": "디지털 환경에서 한국 문학과 문헌 자료를 보다 효율적으로 보존하고 연구할 수 있는 기술을 개발하고 싶어요. 전통적인 국어국문학 연구에 정보기술을 접목하여 문헌 데이터의 체계적인 데이터 관리와 분석을 수행하는 방법을 배우려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "디지털 환경에서 한국 문학과 문헌 자료를 보다 효율적으로 보존하고 연구할 수 있는 기술을 개발하고 싶어요. 전통적인 국어국문학 연구에 정보기술을 접목하여 문헌 데이터의 체계적인 데이터 관리와 분석을 수행하는 방법을 배우려면 어떤 학습 과정이 필요할까요? 디지털 환경에서 한국 문학 및 문헌 자료의 체계적 데이터 관리 및 분석 방법 학습 디지털 문헌 보존 및 분석 전문가 디지털 인문학 및 정보 관리 디지털 문헌 보존 및 데이터 분석가 디지털 문헌 보존 및 데이터 분석가는 한국 문학 및 문헌 자료를 디지털화하여 보다 효율적으로 보존하고, 체계적으로 분석하는 책임을 지는 전문가입니다. 이들은 전통적인 국어국문학 연구에 정보기술을 접목하여 문헌 데이터를 효과적으로 관리하고 연구 결과를 도출할 수 있는 환경을 조성합니다. 한국 문학 및 문헌 자료의 디지털 보존 전략 개발, 문헌 데이터의 체계적 관리 및 분석 수행, 정보기술을 활용한 연구 방법 개발 디지털화 기술, 데이터 관리 및 분석, 정보 기술 응용 데이터베이스 관리, 프로그래밍 언어 활용, 데이터 분석 툴 사용 국어국문학 개론, 문헌학, 디지털 인문학 개론 문헌 데이터베이스 설계, 텍스트 마이닝, 정보관리 시스템 데이터베이스 소프트웨어 사용, 디지털 보존 기술, 데이터 시각화 방법",
+        "given_departments": null,
+        "selected_departments": [
+            "문헌정보학과",
+            "국어국문학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4615,
+            "name": "문헌정보학입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.39716858025198676
+        },
+        {
+            "id": 3082,
+            "name": "아동.청소년정보",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.3839593108553691
+        },
+        {
+            "id": 2723,
+            "name": "도서관정보센타경영론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.3242539297852983
+        },
+        {
+            "id": 2379,
+            "name": "컴퓨터정보처리",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.6046906961482932
+        },
+        {
+            "id": 332,
+            "name": "국어학강독",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.42440533642802813
+        },
+        {
+            "id": 181,
+            "name": "한문학강독",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.4217669429826844
+        },
+        {
+            "id": 746,
+            "name": "웹DB탐색",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.42123226786217216
+        },
+        {
+            "id": 2164,
+            "name": "국문학의이해",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.40294602545302194
+        },
+        {
+            "id": 3401,
+            "name": "데이터베이스론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.4518066940098456
+        },
+        {
+            "id": 3449,
+            "name": "국어학사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.3907280346682398
+        },
+        {
+            "id": 4005,
+            "name": "현대문학사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.3741071057584304
+        },
+        {
+            "id": 4078,
+            "name": "학술정보센타경영",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.3711084780959071
+        },
+        {
+            "id": 4753,
+            "name": "정보서비스론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.367513455440842
+        },
+        {
+            "id": 1786,
+            "name": "디지털도서관론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.6003574469563738
+        },
+        {
+            "id": 70,
+            "name": "국어자료정보처리론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.4813220480557945
+        },
+        {
+            "id": 1643,
+            "name": "국어교재연구및지도법",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.413835658063469
+        },
+        {
+            "id": 996,
+            "name": "고전문학사",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.40592514181451395
+        },
+        {
+            "id": 288,
+            "name": "문화컨텐츠서비스론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.4011279172187903
+        },
+        {
+            "id": 4654,
+            "name": "디지털도서관기술과실제",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.5608936758352501
+        },
+        {
+            "id": 4368,
+            "name": "언어와문학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.4609228962284103
+        },
+        {
+            "id": 4673,
+            "name": "문화콘텐츠관리기술",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.3847536918019959
+        },
+        {
+            "id": 4872,
+            "name": "구비문학론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.38306530574636266
+        },
+        {
+            "id": 4262,
+            "name": "현대소설작품및작가론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.37280933692346535
+        },
+        {
+            "id": 1800,
+            "name": "고서와스토리텔링",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.4354157579516925
+        },
+        {
+            "id": 640,
+            "name": "데이터기반사회이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.40998604871848215
+        },
+        {
+            "id": 1417,
+            "name": "출판저작권의이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.37090835930945204
+        },
+        {
+            "id": 1771,
+            "name": "멀티자료조직론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.35866036243595756
+        },
+        {
+            "id": 882,
+            "name": "희곡론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.32303378442133185
+        },
+        {
+            "id": 2784,
+            "name": "정보자료조직연습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.41095044783247636
+        },
+        {
+            "id": 2600,
+            "name": "서지학개론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.3816051252291212
+        },
+        {
+            "id": 3287,
+            "name": "기록정보관리",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.3629690757630656
+        },
+        {
+            "id": 2699,
+            "name": "고전산문론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.3558816214008389
+        },
+        {
+            "id": 4761,
+            "name": "한국어어문규범의이해와적용",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.3509075729180035
+        }
+    ]
+}

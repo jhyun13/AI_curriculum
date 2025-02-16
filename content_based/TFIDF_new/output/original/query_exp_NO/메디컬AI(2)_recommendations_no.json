@@ -1,0 +1,47 @@
+{
+    "meta_info": {
+        "user_query": "환자의 움직임 데이터를 분석하여 AI 기반 재활 시스템을 개발하고 최적화하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "산업정보시스템공학과",
+            "컴퓨터인공지능학부",
+            "바이오메디컬공학부"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4346,
+            "name": "데이터통신",
+            "description": "통신망을 이용하여 시스템간의 데이터를 주고받는 기술과 방법에 대하여 공부한다.\n\n프로토콜에 대한 기본 개념과 여러 가지 매체를 통하여 데이터를 안전하게 전달하는 기법에 대하여 배운다.\n\n배운 통신망의 물리계층과 데이터 링크 계층의 프로토콜에 대하여 개략적인 내용을 다룬다.",
+            "curriculum": "Chapter #1 Introduction\n\n분야소개 및 프로토콜과 표준 설명YUMMIChapter #2 Network Models\n\n인터넷 모델과 OSI 모델YUMMIChapter #3 Signals\n\n아날로그와 디지털 신호YUMMIChapter #4 Digital Transmission\n\n부호화, 전송모드YUMMIChapter #5 Analog Transmission\n\n아날로그 통신YUMMIChapter #6 Multiplexing\n\n아날로그와 디지털 신호의 다중화 방식YUMMIChapter #7 Transmission Media\n\n유선, 무선 전송 매체YUMMI중간시험YUMMIChapter #8 Circuit Switching and Telephone Network\n\n회선 교환과 전화망YUMMIChapter #9 High-Speed Digital Access\n\nxDSL, 케이블 모델, SONETYUMMIChapter #10 Error Detection and Correction\n\n오류 검출과 오류 정정YUMMIChapter #11 Data Link control and Protocols\n\n데이터링크 제어와 관련 프로토콜YUMMIChapter #12 Point-to Point\n\nPPPYUMMIChapter #13 Multiple Acess\n\n다중접속 : CSMA/CD, CSMA/CA, CDMAYUMMIChapter #14 Local Area Networks\n근거리 통신망 : 이더넷, 무선랜(802.11) 및 기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "데이터통신 통신망을 이용하여 시스템간의 데이터를 주고받는 기술과 방법에 대하여 공부한다.\n\n프로토콜에 대한 기본 개념과 여러 가지 매체를 통하여 데이터를 안전하게 전달하는 기법에 대하여 배운다.\n\n배운 통신망의 물리계층과 데이터 링크 계층의 프로토콜에 대하여 개략적인 내용을 다룬다.",
+            "similarity": 0.1045518945307651
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "description": " 본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "curriculum": "Introduction & problem-solving by searchingYUMMIProblem-solving: Uninformed/Informed Search, Advanced searchYUMMIProblem-solving: Adversarial Search, Constraint satisfaction problemYUMMISymbolic AI: First order logicYUMMISymbolic AI: Inference in FOLYUMMIMachine Learning: Linear classification, logistic regressionYUMMIMidtermYUMMIMachine Learning: Deep learning basics - Feedforward neural networks, Backpropagation, Convolutional networksYUMMIProbabilistic reasonsing: Bayesian networks & InferenceYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIReinforcement learning: Monte carlo learning/Termporal difference learningYUMMIReinforcement learning: Policy gradient methods, Deep Q networksYUMMIGame theory, evolutionary computation, & AI YUMMIFinaltermYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인공지능  본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "similarity": 0.15955159107836625
+        },
+        {
+            "id": 2093,
+            "name": "바이오메카닉스활용및실습 1",
+            "description": "신체의 움직임 및 운동에 관한 동작들을 이해하고 기능해부학, 운동학, 운동역학, 바이오메카닉적 관점에서의 평가 및 통계적인 분석을 통하여 실제 움직임들에 대한 효과적인 분석방법과 이론적 지식에 대한 이해를 학습한다.",
+            "curriculum": "수업에 대한 세부적인 설명과 학습목표에 대한 이해YUMMI인간의 기본적인 움직임에 대한 이해 및 인간의 움직임의 형태를 이해한다.YUMMI인간의 건강관련체력 항목의 종류 및 실제 측정을 통해 자료의 객관도, 신뢰도를 이해한다.YUMMI특정과제 수행을 위한 기능관련 체력 항목의 종류 및 측정방버에 대한 이해 및 적용YUMMI기능적 움직임에 대한 기본적 개념을 이해하다.YUMMI기능적 움직임 평가툴에 대한 종류 및 세부항목을 이해한다YUMMI움직임 기능검사를 실제수행 및 평가를 통해 데이터 수집 및 평가 방법을 이해한다. YUMMI최대유산소 능력에 대한 기본적 개념을 이해한다.YUMMI중간고사YUMMI인체의 발에 대한 이해, 지지면에 대한 명확한 이론적 개념을 이해한다. YUMMI발의 지지면 및 밸런스에 대한 이론적 이해 및 운동동작을 통한 평가를 실습한다. YUMMI골프동작(편심회전)에 대한 세부적 내용을 이해한다. YUMMI스쿼트 동작에 대한 역학적 메카니즘을 이해 한다.YUMMI데드리프트 동작에 대한 역학적 메카니즘을 이해한다.YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "full_text": "바이오메카닉스활용및실습 1 신체의 움직임 및 운동에 관한 동작들을 이해하고 기능해부학, 운동학, 운동역학, 바이오메카닉적 관점에서의 평가 및 통계적인 분석을 통하여 실제 움직임들에 대한 효과적인 분석방법과 이론적 지식에 대한 이해를 학습한다.",
+            "similarity": 0.11802013916900667
+        }
+    ]
+}

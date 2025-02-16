@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "한국 문학을 기반으로 한 웹 콘텐츠 및 모바일 애플리케이션을 개발하고 싶어요. 디지털 환경에서 문학적 자료를 효과적으로 활용하고, 이를 창의적인 방식으로 구현하기 위해 필요한 기술과 학습 과정은 무엇인가요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 735,
+            "name": "한옥학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "한옥학과",
+            "similarity": 0.34267871318003995
+        },
+        {
+            "id": 757,
+            "name": "컴퓨터응용제도및설계",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.3383914374987296
+        },
+        {
+            "id": 157,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "전기공학과",
+            "similarity": 0.33800691110439174
+        },
+        {
+            "id": 1215,
+            "name": "디지털건축 1",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "한옥학과",
+            "similarity": 0.3279723727483952
+        },
+        {
+            "id": 2071,
+            "name": "Python 프로그래밍 1",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.30102445270948586
+        },
+        {
+            "id": 3082,
+            "name": "아동.청소년정보",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.4161297083482324
+        },
+        {
+            "id": 4159,
+            "name": "디지털농업개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.3804531156186282
+        },
+        {
+            "id": 4225,
+            "name": "디지털공학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.3600292868791156
+        },
+        {
+            "id": 4287,
+            "name": "디지털농업기계개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.35988060335405436
+        },
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.3444072713083018
+        },
+        {
+            "id": 1651,
+            "name": "일본문학번역입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.4506484802301935
+        },
+        {
+            "id": 2379,
+            "name": "컴퓨터정보처리",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.4452834360103727
+        },
+        {
+            "id": 2070,
+            "name": "영미단편소설",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "영어영문학과",
+            "similarity": 0.42439656543749277
+        },
+        {
+            "id": 1154,
+            "name": "지식정보콘텐츠제작기획",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.39666242913198757
+        },
+        {
+            "id": 2164,
+            "name": "국문학의이해",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.38764728180971375
+        },
+        {
+            "id": 4457,
+            "name": "디지털영화영상제작기획",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.44612788740618725
+        },
+        {
+            "id": 4547,
+            "name": "디지털스토리텔링과데이터시각화",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.43735046044851605
+        },
+        {
+            "id": 3117,
+            "name": "모바일프로그래밍",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.4263673366633618
+        },
+        {
+            "id": 4094,
+            "name": "알고리즘",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3964505078751202
+        },
+        {
+            "id": 3749,
+            "name": "응용소프트웨어개발",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.3915496637507735
+        },
+        {
+            "id": 1786,
+            "name": "디지털도서관론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.4854357140809318
+        },
+        {
+            "id": 288,
+            "name": "문화컨텐츠서비스론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.4070132997757643
+        },
+        {
+            "id": 70,
+            "name": "국어자료정보처리론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.39328749756677145
+        },
+        {
+            "id": 931,
+            "name": "한국사강독",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사학과",
+            "similarity": 0.38302851993955134
+        },
+        {
+            "id": 1126,
+            "name": "지능정보사회와미디어",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.37391590243017386
+        },
+        {
+            "id": 4654,
+            "name": "디지털도서관기술과실제",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.5092112546459688
+        },
+        {
+            "id": 3440,
+            "name": "디지털셰익스피어",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "영어영문학과",
+            "similarity": 0.4332670507221865
+        },
+        {
+            "id": 2962,
+            "name": "디지털지적측량학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(토목공학)",
+            "similarity": 0.4270731022509252
+        },
+        {
+            "id": 4434,
+            "name": "디지털미디어리터러시",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.42255706390116765
+        },
+        {
+            "id": 3489,
+            "name": "모바일앱프로그래밍",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.4200127019408932
+        },
+        {
+            "id": 1800,
+            "name": "고서와스토리텔링",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.42894371263282194
+        },
+        {
+            "id": 258,
+            "name": "프랑스어코퍼스언어학의이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.421218455114665
+        },
+        {
+            "id": 1417,
+            "name": "출판저작권의이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.42095350408614746
+        },
+        {
+            "id": 882,
+            "name": "희곡론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.38335827052481286
+        },
+        {
+            "id": 2121,
+            "name": "현대한국경제론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.37499851912958204
+        },
+        {
+            "id": 3155,
+            "name": "프랑스문학작품빅데이터분석과활용",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.4486772433022226
+        },
+        {
+            "id": 2885,
+            "name": "멀티미디어콘텐츠제작",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.4127407046251253
+        },
+        {
+            "id": 2815,
+            "name": "프랑스융복합문학과스토리텔링",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.4082336516114535
+        },
+        {
+            "id": 3367,
+            "name": "과학문화캡스톤디자인",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "과학학과",
+            "similarity": 0.3757505529734086
+        },
+        {
+            "id": 4591,
+            "name": "텍스트마이닝",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3606350996848915
+        }
+    ]
+}

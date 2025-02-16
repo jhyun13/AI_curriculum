@@ -1,0 +1,130 @@
+{
+    "meta_info": {
+        "user_query": "드론 및 항공 시스템에서 센서를 활용한 자동 비행과 최적화 기술이 중요해지고 있습니다. 이를 연구하고 개발하려면 어떤 이론과 실습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 381,
+            "name": "수목학및실습 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산림환경과학과",
+            "similarity": 0.13448729030321302
+        },
+        {
+            "id": 1796,
+            "name": "협동조합론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.10799148028000904
+        },
+        {
+            "id": 4443,
+            "name": "GIS공간분석기초",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.10695777314099746
+        },
+        {
+            "id": 470,
+            "name": "CAD",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.1360884341182356
+        },
+        {
+            "id": 2109,
+            "name": "광학및실험 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "물리학과",
+            "similarity": 0.11065402111339862
+        },
+        {
+            "id": 1706,
+            "name": "웹프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.10960694758288334
+        },
+        {
+            "id": 1581,
+            "name": "초고주파공학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.10490392302283227
+        },
+        {
+            "id": 3146,
+            "name": "사회복지현장실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.12565856511932041
+        },
+        {
+            "id": 3137,
+            "name": "드론측량굴착공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(자원에너지공학)",
+            "similarity": 0.12280410936908913
+        },
+        {
+            "id": 2644,
+            "name": "전산구조모형및해석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.11203459387680573
+        },
+        {
+            "id": 605,
+            "name": "농업환경지리정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.2882523110741916
+        },
+        {
+            "id": 1403,
+            "name": "반도체소자설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.1144745484055607
+        },
+        {
+            "id": 1911,
+            "name": "딥러닝과신약개발",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생명과학부(분자생물학)",
+            "similarity": 0.10383358753838685
+        },
+        {
+            "id": 3339,
+            "name": "사회복지와인권",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.12323083876389268
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.10930659361283965
+        }
+    ]
+}

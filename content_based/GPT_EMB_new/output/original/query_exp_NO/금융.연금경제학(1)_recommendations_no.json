@@ -1,0 +1,343 @@
+{
+    "meta_info": {
+        "user_query": "금융 시장에서의 위험을 효과적으로 관리하는 것이 중요해지고 있습니다. 저는 금융 리스크 관리 및 금융 수학을 활용하여 보다 정교한 리스크 모델을 구축하고, 투자 결정을 돕는 연구를 하고 싶어요. 어떤 과정을 학습해야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "수학과",
+            "경제학부"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 1194,
+            "name": "수리경제학입문",
+            "description": "수학이 경제학을 공부하는데 왜 그토록 중요한가를 강조하기 위하여 수학적 기법이 경제학자들의 분석적 필요성 때문에 요구됨을 밝히고, 적당한 경제모형을 들어 설명하고자 한다. 또한 수학적 도구상자들을 설명함에 있어서도, 초보적인 도구들이 디딤돌이 되어서 후의 보다 세련된 도구들의 이해에 무리가 없도록 강의하고자 한다. 다시 말하자면 경제분석의 주요한 유형들, 정태분석(균형분석), 비교정태분석, 최적화분석 등을 공략하기 위하여 행렬대수학, 미분 등의 수학적 방법들을 사용할 것이다. 더불어 상당히 많은 미시 및 거시 경제모형들을 예로 들어 설명할 것이다.",
+            "curriculum": "경제학과 수학 / 수학의 기본지식YUMMI선형모형과 행렬대수(1)YUMMI선형모형과 행렬대수(2)YUMMI선형모형과 행렬대수(3) YUMMI비교정태분석과 도함수YUMMI미분법칙과 비교정태분석YUMMI중간고사대비 문제풀이 및 질의응답YUMMI중간고사YUMMI일반함수모형의 비교정태분석(1)YUMMI일반함수모형의 비교정태분석(2)YUMMI최적화분석YUMMI다변수함수의 극대극소YUMMI등식제약하의 최적화YUMMI기말고사대비 문제풀이 및 질의응답YUMMI기말고사 YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "수리경제학입문 수학이 경제학을 공부하는데 왜 그토록 중요한가를 강조하기 위하여 수학적 기법이 경제학자들의 분석적 필요성 때문에 요구됨을 밝히고, 적당한 경제모형을 들어 설명하고자 한다. 또한 수학적 도구상자들을 설명함에 있어서도, 초보적인 도구들이 디딤돌이 되어서 후의 보다 세련된 도구들의 이해에 무리가 없도록 강의하고자 한다. 다시 말하자면 경제분석의 주요한 유형들, 정태분석(균형분석), 비교정태분석, 최적화분석 등을 공략하기 위하여 행렬대수학, 미분 등의 수학적 방법들을 사용할 것이다. 더불어 상당히 많은 미시 및 거시 경제모형들을 예로 들어 설명할 것이다.",
+            "similarity": 0.4332463531398253
+        },
+        {
+            "id": 1513,
+            "name": "경제통계학",
+            "description": "통계학은 미지의 세계에 대한 안내자이다. 경험과 정보와 자료를 객관적으로 분석하고 처리하는 데 도움을 준다. 이 과목은 기초적인 통계이론의 이해와 경제현상 분석의 활용방법 학습을 목표로 하는 과목이다. 정보화시대라 일컬어지는 오늘날 통계적 분석은 합리적인 판단의 근거로 많이 이용되고 있다. 그럼에도 불구하고 통계학은 까다로운 수식으로 설명되는 이해하기 어려운 학문으로 인식되어 많은 학생들이 선입견이 있다. 이 수업에서는 핵심이 되는 기본 원리를 이해하도록 하여 전체적인 윤곽을 쉽게 파악하도록 하여 학생들이 계량경제학을 수강하기 위한 징검다리 역할을 할 것이다.",
+            "curriculum": "강의 오리엔테이션 & 1장 통계학의 개요(1)YUMMI1장 통계학의 개요(2) 2장 자료의 표현과 측정(1)YUMMI2장 자료의 표현과 측정(2) 3장 확률(1)YUMMI3장 확률(2)YUMMI4장 확률변수와 확률분포YUMMI5장 이산형 확률분포YUMMI6장 연속형 확률분포YUMMI중간고사YUMMI7장 확률표본과 추정YUMMI8장 가설검정(1)YUMMI8장 가설검정(2)YUMMI9장 회귀분석과 상관분석(1)YUMMI9장 회귀분석과 상관분석(2)YUMMI기말고사 대비 문제풀이 및 질의응답YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "경제통계학 통계학은 미지의 세계에 대한 안내자이다. 경험과 정보와 자료를 객관적으로 분석하고 처리하는 데 도움을 준다. 이 과목은 기초적인 통계이론의 이해와 경제현상 분석의 활용방법 학습을 목표로 하는 과목이다. 정보화시대라 일컬어지는 오늘날 통계적 분석은 합리적인 판단의 근거로 많이 이용되고 있다. 그럼에도 불구하고 통계학은 까다로운 수식으로 설명되는 이해하기 어려운 학문으로 인식되어 많은 학생들이 선입견이 있다. 이 수업에서는 핵심이 되는 기본 원리를 이해하도록 하여 전체적인 윤곽을 쉽게 파악하도록 하여 학생들이 계량경제학을 수강하기 위한 징검다리 역할을 할 것이다.",
+            "similarity": 0.37673100796276193
+        },
+        {
+            "id": 152,
+            "name": "벡터해석학",
+            "description": "다변수 함수의 미분과 적분에 대하여 공부하고, 나아가 벡터해석학에 대하여 공부한다.\n.",
+            "curriculum": "Orientation,\nArc lengthYUMMIVector fields,\nDivergence and CurlYUMMIThe double integral over a rectangle,\nThe doubel integral over more general regionsYUMMIChanging the order of integration,\nThe triple integral\nYUMMI1st examinationYUMMIThe geometry of maps from R^2 to R^2,\nThe change of variables theorem\nYUMMIThe path integral,\nLine integralsYUMMIParametrized surfaces,\nArea of a surfaceYUMMIIntegrals of scalar functions over surfaces,\nSurface integrals of Vector fieldsYUMMI2nd examinationYUMMIGreen's TheoremYUMMIStokes' TheoremYUMMICoservative fieldsYUMMIGauss' TheoremYUMMI3rd examinationYUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "수학과",
+            "full_text": "벡터해석학 다변수 함수의 미분과 적분에 대하여 공부하고, 나아가 벡터해석학에 대하여 공부한다.\n.",
+            "similarity": 0.341700831192117
+        },
+        {
+            "id": 1726,
+            "name": "미분방정식",
+            "description": "1. 상미분 방정식과 그 해법을 공부한다.\n\n2. 2계 선형 제차, 비제차 미분방정식과 그 해법을 안다.\n\n3. Laplace 변환을 이용한 미분방정식과 그 해법을 안다.\n\n4. 급수해를 이용해야 하는 미분방정식을 공부한다.",
+            "curriculum": "1.1 1계 상미분방정식의 기본개념과 모델링\n1.2  기하학적 의미YUMMI1.3 분리가능 상미분방정식. 모델링YUMMI1.4 완전상미분방정식. 적분인자YUMMI1.5 선형상미분방정식. Bernoulli 방정식YUMMI2.1 2계 제차 선형상미분방정식\n2.2 상수계수를 갖는 제차 선형상미분방정식YUMMI2.5 Euler-Cauchy 방정식\n2.6 해의 존재성과 유일성. WronskianYUMMI2.7 비제차 상미분방정식\n2.10 매개변수변환에 의한 풀이YUMMI중간고사YUMMI6.1 Laplace 변환. 선형성. 제1이동정리(s-이동)\n6.2 도함수와 적분의 변환. 상미분방정식YUMMI6.3 단위계단함수. 제2이동정리(t-이동)\n6.4 짧은 충격. Dirac의 델타함수YUMMI6.5 합성곱. 적분방정식\n6.6 변환의 미분과 적분. 변수계수를 갖는 상미분방정식YUMMI4.2 연립상미분방정식에 대한 기본이론. Wronskian\n6.7 연립상미분방정식의 Laplace 변환YUMMI5.1 거듭제곱급수 해법YUMMI5.2 Legendre 방정식YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "수학과",
+            "full_text": "미분방정식 1. 상미분 방정식과 그 해법을 공부한다.\n\n2. 2계 선형 제차, 비제차 미분방정식과 그 해법을 안다.\n\n3. Laplace 변환을 이용한 미분방정식과 그 해법을 안다.\n\n4. 급수해를 이용해야 하는 미분방정식을 공부한다.",
+            "similarity": 0.2966415630216578
+        },
+        {
+            "id": 2265,
+            "name": "미시경제학",
+            "description": "시장경제에서의 가계와 기업의 기본행태를 소개한다.  즉, 소비자의 효용극대화와 생산자의 이윤극대화 문제를 다룬다. 다양한 시장구조를 분석하며 이들 시장구조 하에서 사회적 후생을 측정하고 비교한다. 아울러 미시경제적 관점에서 불확실성 문제와 정보의 비대칭성 문제도 다룬다.",
+            "curriculum": "기본개념 및 개관 (ch. 1 & 2)YUMMI시장의 균형 (ch. 3) YUMMI소비자의 선호체계(ch. 4)YUMMI효용극대화와 소비자의 최적선택 (ch. 5)YUMMI소비자이론의 확장과 응용 (ch. 6 )                                                       불확실성하에서의 선택 (ch. 7)YUMMI생산함수와 생산이론 (ch. 8)YUMMI비용함수와 비용이론 (ch. 9)YUMMI중간고사 (시간 및 장소 추후 공지)                                                   \n                                                                                                      \n기업의 이윤극대화 (ch.10)YUMMI시장조직의 이론: 완전경쟁시장 (ch. 11)YUMMI시장조직의 이론: 독점시장 (ch. 12)YUMMI시장조직의 이론: 과정시장과 독점적경쟁시장 (ch. 13)YUMMI게임이론 (ch. 14)YUMMI생산요소시장 (ch. 15), 시장실패와 정보경제이론 (ch. 19 & 20)YUMMI리뷰YUMMI기말고사 YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "미시경제학 시장경제에서의 가계와 기업의 기본행태를 소개한다.  즉, 소비자의 효용극대화와 생산자의 이윤극대화 문제를 다룬다. 다양한 시장구조를 분석하며 이들 시장구조 하에서 사회적 후생을 측정하고 비교한다. 아울러 미시경제적 관점에서 불확실성 문제와 정보의 비대칭성 문제도 다룬다.",
+            "similarity": 0.26842664974568126
+        },
+        {
+            "id": 3647,
+            "name": "계량경제학",
+            "description": "본과목은 경제이론에서 도출된  경제변수들간의 관계를 실증적으로 규명해보자 한다.\n경제이론에 대한 지식과 수집된 자료를 정리하고 추론하는 통계학적 기초가 필요하다.\n그러나 수학적 정리나 증명에 의존하지 않고 사례 중심의 EXCEL과 GRETL 등 통계프로그램을 사용하는 실중분석 위주이다.\n본 과목을 제대로 수강하면 이론과 현실에 대한 균형감각이 생기고 경제학과 학생들이 다른 사회과학 전공자들에 비해 경쟁력을 갖출 수 있을 것으로 기대한다.  ",
+            "curriculum": "계량경제학 및 GRETL프로그램 소개YUMMI단순회귀분석  표본분포 및 특성YUMMI단순회귀분석 ？ 최소자승법 (OLS)YUMMI단순회귀분석 - OLS 추정 및 가설검정YUMMI다중회귀분석 ？ 추정 YUMMI다중회귀분석 ？ 추정 YUMMI다중회귀분석 ？ 가설검정  YUMMI중간고사YUMMI다중회귀분석  - 함수형태, 모형의 적합도YUMMI가변수 회귀모형YUMMI모형설정의 오류 및 다중 공선성YUMMI이분산의 식별 및 교정YUMMI자기상관의 식별 및 교정YUMMI패널데이터 특성 반영YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "계량경제학 본과목은 경제이론에서 도출된  경제변수들간의 관계를 실증적으로 규명해보자 한다.\n경제이론에 대한 지식과 수집된 자료를 정리하고 추론하는 통계학적 기초가 필요하다.\n그러나 수학적 정리나 증명에 의존하지 않고 사례 중심의 EXCEL과 GRETL 등 통계프로그램을 사용하는 실중분석 위주이다.\n본 과목을 제대로 수강하면 이론과 현실에 대한 균형감각이 생기고 경제학과 학생들이 다른 사회과학 전공자들에 비해 경쟁력을 갖출 수 있을 것으로 기대한다.  ",
+            "similarity": 0.3868581498731555
+        },
+        {
+            "id": 4769,
+            "name": "화폐금융이론및정책",
+            "description": "기초적 경제분석 방법중 거시분석을 주로 공부하되 미시적 방법도 보완한다. 개별 경제주체들로 구성된 국민경제 전체의 인과관계와 흐름을 다루며, 국민소득 계정 및 개년, 균형국민소득의 결정 메카니즘, 화폐금융이론과 정책 및 제도, 인플레이션과 실업, 경제성장과 발전, 국제경제학의 기초를 살펴본다. ",
+            "curriculum": "경제학이란 무엇인가?YUMMI수요 공급과 시장균형YUMMI국가경제의 실물순환YUMMI국가경제의 실물순환, 국가경제의 자금순환YUMMI국가경제의 자금순환YUMMI국가경제의 특징YUMMI국가경제의 장기적 경제성장YUMMI임시시험 및 중간고사YUMMI국가경제의 장기적 경제성장YUMMI경제성장이론과 경제성장정책YUMMI국가경제의 단기적 경기변동, 화폐와 거시경제YUMMI화폐와 거시경제YUMMI경기변동이론 : 총수요 총공급 모형YUMMI경기변동이론 : 총수요 총공급 모형, 경기안정화정책이란 무엇인가?YUMMI임시시험 및 기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "화폐금융이론및정책 기초적 경제분석 방법중 거시분석을 주로 공부하되 미시적 방법도 보완한다. 개별 경제주체들로 구성된 국민경제 전체의 인과관계와 흐름을 다루며, 국민소득 계정 및 개년, 균형국민소득의 결정 메카니즘, 화폐금융이론과 정책 및 제도, 인플레이션과 실업, 경제성장과 발전, 국제경제학의 기초를 살펴본다. ",
+            "similarity": 0.383972321454133
+        },
+        {
+            "id": 2913,
+            "name": "기업경제학",
+            "description": "기업경제학은 경제학의 이윤추구영역과 비이윤추구영역에서 발생하는 문제를 사고하고 해결하는 방법을 공부하는 학문이다. 시장경제에서 기업이 상품을 생산하여 판매할 때 수익은 어떻게 결정되는가? 기업의 기술과 생산은 어떤 관계에 있으며 이윤을 극대화하는 생산결정은 어떻게 하는가? 시장은 어떤 구조로 운영되며 기업의 가격전략은 어떻게 짜야 하는가? 정보가 불완전할 때 발생하는 역선택과 도덕적 해이는 어떻게 해결할 것인가? 이 수업에서 이러한 문제들에 대한 답을 찾아 볼 것이다.",
+            "curriculum": "강좌소개, 시장요인: 수요와 공급 (2장)YUMMI계량적 수요분석 (3장)YUMMI소비자행동이론 (4장)YUMMI생산과정과 비용 (5장)YUMMI기업의 조직 (6장)YUMMI산업의 양상 (7장)YUMMI완전경쟁, 독점, 독점적 경쟁시장 (8장)YUMMI중간고사YUMMI과점의 기본모형 (9장)YUMMI과점의 기본모형 (9장)YUMMI게임이론: 과점 (10장)YUMMI시장지배력을 가진 기업의 가격설정 전략 (11장)YUMMI정보경제학 (12장)YUMMI경영전략의 새로운 영역 (13장)YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "기업경제학 기업경제학은 경제학의 이윤추구영역과 비이윤추구영역에서 발생하는 문제를 사고하고 해결하는 방법을 공부하는 학문이다. 시장경제에서 기업이 상품을 생산하여 판매할 때 수익은 어떻게 결정되는가? 기업의 기술과 생산은 어떤 관계에 있으며 이윤을 극대화하는 생산결정은 어떻게 하는가? 시장은 어떤 구조로 운영되며 기업의 가격전략은 어떻게 짜야 하는가? 정보가 불완전할 때 발생하는 역선택과 도덕적 해이는 어떻게 해결할 것인가? 이 수업에서 이러한 문제들에 대한 답을 찾아 볼 것이다.",
+            "similarity": 0.33181905582673815
+        },
+        {
+            "id": 4171,
+            "name": "재정학",
+            "description": "시장경제는 크게 2가지 시장(생산물시장, 생산요소시장)과 2가지 경제주체(가계, 기업)으로 구성됨. 생산요소시장에서는 생산의 투입물인 노동, 자본이 거래되고, 생산물시장에서는 생산의 결과인 상품, 서비스가 거래됨. 가계는 생산요소시장의 공급자이자 생산물시장의 수요자이고, 기업은 생산요소시장의 수요자이자 생산물시장의 공급자임. 그런데 현실에 존재하는 대부분의 시장에는 정부가 개입함. 시장에 대한 정부의 개입은 경제주체의 이해관계에 영향을 미치고, 따라서 경제주체의 의사결정에 영향을 미치며, 궁극적으로 시장을 통한 자원배분의 결과에 영향을 미침. 이러한 정부 개입은 자원의 흐름을 기준으로 크게 조세(정부의 수입)와 재정(정부의 지출)으로 구분됨. 이 수업에서는 정부의 수입과 지출 현황을 학습하고, 시장에 대한 정부개입을 경제학적으로 분석(특히 자원배분의 효율성과 소득분배의 공평성 면에서 평가)하는 것을 학습함.",
+            "curriculum": "강의 소개YUMMI정부의 수입과 지출 현황 1YUMMI정부의 수입과 지출 현황 2YUMMI시장에 대한 정부 개입의 정당성 1YUMMI시장에 대한 정부 개입의 정당성 2YUMMI정부의 의사결정 1YUMMI정부의 의사결정 2YUMMI중간고사YUMMI재정지출 1YUMMI재정지출 2YUMMI조세 1YUMMI조세 2YUMMI사회보장제도 1YUMMI사회보장제도 2YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "재정학 시장경제는 크게 2가지 시장(생산물시장, 생산요소시장)과 2가지 경제주체(가계, 기업)으로 구성됨. 생산요소시장에서는 생산의 투입물인 노동, 자본이 거래되고, 생산물시장에서는 생산의 결과인 상품, 서비스가 거래됨. 가계는 생산요소시장의 공급자이자 생산물시장의 수요자이고, 기업은 생산요소시장의 수요자이자 생산물시장의 공급자임. 그런데 현실에 존재하는 대부분의 시장에는 정부가 개입함. 시장에 대한 정부의 개입은 경제주체의 이해관계에 영향을 미치고, 따라서 경제주체의 의사결정에 영향을 미치며, 궁극적으로 시장을 통한 자원배분의 결과에 영향을 미침. 이러한 정부 개입은 자원의 흐름을 기준으로 크게 조세(정부의 수입)와 재정(정부의 지출)으로 구분됨. 이 수업에서는 정부의 수입과 지출 현황을 학습하고, 시장에 대한 정부개입을 경제학적으로 분석(특히 자원배분의 효율성과 소득분배의 공평성 면에서 평가)하는 것을 학습함.",
+            "similarity": 0.33130480068394547
+        },
+        {
+            "id": 3847,
+            "name": "국제경제학",
+            "description": "한국경제는 해외요인에 의한 충격에 큰 영향을 받는 경제구조를 가지고 있다. 따라서 개방경제적인 시각에서 경제분석을 할 수 있는 글로벌 사고능력을 개발하기 위한 국제경제이론의 이해와 체계를 습득하고, 긴밀한 상호의존관계를 형성하고 있는 국제경제관계의 현상과 문제점을 파악하여 해결방안을 모색하는 능력을 길러 글로벌인재를 육성한다.",
+            "curriculum": "강의개요 및 서론YUMMI국제수지의 기초YUMMI외환시장과 환율YUMMI국민소득과 국제수지YUMMI환율변화, 통화량, 물가와 국제수지YUMMI국제자본이동과 개방경제이론YUMMI국제금융시장YUMMI중간정리와 중간고사YUMMI무역제한조치YUMMI환율제도와 국제통화제도YUMMI자본자유화와 외환 금융위기YUMMI무역이론YUMMI요소부존도와 헥셔-오린 모형YUMMI무역정책의 수단YUMMI기말정리와 기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "국제경제학 한국경제는 해외요인에 의한 충격에 큰 영향을 받는 경제구조를 가지고 있다. 따라서 개방경제적인 시각에서 경제분석을 할 수 있는 글로벌 사고능력을 개발하기 위한 국제경제이론의 이해와 체계를 습득하고, 긴밀한 상호의존관계를 형성하고 있는 국제경제관계의 현상과 문제점을 파악하여 해결방안을 모색하는 능력을 길러 글로벌인재를 육성한다.",
+            "similarity": 0.28421439160677864
+        },
+        {
+            "id": 824,
+            "name": "재무경제학",
+            "description": "국내외 금융시장의 환경에서 기업, 금융권 등의 재무적 의사결정에 필요한 기본적인 개념과 분석체계를 갖추도록 하는데 목적을 두고  있음. 이러한 목적 하에, 3대 시장(채권, 주식, 외환)의 가격결정 과정 및 요인을 연구하고, 투자를 위한 자금조달, 포트폴리오 구성, 투자안 평가 등 실제 기업과 금융시장에서 행해지고 있는 주요 업무에 대하여 연구함. 특히 별도의 실습 과정을 통해 금융이론과 실제 금융업무에 대한 체계적인 이해를 병행할 수 있음.",
+            "curriculum": "IntroductionYUMMITime value of moneyYUMMIBond marketYUMMIYield curveYUMMIApplication(1)YUMMIStock market YUMMIDividend policyYUMMICapital financing YUMMIMid-termYUMMIReturn & RiskYUMMITheory of PortfolioYUMMIApplication(2)YUMMICAPMYUMMIPension FinanceYUMMIFinalYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "재무경제학 국내외 금융시장의 환경에서 기업, 금융권 등의 재무적 의사결정에 필요한 기본적인 개념과 분석체계를 갖추도록 하는데 목적을 두고  있음. 이러한 목적 하에, 3대 시장(채권, 주식, 외환)의 가격결정 과정 및 요인을 연구하고, 투자를 위한 자금조달, 포트폴리오 구성, 투자안 평가 등 실제 기업과 금융시장에서 행해지고 있는 주요 업무에 대하여 연구함. 특히 별도의 실습 과정을 통해 금융이론과 실제 금융업무에 대한 체계적인 이해를 병행할 수 있음.",
+            "similarity": 0.5180821762881469
+        },
+        {
+            "id": 649,
+            "name": "국제금융시장론",
+            "description": "이 과정에서는 국제금융시장의 동향, 전망 등에 대해서 학습한다. 특히 주식, 채권, 외환 등 3대 시장에서의 가격결정원리와 요인을 이해하고, 시장의 변동성에 영향을 미치는 주요 요인들에 대하여 학습한다. 특히 경기변동, 경제위기 등 국제금융시장에 구조적인 변화가 발생하였을 때 이들 시장들이 어떻게 반응하는지 주요 이론과 실제 사례를 통하여 학습할 수 있다.",
+            "curriculum": "IntroductionYUMMIGlobal Imbalances / Capital MobilityYUMMIBP/ National Account / M-F ModelYUMMIBond Market and Bond PriceYUMMIInternational Capital Market / Stock Market and PriceYUMMIFEX Market /  Exchange RateYUMMIMoney, Inflation, Interest Rate and EX / Two Regimes of EXYUMMIMidterm YUMMIOCAYUMMICrisisYUMMICentral Bank / ResponsesYUMMIRisk Diversification, PortfolioYUMMIFEX Forecasting, Speculative TransactionYUMMIFC Crisis RMYUMMIFinalYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "국제금융시장론 이 과정에서는 국제금융시장의 동향, 전망 등에 대해서 학습한다. 특히 주식, 채권, 외환 등 3대 시장에서의 가격결정원리와 요인을 이해하고, 시장의 변동성에 영향을 미치는 주요 요인들에 대하여 학습한다. 특히 경기변동, 경제위기 등 국제금융시장에 구조적인 변화가 발생하였을 때 이들 시장들이 어떻게 반응하는지 주요 이론과 실제 사례를 통하여 학습할 수 있다.",
+            "similarity": 0.4281207124259905
+        },
+        {
+            "id": 2162,
+            "name": "보험.연금경제학",
+            "description": "우리는 삶을 살아가는 과정에서 재해, 각종 우연한 사고, 은퇴 후 불안정한 소득 등의 위험에 직면한다. 이 같은 위험에 대비하기 위해 생겨난 것이 보험과 연금이다. 보험은 재해나 각종 사고 등이 일어날 경우의 경제적 손해에 대비하여, 공통된 사고의 위험을 회피하고자 하는 사람들이 일정한 돈을 함께 적립하여 두었다가 사고를 당한 사람에게 일정 금액을 주어 손해를 보상하는 제도이다. 그리고 연금은 생산활동이 힘든 노후의 생활을 보장하기 위하여 생산활동기간에 벌어들인 소득의 일부를 적립하여 노후에 일정 금액을 받는 제도이다. 본 보험.연금경제학 수업에서는 보험과 연금의 역할과 원리, 보험과 연금에 대한 의사결정, 보험과 연금 관련 여러가지 경제적 문제 등을 이해하고 향후 이를 응용하는데 목적을 둔다. 이를 위해 본 수업에서는 경제모형에 기반한 접근방법으로 강의한다. 보험과 관련하여 불확실성하의 선택모형, 역선택 및 도덕적 해이 모형 등을, 연금과 관련하여서는 생애주기모형 등이 이용된다. ",
+            "curriculum": "보험 연금경제의 강의개요 및 위험의 개념YUMMI불확실성하의 선택1YUMMI불확실성하의 선택2YUMMI비대칭정보 : 역선택, 도적적 해이YUMMI보험 수요 1YUMMI보험 수요 2YUMMI보험 공급YUMMI중간고사YUMMI사회보험론YUMMI연금의 기초YUMMI조세와 개인의 선택YUMMI조세와 기업의 선택YUMMI개인의 연금의사결정YUMMI기업의 연금의사결정 YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "보험.연금경제학 우리는 삶을 살아가는 과정에서 재해, 각종 우연한 사고, 은퇴 후 불안정한 소득 등의 위험에 직면한다. 이 같은 위험에 대비하기 위해 생겨난 것이 보험과 연금이다. 보험은 재해나 각종 사고 등이 일어날 경우의 경제적 손해에 대비하여, 공통된 사고의 위험을 회피하고자 하는 사람들이 일정한 돈을 함께 적립하여 두었다가 사고를 당한 사람에게 일정 금액을 주어 손해를 보상하는 제도이다. 그리고 연금은 생산활동이 힘든 노후의 생활을 보장하기 위하여 생산활동기간에 벌어들인 소득의 일부를 적립하여 노후에 일정 금액을 받는 제도이다. 본 보험.연금경제학 수업에서는 보험과 연금의 역할과 원리, 보험과 연금에 대한 의사결정, 보험과 연금 관련 여러가지 경제적 문제 등을 이해하고 향후 이를 응용하는데 목적을 둔다. 이를 위해 본 수업에서는 경제모형에 기반한 접근방법으로 강의한다. 보험과 관련하여 불확실성하의 선택모형, 역선택 및 도덕적 해이 모형 등을, 연금과 관련하여서는 생애주기모형 등이 이용된다. ",
+            "similarity": 0.40434526384159836
+        },
+        {
+            "id": 1505,
+            "name": "빅데이터경제학",
+            "description": "이 과목은 경제에 가장 큰 영향을 미치는 빅 데이터를 사용하여 교육에서 금융에 이르기까지 다양한 경제 영역을 다루는데 필요한 방법과 경제이론을 습득하는 것을 목적으로 합니다. ",
+            "curriculum": "빅데이터 경제학의 소개YUMMI기본적인 R 사용법 실습YUMMI선형회귀 방법에 대한 복습YUMMI패널데이터 분석 방법 1YUMMI패널데이터 분석 방법 2YUMMI시계열 데이터 분석 방법 1YUMMI시계열 데이터 분석 방법 2YUMMI중간고사YUMMI베이지안 추정의 개념YUMMI베이지안 통계학 실습YUMMI베이지안 선형 회귀 추정 1YUMMI베이지안 선형 회귀 추정 2YUMMI베이지안 시뮬레이션 실습 1YUMMI베이지안 시뮬레이션 실습 2YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "빅데이터경제학 이 과목은 경제에 가장 큰 영향을 미치는 빅 데이터를 사용하여 교육에서 금융에 이르기까지 다양한 경제 영역을 다루는데 필요한 방법과 경제이론을 습득하는 것을 목적으로 합니다. ",
+            "similarity": 0.3354855418780456
+        },
+        {
+            "id": 1066,
+            "name": "수학교재연구및지도법",
+            "description": "중등학교 수학교재를 연구하고 수업계획안에 대한 창의적인 작성과 효율적인 교육성과를 기대할 수 있는 학습지도 방법을 탐색하는 능력을 기른다.\t\t\t\t\t\t\t\t\t\n\n수학교재연구의 기초가 되는 이론적 논의와 실제적 적용문제를 다루고, 중등교재 내용을 쉽고 흥미있게 창조적으로 가르칠 수 있는 교수기술을 습득할 수 있다.\n\n예비교사의 수업지도안 작성과 모의 수업을 실시하여 예비교사의 수업역량을 함양한다. 또한 모의수업시연 후, 예비교사의 자기성찰을 통한 반성, 동료 예비교사와의 토론 등을 통하여 수업 역량 함양한다.",
+            "curriculum": "오리엔테이션\t\t\n본 강의는 '현장 역량 중심의 교육과정'으로 수학교재연구의 기초가 되는 이론적 논의와 실제적 적용문제를 다루고 중등교재 내용을 쉽고 흥미롭게 창의적으로 가르칠 수 있는 교수학습능력을 습득하는데 그 목적을 둔다.\t\t\t\t\t\t\t\n수학교육의 주요 문제, 수학사와 수학학습지도\t\t\t\t\t\t\t\t\t\n창의성\t\t\t\t\t\t\t\t\tYUMMI제 1장 수와 연산\t\t\t\t\t\t\t\t\t\n중고등학교의 수와 연산 내용에 관한 학습이론을 공부한다.\nYUMMI 제 1장 수와 연산\t\t\n\n중고등학교의 수와 연산에 관한 교과서 분석과 더불어 모의수업시연을 한다.YUMMI제 2장 대수\t\t\t\t\t\t\t\t\t\n중고등학교의 대수 내용에 관한 학습이론을 공부한다.\nYUMMI 제 2장 대수\t\t\t\t\t\t\t\t\n중고등학교의 대수 관한 교과서 분석과 더불어 모의수업시연을 한다.YUMMI제 3장 함수\t\t\t\t\t\t\t\t\t\n중고등학교의 함수 내용에 관한 학습이론을 공부한다.\t\t\t\t\t\tYUMMI제 3장 함수\t\t\t\t\t\t\t\t\t\n중고등학교의 함수에 관한 교과서 분석과 더불어 모의수업시연을 한다.YUMMI중간고사 \n시험일정 추후공지YUMMI제 4장 기하와 증명\t\t\t\t\t\t\t\t\t\t\n중고등학교의 기하와 증명 내용에 관한 학습이론을 공부한다.\t\t\t\t\t\t\t\tYUMMI제 4장 기하와 증명\t\t\t\t\t\t\t\t\t\t\n중고등학교의 기하와 증명에 관한 교과서 분석과 더불어 모의수업시연을 한다.YUMMI제 5장 미분과 적분\t\t\t\t\t\t\t\t\t\t\n고등학교의 미분과 적분 내용에 관한 학습이론을 공부한다.\t\t\t\t\t\t\t\t\tYUMMI제 5장 미분과 적분\t\t\t\t\t\t\t\t\t\t\n고등학교의 미분과 적분에 관한 교과서 분석과 더불어 모의수업시연을 한다.YUMMI제 6장 확률과 통계\t\t\t\t\t\t\t\t\t\t\n중고등학교의 확률과 통계 내용에 관한 학습이론을 공부한다.\t\t\t\t\t\t\t\t\tYUMMI제 6장 확률과 통계\t\t\t\t\t\t\t\t\t\t\n중고등학교의 확률과 통계에 관한 교과서 분석과 더불어 모의수업시연을 한다.YUMMI기말고사 \n시험일정 추후공지YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "수학과",
+            "full_text": "수학교재연구및지도법 중등학교 수학교재를 연구하고 수업계획안에 대한 창의적인 작성과 효율적인 교육성과를 기대할 수 있는 학습지도 방법을 탐색하는 능력을 기른다.\t\t\t\t\t\t\t\t\t\n\n수학교재연구의 기초가 되는 이론적 논의와 실제적 적용문제를 다루고, 중등교재 내용을 쉽고 흥미있게 창조적으로 가르칠 수 있는 교수기술을 습득할 수 있다.\n\n예비교사의 수업지도안 작성과 모의 수업을 실시하여 예비교사의 수업역량을 함양한다. 또한 모의수업시연 후, 예비교사의 자기성찰을 통한 반성, 동료 예비교사와의 토론 등을 통하여 수업 역량 함양한다.",
+            "similarity": 0.3200611325767915
+        },
+        {
+            "id": 2923,
+            "name": "금융리스크관리",
+            "description": "주식, 채권, 외환시장 등에 존재하는 다양한 리스크를 확인, 측정하며, 이에 대한 관리기법을 이해하고 이를 활용함.",
+            "curriculum": "IntroductionYUMMIBasic Statistics\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIBIC (BASEL)\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIMarket Risk Management\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIVaR(Value at Risk)\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIimmunisation strategyYUMMICredit RM \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIMid-term\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIOperation RM / Liquidity RM\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIRAPM\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIPortfolio Insurance YUMMIApplication on Risk Management\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMISecuritization\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMILoan Sales\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIDerivative Market RM\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "금융리스크관리 주식, 채권, 외환시장 등에 존재하는 다양한 리스크를 확인, 측정하며, 이에 대한 관리기법을 이해하고 이를 활용함.",
+            "similarity": 0.6119759157711999
+        },
+        {
+            "id": 4383,
+            "name": "파생금융시장론",
+            "description": "파생금융시장에 대한 다양한 실무투자기법을 익히게 하는데 목적이 있음.\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+            "curriculum": "Introduction\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIBasic Concepts / Market Scale\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIFutures\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIFutures Market Pricing\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIHedge Ratio\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIApplication(1)YUMMIVarious Futures\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIMid-term\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIOptions\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIOptions Market Pricing\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIApplication(2)YUMMIVarious Options & Options Strategy\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMISwaps\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIArbitrage TradeYUMMIFinalYUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "파생금융시장론 파생금융시장에 대한 다양한 실무투자기법을 익히게 하는데 목적이 있음.\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+            "similarity": 0.45564496764233625
+        },
+        {
+            "id": 4167,
+            "name": "금융투자실습",
+            "description": "금융시장에 대한 전반적인 이해도를 높이며, 자산가격결정 및 거래행태에 대한 보다 전문적인 지식을 갖추게 하는데 그 목적이 있음.",
+            "curriculum": "Q. 왜 금융자산을 공부하여야 하는가?YUMMIQ. 주가 예측값은 어느 정도 신뢰할 수 있는가?YUMMIQ. 딜러의 성향, 투자방식의 차이가 수익률의 차이를 유발하는가?YUMMIQ. 주식시장의 수익률을 결정하는 요인은 무엇인가? YUMMIQ. 미국발 주식시장의 충격은 한국시장에 어느 정도 전이되는가? YUMMIQ. 주가는 월요일에 하락하는가? / 주가는 1월에 상승하는가?YUMMIQ. 시가총액 1%의 상승은 대형주와 소형주에게 모두 같은 의미인가?YUMMI중간고사YUMMIQ. 주식과 채권 중에서 주식에 투자할 확률은 몇 %인가? YUMMIQ. 외국인의 거래를 추세추종하면 더 높은 수익률을 얻을 수 있는가?YUMMIQ. 한국의 주식시장이 외환 및 금융위기의 영향을 받은 정확한 시점은 언제인가?YUMMIQ. 한국의 주식시장은 미국의 주식시장의 영향을 어느 정도 받고 있는가? YUMMIQ. 채권 전문 딜러의 성과분석에서 주식 수익률이 포함되면 어떠한 결과가 나타나게 되는가? YUMMIQ. 대형주와 중형주, 소형주가 모두 포함된 경우 보다 정확한 분석을 위한 방법은 무엇인가? YUMMIQ. 실제 펀드매니저들은 포트폴리오를 어떻게 구성하는가?YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "금융투자실습 금융시장에 대한 전반적인 이해도를 높이며, 자산가격결정 및 거래행태에 대한 보다 전문적인 지식을 갖추게 하는데 그 목적이 있음.",
+            "similarity": 0.45424183354532677
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "description": "미시경제학 이론에 기반한 경제 데이터 분석 능력을 기르도록 함",
+            "curriculum": "소비자 이론 : 소비자의 선호체계YUMMI소비자 이론 : 소비자의 최적선택 1YUMMI소비자 이론 : 소비자의 최적선택 2YUMMI소비자 이론 : 소비자의 최적선택 3YUMMI소비자 이론을 적용한 연구소개YUMMI데이터를 활용한 소비자 이론 분석 1YUMMI데이터를 활용한 소비자 이론 분석 2YUMMI중간고사YUMMI생산자이론 : 기업과 생산기술YUMMI생산자이론 : 생산비용 1YUMMI생산자이론 : 생산비용 2YUMMI생산자이론 : 이윤극대화YUMMI데이터를 활용한 생산자이론 추정 1YUMMI데이터를 활용한 생산자이론 추정 2YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "실증미시경제학 미시경제학 이론에 기반한 경제 데이터 분석 능력을 기르도록 함",
+            "similarity": 0.3716593998473177
+        },
+        {
+            "id": 3437,
+            "name": "부동산경제학",
+            "description": "부동산시장에 대한 이론적 및 실증적 연구결과를 바탕으로 부동산시장 및 관련 정책을 체계적으로 이해하고 분석할 수 있는 역량을 배양하는 것을 주요 목표로 한다. ",
+            "curriculum": "강의개요 및 외부효과YUMMI부동산시장 수요와 공급YUMMI부동산시장 사이클YUMMI부동산시장의 균형YUMMI헤도닉모형YUMMI주택가격YUMMI중간모의시험YUMMI중간고사YUMMI부동산시장 규제와 정책YUMMI정보비대칭YUMMI인과관계분석1YUMMI인과관계분석2YUMMI부의 효과YUMMI기말모의시험YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "부동산경제학 부동산시장에 대한 이론적 및 실증적 연구결과를 바탕으로 부동산시장 및 관련 정책을 체계적으로 이해하고 분석할 수 있는 역량을 배양하는 것을 주요 목표로 한다. ",
+            "similarity": 0.3495013816019226
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "description": "금융 및 거시경제 데이터를 분석할 수 있는 역량을 키우는 것을 목표로 함. \n이론 이외에도 데이터를 분석을 위한 R 프로그래밍 능력을 향상시키는 것이 목표임.  ",
+            "curriculum": "금융시계열분석 및 R 프로그래밍 소개YUMMIAR models 이해YUMMIMA models 이해YUMMIARMA models 이해YUMMIARCH models 이해\n YUMMIGARCH models 이해YUMMIOther Volatility models 이해YUMMI중간고사 (향후 다시 공지할 예정)YUMMIVAR models 이해YUMMIVAR models 이해\n YUMMIVAR models 이해YUMMIState Space models 이해YUMMIState Space models 이해YUMMIState Space models 이해YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "금융시계열분석 금융 및 거시경제 데이터를 분석할 수 있는 역량을 키우는 것을 목표로 함. \n이론 이외에도 데이터를 분석을 위한 R 프로그래밍 능력을 향상시키는 것이 목표임.  ",
+            "similarity": 0.539061923632449
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "description": "부동산 시장 및  자산에 대한 이해를 높이고 부동산 가치평가, 투자 및 금융 지식 배양을 통한 실무역량 습득을 주요 목표로 한다.   ",
+            "curriculum": "강의개요 및 화폐의 시간가치 이해 YUMMI부동산가치평가 이해YUMMI부동산투자분석 이해YUMMI재무레버리지 이해YUMMI수익용 부동산 투자에서 세금의 영향 이해YUMMI실물옵션의 이해YUMMI중간모의시험YUMMI중간고사YUMMI글로벌 투자 위험관리 이해YUMMI모기지분석 이해YUMMI부동산증권화 이해YUMMI기업부동산 금융의 이해YUMMI부동산 Project Financing 이해YUMMI기말모의시험YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "부동산금융 부동산 시장 및  자산에 대한 이해를 높이고 부동산 가치평가, 투자 및 금융 지식 배양을 통한 실무역량 습득을 주요 목표로 한다.   ",
+            "similarity": 0.43014324457766406
+        },
+        {
+            "id": 2142,
+            "name": "수치해석학",
+            "description": "컴퓨터 대수 체계(Computer Algebraic System)를 대표하는 것중 하나인 매트랩(Matlab)을 공부한다.\n매트랩의 사용환경과 사용법을 공부하고, 이를 이용하여\n대수학, 해석학 또는 미분방정식의 문제를 수치적으로 풀어가는 방법을 공부하고, 또한 심볼릭 연산을 통해\n해석적으로 문제를 풀어본다.",
+            "curriculum": "강의소개, 오리엔테이션, Matlab 설치 YUMMIMATLAB에 대해 알아보고  기초적인 사용법을 공부한다.YUMMIMATLAB에 대해 알아보고  기초적인 사용법을 공부한다.YUMMI기본적인 Matlab 명령어, 제어문, 입출력 등을 알아보고, 실습한다.YUMMI컴퓨터 시스템을 이해한다.YUMMI선형 연립 방정식의 해를 구하여 본다.YUMMI다항식의 성질을 알아보고, 컴퓨터에서 다항식을 어떻게 다루는 지 공부하고 실습한다.YUMMI배운 내용을 정리하고, 중간고사를 본다YUMMI주어진 n개의 점을 이용하여 함수를 구하는 방법을 공부하고 실습한다.YUMMI주어진 n개의 점을 이용하여 함수를 구하는 방법을 공부하고 실습한다.YUMMI비선형 방정식의 해를 구하는 방법을 공부하고 실습한다.YUMMI컴퓨터를 이용하여 적분문제를 해결해 본다.YUMMI컴퓨터를 이용하여 적분문제를 해결해 본다.YUMMI컴퓨터를 이용하여 미분문제를 해결해 본다.YUMMI학기 마무리와 기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "수학과",
+            "full_text": "수치해석학 컴퓨터 대수 체계(Computer Algebraic System)를 대표하는 것중 하나인 매트랩(Matlab)을 공부한다.\n매트랩의 사용환경과 사용법을 공부하고, 이를 이용하여\n대수학, 해석학 또는 미분방정식의 문제를 수치적으로 풀어가는 방법을 공부하고, 또한 심볼릭 연산을 통해\n해석적으로 문제를 풀어본다.",
+            "similarity": 0.3384442955626722
+        },
+        {
+            "id": 1873,
+            "name": "기후경제학",
+            "description": "본 강의는 기후환경 문제를 경제학에서 접근하기 위한 이론과 정책을 배우는 과목이다. 시장실패의 원인과 해결책, 기후환경정책의 설계와 집행, 정책의 평가, 국제무역 및 전지구적 대응 노력 등에 대해 다루도록 한다.",
+            "curriculum": "강의소개 및 도입YUMMI수요, 공급 및 시장의 균형YUMMI시장실패YUMMI환경정책의 평가기준YUMMI직접규제YUMMI배출부과금과 보조금YUMMI배출권거래제YUMMI중간고사YUMMI불확실한 정보와 비대칭적 정보 하의 오염규제YUMMI환경정책과 소득분배YUMMI비용-편익분석YUMMI편익분석을 위한 기본이론YUMMI환경개선의 편익분석: 시장적 방법과 회피행위모형YUMMI환경개선의 편익분석: 휴양수요분석법과 특성가격법YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "기후경제학 본 강의는 기후환경 문제를 경제학에서 접근하기 위한 이론과 정책을 배우는 과목이다. 시장실패의 원인과 해결책, 기후환경정책의 설계와 집행, 정책의 평가, 국제무역 및 전지구적 대응 노력 등에 대해 다루도록 한다.",
+            "similarity": 0.2656922341597645
+        },
+        {
+            "id": 1744,
+            "name": "대수학특강",
+            "description": "1) We can review the basics of Linear Algebra (matrices and vector spaces) and Ring Theory with an emphasis on Commutative Rings.\n2) We briefly introduce a kind of linear algebra over a ring, so called the Module Theory, and if time permits, we want to study one application of the linear algebra to coding theory.\n(It is possible that it might be slower than expected if needed (depending on the students' familiarity with reviewing concepts), but we would like to at least introduce the concept of Modules over rings.)\nIn particular, we will try to go over Chapters 1, 3, 4, 5, 11, 14 of Artin's book, and Chapters 1 and 2 of Atiyah's book. If possible, we want to study a bit of coding theory, too.",
+            "curriculum": "Orientation and MatricesYUMMIMatricesYUMMIMatricesYUMMIVector spaces and Linear operatorsYUMMIVector spaces and Linear operatorsYUMMIVector spaces and Linear operatorsYUMMIMidterm exam, Linear operators and Applications of linear operatorsYUMMIRingsYUMMIRings and Commutative RingsYUMMICommutative RingsYUMMILinear algebra in a commutative ringYUMMILinear algebra in a commutative ringYUMMIApplication to Coding TheoryYUMMIApplication to Coding TheoryYUMMIFinal examYUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "수학과",
+            "full_text": "대수학특강 1) We can review the basics of Linear Algebra (matrices and vector spaces) and Ring Theory with an emphasis on Commutative Rings.\n2) We briefly introduce a kind of linear algebra over a ring, so called the Module Theory, and if time permits, we want to study one application of the linear algebra to coding theory.\n(It is possible that it might be slower than expected if needed (depending on the students' familiarity with reviewing concepts), but we would like to at least introduce the concept of Modules over rings.)\nIn particular, we will try to go over Chapters 1, 3, 4, 5, 11, 14 of Artin's book, and Chapters 1 and 2 of Atiyah's book. If possible, we want to study a bit of coding theory, too.",
+            "similarity": 0.2621348333264006
+        },
+        {
+            "id": 3096,
+            "name": "금융수학",
+            "description": "금융과 관련된 수학이론을 공부한다. 구체적으로 보면 이자 또는 보험을 비롯하여, 은행관련 상품, 투자관련 상품, 파생상품에 이르기까지 부의 성장에 관련된 가치의 흐름에 대한 이론을 공부하게된다.",
+            "curriculum": "금융 수학 소개, 미분 이야기YUMMI미분과 편미분이야기YUMMI테일러급수 전개YUMMI적분과 무한적분의 이야기YUMMI미분방정식의 해YUMMI푸리에 급수 전개YUMMI잘아는 편미분방정식의 해. 3가지 타입YUMMI중간고사YUMMI열전도방정식의 해YUMMI주가변동의 불가사의, 브라운 운동YUMMI위너과정, 이토과정YUMMI이토과정, 이토렘마YUMMI블랙숄즈의 편미분방정식YUMMI블랙숄즈의 편미분방정식의 해법YUMMI위너과정, 이토과정, 기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "수학과",
+            "full_text": "금융수학 금융과 관련된 수학이론을 공부한다. 구체적으로 보면 이자 또는 보험을 비롯하여, 은행관련 상품, 투자관련 상품, 파생상품에 이르기까지 부의 성장에 관련된 가치의 흐름에 대한 이론을 공부하게된다.",
+            "similarity": 0.6290198452420492
+        },
+        {
+            "id": 4455,
+            "name": "기계학습을위한수학",
+            "description": "1) We can review the basics of Linear Algebra (matrices and vector spaces) and basic Probablility Theory (if possible) to be prepared for studying machine learning.\n(It is possible that it might be slower than expected if needed (depending on the students' familiarity with reviewing concepts), but we would like to at least talk about basic probability theory.)\nIn particular, we will try to go over Chapters 2, 3, 4, and 6 of our textbook. ",
+            "curriculum": "Orientation and Systems of Linear Equations, MatricesYUMMISolving Systems of Linear Equations, Vector SpacesYUMMILinear Independence, Basis and RankYUMMILinear MappingsYUMMINorms, Inner Products, Lengths and DistancesYUMMIAngles and Orthogonality, Orthonormal Basis, Orthogonal ComplementYUMMIOrthogonal Projections, RotationsYUMMIMidterm examYUMMIDeterminant and Trace, Eigenvalues and EigenvectorsYUMMICholesky Decomposition, Eigendecomposition and Diagonalization, Singular Value DecompositionYUMMIMatrix Approximation, Construction of a Probability SpaceYUMMIDiscrete and Continuous Probabilities, Sum Rule, Product Rule, and Bayes's TheoremYUMMISummary Statistics and Independence, Gaussian DistributionYUMMIConjugacy and the Exponential Family, Change of Variables, and Inverse TransformYUMMIFinal examYUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "수학과",
+            "full_text": "기계학습을위한수학 1) We can review the basics of Linear Algebra (matrices and vector spaces) and basic Probablility Theory (if possible) to be prepared for studying machine learning.\n(It is possible that it might be slower than expected if needed (depending on the students' familiarity with reviewing concepts), but we would like to at least talk about basic probability theory.)\nIn particular, we will try to go over Chapters 2, 3, 4, and 6 of our textbook. ",
+            "similarity": 0.3495327072161924
+        },
+        {
+            "id": 4897,
+            "name": "인사관리경제학",
+            "description": "This class is about the economics of incentives and information, with all of its motivation, examples and applications taken from \nthe  employment  relationships.          ",
+            "curriculum": "IntroductionYUMMIOptimizationYUMMITraditional Labor Market AnalysisYUMMICompensation and MotivationYUMMIPiece RatesYUMMIProblems with Piece ratesYUMMIMotivating multiple typesYUMMIGame theory YUMMITournaments YUMMIEfficiency Wages and Team Incentives  YUMMIComparison of Incentive SchemesYUMMIExecutive Compensation  and performance EvaluationYUMMIAdverse Selection and SignallingYUMMISearch and BargainingYUMMITraining and Benefit,  Final Exam YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "인사관리경제학 This class is about the economics of incentives and information, with all of its motivation, examples and applications taken from \nthe  employment  relationships.          ",
+            "similarity": 0.29678197945702406
+        },
+        {
+            "id": 3394,
+            "name": "문화경제학",
+            "description": "1. 개인효용의 서수적 비교만으로 상대가격에 반응하는 개인의 효용극대화 문제를 풀어왔던 신(新)고전파경제학 미시적 분석의 근간을 흔드는 변화를 가져온, 가히 혁명적인 발상의 전환이 바로 문화경제학이다. \n2. 예술 활동에 관한 경제학적 분석, 한국의 문화산업 현황 분석, 문화산업 진흥을 위한 정책과 효율적인 문화경영관리 조직을 제시한다,\n3. 국내외 문화산업의 전망을 제시하고 있어 문화의 세기, 국내 문화예술 정책을 점검하고 앞으로의 진흥 방향을 논의할 것이다. \n4. 경제성과 예술성을 접목시킨 공연예술의 현황과 진흥방향, 국내 미술시장, 유형문화재의 경제적 가치와 문화재 보존을 위한 정부의 정책, 예술에 대한 정부와 기업의 지원 현황에 대해 국내외 실제 사례와 함께 알아보고자 한다.",
+            "curriculum": "강의소개 및 총론YUMMI미술품에 대한 수요와 공급YUMMI경매와 미술시장YUMMI문화유산의 경제학YUMMI박물관 및 미술관 운영의 경제학YUMMI공연예술의 경제학YUMMI디지털혁명과 문화산업의 변화YUMMI중  간  고  사\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI문화산업과 지적재산권YUMMI문화산업의 특성과 현황YUMMI영화산업YUMMI음악산업YUMMI방송산업YUMMI문화와 국가 : 경제성장과 창의도시 / 문화정책론YUMMI기 말 고 사\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "문화경제학 1. 개인효용의 서수적 비교만으로 상대가격에 반응하는 개인의 효용극대화 문제를 풀어왔던 신(新)고전파경제학 미시적 분석의 근간을 흔드는 변화를 가져온, 가히 혁명적인 발상의 전환이 바로 문화경제학이다. \n2. 예술 활동에 관한 경제학적 분석, 한국의 문화산업 현황 분석, 문화산업 진흥을 위한 정책과 효율적인 문화경영관리 조직을 제시한다,\n3. 국내외 문화산업의 전망을 제시하고 있어 문화의 세기, 국내 문화예술 정책을 점검하고 앞으로의 진흥 방향을 논의할 것이다. \n4. 경제성과 예술성을 접목시킨 공연예술의 현황과 진흥방향, 국내 미술시장, 유형문화재의 경제적 가치와 문화재 보존을 위한 정부의 정책, 예술에 대한 정부와 기업의 지원 현황에 대해 국내외 실제 사례와 함께 알아보고자 한다.",
+            "similarity": 0.2597220220103964
+        },
+        {
+            "id": 4427,
+            "name": "게임과협상전략",
+            "description": "비협조 게임이론은 행위자들의 선택이 서로의 이해관계에 영향을 미칠 수 있는 상황에서, 합리적인 행위자들의 의사결정을 분석하고, 그 결과를 예측하는 학문이다. 경제학은 정치학, 생물학, 컴퓨터공학 등과 함께 게임이론이 널리 응용되는 분야이다. 이 수업의 목표는 비협조 게임이론의 기초와 비협조 게임이론이 경제현상 분석에 응용되는 대표적인 사례들을 학습하는 것이다.",
+            "curriculum": "강의 소개, 게임이론이란?YUMMI정보가 완전한 정태적 게임 1YUMMI정보가 완전한 정태적 게임 2YUMMI정보가 완전한 정태적 게임 3YUMMI정보가 완전한 정태적 게임 4YUMMI정보가 완전한 동태적 게임 1YUMMI정보가 완전한 동태적 게임 2YUMMI중간고사YUMMI정보가 완전한 동태적 게임 3YUMMI정보가 불완전한 정태적 게임 1YUMMI정보가 불완전한 정태적 게임 2YUMMI정보가 불완전한 동태적 게임 1YUMMI정보가 불완전한 동태적 게임 2YUMMI정보가 불완전한 동태적 게임 3YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "게임과협상전략 비협조 게임이론은 행위자들의 선택이 서로의 이해관계에 영향을 미칠 수 있는 상황에서, 합리적인 행위자들의 의사결정을 분석하고, 그 결과를 예측하는 학문이다. 경제학은 정치학, 생물학, 컴퓨터공학 등과 함께 게임이론이 널리 응용되는 분야이다. 이 수업의 목표는 비협조 게임이론의 기초와 비협조 게임이론이 경제현상 분석에 응용되는 대표적인 사례들을 학습하는 것이다.",
+            "similarity": 0.21818593253697377
+        }
+    ]
+}

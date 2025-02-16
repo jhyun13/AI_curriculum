@@ -1,0 +1,90 @@
+{
+    "meta_info": {
+        "user_query": "대규모 데이터를 실시간으로 분석하기 위해서는 클라우드 환경에서 최적화된 데이터 처리 시스템이 필요합니다. 선형대수와 데이터베이스 기술을 기반으로 빅데이터를 효율적으로 저장·처리하고, 머신러닝과 클라우드 컴퓨팅을 활용하여 인공지능 모델을 확장하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "대규모 데이터를 실시간으로 분석하기 위해서는 클라우드 환경에서 최적화된 데이터 처리 시스템이 필요합니다. 선형대수와 데이터베이스 기술을 기반으로 빅데이터를 효율적으로 저장·처리하고, 머신러닝과 클라우드 컴퓨팅을 활용하여 인공지능 모델을 확장하려면 어떤 학습 과정이 필요할까요? 클라우드 기반의 데이터 최적화 처리 및 인공지능 모델 확장 기술 습득 대규모 데이터 처리 및 인공지능 시스템 구축 데이터 엔지니어링 및 머신러닝 엔지니어링 데이터 엔지니어 클라우드 환경에서 데이터를 저장 및 처리하는 최적화 시스템을 설계하고 구현하며, 머신러닝 기술을 활용하여 인공지능 모델을 구축하고 확장하는 역할을 담당합니다. 대규모 데이터를 효율적으로 처리하는 시스템 설계 및 실행 머신러닝 알고리즘 적용 및 향상 클라우드 인프라 관리 및 최적화 클라우드 컴퓨팅, 빅데이터 처리 기술, 머신러닝 데이터베이스 설계 및 최적화, 선형대수, 프로그래밍 선형대수, 데이터구조, 알고리즘 클라우드 컴퓨팅, 데이터베이스 관리 시스템, 빅데이터 인프라 실시간 데이터 처리 시스템 구축, 머신러닝 모델 배포 및 관리, 클라우드 서비스 활용 및 비용 관리",
+        "given_departments": null,
+        "selected_departments": [
+            "컴퓨터인공지능학부",
+            "산업정보시스템공학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 1554,
+            "name": "논리설계",
+            "description": "해당 강의는 컴퓨터 시스템을 구성하는 디지털 회로의 기초 구성을 이해한다. 이를 바탕으로, 디지털 회로의 최적화 알고리즘, 주요 구성을 학습한다, 프로그래밍 언어를 통해 목적에 맞는 디지털 회로를 설계하는 방법을 알아본다.\n",
+            "curriculum": "Introduction: Number Systems and ConversionYUMMIBoolean Algebra\nYUMMIApplications of Boolean Algebra: Minterm/Maxterm expansions \nYUMMIKarnaugh Maps\nYUMMIQuine-McCluskey MethodYUMMIMulti-Level Gate Circuit: NAND and NOR gatesYUMMICombinatorial Circuit DesignYUMMI중간 고사YUMMIIntroduction to VHDLYUMMILatches and Flip-FlopsYUMMIRegisters and CountersYUMMIAnalysis of Clocked Sequential CircuitsYUMMIDerivation of State Graphs, Tables, DiagramYUMMISequential Logic Design, Arithmetic Operation CircuitYUMMI기말 고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "논리설계 해당 강의는 컴퓨터 시스템을 구성하는 디지털 회로의 기초 구성을 이해한다. 이를 바탕으로, 디지털 회로의 최적화 알고리즘, 주요 구성을 학습한다, 프로그래밍 언어를 통해 목적에 맞는 디지털 회로를 설계하는 방법을 알아본다.\n",
+            "similarity": 0.10459674566091964
+        },
+        {
+            "id": 4346,
+            "name": "데이터통신",
+            "description": "통신망을 이용하여 시스템간의 데이터를 주고받는 기술과 방법에 대하여 공부한다.\n\n프로토콜에 대한 기본 개념과 여러 가지 매체를 통하여 데이터를 안전하게 전달하는 기법에 대하여 배운다.\n\n배운 통신망의 물리계층과 데이터 링크 계층의 프로토콜에 대하여 개략적인 내용을 다룬다.",
+            "curriculum": "Chapter #1 Introduction\n\n분야소개 및 프로토콜과 표준 설명YUMMIChapter #2 Network Models\n\n인터넷 모델과 OSI 모델YUMMIChapter #3 Signals\n\n아날로그와 디지털 신호YUMMIChapter #4 Digital Transmission\n\n부호화, 전송모드YUMMIChapter #5 Analog Transmission\n\n아날로그 통신YUMMIChapter #6 Multiplexing\n\n아날로그와 디지털 신호의 다중화 방식YUMMIChapter #7 Transmission Media\n\n유선, 무선 전송 매체YUMMI중간시험YUMMIChapter #8 Circuit Switching and Telephone Network\n\n회선 교환과 전화망YUMMIChapter #9 High-Speed Digital Access\n\nxDSL, 케이블 모델, SONETYUMMIChapter #10 Error Detection and Correction\n\n오류 검출과 오류 정정YUMMIChapter #11 Data Link control and Protocols\n\n데이터링크 제어와 관련 프로토콜YUMMIChapter #12 Point-to Point\n\nPPPYUMMIChapter #13 Multiple Acess\n\n다중접속 : CSMA/CD, CSMA/CA, CDMAYUMMIChapter #14 Local Area Networks\n근거리 통신망 : 이더넷, 무선랜(802.11) 및 기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "데이터통신 통신망을 이용하여 시스템간의 데이터를 주고받는 기술과 방법에 대하여 공부한다.\n\n프로토콜에 대한 기본 개념과 여러 가지 매체를 통하여 데이터를 안전하게 전달하는 기법에 대하여 배운다.\n\n배운 통신망의 물리계층과 데이터 링크 계층의 프로토콜에 대하여 개략적인 내용을 다룬다.",
+            "similarity": 0.11429538266653515
+        },
+        {
+            "id": 1183,
+            "name": "데이터베이스",
+            "description": "- 데이터를 저장하고 검색하기 위한 기본적인 시스템으로 널리 활용되고 데이터베이스 시스템에 대한 기본 개념과 데이터베이스를 운영하는 데이터베이스 관리시스템(DBMS), 데이터베이스 모델링, 데이터베이스 질의어 등을 학습한다. 또한, 데이터베이스 관리시스템(DBMS)의 핵심 이론인 트랜잭션 관리와 동시성 제어 및 회복 기법에 관해서 학습한다. \n- 본 과목은 데이터베이스를 개념적 관점과 물리적 관점에서 설명하고, 데이터베이스를 운영하는 DBMS, 데이터 모델링, 질의어 등을 교육한다. \n- 구체적인 내용으로는 데이터베이스 구조, 데이터 모델링, 관계 데이터 모델, SQL 등이 있다. 또한, DBMS의 동작 메카니즘을 트랜잭션, 동시성 제어, 회복에 대해 이론적 기반을 교육한다.\n- 정보처리기사 자격증 취득을 위해 데이터베이스 과목의 출제유형, 기출문제 등을 매주 소수의 문제를 함께 풀어봄으로써 시험에 대비할 수 있도록 한다.",
+            "curriculum": "1. 과목 및 수업방향에 대해 이해한다.\n2. 정보처리기사 자격증 시험에서의 데이터베이스 출제경향을 알수 있다.YUMMI-데이터와 정보의 차이를 이해한다.\n-데이터베이스의 필요성을 알아본다.\n-데이터베이스의 정의에 숨겨진 의미와 주요 특징을 이해한다.\n-형태와 특성에 따른 데이터 분류 방법을 알아본다.\nYUMMI-파일 시스템의 문제점과 데이터베이스 관리 시스템의 필요성을 알아본다.\n-데이터베이스 관리 시스템의 필수 기능을 살펴본다.\n-데이터베이스 관리 시스템의 장단점을 알아본다.\n-데이터베이스 관리 시스템의 발전 과정을 살펴본다.\nYUMMI-데이터베이스, 데이터베이스 관리 시스템, -데이터베이스 시스템의 차이를 이해한다.\n-데이터베이스 시스템의 구성 요소를 살펴본다.\n-데이터베이스 3단계 구조에서 데이터 독립성의 개념을 실현하는 방법을 이해한다.\n-데이터 언어별 특징을 알아본다.\n-데이터베이스 사용자별 특징을 알아본다.\n-데이터베이스 관리 시스템의 구성을 알아본다.\nYUMMI-데이터 모델링과 데이터 모델의 개념을 이해한다.\n-개념적 데이터 모델인 개체-관계 모델을 이용해 모델링하는 방법을 익힌다.\n-개체-관계 다이어그램을 작성하는 방법을 익힌다.\n-논리적 데이터 모델의 종류와 특징을 이해한다.\nYUMMI-관계 데이터 모델의 기본 용어를 익힌다.\n-릴레이션을 구성하는 요소와 특성을 이해한다.\n-릴레이션에서 키의 역할과 종류를 알아본다.\n-무결성 제약의 의미와 필요성을 이해한다.YUMMI-관계 데이터 연산의 개념과 종류를 알아본다.\n-일반 집합 연산자와 순수 관계 연산자의 차이를 이해한다.\n-일반 집합 연산자와 순수 관계 연산자를 이용해 질의를 표현하는 방법을 익힌다.\n-관계 해석의 개념을 간단히 정리해본다.\nYUMMI중간고사YUMMI-SQL의 역할을 이해하고, 이를 기능별로 분류해본다.\n-SQL의 데이터 정의 기능을 예제를 통해 익힌다.\nYUMMI-SQL의 데이터 조작 기능을 예제를 통해 익힌다.\n-뷰의 개념과 장점을 이해한다.\n-삽입 SQL의 역할을 이해한다.YUMMI-데이터베이스 설계의 중요성과 목표를 이해한다.\n-데이터베이스 설계 5단계를 학습한다.\n-요구사항 분석, 개념적 설계, 논리적 설계의 과정을 실제 예를 통해 연습해본다.\nYUMMI-정규화의 필요성과 이상 현상의 의미를 이해한다.\n-정규화를 수행하기 위해 함수 종속성의 개념을 이해한다.\n-정규형의 유형과 관계를 이해하고, 실제 예를 통해 정규화 과정을 연습해본다.\nYUMMI-병행 제어와 회복 작업의 기본 단위인 트랜잭션의 개념을 이해한다.\n-데이터베이스를 장애로부터 복구하는 다양한 회복 기법을 익힌다.\n-여러 사용자가 동시에 접근할 수 있도록 트랜잭션 수행을 통제하는 병행 제어 기법을 익힌다.\nYUMMI-데이터베이스 보안의 개념과 유형을 이해한다.\n-권한을 부여하고 부여한 권한을 취소하는 방법을 익힌다.\n-역할의 개념과 필요성을 이해한다.\n-역할을 이용해 권한 관리를 수행하는 방법을 익힌다.YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "데이터베이스 - 데이터를 저장하고 검색하기 위한 기본적인 시스템으로 널리 활용되고 데이터베이스 시스템에 대한 기본 개념과 데이터베이스를 운영하는 데이터베이스 관리시스템(DBMS), 데이터베이스 모델링, 데이터베이스 질의어 등을 학습한다. 또한, 데이터베이스 관리시스템(DBMS)의 핵심 이론인 트랜잭션 관리와 동시성 제어 및 회복 기법에 관해서 학습한다. \n- 본 과목은 데이터베이스를 개념적 관점과 물리적 관점에서 설명하고, 데이터베이스를 운영하는 DBMS, 데이터 모델링, 질의어 등을 교육한다. \n- 구체적인 내용으로는 데이터베이스 구조, 데이터 모델링, 관계 데이터 모델, SQL 등이 있다. 또한, DBMS의 동작 메카니즘을 트랜잭션, 동시성 제어, 회복에 대해 이론적 기반을 교육한다.\n- 정보처리기사 자격증 취득을 위해 데이터베이스 과목의 출제유형, 기출문제 등을 매주 소수의 문제를 함께 풀어봄으로써 시험에 대비할 수 있도록 한다.",
+            "similarity": 0.2260042479258613
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "description": " 본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "curriculum": "Introduction & problem-solving by searchingYUMMIProblem-solving: Uninformed/Informed Search, Advanced searchYUMMIProblem-solving: Adversarial Search, Constraint satisfaction problemYUMMISymbolic AI: First order logicYUMMISymbolic AI: Inference in FOLYUMMIMachine Learning: Linear classification, logistic regressionYUMMIMidtermYUMMIMachine Learning: Deep learning basics - Feedforward neural networks, Backpropagation, Convolutional networksYUMMIProbabilistic reasonsing: Bayesian networks & InferenceYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIReinforcement learning: Monte carlo learning/Termporal difference learningYUMMIReinforcement learning: Policy gradient methods, Deep Q networksYUMMIGame theory, evolutionary computation, & AI YUMMIFinaltermYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인공지능  본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "similarity": 0.10380013628230247
+        },
+        {
+            "id": 3035,
+            "name": "실험계획법",
+            "description": "실험의 계획과 데이터 처리방법에 대해 논의한다. 주로 이론적인 내용에 치중하며, 데이터 처리를 위해 MINITAB 소프트웨어를 활용한다. 주요논제는 일원배치법, 이원배치법, 삼원배치법, 요인실험, 교락법, 일부실시법 등이다.",
+            "curriculum": "실험계획의 개념YUMMI일원배치법1YUMMI일원배치법2YUMMI반복이 없는 이원배치법YUMMI반복이 있는 이원배치법YUMMI다원배치법YUMMI분할법YUMMI라틴방격법YUMMI중간시험YUMMI요인배치법YUMMI교락법YUMMI일부실시법YUMMI직교배열표에 의한 실험계획 1YUMMI직교배열표에 의한 실험계획 2YUMMI기말시험YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "full_text": "실험계획법 실험의 계획과 데이터 처리방법에 대해 논의한다. 주로 이론적인 내용에 치중하며, 데이터 처리를 위해 MINITAB 소프트웨어를 활용한다. 주요논제는 일원배치법, 이원배치법, 삼원배치법, 요인실험, 교락법, 일부실시법 등이다.",
+            "similarity": 0.12958322799336427
+        },
+        {
+            "id": 405,
+            "name": "빅데이터분석과응용",
+            "description": "4차 산업혁명, 데이터 과학, 빅데이터의 관계를 이해하고 빅데이터 분석에 적용할 데이터 과학 방법론을 배웁니다. ",
+            "curriculum": "강좌소개,  1장. 4차 산업혁명과 데이터 과학YUMMI빅데이터분석 이해\n2장. 빅데이터의 이해와 활용YUMMI빅데이터분석 이해\n3장. 데이터 과학 기반의 빅데이터 분석YUMMI빅데이터분석 준비\n4장. 파이썬 프로그래밍 기초YUMMI빅데이터분석 준비\n5장. 파이썬 크롤링 – API 이용 (공공데이터)YUMMI빅데이터분석 준비\n6장. 파이썬 크롤링 – 라이브러리 이용 (정적, 동적)YUMMI빅데이터분석 기본 프로젝트\n7장. 통계 분석 (기술통계+그래프, 상관분석+히트맵)YUMMI중간시험YUMMI빅데이터분석 기본 프로젝트\n8장. 텍스트 빈도 분석 (영문분석+워드클라우드, 한글분석+워드클라우드)YUMMI빅데이터분석 기본 프로젝트\n9장. 지리 정보 분석 (주소데이터 분석+지오맵, 행정구역별 데이터 분석+블록맵)YUMMI빅데이터분석 머신러닝 프로젝트\n10장. 회귀분석 (선형 회귀분석+산점도, 그래프, 회귀분석+산점도, 그래프)\n텀프로젝트 1차 제안서YUMMI빅데이터분석 머신러닝 프로젝트\n11장. 분류분석 (로지스틱 회귀분석, 결정트리분석)YUMMI빅데이터분석 머신러닝 프로젝트\n12장. 군집분석 (k-평균 군집화 분석 + 그래프)\n텀프로젝트 2차 중간보고서YUMMI빅데이터분석 머신러닝 프로젝트\n13장. 텍스트 마이닝 (감성분석 + 토픽 모델링)YUMMI기말시험 및 평가\n텀프로젝트 3차 최종 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "full_text": "빅데이터분석과응용 4차 산업혁명, 데이터 과학, 빅데이터의 관계를 이해하고 빅데이터 분석에 적용할 데이터 과학 방법론을 배웁니다. ",
+            "similarity": 0.17089372655489693
+        },
+        {
+            "id": 251,
+            "name": "데이터마이닝",
+            "description": "본 교과목 과정에서 학생들은 데이터마이닝 기법을 사용하여 다양한 데이터셋으로부터 검색 및 지식 발견 기술을 통해 기업의 경쟁 우위를 창출하는 방법을 이해하게 된다. 특히 데이터 마이닝을 위한 주요 알고리즘 및 이론(유사 아이템 검색, 빈발 패턴 검색, 링크 분석, 데이터 스트림 마이닝, 클러스터링, 그래프 마이닝 등)을 배우게 된다.",
+            "curriculum": "강의소개 및 지식발견 프로세스 기초YUMMI데이터 전처리YUMMI데이터 전처리YUMMI유사 아이템 검색YUMMI빈발 패턴 검색YUMMI데이터 스트림 마이닝YUMMI텀프로젝트 제안서 발표YUMMI중간 시험YUMMI링크분석YUMMI그래프 마이닝YUMMI그래프 마이닝YUMMI비지도학습 - 클러스터링YUMMI비지도학습 - 클러스터링YUMMI텀프로젝트 발표YUMMI기말 시험YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "full_text": "데이터마이닝 본 교과목 과정에서 학생들은 데이터마이닝 기법을 사용하여 다양한 데이터셋으로부터 검색 및 지식 발견 기술을 통해 기업의 경쟁 우위를 창출하는 방법을 이해하게 된다. 특히 데이터 마이닝을 위한 주요 알고리즘 및 이론(유사 아이템 검색, 빈발 패턴 검색, 링크 분석, 데이터 스트림 마이닝, 클러스터링, 그래프 마이닝 등)을 배우게 된다.",
+            "similarity": 0.11164666490112395
+        }
+    ]
+}

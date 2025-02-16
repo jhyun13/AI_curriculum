@@ -1,0 +1,162 @@
+{
+    "meta_info": {
+        "user_query": "프랑스어권 국가들은 국제 경제에서 점점 더 중요한 역할을 하고 있습니다. 이러한 국가들과의 무역 및 투자 기회를 분석하고, 효과적인 진출 전략을 수립하기 위해 어떤 학습이 필요할까요?",
+        "expanded_query": "프랑스어권 국가들은 국제 경제에서 점점 더 중요한 역할을 하고 있습니다. 이러한 국가들과의 무역 및 투자 기회를 분석하고, 효과적인 진출 전략을 수립하기 위해 어떤 학습이 필요할까요? 국제 경제 및 무역 전략에 대한 이해 프랑스어권 국가와의 무역 및 투자 전문 분석가 국제 비즈니스 및 경제 분석 프랑스어권 국가들과의 무역 및 투자 기회를 분석하고 효과적인 진출 전략을 수립하여 기업의 해외 시장 진출을 지원하는 전문 분석가. 국제 시장 분석, 프랑스어권 경제 동향 연구, 투자 기회 식별 및 전략 수립 국제 경제 분석, 무역 및 투자 전략, 프랑스어 사용 능력 커뮤니케이션, 문화적 이해 국제 경제학, 무역 이론, 시장 분석 기법 프랑스어권 국가의 경제 정책 및 규제, 투자 전략 국제 무역 협상, 다문화 커뮤니케이션",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.10987049198574185
+        },
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.25223843349061703
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.13216847495975184
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.11802885098323537
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10821282801531326
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.1841310434287726
+        },
+        {
+            "id": 841,
+            "name": "한일무역실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.11509006998474022
+        },
+        {
+            "id": 2423,
+            "name": "산업조직론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.10726851963445119
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.13901175784055986
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.26515088180464536
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.17972879725231777
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.16558487438671837
+        },
+        {
+            "id": 1061,
+            "name": "미디어경제경영론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.12054938570165914
+        },
+        {
+            "id": 551,
+            "name": "식물보호곤충학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "농생물학과",
+            "similarity": 0.11701921065483595
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.5211446239937939
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.2726569923895877
+        },
+        {
+            "id": 3707,
+            "name": "중국어통번역실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "중어중문학과",
+            "similarity": 0.11468635483719788
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10155839992950777
+        },
+        {
+            "id": 2650,
+            "name": "해외지역연구연습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.10030043617874601
+        }
+    ]
+}

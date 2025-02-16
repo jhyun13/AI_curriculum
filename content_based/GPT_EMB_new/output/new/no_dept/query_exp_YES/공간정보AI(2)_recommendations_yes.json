@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "컴퓨터 그래픽스와 3D 공간 설계를 배우고, 이를 활용해 도시 시뮬레이션을 구축하는 방법을 익히고 싶어요. 어떤 학습 과정을 거쳐야 할까요?",
+        "expanded_query": "컴퓨터 그래픽스와 3D 공간 설계를 배우고, 이를 활용해 도시 시뮬레이션을 구축하는 방법을 익히고 싶어요. 컴퓨터 그래픽스 및 3D 공간 설계와 도시 시뮬레이션 구축 기술 습득 도시 시뮬레이션 개발 전문가 가상 현실 및 시뮬레이션 개발 도시 시뮬레이션 개발자 컴퓨터 그래픽스와 3D 공간 설계 기술을 활용하여 도시 환경 및 시뮬레이션을 설계하고 구현하는 전문가로, 도시 계획과 설계에 관한 데이터를 현실감 있게 시뮬레이션하여 결과를 예측하거나 테스트하는 역할을 수행합니다. 도시 시뮬레이션 설계 및 개발 시뮬레이션 환경 생성 및 테스트 그래픽 렌더링을 통한 시각화 도시 계획 및 설계 자료의 분석 및 적용 3D 모델링 및 렌더링 컴퓨터 그래픽스 프로그래밍 시뮬레이션 소프트웨어 사용 및 개발  CAD 및 기타 3D 설계 도구 사용 과학적 컴퓨팅 및 데이터 분석 컴퓨터 그래픽스 이론 및 알고리즘 3D 공간 모델링/렌더링 기법  도시 계획 및 설계 원리 시뮬레이션 소프트웨어 개발 시뮬레이션 및 가상 현실 플랫폼 활용  프로젝트 관리 및 멀티 플랫폼 개발 기술",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1641,
+            "name": "컴퓨터그래픽스기초",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.46235001202816145
+        },
+        {
+            "id": 757,
+            "name": "컴퓨터응용제도및설계",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.4358455455425734
+        },
+        {
+            "id": 1215,
+            "name": "디지털건축 1",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "한옥학과",
+            "similarity": 0.40007322400570133
+        },
+        {
+            "id": 1839,
+            "name": "조경제도및표현기법",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.39745465760174586
+        },
+        {
+            "id": 157,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "전기공학과",
+            "similarity": 0.35193197084824945
+        },
+        {
+            "id": 3461,
+            "name": "CAD및컴퓨터그래픽기초",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.455115245061448
+        },
+        {
+            "id": 2871,
+            "name": "디지털건축표현",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "건축공학과",
+            "similarity": 0.4341433474944382
+        },
+        {
+            "id": 3687,
+            "name": "지형분석및디자인",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생태조경디자인학과",
+            "similarity": 0.43207768047352246
+        },
+        {
+            "id": 4696,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.4232965418498709
+        },
+        {
+            "id": 3830,
+            "name": "멀티미디어와조경 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생태조경디자인학과",
+            "similarity": 0.40934882008113976
+        },
+        {
+            "id": 1914,
+            "name": "도시공간조사분석론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.48632530709437916
+        },
+        {
+            "id": 2349,
+            "name": "산림전산설계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산림환경과학과",
+            "similarity": 0.4809903045201793
+        },
+        {
+            "id": 397,
+            "name": "디지털공간디자인 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "주거환경학과",
+            "similarity": 0.4618906794971228
+        },
+        {
+            "id": 1573,
+            "name": "멀티미디어와조경 2",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생태조경디자인학과",
+            "similarity": 0.4566778802554964
+        },
+        {
+            "id": 966,
+            "name": "CAD와주거공간계획실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "주거환경학과",
+            "similarity": 0.4478857691115738
+        },
+        {
+            "id": 3572,
+            "name": "디지털공간디자인 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "주거환경학과",
+            "similarity": 0.499738070905241
+        },
+        {
+            "id": 4470,
+            "name": "도시계획사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.4266654260847729
+        },
+        {
+            "id": 4046,
+            "name": "토지이용계획",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.4194576660371552
+        },
+        {
+            "id": 4139,
+            "name": "디지털표현기술",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "건축공학과",
+            "similarity": 0.4123052850730283
+        },
+        {
+            "id": 3118,
+            "name": "생태조경구조분석학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생태조경디자인학과",
+            "similarity": 0.411640022708761
+        },
+        {
+            "id": 1720,
+            "name": "CAD및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "기계설계공학부",
+            "similarity": 0.4664081108478475
+        },
+        {
+            "id": 698,
+            "name": "CATIA및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.4549732292832331
+        },
+        {
+            "id": 1842,
+            "name": "시스템시뮬레이션",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.4479426921543876
+        },
+        {
+            "id": 1192,
+            "name": "도시개발론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.4388698871663429
+        },
+        {
+            "id": 1702,
+            "name": "도시종합설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.4347373853354723
+        },
+        {
+            "id": 4541,
+            "name": "컴퓨터그래픽스",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.5087981833475478
+        },
+        {
+            "id": 3871,
+            "name": "도시관계법규",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.44566713210791925
+        },
+        {
+            "id": 3243,
+            "name": "3D설계기법및실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4407706694962027
+        },
+        {
+            "id": 4131,
+            "name": "인공지능물리탐사",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(자원에너지공학)",
+            "similarity": 0.44041132105442526
+        },
+        {
+            "id": 2709,
+            "name": "도시계획실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.43067363219003385
+        },
+        {
+            "id": 2177,
+            "name": "공간정보캡스톤디자인",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.5294856733095145
+        },
+        {
+            "id": 2293,
+            "name": "현장실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.46833888061158807
+        },
+        {
+            "id": 84,
+            "name": "게임및혼합현실",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.45837742198354847
+        },
+        {
+            "id": 1647,
+            "name": "공간관리및스마트도시정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.4437661524494801
+        },
+        {
+            "id": 2056,
+            "name": "교통계획실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.4392791648153669
+        },
+        {
+            "id": 3333,
+            "name": "도시부동산학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.4443064580873868
+        },
+        {
+            "id": 3759,
+            "name": "창의적공학설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.38777915809748004
+        },
+        {
+            "id": 2898,
+            "name": "소프트웨어아키텍처이론과실제",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.38611457001886895
+        },
+        {
+            "id": 3203,
+            "name": "멀티미디어시스템",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.3773049758021696
+        },
+        {
+            "id": 3379,
+            "name": "산학실전캡스톤 3",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3702014965199888
+        }
+    ]
+}

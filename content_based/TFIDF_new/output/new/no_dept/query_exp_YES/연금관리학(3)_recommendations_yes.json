@@ -1,0 +1,138 @@
+{
+    "meta_info": {
+        "user_query": "공공 정책이 실질적인 사회적 영향을 가지려면 재정적 지속 가능성과 정책 기획이 필수적입니다. 복지 정책, 공공 예산 운영, 조직 혁신을 함께 연구하며 실무에서 활용할 수 있도록 학습하려면 어떤 과정이 필요할까요?",
+        "expanded_query": "공공 정책이 실질적인 사회적 영향을 가지려면 재정적 지속 가능성과 정책 기획이 필수적입니다. 복지 정책, 공공 예산 운영, 조직 혁신을 함께 연구하며 실무에서 활용할 수 있도록 학습하려면 어떤 과정이 필요할까요? 공공 정책 및 예산 관리 능력의 향상 공공 정책 분석가 공공 행정 및 정책 공공 정책 분석가 공공 정책 분석가는 정부 또는 관련 기관에서 공공정책의 설계, 실행 및 평가 과정을 분석하여 정책의 실질적 영향을 평가하고, 재정적 지속 가능성을 고려한 대안을 제시하는 역할을 담당합니다. 정책 기획 및 분석, 정책 실행 결과의 평가, 예산 계획 및 관리, 조직 혁신 전략 수립 공공 정책 기획, 예산 관리, 조직 혁신 방법론 데이터 분석, 정책 평가, 재정 계획 공공 정책 이론, 재정 관리 원칙, 기획 및 평가 방법론 사회적 영향 분석, 복지 정책 개발, 공공 예산 운영 데이터 분석 도구 활용, 예산 소프트웨어 사용, 정책 시행 전략",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2723,
+            "name": "도서관정보센타경영론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.11321715998531942
+        },
+        {
+            "id": 175,
+            "name": "농촌관광학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "지역건설공학과",
+            "similarity": 0.1584866217159152
+        },
+        {
+            "id": 1931,
+            "name": "건강가정론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "아동학과",
+            "similarity": 0.14122422118452027
+        },
+        {
+            "id": 2444,
+            "name": "정신건강론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.12982437251890397
+        },
+        {
+            "id": 4536,
+            "name": "재무행정론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.30955465767877854
+        },
+        {
+            "id": 4769,
+            "name": "화폐금융이론및정책",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.16242282250613396
+        },
+        {
+            "id": 3495,
+            "name": "인사행정론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.13022019491493686
+        },
+        {
+            "id": 2165,
+            "name": "공공도서관경영",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.24410493101255215
+        },
+        {
+            "id": 1746,
+            "name": "도시및지역경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.20883128313314306
+        },
+        {
+            "id": 1953,
+            "name": "사회복지자료분석론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.11664854844331422
+        },
+        {
+            "id": 372,
+            "name": "현대한국의과학발전",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "과학학과",
+            "similarity": 0.11221692667035238
+        },
+        {
+            "id": 2281,
+            "name": "선진농촌사례연구",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생명자원융합학과",
+            "similarity": 0.1060071918621339
+        },
+        {
+            "id": 2819,
+            "name": "소프트웨어공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.1136630003827902
+        },
+        {
+            "id": 3876,
+            "name": "자연자원관리론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.3009373952105104
+        },
+        {
+            "id": 3394,
+            "name": "문화경제학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.12576381124988392
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10310709783433684
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "meta_info": {
+        "user_query": "국제 금융 시장에서 환율 변동성과 주요 경제 지표를 분석하여 글로벌 경제 흐름을 예측하는 일이 중요해지고 있어요. 이러한 분석을 기반으로 인사이트를 제공하는 글로벌 경제 애널리스트가 되고 싶어요. 이를 위해 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.21638558819997666
+        },
+        {
+            "id": 2469,
+            "name": "사회보장론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.1310459424006405
+        },
+        {
+            "id": 2383,
+            "name": "농식품연관산업론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.12141791831143463
+        },
+        {
+            "id": 928,
+            "name": "감각과지각",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "심리학과",
+            "similarity": 0.10764647339858405
+        },
+        {
+            "id": 2565,
+            "name": "중국사회경제사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.18223703856142012
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.17195086281411387
+        },
+        {
+            "id": 3474,
+            "name": "조선시대사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.150334662168125
+        },
+        {
+            "id": 4396,
+            "name": "식물병리학및실험",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "농생물학과",
+            "similarity": 0.12251092617339752
+        },
+        {
+            "id": 4601,
+            "name": "무역계약론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1080101739297746
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.16331811118187106
+        },
+        {
+            "id": 1505,
+            "name": "빅데이터경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.13298786931291315
+        },
+        {
+            "id": 2127,
+            "name": "중국현대소설과영화",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "중어중문학과",
+            "similarity": 0.11371315336692853
+        },
+        {
+            "id": 1702,
+            "name": "도시종합설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.10284744925765292
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.18881047583822344
+        },
+        {
+            "id": 3953,
+            "name": "사회적경제론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.1780048065786463
+        },
+        {
+            "id": 3576,
+            "name": "국제물류론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1407488339202125
+        },
+        {
+            "id": 2500,
+            "name": "제어공학 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.10349714338896822
+        },
+        {
+            "id": 1061,
+            "name": "미디어경제경영론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.20428824343497443
+        },
+        {
+            "id": 1070,
+            "name": "남미의이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.14437782752352651
+        },
+        {
+            "id": 279,
+            "name": "일반사회논리및논술론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.13289728194653833
+        },
+        {
+            "id": 2335,
+            "name": "FTA와WTO법",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.12583024367529316
+        },
+        {
+            "id": 1281,
+            "name": "지방재정론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.12042720099197976
+        },
+        {
+            "id": 4941,
+            "name": "환경경영및정책",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(환경공학)",
+            "similarity": 0.1450476816490136
+        },
+        {
+            "id": 3342,
+            "name": "중국무역투자론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.12687064133714326
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.11036264917829956
+        },
+        {
+            "id": 3707,
+            "name": "중국어통번역실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "중어중문학과",
+            "similarity": 0.10747596849629919
+        }
+    ]
+}

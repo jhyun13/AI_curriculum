@@ -1,0 +1,277 @@
+{
+    "meta_info": {
+        "user_query": "금융 시장의 복잡성이 증가하면서, 수리경제학과 통계적 금융 분석을 활용한 데이터 기반 투자 전략이 주목받고 있습니다. 금융 분석, 계량경제학, 데이터 사이언스를 활용하여 금융 공학 및 투자 전략을 배우려면 어떤 과정이 필요할까요?",
+        "expanded_query": "금융 시장의 복잡성이 증가하면서, 수리경제학과 통계적 금융 분석을 활용한 데이터 기반 투자 전략이 주목받고 있습니다. 금융 분석, 계량경제학, 데이터 사이언스를 활용하여 금융 공학 및 투자 전략을 배우려면 어떤 과정이 필요할까요? 금융 공학 및 데이터 기반 투자 전략 습득 데이터 분석가 또는 금융 분석가 금융 데이터 분석 금융 데이터 분석가 금융 데이터 분석가는 금융 시장의 데이터를 수집, 처리하여 투자 전략과 시장 동향을 분석하는 역할을 수행함. 그들은 수리경제학 및 계량경제학을 통해 시장 흐름을 예측하고, 데이터 분석으로 실질적 투자 결정을 돕는다. 금융 시장 데이터 분석, 예측 모델 구축, 투자 전략 개발, 리스크 관리 금융 분석, 계량경제학, 데이터 사이언스 프로그래밍(특히 Python, R), 통계적 분석, 데이터 시각화 금융 시장 이론, 통계학 기초, 계량경제학 기초 금융 공학, 고급 계량경제학, 포트폴리오 이론  데이터 처리 및 분석 기술, 머신러닝 응용, 시장 데이터베이스 활용능력",
+        "given_departments": null,
+        "selected_departments": [
+            "경제학부",
+            "통계학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4310,
+            "name": "데이터과학프로그래밍입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.38446370751819803
+        },
+        {
+            "id": 2544,
+            "name": "통계학입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3745397621639646
+        },
+        {
+            "id": 2904,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.35082050920085833
+        },
+        {
+            "id": 1513,
+            "name": "경제통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.44266022830527535
+        },
+        {
+            "id": 1194,
+            "name": "수리경제학입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.4390323174377523
+        },
+        {
+            "id": 678,
+            "name": "선형대수학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.43839750820388224
+        },
+        {
+            "id": 909,
+            "name": "빅데이터개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.42503083314988843
+        },
+        {
+            "id": 1586,
+            "name": "R프로그래밍",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.38411546834720856
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.47506758297524987
+        },
+        {
+            "id": 3647,
+            "name": "계량경제학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.44719268928175543
+        },
+        {
+            "id": 4769,
+            "name": "화폐금융이론및정책",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.4450685765418688
+        },
+        {
+            "id": 4277,
+            "name": "수리통계학 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.428458004488908
+        },
+        {
+            "id": 4490,
+            "name": "회귀분석 1",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.36587637331211353
+        },
+        {
+            "id": 824,
+            "name": "재무경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.49354232172058354
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.4792027711950112
+        },
+        {
+            "id": 1505,
+            "name": "빅데이터경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.4664539967753306
+        },
+        {
+            "id": 649,
+            "name": "국제금융시장론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.4433733462527364
+        },
+        {
+            "id": 2105,
+            "name": "보험수리학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.37865184479695535
+        },
+        {
+            "id": 3512,
+            "name": "경제분석을위한데이터사이언스",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.46765785702376006
+        },
+        {
+            "id": 4167,
+            "name": "금융투자실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.4623906422672135
+        },
+        {
+            "id": 3089,
+            "name": "다변량자료분석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.460355458220706
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.4554684650214732
+        },
+        {
+            "id": 4383,
+            "name": "파생금융시장론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.4397474253536257
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.5992596352109711
+        },
+        {
+            "id": 989,
+            "name": "금융통계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.5491451277321381
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.4502507943757686
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.4023452182610965
+        },
+        {
+            "id": 619,
+            "name": "딥러닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.36151543218910065
+        },
+        {
+            "id": 3394,
+            "name": "문화경제학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.32332823807929834
+        },
+        {
+            "id": 4523,
+            "name": "통계세미나",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3177333641651878
+        },
+        {
+            "id": 4591,
+            "name": "텍스트마이닝",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.316477070541798
+        },
+        {
+            "id": 4897,
+            "name": "인사관리경제학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.2943061944907871
+        },
+        {
+            "id": 4427,
+            "name": "게임과협상전략",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.29187038741780974
+        }
+    ]
+}

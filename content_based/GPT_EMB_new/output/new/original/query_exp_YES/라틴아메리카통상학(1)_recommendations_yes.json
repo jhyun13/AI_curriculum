@@ -1,0 +1,277 @@
+{
+    "meta_info": {
+        "user_query": "스페인어 기반의 경제 데이터를 분석하고, 국제 무역 정책과 금융 전략을 연구하여 기업과 국가가 최적의 경제 결정을 내릴 수 있도록 하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "스페인어 기반의 경제 데이터를 분석하고, 국제 무역 정책과 금융 전략을 연구하여 기업과 국가가 최적의 경제 결정을 내릴 수 있도록 하려면 어떤 학습 과정이 필요할까요? 스페인어 기반 경제 데이터 분석 능력과 국제 경제 및 금융 전략에 대한 깊이 있는 이해. 경제 및 금융 분석 전문가로서 기업과 국가의 경제 의사결정 지원. 경제 분석 및 국제 금융. 국제 경제 분석가 국제 경제 분석가는 글로벌 경제 데이터와 무역 정책, 금융 전략을 분석하여 기업과 정부의 경제적 의사 결정을 지원한다. 스페인어로 작성된 경제 및 금융 자료 해석 국제 무역 정책 및 금융 전략 연구 스페인어 언어 능력 국제 금융 및 무역 정책 이해 경제 연구 및 보고서 작성 능력 향후 경제적 추세 예측 능력 경제학 기초 이론 (거시경제학, 미시경제학) 스페인어 언어와 문법 국제 무역 및 금융 이론 글로벌 경제 보고서 작성 및 프레젠테이션 능력",
+        "given_departments": null,
+        "selected_departments": [
+            "스페인.중남미학과",
+            "경제학부"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 2365,
+            "name": "기초스페인어 1",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.36338856888656834
+        },
+        {
+            "id": 2904,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.3748241615922895
+        },
+        {
+            "id": 4574,
+            "name": "기초스페인어 2",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.31743954515109046
+        },
+        {
+            "id": 1513,
+            "name": "경제통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.43453717407556913
+        },
+        {
+            "id": 1053,
+            "name": "경제학원론 2",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.37998152659116197
+        },
+        {
+            "id": 2190,
+            "name": "스페인어회화입문 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.37676309122928703
+        },
+        {
+            "id": 1194,
+            "name": "수리경제학입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.37419815639110543
+        },
+        {
+            "id": 2028,
+            "name": "스페인어권대중문화의이해",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.3725398402921597
+        },
+        {
+            "id": 3847,
+            "name": "국제경제학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.5020223381311228
+        },
+        {
+            "id": 4769,
+            "name": "화폐금융이론및정책",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.435398641638367
+        },
+        {
+            "id": 2913,
+            "name": "기업경제학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.4083100649269874
+        },
+        {
+            "id": 3647,
+            "name": "계량경제학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.3946683534311898
+        },
+        {
+            "id": 3068,
+            "name": "거시경제학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.3754878393958939
+        },
+        {
+            "id": 991,
+            "name": "스페인어학습및교수법",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.4729792094250587
+        },
+        {
+            "id": 824,
+            "name": "재무경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.45921477183569126
+        },
+        {
+            "id": 1505,
+            "name": "빅데이터경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.4276635534561851
+        },
+        {
+            "id": 485,
+            "name": "스페인어교육론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.41999922632418424
+        },
+        {
+            "id": 649,
+            "name": "국제금융시장론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.39229366250861675
+        },
+        {
+            "id": 3512,
+            "name": "경제분석을위한데이터사이언스",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.45679116316780966
+        },
+        {
+            "id": 3518,
+            "name": "스페인어교재연구및지도법",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.43877941310087876
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.4360680335397862
+        },
+        {
+            "id": 4327,
+            "name": "스페인어논리및논술",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.40885564882263137
+        },
+        {
+            "id": 2963,
+            "name": "환경및자원경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.3854331018146828
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.4624856144195679
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.4068605107133167
+        },
+        {
+            "id": 1873,
+            "name": "기후경제학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.378393119274547
+        },
+        {
+            "id": 2121,
+            "name": "현대한국경제론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.37771663890112084
+        },
+        {
+            "id": 2188,
+            "name": "미디어스페인어",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.3739363021773134
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.5665443829956496
+        },
+        {
+            "id": 3394,
+            "name": "문화경제학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.3892098314464715
+        },
+        {
+            "id": 4897,
+            "name": "인사관리경제학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.32671948622228375
+        },
+        {
+            "id": 3352,
+            "name": "중남미국제기구와개발협력",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.3161232992555366
+        },
+        {
+            "id": 3465,
+            "name": "중남미문화와젠더",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.301278651098802
+        }
+    ]
+}

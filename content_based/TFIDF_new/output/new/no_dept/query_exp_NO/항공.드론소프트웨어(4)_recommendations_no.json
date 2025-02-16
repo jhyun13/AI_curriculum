@@ -1,0 +1,98 @@
+{
+    "meta_info": {
+        "user_query": "AI와 항공 기술을 융합하여 드론 물류 시스템 및 자동화 항공 네트워크를 구축하는 연구를 수행하고 싶어요. 필요한 과정은 무엇인가요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1161,
+            "name": "고체역학 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.12708964719020388
+        },
+        {
+            "id": 3780,
+            "name": "동물시스템생물학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "동물생명공학과",
+            "similarity": 0.15382237571603846
+        },
+        {
+            "id": 2425,
+            "name": "동물생명정보학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "동물생명공학과",
+            "similarity": 0.11745312687121526
+        },
+        {
+            "id": 3137,
+            "name": "드론측량굴착공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(자원에너지공학)",
+            "similarity": 0.18162849258236846
+        },
+        {
+            "id": 4606,
+            "name": "컴퓨터네트워크",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.13470688405973139
+        },
+        {
+            "id": 3331,
+            "name": "시스템건전성관리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.13045241172997146
+        },
+        {
+            "id": 3355,
+            "name": "반려동물과학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "동물생명공학과",
+            "similarity": 0.11745312687121526
+        },
+        {
+            "id": 2625,
+            "name": "화학연구과제",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "화학과",
+            "similarity": 0.10665748502855865
+        },
+        {
+            "id": 605,
+            "name": "농업환경지리정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.2699851176373868
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.11650742245007063
+        },
+        {
+            "id": 3203,
+            "name": "멀티미디어시스템",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.11169456088018476
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "meta_info": {
+        "user_query": "의료 기술이 발전하고 있지만, 아직도 많은 의료 현장에서 진단 오류나 의료 접근성이 부족한 문제가 존재합니다. 저는 데이터 기반 헬스케어 기술을 활용해 환자의 질병을 조기에 진단하고, 의료 서비스의 효율성을 높이는 데 기여하고 싶어요. 이를 위해 어떤 학습 경로를 따라야 할까요?",
+        "expanded_query": "의료 기술이 발전하고 있지만, 아직도 많은 의료 현장에서 진단 오류나 의료 접근성이 부족한 문제가 존재합니다. 저는 데이터 기반 헬스케어 기술을 활용해 환자의 질병을 조기에 진단하고, 의료 서비스의 효율성을 높이는 데 기여하고 싶어요. 이를 위해 어떤 학습 경로를 따라야 할까요? 데이터 기반 헬스케어 기술  질병 조기 진단 및 의료 서비스 효율성 향상 헬스케어 기술 및 데이터 과학 헬스케어 데이터 과학자 헬스케어 데이터 과학자는 의료 데이터 분석을 통해 환자의 조기 진단을 돕고, 의료 시스템의 효율성을 향상시키는 역할을 수행합니다. 이 직업은 데이터 처리, 분석 및 기계 학습 기술을 활용하여 의료 분야의 문제를 해결하는 책임을 집니다. 의료 데이터 분석 및 해석 질병 조기 진단을 위한 데이터 모델 개발 의료 서비스 개선을 위한 효율성 분석 데이터 분석 도구 및 기술 기계 학습 모델링 의료 데이터 관리 및 보안  프로그래밍 (Python, R) 통계적 분석 데이터 시각화 통계학 데이터 과학 개론 의료 정보학 기계 학습 알고리즘의 원리 헬스케어 시스템과 프로세스 의료 데이터베이스 관리 데이터 윤리 및 개인정보 보호",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.3115549725075318
+        },
+        {
+            "id": 2544,
+            "name": "통계학입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.1873987485644474
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.4140363999157736
+        },
+        {
+            "id": 354,
+            "name": "데이터구조및프로그래밍실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.22034918393590172
+        },
+        {
+            "id": 909,
+            "name": "빅데이터개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.14908441567335146
+        },
+        {
+            "id": 2211,
+            "name": "머신러닝개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.14490148379454965
+        },
+        {
+            "id": 4547,
+            "name": "디지털스토리텔링과데이터시각화",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.2313232451038101
+        },
+        {
+            "id": 3247,
+            "name": "행정통계학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.19695974354248963
+        },
+        {
+            "id": 4307,
+            "name": "데이터기반헬스케어기술 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.18921556899095293
+        },
+        {
+            "id": 4277,
+            "name": "수리통계학 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.15900721140394378
+        },
+        {
+            "id": 2864,
+            "name": "위성영상처리및실습",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "지구환경과학과",
+            "similarity": 0.1567718711831025
+        },
+        {
+            "id": 2192,
+            "name": "데이터시각화",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.17711525818944784
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.1572400922286134
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.15280760510581917
+        },
+        {
+            "id": 2044,
+            "name": "데이터베이스및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.15193307844179124
+        },
+        {
+            "id": 444,
+            "name": "기계공학실험",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.15144765445838915
+        },
+        {
+            "id": 3035,
+            "name": "실험계획법",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.22463701805938663
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.20490991605857445
+        },
+        {
+            "id": 4354,
+            "name": "생체영상처리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.18480438542604977
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.17559442348571602
+        },
+        {
+            "id": 3331,
+            "name": "시스템건전성관리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.17318134790787162
+        },
+        {
+            "id": 557,
+            "name": "의료영상 2",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3701620209175941
+        },
+        {
+            "id": 717,
+            "name": "병원정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.32868271334404636
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.2908529929203557
+        },
+        {
+            "id": 405,
+            "name": "빅데이터분석과응용",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.2656242128461521
+        },
+        {
+            "id": 251,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.1627505745895231
+        },
+        {
+            "id": 3954,
+            "name": "로봇공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.1947056658547499
+        },
+        {
+            "id": 3098,
+            "name": "한국사회분석실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.14532184872982856
+        },
+        {
+            "id": 4261,
+            "name": "운동동작분석",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.1113948145661875
+        }
+    ]
+}

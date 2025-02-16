@@ -1,0 +1,114 @@
+{
+    "meta_info": {
+        "user_query": "스페인어를 활용한 국제 비즈니스 협상 및 중남미 국가들과의 교류 능력을 향상시키기 위해 어떤 학습이 필요할까요?",
+        "expanded_query": "스페인어를 활용한 국제 비즈니스 협상 및 중남미 국가들과의 교류 능력을 향상시키기 위해 어떤 학습이 필요할까요? 스페인어 능력 향상 및 국제 비즈니스 협상 스킬 습득 중남미 국가들과 원활한 비즈니스 및 교류 국제 비즈니스 국제 비즈니스 협상 전문가 국제 비즈니스 협상 전문가는 다양한 문화적 배경을 가진 비즈니스 파트너들과 협상하여 상호 이익을 창출하고, 협력관계를 구축하는 역할을 수행합니다. 스페인어를 활용한 효과적인 커뮤니케이션 비즈니스 상대방과의 관계 구축 및 협상 중남미 시장 조사 및 분석 문화적 차이에 대한 이해 및 조정 스페인어 능력 협상 전략 및 기술 문화적 이해와 적응력 국제 사업전략 수립 경영학 기본 이론 스페인어 문법 및 실용회화 경제학 원리 국제 비즈니스 개념 및 사례 연구 중남미 경제 및 문화 연구 국제 협상 사례 실습 비즈니스 서신 및 보고서 작성법 중남미 시장 내비게이션 및 관계 구축",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 169,
+            "name": "중남미문학개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.14749971847534532
+        },
+        {
+            "id": 2196,
+            "name": "중급스페인어강독 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.11739202234399872
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.11363590959506684
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.2653031392188647
+        },
+        {
+            "id": 1536,
+            "name": "스페인어의이해 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.10600746050843962
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1845087046478925
+        },
+        {
+            "id": 4062,
+            "name": "중남미사회의이해",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.17448119416046862
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.14648003456257574
+        },
+        {
+            "id": 3868,
+            "name": "신산업사회와농업경영철학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.12488133552382272
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.3162355019598002
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.24192537850173038
+        },
+        {
+            "id": 4805,
+            "name": "창업과기술경영",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.14505047387861744
+        },
+        {
+            "id": 3352,
+            "name": "중남미국제기구와개발협력",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.11605213121342696
+        }
+    ]
+}

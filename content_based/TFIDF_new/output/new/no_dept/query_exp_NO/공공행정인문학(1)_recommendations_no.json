@@ -1,0 +1,170 @@
+{
+    "meta_info": {
+        "user_query": "사회적 정의와 윤리적 원칙을 반영한 공공정책을 수립하고, 효율적이고 공정한 행정 체계를 구축하는 데 기여하고 싶어요. 이를 위해 행정학적 이론과 공공정책의 원리를 깊이 있게 배우려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2521,
+            "name": "정역학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.13674748071527149
+        },
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.12883489944112045
+        },
+        {
+            "id": 2184,
+            "name": "위상수학개론 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "수학과",
+            "similarity": 0.11830986386143932
+        },
+        {
+            "id": 1929,
+            "name": "영상커뮤니케이션",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.11208216527679375
+        },
+        {
+            "id": 928,
+            "name": "감각과지각",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "심리학과",
+            "similarity": 0.1083319233247619
+        },
+        {
+            "id": 869,
+            "name": "토론의이론과실제",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.10415436884602135
+        },
+        {
+            "id": 939,
+            "name": "문화사회학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.1818916971761938
+        },
+        {
+            "id": 1676,
+            "name": "과학기술과윤리",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "과학학과",
+            "similarity": 0.16313102005165064
+        },
+        {
+            "id": 825,
+            "name": "가족생활교육",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "아동학과",
+            "similarity": 0.148311493001646
+        },
+        {
+            "id": 991,
+            "name": "스페인어학습및교수법",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.12381760577681898
+        },
+        {
+            "id": 432,
+            "name": "사회복지윤리와철학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.12338651058139648
+        },
+        {
+            "id": 3294,
+            "name": "응용기기분석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "화학공학부",
+            "similarity": 0.11695592793872446
+        },
+        {
+            "id": 3757,
+            "name": "발달진단및심리평가",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "아동학과",
+            "similarity": 0.10826743931686561
+        },
+        {
+            "id": 3953,
+            "name": "사회적경제론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.10583656106196528
+        },
+        {
+            "id": 1025,
+            "name": "농촌여가공간계획론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생명자원융합학과",
+            "similarity": 0.12565763000531754
+        },
+        {
+            "id": 867,
+            "name": "세무관리",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.11287645202975219
+        },
+        {
+            "id": 882,
+            "name": "희곡론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.10684040110056904
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.1518562205925288
+        },
+        {
+            "id": 4569,
+            "name": "한국언론사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.11553090277928732
+        },
+        {
+            "id": 3346,
+            "name": "가족치료",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "심리학과",
+            "similarity": 0.11439583638391823
+        }
+    ]
+}

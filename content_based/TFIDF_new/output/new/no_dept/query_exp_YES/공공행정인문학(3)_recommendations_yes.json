@@ -1,0 +1,146 @@
+{
+    "meta_info": {
+        "user_query": "철학적 사고를 기반으로 한 공공 리더십을 연구하여 정부 및 공공 기관에서 효과적인 의사 결정을 지원하는 역할을 하고 싶어요. 어떤 경험과 지식이 필요할까요?",
+        "expanded_query": "철학적 사고를 기반으로 한 공공 리더십을 연구하여 정부 및 공공 기관에서 효과적인 의사 결정을 지원하는 역할을 하고 싶어요. 철학과 공공 리더십에 대한 심화 연구 정부 및 공공 기관에서 정책 결정 지원 공공 행정 및 리더십 공공 정책 분석가 공공 정책 분석가는 철학적 사고 및 분석 기법을 활용하여 정부 및 공공 기관의 정책 결정 과정을 지원하고, 정책 제안 및 평가에 대한 분석을 수행합니다. 정책 분석 및 평가, 정책 제안 개발, 철학적 사고 기반의 문제 해결과 의사 결정 지원 비판적 사고, 데이터 분석, 의사소통 및 보고서 작성 능력 철학적 사고와 원리, 공공 행정의 기초 정책 연구와 평가 방법, 공공 리더십 원리 정책 분석 도구 활용, 정부 및 공공 기관의 의사 결정 과정",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.102707120458685
+        },
+        {
+            "id": 1931,
+            "name": "건강가정론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "아동학과",
+            "similarity": 0.15552438380241496
+        },
+        {
+            "id": 175,
+            "name": "농촌관광학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "지역건설공학과",
+            "similarity": 0.1241198079610319
+        },
+        {
+            "id": 2444,
+            "name": "정신건강론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.11957494184115336
+        },
+        {
+            "id": 4769,
+            "name": "화폐금융이론및정책",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.21469600163573369
+        },
+        {
+            "id": 3495,
+            "name": "인사행정론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.11205343022753553
+        },
+        {
+            "id": 1746,
+            "name": "도시및지역경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.1890140500854611
+        },
+        {
+            "id": 639,
+            "name": "노동경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.16909706196832178
+        },
+        {
+            "id": 372,
+            "name": "현대한국의과학발전",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "과학학과",
+            "similarity": 0.1007251664394539
+        },
+        {
+            "id": 2956,
+            "name": "고체물리학 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "물리학과",
+            "similarity": 0.12476790768777835
+        },
+        {
+            "id": 4540,
+            "name": "프랑스어논리및논술론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.1173589843908193
+        },
+        {
+            "id": 4970,
+            "name": "언어철학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "철학과",
+            "similarity": 0.11640079590647313
+        },
+        {
+            "id": 1014,
+            "name": "논리와철학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "철학과",
+            "similarity": 0.15281921638185286
+        },
+        {
+            "id": 3876,
+            "name": "자연자원관리론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.2560004892033438
+        },
+        {
+            "id": 3394,
+            "name": "문화경제학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.13859005102521677
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1098777458591587
+        },
+        {
+            "id": 3587,
+            "name": "PR과전략커뮤니케이션",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.10434603746711106
+        }
+    ]
+}

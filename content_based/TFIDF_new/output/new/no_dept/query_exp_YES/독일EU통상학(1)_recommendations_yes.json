@@ -1,0 +1,186 @@
+{
+    "meta_info": {
+        "user_query": "독일은 유럽 경제의 중심지이며, 독일과의 무역 및 경제 협력은 세계적으로 중요한 의미를 갖습니다. 저는 독일어를 익히고 국제 무역을 연구하여 독일과의 경제 협력을 촉진하는 전문가가 되고 싶어요. 어떤 학습 경로를 따라야 할까요?",
+        "expanded_query": "독일은 유럽 경제의 중심지이며, 독일과의 무역 및 경제 협력은 세계적으로 중요한 의미를 갖습니다. 저는 독일어를 익히고 국제 무역을 연구하여 독일과의 경제 협력을 촉진하는 전문가가 되고 싶어요. 어떤 학습 경로를 따라야 할까요? 독일어 습득 및 국제 무역에 대한 심층 연구 독일과의 경제 협력을 촉진하는 전문가 국제 무역 및 경제 협력 국제 무역 전문가 독일과의 경제 협력을 강화하기 위해 무역 정책 및 협상을 분석하고 실행하며, 독일어를 활용하여 원활한 커뮤니케이션을 유지하는 역할을 담당. 국제 시장 분석, 무역 협상, 문화적 차이를 이해하고 조율, 독일 관련 경제 정보 분석 및 전략 수립. 독일어, 국제 무역 이론, 경제 협상독일어 실력, 분석 및 협상 능력, 문화 간 커뮤니케이션 국제 무역 이론, 경제학 기본 원리, 독일어 유럽 경제 구조, 국제 무역 법률, 경제 정책 분석 독일-국제 시장 관계, 무역 실무 절차, 문화적 상호 작용 방법",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.16436368575589524
+        },
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.27739283699162354
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.1131090889513342
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.12528897180424195
+        },
+        {
+            "id": 2565,
+            "name": "중국사회경제사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.12301015199060272
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.12193885482088145
+        },
+        {
+            "id": 3474,
+            "name": "조선시대사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.10803015604607798
+        },
+        {
+            "id": 841,
+            "name": "한일무역실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.13570938824174714
+        },
+        {
+            "id": 430,
+            "name": "국제운송·보험론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.12313431258073275
+        },
+        {
+            "id": 1505,
+            "name": "빅데이터경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.10535416379858163
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.18846902433665502
+        },
+        {
+            "id": 3953,
+            "name": "사회적경제론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.1548521131999165
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.24905024922412947
+        },
+        {
+            "id": 1061,
+            "name": "미디어경제경영론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.16183894946336255
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.13881502528687217
+        },
+        {
+            "id": 109,
+            "name": "베를린도시문화사",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "독일학과",
+            "similarity": 0.11658224047865318
+        },
+        {
+            "id": 279,
+            "name": "일반사회논리및논술론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.11621054048648245
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4800225836853458
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3322204281347166
+        },
+        {
+            "id": 3707,
+            "name": "중국어통번역실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "중어중문학과",
+            "similarity": 0.1478133208674449
+        },
+        {
+            "id": 4941,
+            "name": "환경경영및정책",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(환경공학)",
+            "similarity": 0.11869886095438832
+        },
+        {
+            "id": 3342,
+            "name": "중국무역투자론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10216591788798665
+        }
+    ]
+}

@@ -1,0 +1,285 @@
+{
+    "meta_info": {
+        "user_query": "라틴 아메리카 시장에서 다국적 기업의 무역 전략 수립을 지원하는 글로벌 마케팅 전문가가 되고 싶어요. 이를 위해 스페인어와 중남미 시장에 대한 깊은 이해가 중요할 것 같은데, 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "라틴 아메리카 시장에서 다국적 기업의 무역 전략 수립을 지원하는 글로벌 마케팅 전문가가 되고 싶어요. 이를 위해 스페인어와 중남미 시장에 대한 깊은 이해가 중요할 것 같은데, 어떤 학습 과정이 필요할까요? 라틴 아메리카 시장과 문화에 대한 깊은 이해, 스페인어 숙달 글로벌 마케팅 전문가 국제 마케팅 및 무역 글로벌 마케팅 전문가 다국적 기업의 라틴 아메리카 시장 진출 전략을 설계하고 실행하며 현지 시장에 적합한 마케팅 캠페인을 관리하는 역할을 담당. 시장 조사 및 분석, 라틴 아메리카 비즈니스 환경 이해, 브랜드 구축 및 전략 개발, 스페인어 커뮤니케이션 스페인어 숙달, 국제 마케팅 전략 수립, 라틴 아메리카 시장 연구 언어 능력(스페인어), 마케팅 분석, 국제 관계 관리 마케팅 기본 이론, 국제 비즈니스 원리, 지역 경제 개발  라틴 아메리카 경제 및 문화, 글로벌 무역 규제  시장 조사 방법론, 스페인어 실무 활용, 현지화 전략",
+        "given_departments": null,
+        "selected_departments": [
+            "스페인.중남미학과",
+            "무역학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 2365,
+            "name": "기초스페인어 1",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.32563767903173607
+        },
+        {
+            "id": 3665,
+            "name": "무역학개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4347135150227047
+        },
+        {
+            "id": 4844,
+            "name": "국제무역입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.41116226717438276
+        },
+        {
+            "id": 4574,
+            "name": "기초스페인어 2",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.3020064097271673
+        },
+        {
+            "id": 2028,
+            "name": "스페인어권대중문화의이해",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.4669729317902237
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.43444073970770675
+        },
+        {
+            "id": 169,
+            "name": "중남미문학개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.42154302906830454
+        },
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.3606344794994614
+        },
+        {
+            "id": 2190,
+            "name": "스페인어회화입문 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.360264094337021
+        },
+        {
+            "id": 4462,
+            "name": "중남미지역의이해",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.46396497734600806
+        },
+        {
+            "id": 2859,
+            "name": "국제경영학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4395831594393327
+        },
+        {
+            "id": 2552,
+            "name": "데이터로보는중남미",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.4327876657177252
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4160357529550521
+        },
+        {
+            "id": 4313,
+            "name": "국제무역이론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3767011766585663
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.6029332838318268
+        },
+        {
+            "id": 664,
+            "name": "글로벌전략론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.4957438043925816
+        },
+        {
+            "id": 281,
+            "name": "중남미근현대사",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.4656794737914725
+        },
+        {
+            "id": 1502,
+            "name": "중남미정치의이해",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.4581545446440597
+        },
+        {
+            "id": 345,
+            "name": "무역실무교육",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.4330403747089311
+        },
+        {
+            "id": 3445,
+            "name": "중남미경제의이해",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.5357289244387798
+        },
+        {
+            "id": 4088,
+            "name": "무역현장마케팅 2",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.5045322842430706
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.466385745920278
+        },
+        {
+            "id": 3220,
+            "name": "동남아무역실무론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4137753103885792
+        },
+        {
+            "id": 4062,
+            "name": "중남미사회의이해",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.40098094902650294
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.4641277605628273
+        },
+        {
+            "id": 1070,
+            "name": "남미의이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.45588155215673576
+        },
+        {
+            "id": 2335,
+            "name": "FTA와WTO법",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.3981612456038653
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.35661286288861893
+        },
+        {
+            "id": 730,
+            "name": "무역서류작성실무",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.3433037169104135
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.5511305970135705
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4921776491759827
+        },
+        {
+            "id": 3465,
+            "name": "중남미문화와젠더",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.4380994791586664
+        },
+        {
+            "id": 2886,
+            "name": "멕시코중미카리브지역의이해",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.40134305206932697
+        },
+        {
+            "id": 3352,
+            "name": "중남미국제기구와개발협력",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.40045103825598255
+        }
+    ]
+}

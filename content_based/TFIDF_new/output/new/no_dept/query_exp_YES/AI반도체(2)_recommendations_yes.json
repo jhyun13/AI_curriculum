@@ -1,0 +1,226 @@
+{
+    "meta_info": {
+        "user_query": "양자 컴퓨팅, 뉴로모픽 칩 개발과 같은 차세대 AI 반도체 연구자가 되고 싶어요. 반도체와 AI를 융합한 연구를 수행하려면 어떤 지식이 필요한가요?",
+        "expanded_query": "양자 컴퓨팅, 뉴로모픽 칩 개발과 같은 차세대 AI 반도체 연구자가 되고 싶어요. 반도체와 AI를 융합한 연구를 수행하려면 어떤 지식이 필요한가요? 양자 컴퓨팅 및 뉴로모픽 칩에 관한 전문 지식을 습득하여 AI 반도체 연구에 기여하기 차세대 AI 반도체 연구 및 개발 AI 및 반도체 기술 융합 연구 AI 반도체 연구자 차세대 AI 반도체 솔루션을 연구 및 개발하여 전자 기기의 성능 향상 및 에너지 효율성을 개선한다. 학제적 연구 수행, 양자 컴퓨팅 및 뉴로모픽 칩 아키텍처 설계, AI 알고리즘 개발 및 최적화 반도체 공학, AI 개발, 양자 물리 전자 회로 설계, 머신러닝 응용, 데이터 처리 및 분석 고체물리학, 반도체 물리학, 인공지능 기초 양자 컴퓨팅 이론, 뉴로모픽 아키텍처, VLSI 설계  반도체 제조 공정, AI 알고리즘 최적화, 소프트웨어 시뮬레이션 툴 활용",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1755,
+            "name": "반도체공학개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.19796828006597245
+        },
+        {
+            "id": 466,
+            "name": "회로이론 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.1471756226814359
+        },
+        {
+            "id": 2033,
+            "name": "생물전기전자공학및실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.12271304620974245
+        },
+        {
+            "id": 320,
+            "name": "반도체재료학개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.11278378012945961
+        },
+        {
+            "id": 354,
+            "name": "데이터구조및프로그래밍실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.10622282506111078
+        },
+        {
+            "id": 4246,
+            "name": "생산자동화",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.23710010368619883
+        },
+        {
+            "id": 3818,
+            "name": "디지털차이나",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "중어중문학과",
+            "similarity": 0.10165196471556981
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.30556310629789135
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.2824229962679431
+        },
+        {
+            "id": 1747,
+            "name": "반도체재료및소자 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "신소재공학부(전자재료공학)",
+            "similarity": 0.2799642065731356
+        },
+        {
+            "id": 1360,
+            "name": "반도체물리전자",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.183207283214564
+        },
+        {
+            "id": 1881,
+            "name": "전기전자기초회로",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.15742925352613968
+        },
+        {
+            "id": 4420,
+            "name": "반도체화학공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "화학공학부",
+            "similarity": 0.2893110455314611
+        },
+        {
+            "id": 3211,
+            "name": "반도체소자",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.25080547469485936
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.1716131742694201
+        },
+        {
+            "id": 3092,
+            "name": "전자공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "신소재공학부(정보소재공학)",
+            "similarity": 0.13123387749881976
+        },
+        {
+            "id": 3821,
+            "name": "반도체공정실험 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.12060023103406581
+        },
+        {
+            "id": 2343,
+            "name": "반도체패키징공학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "신소재공학부(정보소재공학)",
+            "similarity": 0.2904678943936692
+        },
+        {
+            "id": 1239,
+            "name": "반도체공정실험 2",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.2454639503886499
+        },
+        {
+            "id": 402,
+            "name": "광자학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "물리학과",
+            "similarity": 0.23478444850705096
+        },
+        {
+            "id": 972,
+            "name": "고체물리학 2",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "물리학과",
+            "similarity": 0.22926263339352476
+        },
+        {
+            "id": 1650,
+            "name": "반도체연구특론 1",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.19653184299781729
+        },
+        {
+            "id": 3533,
+            "name": "인공지능",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.18406336862246453
+        },
+        {
+            "id": 2898,
+            "name": "소프트웨어아키텍처이론과실제",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.17608233672605048
+        },
+        {
+            "id": 4111,
+            "name": "반도체연구특론 2",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.16969360716587095
+        },
+        {
+            "id": 4093,
+            "name": "시스템및메모리반도체",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.15529683469450714
+        },
+        {
+            "id": 3497,
+            "name": "나노물리학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "물리학과",
+            "similarity": 0.12765023242724657
+        }
+    ]
+}

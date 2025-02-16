@@ -1,0 +1,269 @@
+{
+    "meta_info": {
+        "user_query": "정치 및 행정 조직에서 윤리적 문제를 고려하고, 공정하고 책임 있는 정책 운영을 지원하는 공공 윤리 전문가가 되고 싶어요. 이를 위해 어떤 학문적 배경이 필요할까요?",
+        "expanded_query": "정치 및 행정 조직에서 윤리적 문제를 고려하고, 공정하고 책임 있는 정책 운영을 지원하는 공공 윤리 전문가가 되고 싶어요. 이를 위해 어떤 학문적 배경이 필요할까요? 공공 윤리 및 정책 운영에서의 윤리적 문제 해결 능력 습득 공공 윤리 전문가로 활동 공공 행정 및 정책 공공 윤리 전문가 공공 윤리 전문가는 정치 및 행정 조직 내에서 윤리적 기준을 설정하고, 공정하고 책임 있는 의사결정을 지원하는 역할을 한다. 윤리적 문제 분석 및 개선 방안 제시 조직의 윤리적 기준 설정 및 감독 공정하고 책임 있는 정책 개발 지원 윤리적 판단 및 분석 능력 정책 개발 및 분석 기술 연구 및 분석 기술 의사소통 및 설득 기술 문제 해결 및 의사 결정 능력 정치 철학 및 윤리 이론 공공 정책 및 행정 이론 사회 정의 및 평등 이론 윤리적 의사결정 프레임워크 정책 분석 및 평가 기법",
+        "given_departments": null,
+        "selected_departments": [
+            "행정학과",
+            "정치외교학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4253,
+            "name": "정책학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.41158872427497073
+        },
+        {
+            "id": 4031,
+            "name": "국제정치입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.3160271188222343
+        },
+        {
+            "id": 1250,
+            "name": "행정조사방법론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4060979235680028
+        },
+        {
+            "id": 2075,
+            "name": "행정법 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.40014099816599175
+        },
+        {
+            "id": 2000,
+            "name": "헌법과정치",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "정치외교학과",
+            "similarity": 0.38560391730812105
+        },
+        {
+            "id": 2209,
+            "name": "민주정치론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "정치외교학과",
+            "similarity": 0.34997347606912027
+        },
+        {
+            "id": 455,
+            "name": "기획론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.32917406316191666
+        },
+        {
+            "id": 4639,
+            "name": "정책형성론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.41519780629041997
+        },
+        {
+            "id": 4254,
+            "name": "갈등관리론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.3971133153948436
+        },
+        {
+            "id": 4596,
+            "name": "서양정치사상사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.39274406401651357
+        },
+        {
+            "id": 2751,
+            "name": "행정법 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.3814379991915713
+        },
+        {
+            "id": 2966,
+            "name": "비교정치입문",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.3788992330101322
+        },
+        {
+            "id": 1908,
+            "name": "행정철학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4518035193124168
+        },
+        {
+            "id": 250,
+            "name": "정책분석론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.3600574994028574
+        },
+        {
+            "id": 532,
+            "name": "국제개발협력의정치학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "정치외교학과",
+            "similarity": 0.3021796680177614
+        },
+        {
+            "id": 1687,
+            "name": "비교발전행정론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.2980041503196405
+        },
+        {
+            "id": 1735,
+            "name": "재난관리정책론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.2924212280532212
+        },
+        {
+            "id": 3745,
+            "name": "환경정책론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.44637666239313906
+        },
+        {
+            "id": 2803,
+            "name": "공공관계론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.41535226943900816
+        },
+        {
+            "id": 4721,
+            "name": "정책평가론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.395519294778461
+        },
+        {
+            "id": 4893,
+            "name": "미국정치론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.3733610421775413
+        },
+        {
+            "id": 4533,
+            "name": "행정영어",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.35395966378251587
+        },
+        {
+            "id": 2375,
+            "name": "행정통제와감사",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.429030242599056
+        },
+        {
+            "id": 2194,
+            "name": "과학기술정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4217007622280795
+        },
+        {
+            "id": 386,
+            "name": "행정사무관리론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.3705752034596128
+        },
+        {
+            "id": 367,
+            "name": "한국정치사상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "정치외교학과",
+            "similarity": 0.3439337188796013
+        },
+        {
+            "id": 1998,
+            "name": "규제정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.3419099038446381
+        },
+        {
+            "id": 4751,
+            "name": "공공외교이론과실제",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.4103045283218237
+        },
+        {
+            "id": 4557,
+            "name": "복지행정론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.3901782055606818
+        },
+        {
+            "id": 2498,
+            "name": "한국정치의쟁점",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.3742254328613729
+        },
+        {
+            "id": 2601,
+            "name": "지역개발정책",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.3504665277821196
+        },
+        {
+            "id": 4353,
+            "name": "정책사례연구",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.34542017020080473
+        }
+    ]
+}

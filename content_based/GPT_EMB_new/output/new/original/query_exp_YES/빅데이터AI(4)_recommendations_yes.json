@@ -1,0 +1,293 @@
+{
+    "meta_info": {
+        "user_query": "빅데이터를 활용하여 마케팅 최적화, 사용자 맞춤 추천 시스템 등을 개발하는 데이터 분석 분야에서 일하고 싶어요. 필요한 기술과 학습 과정이 궁금합니다.",
+        "expanded_query": "빅데이터를 활용하여 마케팅 최적화, 사용자 맞춤 추천 시스템 등을 개발하는 데이터 분석 분야에서 일하고 싶어요. 필요한 기술과 학습 과정이 궁금합니다. 빅데이터 분석 및 마케팅 최적화 기술 습득 마케팅과 관련된 데이터 분석가 데이터 분석 데이터 분석가 데이터 분석가는 대량의 데이터를 수집, 처리 및 분석하여 마케팅 최적화와 같은 비즈니스 의사 결정에 필요한 통찰을 제공합니다. 또한 사용자 맞춤 추천 시스템을 개발하여 사용자 경험을 향상시킵니다. 데이터 수집 및 정제, 데이터 모델 구축, 마케팅 전략 최적화, 사용자 경험 개선을 위한 추천 시스템 개발 빅데이터 처리, 통계 분석, 데이터 시각화, 머신러닝 알고리즘프로그래밍 언어(Python, R), 데이터베이스 관리(SQL), 머신러닝 프레임워크(TensorFlow, Scikit-learn) 통계학, 데이터 마이닝, 프로그래밍 기초 빅데이터 처리 기술, 추천 시스템 알고리즘, 비즈니스 분석 데이터 시각화 도구 활용(Tablaeu, Power BI), 클라우드 플랫폼(AWS, Google Cloud)에서의 데이터 처리",
+        "given_departments": null,
+        "selected_departments": [
+            "통계학과",
+            "컴퓨터인공지능학부"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4310,
+            "name": "데이터과학프로그래밍입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.4281733439042261
+        },
+        {
+            "id": 2544,
+            "name": "통계학입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.398986235775715
+        },
+        {
+            "id": 3094,
+            "name": "컴퓨터공학총론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.2949351255742877
+        },
+        {
+            "id": 3796,
+            "name": "C++프로그래밍",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.2637333167082154
+        },
+        {
+            "id": 2729,
+            "name": "이산수학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.24393079010827623
+        },
+        {
+            "id": 909,
+            "name": "빅데이터개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.5518615317914455
+        },
+        {
+            "id": 1586,
+            "name": "R프로그래밍",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.44216060863540574
+        },
+        {
+            "id": 678,
+            "name": "선형대수학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.4406388352725965
+        },
+        {
+            "id": 764,
+            "name": "자료구조",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.35190915047025406
+        },
+        {
+            "id": 2256,
+            "name": "수리통계학 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.32857539062549346
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.509785414742687
+        },
+        {
+            "id": 4490,
+            "name": "회귀분석 1",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.39211299069099637
+        },
+        {
+            "id": 2954,
+            "name": "확률및통계",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.38847584314713385
+        },
+        {
+            "id": 4277,
+            "name": "수리통계학 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.37565328327993497
+        },
+        {
+            "id": 4094,
+            "name": "알고리즘",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.36752914250961627
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.5595096317465895
+        },
+        {
+            "id": 1183,
+            "name": "데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.44861166502350763
+        },
+        {
+            "id": 1444,
+            "name": "수치해석및최적화",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3786180572150674
+        },
+        {
+            "id": 491,
+            "name": "탐색적자료분석",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.35754862277892485
+        },
+        {
+            "id": 1212,
+            "name": "회귀분석 2",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.35625741213597034
+        },
+        {
+            "id": 3166,
+            "name": "데이터마이닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.5844011622432574
+        },
+        {
+            "id": 3586,
+            "name": "기계학습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.5092364716605975
+        },
+        {
+            "id": 2921,
+            "name": "생명과학자료분석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.4713852710334031
+        },
+        {
+            "id": 3089,
+            "name": "다변량자료분석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3794050202070763
+        },
+        {
+            "id": 3237,
+            "name": "시계열자료분석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3726016893286448
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.5187299793777955
+        },
+        {
+            "id": 989,
+            "name": "금융통계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.404828895003018
+        },
+        {
+            "id": 619,
+            "name": "딥러닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.39082869857998376
+        },
+        {
+            "id": 277,
+            "name": "컴퓨터비전",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3386441189713443
+        },
+        {
+            "id": 1553,
+            "name": "자연어처리",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3113057991036172
+        },
+        {
+            "id": 3004,
+            "name": "정보검색",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.41178091983496556
+        },
+        {
+            "id": 4591,
+            "name": "텍스트마이닝",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.38410398867502554
+        },
+        {
+            "id": 4523,
+            "name": "통계세미나",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3096974949818437
+        },
+        {
+            "id": 3379,
+            "name": "산학실전캡스톤 3",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.30071972080497067
+        },
+        {
+            "id": 4308,
+            "name": "시스템보안",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.28612776626367104
+        }
+    ]
+}

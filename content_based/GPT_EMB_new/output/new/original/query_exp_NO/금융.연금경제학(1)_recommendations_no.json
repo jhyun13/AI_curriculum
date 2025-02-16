@@ -1,0 +1,293 @@
+{
+    "meta_info": {
+        "user_query": "금융 시장에서의 위험을 효과적으로 관리하는 것이 중요해지고 있습니다. 저는 금융 리스크 관리 및 금융 수학을 활용하여 보다 정교한 리스크 모델을 구축하고, 투자 결정을 돕는 연구를 하고 싶어요. 어떤 과정을 학습해야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "수학과",
+            "통계학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 1329,
+            "name": "기초기하학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "수학과",
+            "similarity": 0.2539241085791757
+        },
+        {
+            "id": 2544,
+            "name": "통계학입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3117702377157675
+        },
+        {
+            "id": 4310,
+            "name": "데이터과학프로그래밍입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.29409678550487617
+        },
+        {
+            "id": 2587,
+            "name": "집합론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "수학과",
+            "similarity": 0.27471907842800325
+        },
+        {
+            "id": 3945,
+            "name": "선형대수학 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "수학과",
+            "similarity": 0.25867294068525293
+        },
+        {
+            "id": 2256,
+            "name": "수리통계학 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.4131204810964755
+        },
+        {
+            "id": 678,
+            "name": "선형대수학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.3623008205566207
+        },
+        {
+            "id": 1586,
+            "name": "R프로그래밍",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.351114370871277
+        },
+        {
+            "id": 152,
+            "name": "벡터해석학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "수학과",
+            "similarity": 0.340901610500362
+        },
+        {
+            "id": 909,
+            "name": "빅데이터개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.3278365188734098
+        },
+        {
+            "id": 4277,
+            "name": "수리통계학 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3674885646274368
+        },
+        {
+            "id": 4490,
+            "name": "회귀분석 1",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.35818561811946925
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3540335594168569
+        },
+        {
+            "id": 3631,
+            "name": "사회조사방법론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.26458668949518055
+        },
+        {
+            "id": 3624,
+            "name": "대수학입문 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "수학과",
+            "similarity": 0.24273948143826427
+        },
+        {
+            "id": 2105,
+            "name": "보험수리학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.5885906112623792
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.36872711737174796
+        },
+        {
+            "id": 705,
+            "name": "통계전산",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.32030752531739215
+        },
+        {
+            "id": 1066,
+            "name": "수학교재연구및지도법",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "수학과",
+            "similarity": 0.3197980197079722
+        },
+        {
+            "id": 1212,
+            "name": "회귀분석 2",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.30754620116915204
+        },
+        {
+            "id": 3586,
+            "name": "기계학습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3688976242269475
+        },
+        {
+            "id": 3237,
+            "name": "시계열자료분석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3649613229334483
+        },
+        {
+            "id": 2921,
+            "name": "생명과학자료분석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3130661140516026
+        },
+        {
+            "id": 3089,
+            "name": "다변량자료분석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3121319143505584
+        },
+        {
+            "id": 2907,
+            "name": "실해석학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "수학과",
+            "similarity": 0.3078540183622114
+        },
+        {
+            "id": 989,
+            "name": "금융통계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.4360101336376769
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.3567961373546581
+        },
+        {
+            "id": 2142,
+            "name": "수치해석학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "수학과",
+            "similarity": 0.33883310060406785
+        },
+        {
+            "id": 1744,
+            "name": "대수학특강",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "수학과",
+            "similarity": 0.261937693518245
+        },
+        {
+            "id": 619,
+            "name": "딥러닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.25180514383081926
+        },
+        {
+            "id": 3096,
+            "name": "금융수학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "수학과",
+            "similarity": 0.6289991695800525
+        },
+        {
+            "id": 4455,
+            "name": "기계학습을위한수학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "수학과",
+            "similarity": 0.3498842756952577
+        },
+        {
+            "id": 4523,
+            "name": "통계세미나",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.34343954333526555
+        },
+        {
+            "id": 4591,
+            "name": "텍스트마이닝",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.2384530292931411
+        },
+        {
+            "id": 3595,
+            "name": "다양체론 2",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "수학과",
+            "similarity": 0.20363699326618487
+        }
+    ]
+}

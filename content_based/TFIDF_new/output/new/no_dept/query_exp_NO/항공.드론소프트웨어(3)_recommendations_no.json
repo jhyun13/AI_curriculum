@@ -1,0 +1,186 @@
+{
+    "meta_info": {
+        "user_query": "자율 비행 드론과 스마트 항공 시스템을 개발하기 위해 센서 공학, 제어 설계, 인공지능을 결합한 소프트웨어를 연구하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.13380066055246928
+        },
+        {
+            "id": 2386,
+            "name": "스마트팩토리(IoT)개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.15720047402438195
+        },
+        {
+            "id": 2033,
+            "name": "생물전기전자공학및실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.11458549933246259
+        },
+        {
+            "id": 928,
+            "name": "감각과지각",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "심리학과",
+            "similarity": 0.1125074258811137
+        },
+        {
+            "id": 2262,
+            "name": "원가회계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.10627168478817148
+        },
+        {
+            "id": 814,
+            "name": "자료구조",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.10169305002053364
+        },
+        {
+            "id": 4647,
+            "name": "수치해석",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.13283138606755868
+        },
+        {
+            "id": 4806,
+            "name": "양자시스템공학기초실험 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "양자시스템공학과",
+            "similarity": 0.10598671921590933
+        },
+        {
+            "id": 1970,
+            "name": "응용계측학및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.12747164552351492
+        },
+        {
+            "id": 52,
+            "name": "기후시스템역학및모델링",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.107499911155921
+        },
+        {
+            "id": 4375,
+            "name": "자동제어",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계공학과",
+            "similarity": 0.17490577368793797
+        },
+        {
+            "id": 3303,
+            "name": "메카트로닉스및실험",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.13896831519465683
+        },
+        {
+            "id": 3243,
+            "name": "3D설계기법및실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.12250816503957937
+        },
+        {
+            "id": 3035,
+            "name": "실험계획법",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.12029209315738501
+        },
+        {
+            "id": 4164,
+            "name": "제어시스템설계",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.10718176686057118
+        },
+        {
+            "id": 171,
+            "name": "자동차시스템설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.12616135368791703
+        },
+        {
+            "id": 2311,
+            "name": "임베디드시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.10205081875485517
+        },
+        {
+            "id": 605,
+            "name": "농업환경지리정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.10031301649191657
+        },
+        {
+            "id": 2702,
+            "name": "바이오기기설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.17290793728111065
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.14004675867764277
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.1054624677437067
+        },
+        {
+            "id": 4280,
+            "name": "제어계측공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.10318078026094377
+        }
+    ]
+}

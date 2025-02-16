@@ -1,0 +1,344 @@
+{
+    "meta_info": {
+        "user_query": "저전력 반도체 설계 및 AI 반도체 에너지 효율 최적화 연구를 진행하고 싶어요. 이에 적합한 학습 과정과 필수 기술이 궁금합니다.",
+        "expanded_query": "저전력 반도체 설계 및 AI 반도체 에너지 효율 최적화 연구를 진행하고 싶어요. 이에 적합한 학습 과정과 필수 기술이 궁금합니다. 저전력 반도체 설계와 관련된 고급 지식 습득 AI 반도체 에너지 효율 최적화 기술 연구 저전력 및 AI 반도체 에너지 최적화 전문가 전자공학 및 반도체 설계 반도체 설계 엔지니어 반도체 설계 엔지니어는 저전력 반도체와 AI 반도체의 에너지 효율을 최적화하기 위한 설계를 수행하며, 관련 기술 연구를 통해 성능을 개선하는 책임을 집니다. 목표는 반도체의 전력 소비를 줄이고 성능을 극대화하는 것입니다. 저전력 반도체 회로 설계 및 최적화 AI 반도체의 에너지 효율 개선을 위한 알고리즘 개발 설계 검증 및 테스트 수행 반도체 산업의 최신 기술 및 트렌드 분석 저전력 반도체 설계 방법론 AI 기반 에너지 효율 최적화 알고리즘 회로 설계 및 시뮬레이션 AI 알고리즘 개발 및 적용 저전력 설계 기법 전자공학 개론 반도체 물리학 및 장치 이론 전력 전자 및 회로 이론 저전력 ASIC 설계 AI 및 머신러닝 알고리즘 이해 시스템 온칩(SoC) 설계 방식 회로 시뮬레이션 소프트웨어 사용 (SPICE 등) 저전력 설계를 위한 EDA 도구 활용 AI 프로세서를 위한 최적화 기술",
+        "given_departments": null,
+        "selected_departments": [
+            "반도체과학기술학과",
+            "신소재공학부(정보소재공학)",
+            "전자공학부"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 1755,
+            "name": "반도체공학개론",
+            "description": "-. 반도체 소자의 기본 지식 함양.\n-. 에너지 밴드에 대한 이해.\n-. 접합영역 분석과 예측능력 \n",
+            "curriculum": "물질의 성질YUMMI결정구조YUMMI결정성징YUMMI캐리어 모델링YUMMI캐리어 모델링YUMMI캐리어의 움직임YUMMI캐리어의 움직임YUMMI중간고사YUMMI캐리어의 움직임YUMMIPN junctionYUMMIPN junctionYUMMISeminarYUMMIMOSCAPYUMMIMOSFETYUMMITerm examination YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체공학개론 -. 반도체 소자의 기본 지식 함양.\n-. 에너지 밴드에 대한 이해.\n-. 접합영역 분석과 예측능력 \n",
+            "similarity": 0.485536193675527
+        },
+        {
+            "id": 33,
+            "name": "응용수학 1",
+            "description": "반도체과학기술학을 배우는데 기초가 되는 수학개념과 내용을 공부한다.",
+            "curriculum": "Chapter 1  Infinite Series, Power SeriesYUMMIChapter 1  Infinite Series, Power SeriesYUMMIChapter 2  Complex NumbersYUMMIChapter 2  Complex NumbersYUMMIChapter 3  Linear AlgebraYUMMIChapter 3  Linear AlgebraYUMMIChapter 3  Linear AlgebraYUMMI중간시험YUMMIChapter 4  Partial DifferentiationYUMMIChapter 4  Partial DifferentiationYUMMIChapter 5  Multiple IntegralsYUMMIChapter 5  Multiple IntegralsYUMMIChapter 6  Vector AnalysisYUMMIChapter 6  Vector AnalysisYUMMIChapter 6  Vector Analysis and final test.YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "응용수학 1 반도체과학기술학을 배우는데 기초가 되는 수학개념과 내용을 공부한다.",
+            "similarity": 0.47675787052064345
+        },
+        {
+            "id": 207,
+            "name": "반도체공학입문",
+            "description": "  신소재공학도로써 정보소재공학의 차원에서 기본적으로 이해하여야 하는 반도체재료, 반도체원리, 간단한 반도체소자 등에 관하여 강의한다.  거시적인 차원에서 반도체재료, 반도체공정, 반도체소자를 접근하고 미시적 차원에서 완성시킨다. ",
+            "curriculum": " 반도체의 거시적 이해 및 제조 개괄 YUMMI반도체의 거시적 이해 및 제조 개괄 YUMMI반도체 재료의 이해  YUMMI반도체 재료의 이해  YUMMI반도체 결정성장 및 wafer YUMMI반도체 결정성장 및 wafer YUMMI 반도체소자의 이해 YUMMI 반도체소자의 이해 YUMMI반도체의 energy band gap 이해 YUMMI반도체의 energy band gap 이해 YUMMI반도체내의 charge carrier (Electron 및 Hole의 이해)  YUMMI반도체내의 charge carrier (Electron 및 Hole의 이해)  YUMMI반도체의 광전자적 흡수 및 발광의 이해 YUMMI 반도체의 광전자적 흡수 및 발광의 이해 YUMMI반도체 excess carrier의수명, 광전도도, 확산 , 기말평가YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "신소재공학부(정보소재공학)",
+            "full_text": "반도체공학입문   신소재공학도로써 정보소재공학의 차원에서 기본적으로 이해하여야 하는 반도체재료, 반도체원리, 간단한 반도체소자 등에 관하여 강의한다.  거시적인 차원에서 반도체재료, 반도체공정, 반도체소자를 접근하고 미시적 차원에서 완성시킨다. ",
+            "similarity": 0.46434635486917697
+        },
+        {
+            "id": 1134,
+            "name": "디지털논리공학",
+            "description": "Digital 회로 설계에 필요한 논리회로의 개념과 해석 능력 및 simulation tool를 습득한다.\n\n이를 토대로 digital 논리 소자를 사용하여 shift 레지스터, 카운터,메모리, 마이크로프로세서를 비롯한 각종 논리 회로를 설계할 수 있는 지식을 습득한다.",
+            "curriculum": "ㅇ 기초 학력 평가,\n\nㅇ Overview of Digital Logic CircuitYUMMIㅇ Digital Systems, Binary Numbers and Codes YUMMIㅇ Basic Logic GateYUMMIㅇ Boolean AlgebraYUMMIㅇ Simplication of Logic FunctionYUMMIㅇ Simplication of Logic FunctionYUMMIㅇ Combinational LogicYUMMIㅇ Combinational LogicYUMMIㅇ Flip-FlopYUMMIㅇ Synchronous Sequential Logic CircuitYUMMIㅇ Registers and CountersYUMMIㅇ Registers and CountersYUMMIㅇ Application of Counter\n\nㅇ Memory and Programmable LogicYUMMIㅇ Memory and Programmable LogicYUMMIㅇ Design & Simulation of  Digital Logic Circuit YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "full_text": "디지털논리공학 Digital 회로 설계에 필요한 논리회로의 개념과 해석 능력 및 simulation tool를 습득한다.\n\n이를 토대로 digital 논리 소자를 사용하여 shift 레지스터, 카운터,메모리, 마이크로프로세서를 비롯한 각종 논리 회로를 설계할 수 있는 지식을 습득한다.",
+            "similarity": 0.42907484285328906
+        },
+        {
+            "id": 466,
+            "name": "회로이론 1",
+            "description": "반도체 전자회로, 또는 회로망을 이해하기 위한 기초과목으로 회로의 기본 해석방법을 습득함",
+            "curriculum": "전기회로의 기본개념YUMMI직렬 및 병렬 저항회로YUMMI저항회로의 해석YUMMI회로망정리YUMMI인덕턴스와 커패시턴스YUMMI사인파YUMMI회로소자와 사인파 및 임피던스YUMMI중간고사YUMMI복소수와 페이저YUMMI페이저YUMMI페이저에 의한 전류-전압 관계YUMMI간단한 교류회로해석YUMMI교류회로해석과 회로망정리의 응용YUMMI교류회로에서의 전력YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "회로이론 1 반도체 전자회로, 또는 회로망을 이해하기 위한 기초과목으로 회로의 기본 해석방법을 습득함",
+            "similarity": 0.4211470626348897
+        },
+        {
+            "id": 4703,
+            "name": "응용수학 2",
+            "description": "반도체과학기술학을 배우는데 기초가 되는 수학개념과 내용을 공부한다.",
+            "curriculum": "Chapter 1  Infinite Series, Power SeriesYUMMIChapter 1  Infinite Series, Power SeriesYUMMIChapter 2  Complex NumbersYUMMIChapter 2  Complex NumbersYUMMIChapter 3  Linear AlgebraYUMMIChapter 3  Linear AlgebraYUMMIChapter 3  Linear AlgebraYUMMI중간시험YUMMIChapter 4  Partial DifferentiationYUMMIChapter 4  Partial DifferentiationYUMMIChapter 5  Multiple IntegralsYUMMIChapter 5  Multiple IntegralsYUMMIChapter 6  Vector AnalysisYUMMIChapter 6  Vector AnalysisYUMMIChapter 6  Vector Analysis and final test.YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "full_text": "응용수학 2 반도체과학기술학을 배우는데 기초가 되는 수학개념과 내용을 공부한다.",
+            "similarity": 0.4954666711846638
+        },
+        {
+            "id": 3678,
+            "name": "반도체소자 1",
+            "description": "• Understanding the basics of semiconductor physics (energy bands,\ncharge carriers, doping, conductivity and mobility).\n• Application of this knowledge to understand the operating principles\nof key semiconductor devices (e.g. p-n junction diode).",
+            "curriculum": "Atoms and ElectronsYUMMIAtoms and ElectronsYUMMIAtoms and ElectronsYUMMIEnergy Bands and Charge Carriers in SemiconductorsYUMMIEnergy Bands and Charge Carriers in SemiconductorsYUMMIEnergy Bands and Charge Carriers in SemiconductorsYUMMIEnergy Bands and Charge Carriers in SemiconductorsYUMMI중간고사YUMMIExcess Carriers in SemiconductorsYUMMIExcess Carriers in SemiconductorsYUMMIExcess Carriers in SemiconductorsYUMMIJunctionsYUMMIJunctionsYUMMIJunctionsYUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체소자 1 • Understanding the basics of semiconductor physics (energy bands,\ncharge carriers, doping, conductivity and mobility).\n• Application of this knowledge to understand the operating principles\nof key semiconductor devices (e.g. p-n junction diode).",
+            "similarity": 0.4207305266113876
+        },
+        {
+            "id": 4720,
+            "name": "회로이론 2",
+            "description": "전자, 제어, 정보통신 등의 전공심화를 위하여, 전기/전자회로, 신호처리, 시스템해석, 시스템합성 등에 필요한 기본지식을 습득한다. \nRLC DC 해석 / 정현파정상상태해석 / 교류 정상상태전력 / 3상회로 / 주파수응답 / 라플라스변환 / 푸리에급수와 변환 / 필터회로 / 2포트 회로망 등의 문제해결 역량을 배양한다.",
+            "curriculum": "Review of DC circuit analysisYUMMIThe Complete Response of Circuits with Two Energy Storage ElementsYUMMISinusoidal Steady-State Analysis 1 : Phasor and ImpedancesYUMMISinusoidal Steady-State Analysis 2 : Phasor analysis of AC circuit YUMMIAC Steady-State Power 1 : Complex power YUMMIAC Steady-State Power 2 :Max. Power transferYUMMIThree-Phase Circuits : Y, Δ CircuitsYUMMIMidterm ExamYUMMIFrequency Response 1 : Gain,Phase, Bode plotYUMMIFrequency Response 2, Laplace transform 1YUMMILaplace Transform 2 : Circuit analysis using Laplace transform, transfer functionYUMMIFourier Series and Fourier Transform : Fourier series of waveformes, Fourier spectrumYUMMIFilter Circuits : passive, active filtersYUMMITwo-Port Networks : 2-port parametersYUMMIFinal ExamYUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "회로이론 2 전자, 제어, 정보통신 등의 전공심화를 위하여, 전기/전자회로, 신호처리, 시스템해석, 시스템합성 등에 필요한 기본지식을 습득한다. \nRLC DC 해석 / 정현파정상상태해석 / 교류 정상상태전력 / 3상회로 / 주파수응답 / 라플라스변환 / 푸리에급수와 변환 / 필터회로 / 2포트 회로망 등의 문제해결 역량을 배양한다.",
+            "similarity": 0.3899550454870824
+        },
+        {
+            "id": 3955,
+            "name": "전자회로 1",
+            "description": "전자회로에 관한 학습은 전자회로1 과 전자회로2 및 실험으로 이루어져 있다. 그러므로 이번학기에 다룰 전자회로 1은 전자회로로 이루어진 용용회로를 다룰 수 있도록 밑바탕을 마련하는 과정으로써 전자회로에 관한 개론 및 p형과 n형 반도체를 접합하여 만든 기본적인 전자회로 관련소자인 다이오드, BJT, MOSFET 구조, 특성, 동작원리와 해석을 위한 등가회로를 학습한 다음 이를 토대로 응용회로의 기본이 되는 증폭기 회로를 해석하고 설계할 수 있는 능력을 함양하는데 있다.",
+            "curriculum": "전자회로1 소개\n\n- 교재 소개\n\n- 수업 진행 방식 소개\n\n- 성적 처리 방식 소개 YUMMI전자회로의 소개\n\n- 전자공학과 전자회로\n\n- 전자 시스템의 예시\n\n- 기본 개념들YUMMI블랙 박스로서의 연산 증폭기 (1)\n\n- 일반적인 고찰\n\n- 연산 증폭기 기반 회로YUMMI블랙 박스로서의 연산 증폭기 (2)\n\n- 비선형 기능\n\n- O연산 증폭기의 비이상성\n\n- 설계 예제YUMMI다이오드 모델과 회로 (1)\n\n- 이상적인 다이오드\n\n- 다이오드로서의 pn 접합YUMMIDiode Models and Circuits (2)\n\n- 대신호와 소신호 동작\n\n- 다이오드 응용YUMMI바이폴라 트랜지스터 물리 (1)\n\n- 일반적인 고찰\n\n- 바이폴라 트랜지스터의 구조\n\n- 능동 모드에서 바이폴라 트랜지스터의 동작YUMMI바이폴라 트랜지스터 물리 (2)\n\n- 바이폴라 트랜지스터의 모델과 특성\n\n- 포화 모드에서의 바이폴라 트랜지스터의 동작\n\n- pnp 트랜지스터YUMMI바이폴라 증폭기 (1)\n\n- 일반적인 고찰\n\n- 동작점 해석 및 설계YUMMI바이폴라 증폭기 (2)\n\n- 동작점 해석 및 설계YUMMI바이폴라 증폭기 (3)\n\n- 바이폴라 증폭기의 토폴로지YUMMI바이폴라 증폭기 (4)\n\n- 바이폴라 증폭기의 토폴로지YUMMIMOS 트랜지스터의 물리\n\n- MOSFET의 구조\n\n- MOSFET의 동작YUMMICMOS 증폭기\n\n- 일반적인 고찰\n\n- 공통 소스 단YUMMICMOS 증폭기\n\n- 공통 게이트 단\n\n- 소스 폴로어YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "전자회로 1 전자회로에 관한 학습은 전자회로1 과 전자회로2 및 실험으로 이루어져 있다. 그러므로 이번학기에 다룰 전자회로 1은 전자회로로 이루어진 용용회로를 다룰 수 있도록 밑바탕을 마련하는 과정으로써 전자회로에 관한 개론 및 p형과 n형 반도체를 접합하여 만든 기본적인 전자회로 관련소자인 다이오드, BJT, MOSFET 구조, 특성, 동작원리와 해석을 위한 등가회로를 학습한 다음 이를 토대로 응용회로의 기본이 되는 증폭기 회로를 해석하고 설계할 수 있는 능력을 함양하는데 있다.",
+            "similarity": 0.372222464057683
+        },
+        {
+            "id": 3982,
+            "name": "기초회로실험",
+            "description": "전자공학 입문 학생들을 위한 오실로스코프, 파워 서플라이 등의 기초 장비 교육부터 회로이론 및 디지털 논리 회로와 관련된 기초 회로 실험을 순차적으로 진행한다.",
+            "curriculum": "IntroductionYUMMIBasic Knowledge TestYUMMIExp 1: How to Use Basic Experiment\n\nInstrumentsYUMMIExp 2: Passive ElementsYUMMIExp 3: Ground ConceptYUMMIExp 4: Load EffectYUMMIExp 5: Time / Frequency ResponseYUMMIMidterm examYUMMIExp 6: Resonant CircuitYUMMIExp 7: Digital Logic CircuitYUMMIExp 8: Encoder / DecoderYUMMIExp 9: Sequential Logic CircuitYUMMITerm Project: Design of Sinewave Gegerator CircuitsYUMMITerm Project: Design of Sinewave Gegerator CircuitsYUMMITerm Project: Design of Sinewave Gegerator CircuitsYUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "기초회로실험 전자공학 입문 학생들을 위한 오실로스코프, 파워 서플라이 등의 기초 장비 교육부터 회로이론 및 디지털 논리 회로와 관련된 기초 회로 실험을 순차적으로 진행한다.",
+            "similarity": 0.37159046775035126
+        },
+        {
+            "id": 97,
+            "name": "반도체공정",
+            "description": "The purpose of this course is to provide students with technical background on silicon process technology.",
+            "curriculum": "Introduction and overview on ULSI fabricationYUMMIWafer manufacturingYUMMIVacuumYUMMILithographyYUMMIPlasma and etchingYUMMIDiffusion and implantationYUMMISemiconductor surfaces and thin film physicsYUMMISemiconductor surfaces and thin film physicsYUMMIThin film depositionYUMMIThin film depositionYUMMICharacterizations of thin filmsYUMMICharacterizations of thin filmsYUMMIEmerging thin film processesYUMMINanomaterials synthesis and self-assemblyYUMMIPresentationYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체공정 The purpose of this course is to provide students with technical background on silicon process technology.",
+            "similarity": 0.45774744199252
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "description": "이 과정은 기계 학습(Machine Learning)의 입문 학부 과정이다. 기계 학습은 이미지, 비디오, 음성을 포함한 데이터에서 예측 또는 결정을 내리는 수학적 모델 및 알고리즘을 개발하는 것을 목표로 한다. \n우리가 주로 다룰 주제는 선형 회귀, 로지스틱 회귀, 의사 결정 트리, 앙상블 학습, 차원 축소, 클러스터링과 같은 기계 학습 기초 알고리즘이다. 또한, 이미지, 시계열 데이터 처리 방법과 이를 CNN, RNN, 강화학습과 같은 다양한 딥러닝 알고리즘에 적용하는 방법을 습득한다. \n이 과정을 통해 4차 산업혁명의 기초인 인공지능의 최첨단 기계 학습 및 딥러닝 방법에 대해 이해할 수 있다.",
+            "curriculum": "Introduction, 실습 환경 구축YUMMI파이썬 실습(Numpy, Pandas) YUMMILinear Regression, Logistic RegressionYUMMIDecision Tree, Dimension ReductionYUMMIEnsemble LearningYUMMIRegression Review (in practice)YUMMIUnsupervised Learning, ClusteringYUMMIMidterm ExamYUMMIPerceptron, Neural Networks (Basic)YUMMINeural Networks (Backpropagation)YUMMINeural Networks (in practice)YUMMIConvolutional Neural NetworksYUMMIRecurrent Neural NetworksYUMMIReinforcement LearningYUMMIFinalYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "full_text": "인공지능 이 과정은 기계 학습(Machine Learning)의 입문 학부 과정이다. 기계 학습은 이미지, 비디오, 음성을 포함한 데이터에서 예측 또는 결정을 내리는 수학적 모델 및 알고리즘을 개발하는 것을 목표로 한다. \n우리가 주로 다룰 주제는 선형 회귀, 로지스틱 회귀, 의사 결정 트리, 앙상블 학습, 차원 축소, 클러스터링과 같은 기계 학습 기초 알고리즘이다. 또한, 이미지, 시계열 데이터 처리 방법과 이를 CNN, RNN, 강화학습과 같은 다양한 딥러닝 알고리즘에 적용하는 방법을 습득한다. \n이 과정을 통해 4차 산업혁명의 기초인 인공지능의 최첨단 기계 학습 및 딥러닝 방법에 대해 이해할 수 있다.",
+            "similarity": 0.44228371606597383
+        },
+        {
+            "id": 956,
+            "name": "마이크로프로세서및실험",
+            "description": "- 1) 기초 전자공학 지식 Review 및 2) 프로그램 실습을 통한 수업 진행 및 학습 평가를 계획합니다.\n- 2) 전자공학의 응용 및 활용을 위한 '마이크로컨트롤러' (Micro-Controller) 기술을 소개하고 실습합니다.\n",
+            "curriculum": "Class 소개YUMMIC언어 기초 Review / 전기전자 회로 ReviewYUMMI마이크로컨트롤러 소개YUMMI마이크로컨트롤러 실습 [GPIO]YUMMI마이크로컨트롤러 실습 [Timer]YUMMI마이크로컨트롤러 실습 [Interrupt]YUMMI마이크로컨트롤러 실습 [PWM]YUMMI중간고사YUMMI마이크로컨트롤러 실습 [LCD]YUMMI마이크로컨트롤러 실습 [ADC]YUMMI마이크로컨트롤러 실습 [통신]YUMMI마이크로컨트롤러 실습 [설계 활동 1]YUMMI마이크로컨트롤러 실습 [설계 활동 2]YUMMI마이크로컨트롤러 실습 [설계 발표]YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "full_text": "마이크로프로세서및실험 - 1) 기초 전자공학 지식 Review 및 2) 프로그램 실습을 통한 수업 진행 및 학습 평가를 계획합니다.\n- 2) 전자공학의 응용 및 활용을 위한 '마이크로컨트롤러' (Micro-Controller) 기술을 소개하고 실습합니다.\n",
+            "similarity": 0.4329089363365685
+        },
+        {
+            "id": 1360,
+            "name": "반도체물리전자",
+            "description": "본 과목의 궁극적 목표는 반도체 소자 동작의 이해이다. 이를 위하여 먼저 고체물리의 기본 개념을 공부한다. 이어서 에너지 밴드 이론, 캐리어 농도와 이동, 생성과 재결합, 연속 방정식을 이해한다. 이를 기초로 가장 기본적인 반도체 소자인 pn 접합의 동작 원리와 수학적 모델을 이해한다.  ",
+            "curriculum": "Introduction, The Semiconductor Industry, Blackbody Radiation, Photoelectric EffectYUMMIBohr's Model, De Broglie's Matter Waves, Wave-Particle DualityYUMMIWave Functions, Heisenberg Uncertainty Principle, Schroedinger Wave EquationYUMMIQuantum Particle in a Box, Quantum Tunneling, Hydrogen Atom IYUMMIHydrogen Atom II, Orbital Magnetic Dipole Moment of the Electron, Electron SpinYUMMIExclusion Principle & Periodic Table, Atomic Spectra, Molecular BondsYUMMI중간 고사YUMMIFree Electron Model of Metals, Band Theory of Solids, Silicon Crystal Structure, Bond ModelYUMMIEnergy Band Model, Doping, Carriers, Effective Mass, Density of States, YUMMIThermal Equilibrium and Fermi Function, Carrier Densities, Thermal Motion, Carrier DriftYUMMICarrier Diffusion, Energy Band Diagram and Electric Field, Carrier Recombination and GenerationYUMMIQuasi-Equilibrium and Quasi-Fermi Levels, Device Fabrication Technology, PN JunctionYUMMIDepletion-Layer Model, Reverse-Biased PN Junction, Capacitance-Voltage CharacteristicsYUMMIJunction Breakdown, Carrier Injection and Continuity Equation, PN Diode IV Characteristics\nYUMMI기말 고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "full_text": "반도체물리전자 본 과목의 궁극적 목표는 반도체 소자 동작의 이해이다. 이를 위하여 먼저 고체물리의 기본 개념을 공부한다. 이어서 에너지 밴드 이론, 캐리어 농도와 이동, 생성과 재결합, 연속 방정식을 이해한다. 이를 기초로 가장 기본적인 반도체 소자인 pn 접합의 동작 원리와 수학적 모델을 이해한다.  ",
+            "similarity": 0.4298550056619939
+        },
+        {
+            "id": 812,
+            "name": "초급양자역학",
+            "description": "양자역학의 기본개념에 대하여 공부하여 반도체연구에 응용할 수 있는 능력을 기른다.",
+            "curriculum": "Introduction of quantum mechanicsYUMMIBlackbody raidationYUMMIBlackbody raidationYUMMIphotoelectric effectYUMMIunderstanding of Schrodinger equationYUMMITime-independent Schrodinger equationYUMMITime-independent Schrodinger equationYUMMITime-independent Schrodinger equationYUMMI문제풀이 및 중간시험YUMMIEample of Time-independent Schrodinger equationYUMMIEample of Time-independent Schrodinger equationYUMMIEample of Time-independent Schrodinger equationYUMMIEample of Time-independent Schrodinger equationYUMMIEample of Time-independent Schrodinger equationYUMMISummary 및 문제풀이와 기말시험YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "초급양자역학 양자역학의 기본개념에 대하여 공부하여 반도체연구에 응용할 수 있는 능력을 기른다.",
+            "similarity": 0.419311881992307
+        },
+        {
+            "id": 3211,
+            "name": "반도체소자",
+            "description": "본 교과에서는 전자회로의 기초가 되는 반도체 물성 이론과 기본적인 양자역학의 개념을 복습하고 이를 통해 다양한 반도체 소자(금속-반도체 접합, BJT, MOSFET)의 특성을 학습하는 것을 목표로 한다. 나아가 집적회로에서의 전자소자(MOSFET)의 스케일링에 따른 물리적 현상과 이를 극복하기 위한 FinFET, Nanosheet FET 신기술 내용을 학습하고 TCAD 시뮬레이션을 활용한 MOSFET 설계 실습을 수행한다.\n1. 반도체 물성의 이해\n2. 반도체 접합 및 금속-반도체 접합의 물성 및 동작 특성 이해\n3. MOS 캐피시터와 MOSFET의 물성 및 동작 특성 이해\n4. 집적회로에서의 MOSFET 축소화와 멀티게이트 MOSFET 소개",
+            "curriculum": "교과목 소개YUMMI에너지 밴드 다이어그램, 캐리어 분포, 캐리어 이동과 재결합YUMMI PN 접합의 구조와 물리적 특성YUMMI PN 접합 다이오드의 이상적 특성 및 비이상적 특성YUMMI금속-반도체 접합 종류와 특성YUMMI금속-반도체 접합 종류와 특성YUMMI바이폴라 트랜지스터YUMMI중간고사YUMMIMOS 캐패시터 구조와 특성YUMMIMOSFET의 구조와 동작 특성YUMMIMOSFET의 구조와 동작 특성YUMMIMOSFET 축소화와 멀티게이트 MOSFETYUMMIMOSFET 축소화와 멀티게이트 MOSFETYUMMIMOSFET 응용YUMMI기말고사를 통한 평가YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "반도체소자 본 교과에서는 전자회로의 기초가 되는 반도체 물성 이론과 기본적인 양자역학의 개념을 복습하고 이를 통해 다양한 반도체 소자(금속-반도체 접합, BJT, MOSFET)의 특성을 학습하는 것을 목표로 한다. 나아가 집적회로에서의 전자소자(MOSFET)의 스케일링에 따른 물리적 현상과 이를 극복하기 위한 FinFET, Nanosheet FET 신기술 내용을 학습하고 TCAD 시뮬레이션을 활용한 MOSFET 설계 실습을 수행한다.\n1. 반도체 물성의 이해\n2. 반도체 접합 및 금속-반도체 접합의 물성 및 동작 특성 이해\n3. MOS 캐피시터와 MOSFET의 물성 및 동작 특성 이해\n4. 집적회로에서의 MOSFET 축소화와 멀티게이트 MOSFET 소개",
+            "similarity": 0.5200681341298886
+        },
+        {
+            "id": 3092,
+            "name": "전자공학",
+            "description": "전기전자, 정보통신, 제어공학 등 다양한 첨단 산업에 사용되는 주요 소재/부품의 구조 (주로 반도체 소자) 및 동작 특성을 응용의 관점에서 배우고 익혀 소재와 응용분야의 연관성을 이해하고 활용할 수 있는 지식을 습득하는 것을 목표로 한다. 추가적으로 반도체 트랜지스터 및 전기전자 부품을 활용하여 원하는 동작 특성을 갖는 회로를 설계하면서 실무를 간접적으로 학습한다.",
+            "curriculum": "신소재공학부에서 전기전자공학의 의미, 전기전자공학 개요YUMMI 반도체 이론1YUMMI반도체 이론 2YUMMI반도체 다이오드 구조 및 동작특성YUMMI반도체 다이오드 회로 및 응용 1YUMMI반도체 다이오드 회로 및 응용 2YUMMIBipolar Junction Transistor 구조 및 동작특성YUMMIBipolar Junction Transistor 응용 1YUMMIBipolar Junction Transistor 응용 2, 중간고사YUMMITransistor 바이어스 회로 및 고장진단YUMMIField Effect Transistor 구조 및 동작특성YUMMIField Effect Transistor 응용 (증폭기, 스위치 등)YUMMI연산증폭기 개념 및 동작특성YUMMI기본 연산증폭기 회로 및 특수 목적 연산증폭기 회로YUMMI반도체 부품을 이용한 전기전자회로 설계1, 기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "신소재공학부(정보소재공학)",
+            "full_text": "전자공학 전기전자, 정보통신, 제어공학 등 다양한 첨단 산업에 사용되는 주요 소재/부품의 구조 (주로 반도체 소자) 및 동작 특성을 응용의 관점에서 배우고 익혀 소재와 응용분야의 연관성을 이해하고 활용할 수 있는 지식을 습득하는 것을 목표로 한다. 추가적으로 반도체 트랜지스터 및 전기전자 부품을 활용하여 원하는 동작 특성을 갖는 회로를 설계하면서 실무를 간접적으로 학습한다.",
+            "similarity": 0.4834333589969718
+        },
+        {
+            "id": 3345,
+            "name": "반도체소자공학",
+            "description": "반도체소자는 기본적으로 전자소자(Electronic device)와 광전소자(Optoelectronic device)로 크게 대별된다. 본 과목에서는 여러종류의 반도체소자에 있어서 기본이 되는 소자들을 중심으로 공부를 한다. 여러가지 반도체소자들의 기초원리및 제조공정을 강의한다. ",
+            "curriculum": "반도체 junction의 이해 및 종류-1 YUMMI반도체 junction의 이해 및 종류-2 YUMMI반도체 junction의 이해 및 종류-3 YUMMI반도체 junction의 이해 및 종류-4 YUMMIp-n junction diode의 이해 및 종류-1 YUMMIp-n junction diode의 이해 및 종류-2 YUMMIp-n junction diode의 이해 및 종류-3 YUMMIp-n junction diode의 이해 및 종류-4 YUMMI쌍극성접합트랜지스터(BJT)의 기초와 이해-1 YUMMI쌍극성접합트랜지스터(BJT)의 기초와 이해-2 YUMMI쌍극성접합트랜지스터(BJT)의 기초와 이해-3 YUMMI쌍극성접합트랜지스터(BJT)의 기초와 이해-4 YUMMI전계효과트랜지스터(FET)의 이해와 종류-1 YUMMI전계효과트랜지스터(FET)의 이해와 종류-2 YUMMI전계효과트랜지스터(FET)의 이해와 종류-3 YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "신소재공학부(정보소재공학)",
+            "full_text": "반도체소자공학 반도체소자는 기본적으로 전자소자(Electronic device)와 광전소자(Optoelectronic device)로 크게 대별된다. 본 과목에서는 여러종류의 반도체소자에 있어서 기본이 되는 소자들을 중심으로 공부를 한다. 여러가지 반도체소자들의 기초원리및 제조공정을 강의한다. ",
+            "similarity": 0.42539263658274407
+        },
+        {
+            "id": 3821,
+            "name": "반도체공정실험 1",
+            "description": "본 반도체공정실험1 수업을 통하여, GaN 화합물 반도체 발광다이오드 전극 공정 실습 및 LED 소자특성 평가 진행\n- 현재까지배운 p-n junction 소자의 실제 응용에 대한 기초 이론 학습\n- 화합물반도체 기초 공정 이론 및 TLM 공정 실습 (Cleaning, Photolithography, Dry etching, Metallization, Electrical and Optical characterization)\n- 발광다이오드 소자 특성 평가",
+            "curriculum": "반도체 공정 개요YUMMILED 소자 구동 이론 및 반도체공정 기술 이슈 1YUMMILED 소자 구동 이론 및 반도체공정 기술 이슈 2YUMMILED 소자 구동 이론 및 반도체공정 기술 이슈 3YUMMILED 소자 구동 이론 및 반도체공정 기술 이슈 4YUMMILED 소자 구동 이론 및 반도체공정 기술 이슈 5YUMMILED 소자 공정 및 구동 이론 중간고사YUMMILED 소자 제조 공정 실습 1YUMMILED 소자 제조 공정 실습 2YUMMILED 소자 제조 공정 실습 3YUMMILED 소자 제조 공정 실습 4YUMMILED 소자 제조 공정 실습 5YUMMILED 소자 제조 결과 팀별 발표 1YUMMILED 소자 제조 결과 팀별 발표 2YUMMI팀별 발표/최종 결과 피드백 및 토의YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체공정실험 1 본 반도체공정실험1 수업을 통하여, GaN 화합물 반도체 발광다이오드 전극 공정 실습 및 LED 소자특성 평가 진행\n- 현재까지배운 p-n junction 소자의 실제 응용에 대한 기초 이론 학습\n- 화합물반도체 기초 공정 이론 및 TLM 공정 실습 (Cleaning, Photolithography, Dry etching, Metallization, Electrical and Optical characterization)\n- 발광다이오드 소자 특성 평가",
+            "similarity": 0.4219235640931578
+        },
+        {
+            "id": 4575,
+            "name": "딥러닝",
+            "description": "본 교과목에서는 딥러닝 개론에 해당하는 기초이론을 배우고 파이썬 프로그래밍 및 인공지능 기술 관련 역량강화를 목표로 한다.  뉴럴네트워크의 구조, 손실함수, 최적화기법, 정규화기법 등의 딥러닝 핵심 요소기술에 대하여 배우고, 파이썬과 파이토치를 활용하여 프로그래밍을 실습한다. 인공지능 개발관련 실무능력 강화를 위하여 CNN(convolutional neural network)과 FCN(fully convolutional network)에 대하여 배우고, 이를 활용하여 영상 분류(image classification), 물체 검출(object detection), 세그멘테이션(segmentation)등의 전반적인 딥러닝 기법들에 대하여 다룰 예정이다.",
+            "curriculum": "구글 코랩 및 클래스 구현YUMMI분류 및 회귀알고리즘YUMMI손실함수 및 뉴럴네트워크의 최적화기법YUMMI뉴럴네트워크 구현 실습 (MNIST 분류, ASL 분류)YUMMI뉴럴네트워크의 정규화기법YUMMI합성곱신경망 이론YUMMI합성곱신경망 구현 실습 (CIFAR10 분류)YUMMI중간고사YUMMI최신 딥러닝 모델 구조YUMMI전이학습 이론 및 실습YUMMI스타일 전이 기술 및 실습YUMMI완전합성곱신경망 이론 및 활용 (image segmentation, depth estimation)YUMMI객체 검출을 위한 딥러닝 기술 (Yolo, SSD, FasterRCNN, DETR)YUMMI생성모델과 오토인코더 이론 및 실습YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "딥러닝 본 교과목에서는 딥러닝 개론에 해당하는 기초이론을 배우고 파이썬 프로그래밍 및 인공지능 기술 관련 역량강화를 목표로 한다.  뉴럴네트워크의 구조, 손실함수, 최적화기법, 정규화기법 등의 딥러닝 핵심 요소기술에 대하여 배우고, 파이썬과 파이토치를 활용하여 프로그래밍을 실습한다. 인공지능 개발관련 실무능력 강화를 위하여 CNN(convolutional neural network)과 FCN(fully convolutional network)에 대하여 배우고, 이를 활용하여 영상 분류(image classification), 물체 검출(object detection), 세그멘테이션(segmentation)등의 전반적인 딥러닝 기법들에 대하여 다룰 예정이다.",
+            "similarity": 0.3991877746780842
+        },
+        {
+            "id": 1403,
+            "name": "반도체소자설계",
+            "description": "반도체소자의 이론과 실습을 학습함\n\n이론: BJT, MOSFET, Schottky Diode, JFET, PIN, HEMT, Memory Devices, LDMOS\n실습: Silvaco를 이용한 소자시뮬레이션",
+            "curriculum": "IntroductionYUMMIP-N junctionYUMMISemiconductor-metal contactYUMMISchottky diodeYUMMIPINYUMMIBipolar Junction Transistor 1YUMMIBipolar Junction Transistor 2YUMMIJFETYUMMIMOSFET 1YUMMIMOSFET 2YUMMIMOSFET 3YUMMIJFETYUMMILDMOSYUMMILDMOSYUMMIMemory devicesYUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체소자설계 반도체소자의 이론과 실습을 학습함\n\n이론: BJT, MOSFET, Schottky Diode, JFET, PIN, HEMT, Memory Devices, LDMOS\n실습: Silvaco를 이용한 소자시뮬레이션",
+            "similarity": 0.4884795416958208
+        },
+        {
+            "id": 356,
+            "name": "아날로그집적회로설계",
+            "description": "1.아날로그 반도체 제작 및 집적회로를 설계하기 위한 과정을 이해     \n2. 아날로그 집적회로 설계에 있어서 가장 대표적인 연산증폭기, 전류미러, 바이어스제너레이터 동작원리, 해석, 설계방법, 설계 , \n3, 이를 기반으로  아날로그 집적회로 시스템 응용인 PD(Photo Diode) ROIC 를 분석하고 설계방법을\n    학습하여 앞으로의 아날로그 집적회로 설계에 준비하고 아날로그 반도체 제작과정에 대하여 이해하고자 한다.  ",
+            "curriculum": "1. 아날로그 반도체 및 집적회로\n   1) 반도체 분류 및 필요성 \n   2) Analog 반도체 응용분야 및 추세YUMMI1. 아날로그 반도체 및 집적회로\n   3) Analog 집적회로 설계에 대한 흐름, 중요성, skill, trade-off, 어려움, 함정YUMMI2. Analog 집적회로를 위한 설계방법/시뮬레이션기법/레이아웃및검증/PG/mask 제작  \n 1) analog 집적회로 설계를 위한 CMOS Process Model parameter /설계방법/simulation YUMMI2. Analog 집적회로를 위한 설계방법/시뮬레이션기법/레이아웃및검증/PG/mask 제작  \n 2) analog 집적회로를 위한 레이아웃및검증/PG/Mask제작  \n 3) analog 집적회로를 위한 Wafer/Fabrication/Package/TestYUMMI3. Analog 집적회로 설계를 위한 피드백, 주파수응답 및 안정도 판별  \n 1) 피드백YUMMI3. Analog 집적회로 설계를 위한 피드백, 주파수응답 및 안정도 판별  \n  2) 주파수응답 및 안정도 판별YUMMI4. Analog 집적회로 설계를 위한 MOS Device Physics 및 Small-Signal Model \n 1) MOS Device structure 및 Operation\n 2) MOS Device Low frequency Small-Signal Model   YUMMI4. Analog 집적회로 설계를 위한 MOS Device Physics 및 Small-Signal Model \n 3) MOS Device internal capacitance 및 High frequency Small-Signal ModelYUMMI5. Analog 집적회로 설계를 위한 2 stage CMOS operational Amplifier \n 1) 2 stage operational Amplifier 구조 및 동작원리\n 2) CS 증폭기 및 차동증폭기 구조 및 동작원리/DC 및 AC(주파수) 해석 YUMMI5. Analog 집적회로 설계를 위한 2 stage CMOS operational Amplifier \n 3) 보상안된 2 stage operational Amplifier 동작원리 및 주파수응답 \n 4) 보상된 2 stage operational Amplifier 동작원리 및 주파수응답  YUMMI5. Analog 집적회로 설계를 위한 2 stage CMOS operational Amplifier \n 5) 보상된 2 stage operational Amplifier 설계방법 및 설계/simulation/레이아웃   \nYUMMI6. MOS Current Mirror 구조/동작원리/설계방법/설계YUMMI7. MOS Bias(voltage, current) Generator  구조/동작원리/설계방법/설계YUMMI아날로그 집적회로 응용인 PD(Photo Diode) ROIC 이해 및 설계방법 \n   1)  PD ROIC Block Diagram \n   2)  각 block 회로 및 동작원리     YUMMI아날로그 집적회로 응용인 PD(Photo Diode) ROIC 이해 및 설계방법 \n   3) DCFB을 가지는 TIA(Transimpedance Amplifier) 전달함수 및 안정성해석 \n   4) ADC 및 MCU와 Interface\n   5) 설계방법 \nYUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "full_text": "아날로그집적회로설계 1.아날로그 반도체 제작 및 집적회로를 설계하기 위한 과정을 이해     \n2. 아날로그 집적회로 설계에 있어서 가장 대표적인 연산증폭기, 전류미러, 바이어스제너레이터 동작원리, 해석, 설계방법, 설계 , \n3, 이를 기반으로  아날로그 집적회로 시스템 응용인 PD(Photo Diode) ROIC 를 분석하고 설계방법을\n    학습하여 앞으로의 아날로그 집적회로 설계에 준비하고 아날로그 반도체 제작과정에 대하여 이해하고자 한다.  ",
+            "similarity": 0.48561600917116615
+        },
+        {
+            "id": 1239,
+            "name": "반도체공정실험 2",
+            "description": "화합물계 반도체 소자를 설계하고, 제작, 측정을 진행해 봄으로써 반도체 공정 실무 능력을 배양시키고자 함\n\n한 학기 동안 팀별로 화합물 반도체 소자를 선정하여 제작, 측정, 평가함\n소자종류: Schottky diode, LED, HFET",
+            "curriculum": "IntroductionYUMMI반도체 소자의 종류와 특징 1YUMMI반도체 소자의 종류와 특징 2YUMMI반도체 소자 실험 계획 1YUMMI반도체 소자 실험 계획 2YUMMI반도체 소자 실험 - 단위공정YUMMI반도체 소자 실험 - 단위공정YUMMI반도체 소자 실험 1차 점검YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 2차 점검YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 3차 점검YUMMI반도체 소자 실험 - 측정YUMMI소자 제작 및 특성 측정 결과 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체공정실험 2 화합물계 반도체 소자를 설계하고, 제작, 측정을 진행해 봄으로써 반도체 공정 실무 능력을 배양시키고자 함\n\n한 학기 동안 팀별로 화합물 반도체 소자를 선정하여 제작, 측정, 평가함\n소자종류: Schottky diode, LED, HFET",
+            "similarity": 0.4676512689405042
+        },
+        {
+            "id": 1267,
+            "name": "전력전자공학",
+            "description": "- 학부에서 배운 기초 전공 이론 (반도체, 회로, 시스템 등)을 활용할 수 있는 내용을 강의할 계획입니다. \n- 학부 전공 이론의 Review와 함께, 전력 (Electric Power)을 다루는 전자 (Electronics) 기술을 공부합니다. \n- 다양한 산업 사례 (전기발전, 전기자동차, 에너지변환 등)를 소개하며, 학생들의 이해가 쉽도록 진행합니다.",
+            "curriculum": "전력전자 기술 소개 1 (System 관점)YUMMI전력전자 기술 소개 2 (응용 관점: 전기발전, 전기자동차, 에너지변환 등)YUMMI전력전자 기술 소개 3 (전력반도체, 전기회로, 전자회로, 프로그래밍, 시뮬레이션 등)YUMMI기초 전력변환 기술 1 (직류-직류 변환)YUMMI기초 전력변환 기술 2 (직류-직류 변환)YUMMI기초 전력변환 기술 3 (직류-직류 변환)YUMMI기초 전력변환 기술 4 (직류-직류 변환)YUMMI중간 고사YUMMI기초 전력변환 기술 5 (직류-교류 변환)YUMMI기초 전력변환 기술 6 (직류-교류 변환)YUMMI기초 전력변환 기술 7 (직류-교류 변환)YUMMI기초 전력변환 기술 8 (직류-교류 변환)YUMMI기초 전력변환 기술 9 (직류-교류 변환)YUMMIReview (복습)YUMMI기말 고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "full_text": "전력전자공학 - 학부에서 배운 기초 전공 이론 (반도체, 회로, 시스템 등)을 활용할 수 있는 내용을 강의할 계획입니다. \n- 학부 전공 이론의 Review와 함께, 전력 (Electric Power)을 다루는 전자 (Electronics) 기술을 공부합니다. \n- 다양한 산업 사례 (전기발전, 전기자동차, 에너지변환 등)를 소개하며, 학생들의 이해가 쉽도록 진행합니다.",
+            "similarity": 0.465736623252759
+        },
+        {
+            "id": 1650,
+            "name": "반도체연구특론 1",
+            "description": "반도체과학기술의 (1) 기존 연구와 새로운 이론 학습, 혹은 (2) 반도체 공정 실험, 실습을 통한 연구 진행. 학습과 연구를 통한 결과물 제출과 발표  ",
+            "curriculum": "반도체 실습 소개 및 학습 방향 설정YUMMI반도체 실습 전공 분야의 선정, 선행 기술 및 논문 리뷰YUMMI반도체 실습 전공 분야 기술 리뷰 및 검토YUMMI반도체 실습 수행 1YUMMI반도체 실습 수행 2YUMMI반도체 실습 수행 3YUMMI반도체 실습 수행 4YUMMI반도체 실습 수행 - 1차 중간점검YUMMI반도체 실습 수행 5YUMMI반도체 실습 수행 6YUMMI반도체 실습 수행 7YUMMI반도체 실습 수행 - 2차 중간 점검YUMMI반도체 실습 수행 8YUMMI반도체 실습 수행 - 최종발표YUMMI반도체 실습 수행 논문 리포트 제출YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체연구특론 1 반도체과학기술의 (1) 기존 연구와 새로운 이론 학습, 혹은 (2) 반도체 공정 실험, 실습을 통한 연구 진행. 학습과 연구를 통한 결과물 제출과 발표  ",
+            "similarity": 0.4485525523668512
+        },
+        {
+            "id": 3846,
+            "name": "반도체공정학",
+            "description": "반도체재료에 대한 이해와 반도체재료 및 소자 제작시 기본적인 공정들을 강의한다. 본 과목의 목표는 대학생들이 졸업후 반도체회사에 취업할 경우, 관련 업무 및 내용을 쉽게 파악하고 이해할 수 있도록 하고자 함을 그 목적으로 한다.\t\t\t\t\t\t\t\t\t",
+            "curriculum": "반도체재료의 종류와 이해(Ⅰ)\t\t\t\t\t\t\t\t\tYUMMI반도체재료의 종류와 이해(Ⅱ)\t\t\t\t\t\t\t\t\tYUMMI반도체소자 및 제조공정의 기초적 이해(Ⅰ)\t\t\t\t\t\t\t\t\tYUMMI반도체소자 및 제조공정의 기초적 이해(Ⅱ)\t\t\t\t\t\t\t\t\tYUMMI각종 반도체 박막성장 공정(Ⅰ)\t\t\t\t\t\t\t\t\tYUMMI반도체의 기본적인 전기전자적 특성평가(Ⅰ)\t\t\t\t\t\t\t\t\tYUMMI반도체의 기본적인 전기전자적 특성평가(Ⅱ)\t\t\t\t\t\t\t\t\tYUMMI반도체의 기본적인 광전자적 특성평가(Ⅰ)\t\t\t\t\t\t\t\t\tYUMMI반도체의 기본적인 광전자적 특성평가(Ⅱ)\t\t\t\t\t\t\t\t\t\tYUMMI반도체의 기본적인 표면학적 특성평가(Ⅰ)\t\t\t\t\t\t\t\t\t\tYUMMI반도체의 기본적인 표면학적 특성평가(Ⅱ)\t\t\t\t\t\t\t\t\t\tYUMMI반도체의 기본적인 ion implantation 공정(Ⅰ)\t\t\t\t\t\t\t\t\t\tYUMMI반도체의 기본적인 ion implantation 공정(Ⅱ)\t\t\t\t\t\t\t\t\t\tYUMMI반도체의 기본적인 lithography 공정(Ⅰ)\t\t\t\t\t\t\t\t\t\tYUMMI반도체의 기본적인 lithography 공정(Ⅱ)\t\t\t\t\t\t\t\t\t\tYUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "신소재공학부(정보소재공학)",
+            "full_text": "반도체공정학 반도체재료에 대한 이해와 반도체재료 및 소자 제작시 기본적인 공정들을 강의한다. 본 과목의 목표는 대학생들이 졸업후 반도체회사에 취업할 경우, 관련 업무 및 내용을 쉽게 파악하고 이해할 수 있도록 하고자 함을 그 목적으로 한다.\t\t\t\t\t\t\t\t\t",
+            "similarity": 0.47250680865592726
+        },
+        {
+            "id": 4111,
+            "name": "반도체연구특론 2",
+            "description": "반도체 실습분야의 연구과제 수행을 통한 학습으로 학기초에 부여받은 테마에 대한 졸업논문을 작성하여 학기말에 제출함. 반도체 물리, 소자, 공정분야 중에서 하나의 테마에 대해 심도 있게 연구하고 논문작성의 과정에서 논문의 작성법, Plagiarism의 문제, 기술의 현황과 미래에 대해 고찰하는데 학습목표가 있음.",
+            "curriculum": "반도체 실습 소개 및 학습방향 설정YUMMI반도체 실습 전공 분야의 선정 및 사전 기술 및 학문적 리뷰YUMMI반도체 실습 전공분야 기술리뷰 및 검토YUMMI반도체 리뷰/실습 수행1YUMMI반도체 리뷰/실습 수행2YUMMI반도체 리뷰/실습 수행3YUMMI반도체 리뷰/실습 수행4YUMMI반도체 리뷰/실습 수행 및 논문작성 1차 중간점검YUMMI반도체 리뷰/실습수행5YUMMI반도체 리뷰/실습 수행6YUMMI반도체 리뷰/실습 수행7YUMMI반도체 리뷰/실습 수행 및 논문작성 2차 중간점검YUMMI반도체 리뷰/실습 수행8YUMMI반도체 리뷰/실습 수행 최종발표YUMMI반도체 리뷰/실습 수행및 최종 논문 리포트 제출YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체연구특론 2 반도체 실습분야의 연구과제 수행을 통한 학습으로 학기초에 부여받은 테마에 대한 졸업논문을 작성하여 학기말에 제출함. 반도체 물리, 소자, 공정분야 중에서 하나의 테마에 대해 심도 있게 연구하고 논문작성의 과정에서 논문의 작성법, Plagiarism의 문제, 기술의 현황과 미래에 대해 고찰하는데 학습목표가 있음.",
+            "similarity": 0.43490492782912904
+        },
+        {
+            "id": 4093,
+            "name": "시스템및메모리반도체",
+            "description": "본 과목에서는 시스템 반도체 및 메모리 반도체의 기본 개념에 대하여 학습하고, FPGA 보드를 이용하여 실습을 진행한다. ",
+            "curriculum": "과목소개/시스템반도체의 기본 개념YUMMI시스템반도체의 기본 구성 블록 1YUMMI시스템반도체의 기본 구성 블록 2YUMMI메모리반도체 1YUMMI메모리반도체 2YUMMI임베디드시스템YUMMI반도체설계 방법론YUMMI중간고사YUMMIVerilogYUMMI임베디드 소프트웨어 설계YUMMI디지털하드웨어 설계 1YUMMI디지털하드웨어 설계 2YUMMI임베디드소프트웨어 설계YUMMI메모리설계YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "시스템및메모리반도체 본 과목에서는 시스템 반도체 및 메모리 반도체의 기본 개념에 대하여 학습하고, FPGA 보드를 이용하여 실습을 진행한다. ",
+            "similarity": 0.4205782717321872
+        },
+        {
+            "id": 3496,
+            "name": "센서반도체",
+            "description": "반도체센서에 대한 전반적인 이해를 통하여 반도체공정을 응용한 센서를 설계 및 제작하는 능력을 키운다. \n특히 반도체물질을 이용한 Thermal sensor, Optical sensor, Mechanical sensor, Magnetic sensor, Chemical sensor 등의 재료, 제작방법, 작동원리에 대하여 이해한다.",
+            "curriculum": "센서 개요YUMMI센서 분류 및 특성 지표 이해YUMMI광센서 1YUMMI광센서 2YUMMI온도센서 1YUMMI온도센서 2YUMMI압력센서 1YUMMI중간고사YUMMI압력센서 2YUMMI자기센서 1YUMMI자기센서 2YUMMI가스센서 YUMMI유량센서YUMMI변위센서YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "full_text": "센서반도체 반도체센서에 대한 전반적인 이해를 통하여 반도체공정을 응용한 센서를 설계 및 제작하는 능력을 키운다. \n특히 반도체물질을 이용한 Thermal sensor, Optical sensor, Mechanical sensor, Magnetic sensor, Chemical sensor 등의 재료, 제작방법, 작동원리에 대하여 이해한다.",
+            "similarity": 0.41370549623002634
+        },
+        {
+            "id": 3315,
+            "name": "알고리즘",
+            "description": "전자공학 전공에서 필요한 알고리즘에 대한 기본 지식을 익히고, 간단한 예제에 응용할 수 있는 능력을 배양한다.\n(첫 시간 사전이해도의 결과에 따라 강의 방향과 내용이 조정될 수 있음.)",
+            "curriculum": "강의 개요 및 사전 이해도 조사, 설계와 분석의 기초\nYUMMI점화식과 점근적복잡도 분석\nYUMMIMatlab기초\nYUMMI정렬 알고리즘YUMMI정렬 알고리즘YUMMI정렬 알고리즘YUMMI선택 알고리즘YUMMI중간고사YUMMI기계학습 소개YUMMI선형대수학 리뷰\nYUMMI선형회귀와 분류\nYUMMI선형회귀와 분류\nYUMMISVMYUMMI뉴럴네트워크\nYUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "알고리즘 전자공학 전공에서 필요한 알고리즘에 대한 기본 지식을 익히고, 간단한 예제에 응용할 수 있는 능력을 배양한다.\n(첫 시간 사전이해도의 결과에 따라 강의 방향과 내용이 조정될 수 있음.)",
+            "similarity": 0.4126736883757834
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "meta_info": {
+        "user_query": "공공 행정에서의 정책 결정 과정은 논리적이고 정량적인 분석이 필요합니다. 논리학과 정책평가 기법을 활용하여 의사결정의 객관성을 높이고, 정량적 평가와 철학적 판단을 조화롭게 결합하는 방안을 연구하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 4419,
+            "name": "한약한문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "한약자원학과",
+            "similarity": 0.14135894102409616
+        },
+        {
+            "id": 4769,
+            "name": "화폐금융이론및정책",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.12225225900358427
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.13521657502055753
+        },
+        {
+            "id": 2956,
+            "name": "고체물리학 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "물리학과",
+            "similarity": 0.11058201527302577
+        },
+        {
+            "id": 1014,
+            "name": "논리와철학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "철학과",
+            "similarity": 0.13544393933605436
+        },
+        {
+            "id": 2549,
+            "name": "화공안전공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "화학공학부",
+            "similarity": 0.13533240219843895
+        },
+        {
+            "id": 3628,
+            "name": "야생동물관리학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "산림환경과학과",
+            "similarity": 0.13064574163701698
+        },
+        {
+            "id": 3346,
+            "name": "가족치료",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "심리학과",
+            "similarity": 0.11348851328097444
+        },
+        {
+            "id": 3876,
+            "name": "자연자원관리론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.10084163657364469
+        }
+    ]
+}

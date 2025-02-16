@@ -1,0 +1,293 @@
+{
+    "meta_info": {
+        "user_query": "연금제도의 법적, 재정적 구조를 깊이 이해하고, 지속 가능하고 포괄적인 연금 시스템을 구축하는 방안을 연구하고 싶어요. 특히 고령화 사회에서 연금이 사회적 안전망으로서 역할을 할 수 있도록 개선하는 데 관심이 있습니다. 이를 위해 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "사회복지학과",
+            "사회학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 1653,
+            "name": "사회복지학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.39683713494644846
+        },
+        {
+            "id": 4156,
+            "name": "사회문제론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.3742379068114059
+        },
+        {
+            "id": 4651,
+            "name": "인간행동과사회환경",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.3717683701438548
+        },
+        {
+            "id": 2890,
+            "name": "친밀성과관계의사회학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.3235265980513684
+        },
+        {
+            "id": 3224,
+            "name": "사회학고전강독",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.32076691380497246
+        },
+        {
+            "id": 2469,
+            "name": "사회보장론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.4549608086857595
+        },
+        {
+            "id": 844,
+            "name": "사회계층론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.38250759294926434
+        },
+        {
+            "id": 1425,
+            "name": "법과사회",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.3693613678140131
+        },
+        {
+            "id": 30,
+            "name": "이민정책론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.3603000737301338
+        },
+        {
+            "id": 2444,
+            "name": "정신건강론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.3508904667710705
+        },
+        {
+            "id": 4215,
+            "name": "지역사회복지론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.4160595249206767
+        },
+        {
+            "id": 3079,
+            "name": "빈곤론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.39370214291109795
+        },
+        {
+            "id": 2530,
+            "name": "정신건강사회복지론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.3898383269621757
+        },
+        {
+            "id": 4489,
+            "name": "사회통계",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.35590296016163947
+        },
+        {
+            "id": 4830,
+            "name": "건강과웰빙의사회학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.3536582309382867
+        },
+        {
+            "id": 481,
+            "name": "청년과라이프코스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.4215225319002096
+        },
+        {
+            "id": 1920,
+            "name": "사회복지행정론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.4141945431026519
+        },
+        {
+            "id": 2400,
+            "name": "사례관리론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.4059111490793389
+        },
+        {
+            "id": 432,
+            "name": "사회복지윤리와철학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.3955367170590113
+        },
+        {
+            "id": 1613,
+            "name": "장애인복지론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.3844543800005718
+        },
+        {
+            "id": 4968,
+            "name": "연금제도",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.6602231905338092
+        },
+        {
+            "id": 4081,
+            "name": "사회복지정책론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.44376617711426847
+        },
+        {
+            "id": 4571,
+            "name": "비교사회복지론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.4128137394050918
+        },
+        {
+            "id": 3279,
+            "name": "의료사회복지론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.39045382798149847
+        },
+        {
+            "id": 3063,
+            "name": "학교사회복지론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.3837297419555842
+        },
+        {
+            "id": 957,
+            "name": "노인복지론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.5351992277727369
+        },
+        {
+            "id": 2300,
+            "name": "사회서비스정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.41485162220022337
+        },
+        {
+            "id": 1140,
+            "name": "가족복지론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.3711946486394395
+        },
+        {
+            "id": 1966,
+            "name": "사회심리학:이론과방법",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.35621741931076234
+        },
+        {
+            "id": 2136,
+            "name": "조직과일상생활",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.3112588524389775
+        },
+        {
+            "id": 3593,
+            "name": "사회복지법제와실천",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.4062053186638258
+        },
+        {
+            "id": 3555,
+            "name": "사회복지와문화다양성",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.37747223436395594
+        },
+        {
+            "id": 3339,
+            "name": "사회복지와인권",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.3504977381816672
+        },
+        {
+            "id": 3098,
+            "name": "한국사회분석실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.3411765201272675
+        },
+        {
+            "id": 4953,
+            "name": "농업.농촌의사회학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.3333156668840308
+        }
+    ]
+}

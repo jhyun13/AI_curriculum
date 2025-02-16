@@ -1,0 +1,298 @@
+{
+    "meta_info": {
+        "user_query": "프랑스어권 국가들과의 무역을 효과적으로 수행하기 위해 필요한 경제 개념과 프랑스어를 배우고 싶어요. 이를 위해 어떤 과목을 중심으로 학습해야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1839,
+            "name": "조경제도및표현기법",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.13234497571918835
+        },
+        {
+            "id": 252,
+            "name": "일반수학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.10768918572458075
+        },
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.18775697080244705
+        },
+        {
+            "id": 3036,
+            "name": "조경식물학및실습 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.14338178849771605
+        },
+        {
+            "id": 4844,
+            "name": "국제무역입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.12337494848082592
+        },
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.11584698013620656
+        },
+        {
+            "id": 4318,
+            "name": "생화학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농생물학과",
+            "similarity": 0.10602069940619271
+        },
+        {
+            "id": 731,
+            "name": "프랑스어작문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.13219891522556865
+        },
+        {
+            "id": 1764,
+            "name": "한국과학문화재",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "과학학과",
+            "similarity": 0.12380572926020939
+        },
+        {
+            "id": 855,
+            "name": "위성원격탐사개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.11519262339194046
+        },
+        {
+            "id": 2383,
+            "name": "농식품연관산업론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.10982094659101697
+        },
+        {
+            "id": 1053,
+            "name": "경제학원론 2",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.10980239796315924
+        },
+        {
+            "id": 3841,
+            "name": "전자기학 1",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "물리학과",
+            "similarity": 0.16591278955974928
+        },
+        {
+            "id": 4063,
+            "name": "빅데이터분석의이해",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.14106608808151871
+        },
+        {
+            "id": 4634,
+            "name": "열역학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.10864930641401353
+        },
+        {
+            "id": 3474,
+            "name": "조선시대사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.10173042318967607
+        },
+        {
+            "id": 1454,
+            "name": "프랑스어권디지털자료분석과활용",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.20099201527437904
+        },
+        {
+            "id": 1941,
+            "name": "프랑스어발음연습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.18351072918528286
+        },
+        {
+            "id": 841,
+            "name": "한일무역실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.15520900660983683
+        },
+        {
+            "id": 1706,
+            "name": "웹프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.12282026667044198
+        },
+        {
+            "id": 1715,
+            "name": "암호론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.11876592841511174
+        },
+        {
+            "id": 4721,
+            "name": "정책평가론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.1347142888389923
+        },
+        {
+            "id": 3953,
+            "name": "사회적경제론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.13225373647646363
+        },
+        {
+            "id": 3242,
+            "name": "하수도공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(토목공학)",
+            "similarity": 0.1317669986973934
+        },
+        {
+            "id": 3331,
+            "name": "시스템건전성관리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.13156552473477306
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.10774388938410695
+        },
+        {
+            "id": 957,
+            "name": "노인복지론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.17339860756186842
+        },
+        {
+            "id": 1636,
+            "name": "한국의고분문화",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "고고문화인류학과",
+            "similarity": 0.15139647237001402
+        },
+        {
+            "id": 1252,
+            "name": "영상처리",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.12325601018582866
+        },
+        {
+            "id": 521,
+            "name": "소프트웨어보안",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.12267346760496846
+        },
+        {
+            "id": 1771,
+            "name": "멀티자료조직론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.11805412227336134
+        },
+        {
+            "id": 3261,
+            "name": "센서공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.1444203101484251
+        },
+        {
+            "id": 2886,
+            "name": "멕시코중미카리브지역의이해",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.12980268979924806
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.12750980798176934
+        },
+        {
+            "id": 2642,
+            "name": "패션디자인포트폴리오",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "의류학과",
+            "similarity": 0.12246016397404974
+        },
+        {
+            "id": 3282,
+            "name": "감성공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.11769281154008499
+        }
+    ]
+}

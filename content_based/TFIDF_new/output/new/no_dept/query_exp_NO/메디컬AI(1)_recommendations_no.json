@@ -1,0 +1,82 @@
+{
+    "meta_info": {
+        "user_query": "의료 기술이 발전하고 있지만, 아직도 많은 의료 현장에서 진단 오류나 의료 접근성이 부족한 문제가 존재합니다. 저는 데이터 기반 헬스케어 기술을 활용해 환자의 질병을 조기에 진단하고, 의료 서비스의 효율성을 높이는 데 기여하고 싶어요. 이를 위해 어떤 학습 경로를 따라야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.12976473342783992
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.10434585178273034
+        },
+        {
+            "id": 3818,
+            "name": "디지털차이나",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "중어중문학과",
+            "similarity": 0.13078033195652813
+        },
+        {
+            "id": 1930,
+            "name": "분자생물공학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "화학공학부",
+            "similarity": 0.10406724395070811
+        },
+        {
+            "id": 3331,
+            "name": "시스템건전성관리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.15431682707515504
+        },
+        {
+            "id": 557,
+            "name": "의료영상 2",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3790296633281301
+        },
+        {
+            "id": 717,
+            "name": "병원정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3364589174904148
+        },
+        {
+            "id": 3954,
+            "name": "로봇공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.21127943706933344
+        },
+        {
+            "id": 2886,
+            "name": "멕시코중미카리브지역의이해",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.10031576851257287
+        }
+    ]
+}

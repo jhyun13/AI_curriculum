@@ -1,0 +1,130 @@
+{
+    "meta_info": {
+        "user_query": "연금제도의 법적, 재정적 구조를 깊이 이해하고, 지속 가능하고 포괄적인 연금 시스템을 구축하는 방안을 연구하고 싶어요. 특히 고령화 사회에서 연금이 사회적 안전망으로서 역할을 할 수 있도록 개선하는 데 관심이 있습니다. 이를 위해 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3377,
+            "name": "과학학의기초",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "과학학과",
+            "similarity": 0.1359803202317059
+        },
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.10727403899825805
+        },
+        {
+            "id": 4419,
+            "name": "한약한문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "한약자원학과",
+            "similarity": 0.1010177935598762
+        },
+        {
+            "id": 1929,
+            "name": "영상커뮤니케이션",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.10761255484202925
+        },
+        {
+            "id": 381,
+            "name": "수목학및실습 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산림환경과학과",
+            "similarity": 0.10403253649494097
+        },
+        {
+            "id": 4973,
+            "name": "영어의역사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "영어영문학과",
+            "similarity": 0.1747161485915071
+        },
+        {
+            "id": 4647,
+            "name": "수치해석",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.10649692782059281
+        },
+        {
+            "id": 939,
+            "name": "문화사회학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.10479960750125158
+        },
+        {
+            "id": 4319,
+            "name": "바이오메카트로닉스",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.10249093572387344
+        },
+        {
+            "id": 4968,
+            "name": "연금제도",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.10011751358914997
+        },
+        {
+            "id": 1485,
+            "name": "연금의이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.11411899737660375
+        },
+        {
+            "id": 1962,
+            "name": "식품위생관계법규",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "식품영양학과",
+            "similarity": 0.10473086025665715
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.18746790561662305
+        },
+        {
+            "id": 3339,
+            "name": "사회복지와인권",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.14123554113015274
+        },
+        {
+            "id": 3628,
+            "name": "야생동물관리학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "산림환경과학과",
+            "similarity": 0.12150316931704677
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "meta_info": {
+        "user_query": "AI와 데이터 기반의 도시 계획 시뮬레이션을 통해 실제 도시 개발 이전에 최적화된 가상 모델을 구축하는 것이 중요합니다. 저는 컴퓨터 그래픽스, GIS 분석, AI 기반 예측 모델링, 도시 설계 시뮬레이션 등을 배워서 가상 공간에서 도시 환경을 미리 시뮬레이션할 수 있는 시스템을 개발하고 싶습니다. 어떤 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2983,
+            "name": "도시학개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.1818722471568139
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.12346639802192011
+        },
+        {
+            "id": 4336,
+            "name": "농업지리정보학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "지역건설공학과",
+            "similarity": 0.13783550977025447
+        },
+        {
+            "id": 1746,
+            "name": "도시및지역경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.20225326770144575
+        },
+        {
+            "id": 545,
+            "name": "중국도시와인간",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "중어중문학과",
+            "similarity": 0.1986346962837924
+        },
+        {
+            "id": 1842,
+            "name": "시스템시뮬레이션",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.15727120424533614
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.12803553587427333
+        },
+        {
+            "id": 394,
+            "name": "운영체제",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.101443697699969
+        },
+        {
+            "id": 4101,
+            "name": "도시림관리학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산림환경과학과",
+            "similarity": 0.22684482816852203
+        },
+        {
+            "id": 4543,
+            "name": "패턴CAD",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "의류학과",
+            "similarity": 0.1181459380339713
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.11301315481208218
+        },
+        {
+            "id": 1647,
+            "name": "공간관리및스마트도시정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "도시공학과",
+            "similarity": 0.11433588460207655
+        }
+    ]
+}

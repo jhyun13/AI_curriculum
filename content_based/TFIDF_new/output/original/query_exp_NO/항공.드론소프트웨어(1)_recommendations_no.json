@@ -1,0 +1,126 @@
+{
+    "meta_info": {
+        "user_query": "최근 드론은 군사 및 보안 분야에서 자율 정찰, 감시, 무인 경계 시스템 등으로 활용되고 있으며, AI와 결합하여 스마트 감시 및 자동 대응 시스템으로 발전하고 있습니다. 저는 이러한 기술을 더욱 발전시켜 도시 및 국경 감시 시스템, 응급 구조 드론, 재난 지역 자동 탐색 및 구조 드론 등을 개발하는 데 기여하고 싶습니다. 이를 위해 임베디드 시스템 설계, AI 기반 영상 분석, 드론의 네트워크 통신 및 실시간 제어 시스템, IoT 기반 센서 네트워크, 머신러닝을 활용한 자동 탐색 알고리즘 등을 배워야 할 것 같은데, 구체적으로 어떤 학습이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "항공우주공학과",
+            "생물산업기계공학과",
+            "컴퓨터인공지능학부",
+            "기계시스템공학부",
+            "산업정보시스템공학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 2386,
+            "name": "스마트팩토리(IoT)개론",
+            "description": "스마트 팩토리의 기본 개념과 구조를 이해하고, 스마트 팩토리와 관련된 다양한 기술들을 학습한다.",
+            "curriculum": "스마트 팩토리 발생 배경.\n스마트 팩토리 구조YUMMI센서YUMMI네트워크 프로토콜: 인터넷 프로토콜YUMMI네트워크 프로토콜: 인터넷 프로토콜YUMMIIoT 프로토콜: Bluetooth, ZigBeeYUMMIIoT 프로토콜: Bluetooth, ZigBeeYUMMIIoT 프로토콜: SigFox, LoraWANYUMMI중간고사YUMMI메시징 프로토콜: MQTT, CoAPYUMMI메시징 프로토콜: MQTT, CoAPYUMMIIoT 플랫폼과 클라우드 컴퓨터YUMMIIoT 플랫폼과 클라우드 컴퓨터YUMMI인공지능YUMMI인공지능YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "full_text": "스마트팩토리(IoT)개론 스마트 팩토리의 기본 개념과 구조를 이해하고, 스마트 팩토리와 관련된 다양한 기술들을 학습한다.",
+            "similarity": 0.12945920129696323
+        },
+        {
+            "id": 2914,
+            "name": "열역학 2",
+            "description": "열역학1에서 다룬 검사체적, 온도,압력, 상태량(내부에너지, 비체적, 엔탈피,엔트로피)의 개념을 기본으로\n응용된 증기/기체 동력시스템, 냉동 및 열펌프 시스템, 연소 시스템 등에 관해 학습한다.",
+            "curriculum": "1. 교수 및 수업 소개\n2. 열역학1 개념복습YUMMIChapter 7. 액서지 해석1YUMMIChapter 7. 액서지 해석2YUMMIChapter 8. 증기동력 시스템1YUMMIChapter 8. 증기동력 시스템2YUMMIChapter 9. 기체동력 시스템1 - 사이클해석YUMMIChapter 9. 기체동력 시스템2 / 중간고사대비 요약YUMMI중간고사YUMMIChapter 10. 냉동 및 열펌프 시스템1YUMMIChapter 10. 냉동 및 열펌프 시스템2YUMMIChapter 12. 이상기체 혼합물과 습공기1YUMMIChapter 12. 이상기체 혼합물과 습공기2YUMMIChapter 13. 반응혼합물 및 연소1 - 화학반응의 기초 및 단열 화염 온도 계산YUMMIChapter 13. 반응혼합물 및 연소2 / 기말고사대비 요약YUMMI기말 고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "기계시스템공학부",
+            "full_text": "열역학 2 열역학1에서 다룬 검사체적, 온도,압력, 상태량(내부에너지, 비체적, 엔탈피,엔트로피)의 개념을 기본으로\n응용된 증기/기체 동력시스템, 냉동 및 열펌프 시스템, 연소 시스템 등에 관해 학습한다.",
+            "similarity": 0.17187455175398528
+        },
+        {
+            "id": 3117,
+            "name": "모바일프로그래밍",
+            "description": "태블릿 및 스마트폰과 같은 모바일 시스템 위에서 동작하는 응용 프로그램을 만들기 위한 과정을 학습합니다.",
+            "curriculum": "수업 개요 및 안드로이드 OS 의 특징 소개YUMMI안드로이드 스튜디오 설치 및 사용YUMMIHello world 앱 구현 및 단말 연결 실습YUMMI레이아웃 익히기YUMMI위젯 및 이벤트 관리YUMMI안드로이드 화면 전환 익히기YUMMI프래그먼트 실습YUMMI서비스 및 브로드캐스트 리시버 관리YUMMI중간 시험 평가 YUMMI위젯 응용 및 애니메이션 관리YUMMI스레드 및 핸들러의 이해YUMMI네트워크 프로그램 구현YUMMI단말과의 DB, 그래픽 및 멀티미디어 연동YUMMI팀 프로젝트 준비YUMMI팀 프로젝트 발표YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "모바일프로그래밍 태블릿 및 스마트폰과 같은 모바일 시스템 위에서 동작하는 응용 프로그램을 만들기 위한 과정을 학습합니다.",
+            "similarity": 0.12262434742489658
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "description": " 본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "curriculum": "Introduction & problem-solving by searchingYUMMIProblem-solving: Uninformed/Informed Search, Advanced searchYUMMIProblem-solving: Adversarial Search, Constraint satisfaction problemYUMMISymbolic AI: First order logicYUMMISymbolic AI: Inference in FOLYUMMIMachine Learning: Linear classification, logistic regressionYUMMIMidtermYUMMIMachine Learning: Deep learning basics - Feedforward neural networks, Backpropagation, Convolutional networksYUMMIProbabilistic reasonsing: Bayesian networks & InferenceYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIReinforcement learning: Monte carlo learning/Termporal difference learningYUMMIReinforcement learning: Policy gradient methods, Deep Q networksYUMMIGame theory, evolutionary computation, & AI YUMMIFinaltermYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인공지능  본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "similarity": 0.16966389293140632
+        },
+        {
+            "id": 1583,
+            "name": "컴퓨터네트워크",
+            "description": "본 과목은 데이터통신과 연계되는 과목으로 지난 학기에 이어 TCP/IP 계층 구조 중 네트워크 계층 , 전송계층 , 그리고 응용 계층에 대해서 다룬다. \n이론을 중심으로 오늘날 인터넷 및 네트워크 구축 및 운용에 활용되는 핵심적인 개념을 이해하고, 해당 기능 중 일부를 실습하는 것을 목적으로 한다",
+            "curriculum": "강의 개요YUMMI네트워크 계층과 인터넷YUMMI네트워크 계층 프로토콜YUMMI유니캐스트 라우팅YUMMIIP Version 6YUMMI전송 계층 개요YUMMI전송 계층 프로토콜YUMMI전송 계층 프로토콜/중간고사YUMMI응용 계층 소개YUMMI표준 클라이언트YUMMI멀티 미디어YUMMI네트워크 관리YUMMI암호학과 네트워크 보안YUMMI서비스 품질YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "컴퓨터네트워크 본 과목은 데이터통신과 연계되는 과목으로 지난 학기에 이어 TCP/IP 계층 구조 중 네트워크 계층 , 전송계층 , 그리고 응용 계층에 대해서 다룬다. \n이론을 중심으로 오늘날 인터넷 및 네트워크 구축 및 운용에 활용되는 핵심적인 개념을 이해하고, 해당 기능 중 일부를 실습하는 것을 목적으로 한다",
+            "similarity": 0.14141249116913188
+        },
+        {
+            "id": 3303,
+            "name": "메카트로닉스및실험",
+            "description": "메카트로닉스 구성요소인 센서 및 신호처리, 구동기, 컴퓨터 인터페이스 등에 관한 기초지식을 습득하고 시스템 구현을 위한 설계 및 하드웨어 실장과정을 이해한다. ",
+            "curriculum": "메카트로닉스 개요 및 항공우주분야 응용사례소개 YUMMI시스템 응답 : 계측시스템, 1차 및 2차 동적 시스템의 응답특성 YUMMI아날로그 신호처리 : OP-Amp 이용 기본연산, 신호처리 기초 YUMMI데이터 수집 : 정량화 원리, A/D 및 D/A, DAQ 디바이스 및 소프트웨어 YUMMI센서 I : 위치, 속도, 응력, 변형률 측정 YUMMI\n\n센서 II : 온도, 진동, 가속도 측정 YUMMI구동기(actuator) : 전자기의 원리, 직류모터 및 모터선정, 스텝모터, 유압 및 공압, 압전구동기 등YUMMI교과목 상담 YUMMI종합시험 YUMMILabVIEW 기초 YUMMILabVIEW 활용 (My-Rio)YUMMIMicro Vehicle  실습 (IR Sensor 보정, 모터 제어, 주행 재어 및 장애물 탐지)YUMMIMicro Vehicle  실습 (IR Sensor 보정, 모터 제어, 주행 재어 및 장애물 탐지)YUMMI실습 결과 발표회YUMMI종합토론YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "메카트로닉스및실험 메카트로닉스 구성요소인 센서 및 신호처리, 구동기, 컴퓨터 인터페이스 등에 관한 기초지식을 습득하고 시스템 구현을 위한 설계 및 하드웨어 실장과정을 이해한다. ",
+            "similarity": 0.1599454600889101
+        },
+        {
+            "id": 2311,
+            "name": "임베디드시스템",
+            "description": "본 수업은 임베디드 시스템(내장형 시스템)의 내부 구성 요소와 그 동작 방법에 대한 기본 개념을 소개 하고 임베디드 시스템의 구동 및 제어 방법을 실습한다. 이를 위해 다양한 유형의 IoT 디바이스를 직접 개발 할 수 있는 초소형 컴퓨터인 라즈베리파이를 활용하여 다양한 센서와 액추에이터들을 직접 제어 할 수 있는 프로그래밍 기법을 익힌다. 이를 통해 임베디드 컴퓨팅에 대한 전반적인 이해 뿐만 아니라, 임베디드 컴퓨팅을 활용한 다양한 IoT 디바이스를 직접 제작할 수 있는 능력을 배양한다. \n강의 초반에는 임베디드 시스템의 주요 부분에 대한 개괄적인 내용을 습득하고, 이후 파이썬 언어에 대한 수업이 진행된다. 중간 고사 이후에는 라즈베리 파이를 이용하여 초음파 센서, 온도 센서 등 다양한 센서를 통해 현실세계의 데이터를 직접 입력 받아 이를 통해 액추에이터가 원하는 동작을 수행 할 수 있는 임베디드 프로그램을 직접 작성하고, 이를 이용하여 다양한 유형의 IoT 디바이스 제작 프로젝트를 수행한다.\n\n** 모든 수업 자료 및 공지사항은 LMS (https://ieilms.jbnu.ac.kr/)를 활용합니다.\n** J-Edutools  활용 예정 ",
+            "curriculum": "** 주차별 강의 내용과 일정은 상황에 따라 변경 될 수 있습니다. \n\n임베디드 시스템의 전체적인 내용과 기술 트렌드를 이해한다. YUMMI대표적인 임베디드 프로세서인 ARM을 이해한다. YUMMI라즈베라파이 보드의 특징과 구성을 이해한다YUMMI퀴즈YUMMI라즈베리파이의 개발 환경을 소개하고 개발 환경을 셋업한다.YUMMI라즈베리파이의 센서구성및 기초 회로구성을 이해한다.YUMMI라즈베리파이의 GPIO를 활용한 센서 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 GPIO를 활용한 센서 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 모터 및 그외 다양한 센서의 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 모터 및 그외 다양한 센서의 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 모터 및 그외 다양한 센서의 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 모터 및 그외 다양한 센서의 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMIProject 수행 YUMMIProject 수행 YUMMIProject 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "임베디드시스템 본 수업은 임베디드 시스템(내장형 시스템)의 내부 구성 요소와 그 동작 방법에 대한 기본 개념을 소개 하고 임베디드 시스템의 구동 및 제어 방법을 실습한다. 이를 위해 다양한 유형의 IoT 디바이스를 직접 개발 할 수 있는 초소형 컴퓨터인 라즈베리파이를 활용하여 다양한 센서와 액추에이터들을 직접 제어 할 수 있는 프로그래밍 기법을 익힌다. 이를 통해 임베디드 컴퓨팅에 대한 전반적인 이해 뿐만 아니라, 임베디드 컴퓨팅을 활용한 다양한 IoT 디바이스를 직접 제작할 수 있는 능력을 배양한다. \n강의 초반에는 임베디드 시스템의 주요 부분에 대한 개괄적인 내용을 습득하고, 이후 파이썬 언어에 대한 수업이 진행된다. 중간 고사 이후에는 라즈베리 파이를 이용하여 초음파 센서, 온도 센서 등 다양한 센서를 통해 현실세계의 데이터를 직접 입력 받아 이를 통해 액추에이터가 원하는 동작을 수행 할 수 있는 임베디드 프로그램을 직접 작성하고, 이를 이용하여 다양한 유형의 IoT 디바이스 제작 프로젝트를 수행한다.\n\n** 모든 수업 자료 및 공지사항은 LMS (https://ieilms.jbnu.ac.kr/)를 활용합니다.\n** J-Edutools  활용 예정 ",
+            "similarity": 0.23154143502965616
+        },
+        {
+            "id": 2406,
+            "name": "네트워크보안",
+            "description": "네트워크 보안 기술에 관한 기본 개념 및 응용 방법 이해",
+            "curriculum": "네트워크 보안 개요YUMMI네트워크에 대한 이해YUMMIWhois와 DNSYUMMIIP 주소 추적YUMMI목록화YUMMI스니핑YUMMI중간 고사YUMMI스푸핑YUMMI터널링YUMMI세션 하이재킹YUMMIDoS와 DDoS 공격YUMMI방화벽YUMMI네트워크 장비의 보안 설정YUMMI침입 탐지 및 모니터링YUMMI기말 고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "네트워크보안 네트워크 보안 기술에 관한 기본 개념 및 응용 방법 이해",
+            "similarity": 0.19799951832050816
+        },
+        {
+            "id": 9,
+            "name": "신뢰성공학",
+            "description": "시스템의 신뢰도 분석 및 수명데이터 분석을 위한 신뢰성 이론에 대해 학습한다. 주요 논제로는 신뢰도 함수와 고장률, 시스템 신뢰도, 고장해석, 보전성과 가동성, 수명자료 분석, 가속수명시험 등이다. 품질경영기사자격증 취득을 위한 필수 교과목이며, 실무능력 향상을 위해 미니탭을 활용한 수명데이터 분석에 대해서도 학습한다.",
+            "curriculum": "신뢰성의 개념YUMMI고장률과 고장확률밀도함수YUMMI고장률과 고장확률밀도함수, 보전성과 가동성YUMMI보전성과 가동성, 신뢰성 시험과 추정YUMMI신뢰성 시험과 추정YUMMI신뢰성 시험과 추정YUMMI신뢰성 시험과  추정YUMMI중간시험YUMMI신뢰성 시험과 추정, 신뢰성 데이터 분석(미니탭)YUMMI신뢰성 데이터 분석(미니탭), 신뢰성 샘플링 검사YUMMI시스템의 신뢰도YUMMI시스템의 신뢰도, 신뢰성 설계와 관리YUMMI신뢰성 설계와 관리, 고장해석기법YUMMI\n고장해석기법YUMMI기말시험YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "full_text": "신뢰성공학 시스템의 신뢰도 분석 및 수명데이터 분석을 위한 신뢰성 이론에 대해 학습한다. 주요 논제로는 신뢰도 함수와 고장률, 시스템 신뢰도, 고장해석, 보전성과 가동성, 수명자료 분석, 가속수명시험 등이다. 품질경영기사자격증 취득을 위한 필수 교과목이며, 실무능력 향상을 위해 미니탭을 활용한 수명데이터 분석에 대해서도 학습한다.",
+            "similarity": 0.10459643312322912
+        },
+        {
+            "id": 4308,
+            "name": "시스템보안",
+            "description": "컴퓨터 시스템에서 서비스 제공을 위한 프로그램 개발과 관련된 보안 이슈, 그리고 시스템 운영과 관련된 보안 설정에 대해 학습한다. ",
+            "curriculum": "시스템 해킹 기초 지식YUMMI시스템 해킹 기초 지식YUMMI시스템 해킹 기초 지식YUMMI시스템 해킹YUMMI시스템 해킹YUMMI시스템 해킹YUMMI중간고사YUMMI시스템 해킹YUMMI시스템 해킹YUMMI시스템 해킹YUMMI운영체제 보안YUMMI운영체제 보안YUMMI운영체제 보안YUMMI운영체제 보안YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "시스템보안 컴퓨터 시스템에서 서비스 제공을 위한 프로그램 개발과 관련된 보안 이슈, 그리고 시스템 운영과 관련된 보안 설정에 대해 학습한다. ",
+            "similarity": 0.19055186433472615
+        }
+    ]
+}

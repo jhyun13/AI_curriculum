@@ -1,0 +1,210 @@
+{
+    "meta_info": {
+        "user_query": "독일과의 무역을 전문으로 하는 무역 전문가가 되어 한국 기업의 유럽 시장 진출을 돕고 싶어요. 어떤 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1839,
+            "name": "조경제도및표현기법",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.11218376485166229
+        },
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.1758934187660187
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.10931745585315064
+        },
+        {
+            "id": 1877,
+            "name": "해외직접투자론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.1012423987397197
+        },
+        {
+            "id": 2913,
+            "name": "기업경제학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.16177835479108868
+        },
+        {
+            "id": 3738,
+            "name": "서양중세사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.1176013523427919
+        },
+        {
+            "id": 4128,
+            "name": "환경토양물리",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "지역건설공학과",
+            "similarity": 0.11172422706918901
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10489573923037732
+        },
+        {
+            "id": 2423,
+            "name": "산업조직론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.18110995749821604
+        },
+        {
+            "id": 47,
+            "name": "고전시가론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.16953887182460944
+        },
+        {
+            "id": 2081,
+            "name": "미디어직업론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.14483695869365742
+        },
+        {
+            "id": 1713,
+            "name": "마케팅조사분석론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.11853418308127411
+        },
+        {
+            "id": 372,
+            "name": "현대한국의과학발전",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "과학학과",
+            "similarity": 0.1017601237304632
+        },
+        {
+            "id": 4371,
+            "name": "유럽현대예술과문화",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.15920630409319028
+        },
+        {
+            "id": 2797,
+            "name": "프랑스소설",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.12346353785653204
+        },
+        {
+            "id": 3697,
+            "name": "농산업기업가론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.11318384199958902
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.15903873374749866
+        },
+        {
+            "id": 367,
+            "name": "한국정치사상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "정치외교학과",
+            "similarity": 0.11940499672149996
+        },
+        {
+            "id": 2024,
+            "name": "한국건축사",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "건축공학과",
+            "similarity": 0.10642452535627729
+        },
+        {
+            "id": 1703,
+            "name": "회계및재무분석론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.10035223673872047
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.305636840313893
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.25194391505285096
+        },
+        {
+            "id": 3874,
+            "name": "식품산업조직론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.1769226790664439
+        },
+        {
+            "id": 2699,
+            "name": "고전산문론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.1434342929342858
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1379988414423849
+        }
+    ]
+}

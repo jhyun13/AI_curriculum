@@ -1,0 +1,146 @@
+{
+    "meta_info": {
+        "user_query": "문헌 데이터베이스를 구축하고 한국 문헌을 디지털화하는 프로젝트를 수행하고 싶어요. 관련된 기술과 학습 과정은 무엇인가요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 928,
+            "name": "감각과지각",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "심리학과",
+            "similarity": 0.1323351028517988
+        },
+        {
+            "id": 1065,
+            "name": "신재생에너지개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "신소재공학부(전자재료공학)",
+            "similarity": 0.10383732571601478
+        },
+        {
+            "id": 1450,
+            "name": "데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.3097414950798144
+        },
+        {
+            "id": 47,
+            "name": "고전시가론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.18363452910410907
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.1365032761354345
+        },
+        {
+            "id": 372,
+            "name": "현대한국의과학발전",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "과학학과",
+            "similarity": 0.11022057774544548
+        },
+        {
+            "id": 1183,
+            "name": "데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.10769370628434043
+        },
+        {
+            "id": 4974,
+            "name": "종자학및실험",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "작물생명과학과",
+            "similarity": 0.1756276856159198
+        },
+        {
+            "id": 4648,
+            "name": "고전소설론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.17435460394420008
+        },
+        {
+            "id": 2024,
+            "name": "한국건축사",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "건축공학과",
+            "similarity": 0.11527278310042108
+        },
+        {
+            "id": 673,
+            "name": "프로젝트랩응용종합설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.10108599653988065
+        },
+        {
+            "id": 2483,
+            "name": "프로젝트랩종합설계 1",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.10108599653988065
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.15616468185870794
+        },
+        {
+            "id": 2699,
+            "name": "고전산문론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "국어국문학과",
+            "similarity": 0.1553595854266213
+        },
+        {
+            "id": 2498,
+            "name": "한국정치의쟁점",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.12997553449191449
+        },
+        {
+            "id": 3200,
+            "name": "식물유전자원보존학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "작물생명과학과",
+            "similarity": 0.12272039063726489
+        },
+        {
+            "id": 3418,
+            "name": "한국주거사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "주거환경학과",
+            "similarity": 0.11767939948498593
+        }
+    ]
+}

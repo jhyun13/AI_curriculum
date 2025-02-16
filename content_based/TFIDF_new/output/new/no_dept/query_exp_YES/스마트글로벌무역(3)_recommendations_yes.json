@@ -1,0 +1,266 @@
+{
+    "meta_info": {
+        "user_query": "국제 시장에서는 환율 변동, 경제 정책 변화, 금융 흐름 등의 다양한 변수가 작용합니다. 인공지능과 데이터 분석을 활용하여 글로벌 시장 변화를 예측하고, 확률·통계를 활용해 투자 결정을 최적화하며, 무역 데이터를 분석하여 기업이 최적의 전략을 수립할 수 있도록 하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "국제 시장에서는 환율 변동, 경제 정책 변화, 금융 흐름 등의 다양한 변수가 작용합니다. 인공지능과 데이터 분석을 활용하여 글로벌 시장 변화를 예측하고, 확률·통계를 활용해 투자 결정을 최적화하며, 무역 데이터를 분석하여 기업이 최적의 전략을 수립할 수 있도록 하려면 어떤 학습 과정이 필요할까요? 글로벌 시장 변화 예측 및 최적 투자 결정 수행 능력 함양 데이터 분석 및 인공지능을 활용한 글로벌 투자 전략 개발 금융 데이터 분석 금융 데이터 분석가 금융 데이터 분석가는 글로벌 금융 시장의 데이터를 수집하고 분석하여 경제 정책, 환율 변동, 금융 흐름 등에 대한 통찰을 제공하며, 인공지능 및 통계 기법을 활용해 기업의 투자 결정을 최적화하는 책임을 진다. 글로벌 시장 흐름 분석, 인공지능 모델링, 투자 전략 최적화, 통계 분석 데이터 분석, 기계 학습, 확률 및 통계 프로그래밍(파이썬, R), 데이터 시각화, 공급망 분석 경제학 기초 회귀 분석 및 시계열 분석 머신 러닝 알고리즘 국제 무역 및 금융 정책 데이터 분석 도구(예: Pandas, NumPy) 인공지능 플랫폼(예: TensorFlow, PyTorch)",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.2075397079078439
+        },
+        {
+            "id": 2544,
+            "name": "통계학입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.184775560445079
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.3429687876243496
+        },
+        {
+            "id": 354,
+            "name": "데이터구조및프로그래밍실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.21854243544270383
+        },
+        {
+            "id": 2219,
+            "name": "결정학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "신소재공학부(전자재료공학)",
+            "similarity": 0.15156854463412262
+        },
+        {
+            "id": 225,
+            "name": "분석화학실험",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "화학과",
+            "similarity": 0.10994656681419576
+        },
+        {
+            "id": 909,
+            "name": "빅데이터개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.10562624394068837
+        },
+        {
+            "id": 3247,
+            "name": "행정통계학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.2669894037938727
+        },
+        {
+            "id": 4547,
+            "name": "디지털스토리텔링과데이터시각화",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.16094454772793373
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1476738835053024
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.14703426402871628
+        },
+        {
+            "id": 2864,
+            "name": "위성영상처리및실습",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "지구환경과학과",
+            "similarity": 0.14028776378797414
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.15398999719617132
+        },
+        {
+            "id": 2192,
+            "name": "데이터시각화",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.142919183114394
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.12838939871227872
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.12059053625158163
+        },
+        {
+            "id": 444,
+            "name": "기계공학실험",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.1117237201584514
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.23403587220362493
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.21660143455297312
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.20654646677733168
+        },
+        {
+            "id": 4106,
+            "name": "스마트농업프로그래밍",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.16443143764280754
+        },
+        {
+            "id": 4354,
+            "name": "생체영상처리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.1539918433514555
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.2815520846250358
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.25022416170542083
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.19826928043451703
+        },
+        {
+            "id": 1034,
+            "name": "미생물생명정보학 1",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생명공학부",
+            "similarity": 0.19252120700456066
+        },
+        {
+            "id": 1125,
+            "name": "소셜빅데이터분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회학과",
+            "similarity": 0.1820510551903917
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.18310287932787633
+        },
+        {
+            "id": 3098,
+            "name": "한국사회분석실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.17335123017320028
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.16256875714881458
+        },
+        {
+            "id": 3333,
+            "name": "도시부동산학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.1571473361610482
+        },
+        {
+            "id": 4480,
+            "name": "미래형자동차공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전기공학과",
+            "similarity": 0.1511301188979471
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "meta_info": {
+        "user_query": "철학적 사고를 기반으로 한 공공 리더십을 연구하여 정부 및 공공 기관에서 효과적인 의사 결정을 지원하는 역할을 하고 싶어요. 어떤 경험과 지식이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3377,
+            "name": "과학학의기초",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "과학학과",
+            "similarity": 0.1283873125820799
+        },
+        {
+            "id": 2338,
+            "name": "회계와비주얼베이직",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "회계학과",
+            "similarity": 0.1167538740907918
+        },
+        {
+            "id": 4970,
+            "name": "언어철학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "철학과",
+            "similarity": 0.10606465053067969
+        },
+        {
+            "id": 4398,
+            "name": "회계정보시스템",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.10448580826948886
+        },
+        {
+            "id": 1014,
+            "name": "논리와철학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "철학과",
+            "similarity": 0.14701735665006166
+        },
+        {
+            "id": 551,
+            "name": "식물보호곤충학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "농생물학과",
+            "similarity": 0.11506706578713173
+        },
+        {
+            "id": 3587,
+            "name": "PR과전략커뮤니케이션",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.1530507485540189
+        },
+        {
+            "id": 3418,
+            "name": "한국주거사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "주거환경학과",
+            "similarity": 0.1400764245837078
+        }
+    ]
+}

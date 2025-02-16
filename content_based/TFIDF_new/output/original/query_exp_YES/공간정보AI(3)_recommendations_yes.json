@@ -1,0 +1,35 @@
+{
+    "meta_info": {
+        "user_query": "도시 환경 분석을 위한 AI 모델을 구축하는 연구자가 되고 싶어요. 컴퓨터 비전, 데이터 마이닝, 인공지능을 배우면서 어떤 방향으로 연구를 진행하면 좋을까요?",
+        "expanded_query": "도시 환경 분석을 위한 AI 모델을 구축하는 연구자가 되고 싶어요. 컴퓨터 비전, 데이터 마이닝, 인공지능을 배우면서 어떤 방향으로 연구를 진행하면 좋을까요? 도시 환경 분석을 위한 AI 모델 구축 능력 함양. AI 모델을 활용한 도시 환경 분석 연구 수행. 인공지능 및 도시 환경 분석 연구. 도시 환경 AI 연구자 도시 환경 분석을 위한 고급 AI 모델의 개발 및 연구 수행. AI 기술을 활용하여 도시 데이터의 효율적 처리와 분석. 도시 환경에 대한 데이터 수집 및 사전 처리. 인공지능 모델 설계 및 최적화. 컴퓨터 비전 및 데이터 마이닝 기술을 적용한 데이터 분석. 인공지능, 데이터 마이닝, 컴퓨터 비전. 머신러닝 알고리즘 설계, 프로그래밍 능력, 데이터 분석 및 해석 능력. 인공지능 이론, 머신러닝 기법, 데이터 마이닝 기법. 심층 신경망, 지도 및 비지도 학습, 데이터 처리 및 전처리 기법. Python, TensorFlow, PyTorch 등 AI 개발 도구 사용법. 컴퓨터 비전 응용 및 활용법, 대규모 데이터 세트 처리 기술.",
+        "given_departments": null,
+        "selected_departments": [
+            "도시공학과",
+            "컴퓨터인공지능학부"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 793,
+            "name": "인공지능",
+            "description": " 본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "curriculum": "Introduction & problem-solving by searchingYUMMIProblem-solving: Uninformed/Informed Search, Advanced searchYUMMIProblem-solving: Adversarial Search, Constraint satisfaction problemYUMMISymbolic AI: First order logicYUMMISymbolic AI: Inference in FOLYUMMIMachine Learning: Linear classification, logistic regressionYUMMIMidtermYUMMIMachine Learning: Deep learning basics - Feedforward neural networks, Backpropagation, Convolutional networksYUMMIProbabilistic reasonsing: Bayesian networks & InferenceYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIReinforcement learning: Monte carlo learning/Termporal difference learningYUMMIReinforcement learning: Policy gradient methods, Deep Q networksYUMMIGame theory, evolutionary computation, & AI YUMMIFinaltermYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인공지능  본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "similarity": 0.24346433260990016
+        },
+        {
+            "id": 4456,
+            "name": "환경계획개론",
+            "description": "본 수업은 근거기반 환경계획수립(Evidence based Environmental Planning)을 위한 도시환경 데이터 분석능력 습득에 목적이 있다.",
+            "curriculum": "도시환경/공간 데이터의 개념과 특징YUMMI환경 데이터 분석 도구 소개YUMMI환경 데이터 분석 기초YUMMI환경 데이터 분석 시각화 (1)YUMMI환경 데이터 분석 시각화 (2)YUMMI환경 데이터 기초통계 분석 (1) YUMMI환경 데이터 기초통계 분석 (2) YUMMI환경계획 연구 프로젝트: 중간발표YUMMI도시환경 데이터 통계 예측-모델링 (1)YUMMI도시환경 데이터 통계 예측-모델링 (2)YUMMI공간분석(1): 핫스팟 분석YUMMI공간분석(2): 머신러닝 군집분석YUMMI공간분석(3): 위성사진 분석YUMMI도시환경 계획 연구 프로젝트: 최종발표(1)YUMMI도시 환경계획 연구 프로젝트: 최종발표(2)YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "full_text": "환경계획개론 본 수업은 근거기반 환경계획수립(Evidence based Environmental Planning)을 위한 도시환경 데이터 분석능력 습득에 목적이 있다.",
+            "similarity": 0.11789724597629166
+        }
+    ]
+}

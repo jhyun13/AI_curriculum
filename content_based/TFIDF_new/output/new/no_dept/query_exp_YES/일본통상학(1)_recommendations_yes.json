@@ -1,0 +1,178 @@
+{
+    "meta_info": {
+        "user_query": "국제 무역에서는 단순한 경제적 접근뿐만 아니라 해당 국가의 문화와 시장 특성을 고려한 전략 수립이 필수적입니다. 일본 문화, 문학, 대중문화 등을 깊이 이해하면서 이를 무역 실무와 연계하여 실질적인 글로벌 비즈니스 경쟁력을 갖추기 위한 학습 과정은 어떻게 구성해야 할까요?",
+        "expanded_query": "국제 무역에서는 단순한 경제적 접근뿐만 아니라 해당 국가의 문화와 시장 특성을 고려한 전략 수립이 필수적입니다. 일본 문화, 문학, 대중문화 등을 깊이 이해하면서 이를 무역 실무와 연계하여 실질적인 글로벌 비즈니스 경쟁력을 갖추기 위한 학습 과정은 어떻게 구성해야 할까요? 국제 무역에서 일본의 문화와 시장 특성을 고려한 전략 수립 일본 시장에 특화된 국제 비즈니스 전문가 국제 무역 및 비즈니스 국제 무역 전문가 일본 시장을 대상으로 문화적 이해와 시장 특성에 기반한 전략을 통해 비즈니스 기회를 창출하고 관리하는 역할을 수행합니다. 일본 문화와 시장 특성을 분석하여 국제 무역 전략을 수립 및 실행, 일본 시장 내 글로벌 비즈니스 확대, 파트너십 구축 및 유지 문화 이해력, 무역 실무, 시장 분석 일본어 소통 능력, 문화 간 협상, 시장 조사 기법 국제 무역 이론, 마케팅 원칙, 경제학 기초 일본 문화 및 문학, 아시아 시장 동향, 글로벌 마케팅 전략 무역 협상 및 계약 실무, 일본 기업체 및 소비자 행동, 문화 간 커뮤니케이션",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1651,
+            "name": "일본문학번역입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.24553333386986795
+        },
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.19761976323453298
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.1552039374632246
+        },
+        {
+            "id": 4709,
+            "name": "일본단편소설강독",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "일본학과",
+            "similarity": 0.1418144455565553
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.13960285698966296
+        },
+        {
+            "id": 2423,
+            "name": "산업조직론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.24264516200569478
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.24221855446097196
+        },
+        {
+            "id": 841,
+            "name": "한일무역실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.12575765296586933
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.12147651597830625
+        },
+        {
+            "id": 3824,
+            "name": "아프리카문화와예술의이해",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.11270289271832039
+        },
+        {
+            "id": 3009,
+            "name": "일본문학과영상미디어",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "일본학과",
+            "similarity": 0.11063899203951821
+        },
+        {
+            "id": 3332,
+            "name": "일본고전문학사",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "일본학과",
+            "similarity": 0.10769645049328416
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.17964967926352116
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.1146396976204223
+        },
+        {
+            "id": 1495,
+            "name": "식품마케팅및캡스톤",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.11208860079525053
+        },
+        {
+            "id": 390,
+            "name": "일본대중소설의이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.10736096235889563
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3489580296483217
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.21701203759628981
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.17141813720128607
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.16278166554609896
+        },
+        {
+            "id": 3446,
+            "name": "일본사상과근대문명",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "일본학과",
+            "similarity": 0.16229759866192517
+        }
+    ]
+}

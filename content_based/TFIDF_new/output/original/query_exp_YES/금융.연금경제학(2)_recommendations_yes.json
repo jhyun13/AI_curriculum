@@ -1,0 +1,57 @@
+{
+    "meta_info": {
+        "user_query": "금융 시장에서는 자동화된 데이터 분석과 투자 전략이 점점 중요해지고 있습니다. Python 프로그래밍과 금융 데이터 분석 기법을 활용하여 자동화된 투자 의사결정 시스템을 구축하고, 금융 리스크를 실시간으로 관리하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "금융 시장에서는 자동화된 데이터 분석과 투자 전략이 점점 중요해지고 있습니다. Python 프로그래밍과 금융 데이터 분석 기법을 활용하여 자동화된 투자 의사결정 시스템을 구축하고, 금융 리스크를 실시간으로 관리하려면 어떤 학습 과정이 필요할까요? 자동화된 투자 의사결정 시스템의 구축 및 금융 리스크의 실시간 관리 금융 기술 전문가로서의 경력 개발 금융 기술 금융 데이터 분석가 금융 시장에서 데이터를 수집하고 분석하여 자동화된 투자 전략을 개발함으로써 금융 리스크를 효과적으로 관리하고, 투자 결정을 지원하는 시스템을 설계합니다. 데이터 수집 및 분석, 투자 전략 개발, 시스템 설계 및 구현, 리스크 관리 Python 프로그래밍, 금융 데이터 분석 Python 프로그래밍 및 데이터 시각화 머신러닝 알고리즘 적용 금융 이론 (포트폴리오 관리, 리스크 관리) 프로그래밍 기초 (특히 Python) 금융 데이터 분석 기법 금융 시장의 구조와 작동 방식 자동화된 투자 시스템 설계 및 구현 실시간 데이터 처리 및 리스크 관리 방법론",
+        "given_departments": null,
+        "selected_departments": [
+            "경제학부",
+            "통계학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "description": "미시경제학 이론에 기반한 경제 데이터 분석 능력을 기르도록 함",
+            "curriculum": "소비자 이론 : 소비자의 선호체계YUMMI소비자 이론 : 소비자의 최적선택 1YUMMI소비자 이론 : 소비자의 최적선택 2YUMMI소비자 이론 : 소비자의 최적선택 3YUMMI소비자 이론을 적용한 연구소개YUMMI데이터를 활용한 소비자 이론 분석 1YUMMI데이터를 활용한 소비자 이론 분석 2YUMMI중간고사YUMMI생산자이론 : 기업과 생산기술YUMMI생산자이론 : 생산비용 1YUMMI생산자이론 : 생산비용 2YUMMI생산자이론 : 이윤극대화YUMMI데이터를 활용한 생산자이론 추정 1YUMMI데이터를 활용한 생산자이론 추정 2YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "실증미시경제학 미시경제학 이론에 기반한 경제 데이터 분석 능력을 기르도록 함",
+            "similarity": 0.1279783894726335
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "description": "부동산 시장 및  자산에 대한 이해를 높이고 부동산 가치평가, 투자 및 금융 지식 배양을 통한 실무역량 습득을 주요 목표로 한다.   ",
+            "curriculum": "강의개요 및 화폐의 시간가치 이해 YUMMI부동산가치평가 이해YUMMI부동산투자분석 이해YUMMI재무레버리지 이해YUMMI수익용 부동산 투자에서 세금의 영향 이해YUMMI실물옵션의 이해YUMMI중간모의시험YUMMI중간고사YUMMI글로벌 투자 위험관리 이해YUMMI모기지분석 이해YUMMI부동산증권화 이해YUMMI기업부동산 금융의 이해YUMMI부동산 Project Financing 이해YUMMI기말모의시험YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "부동산금융 부동산 시장 및  자산에 대한 이해를 높이고 부동산 가치평가, 투자 및 금융 지식 배양을 통한 실무역량 습득을 주요 목표로 한다.   ",
+            "similarity": 0.3318312660526367
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "description": "금융 및 거시경제 데이터를 분석할 수 있는 역량을 키우는 것을 목표로 함. \n이론 이외에도 데이터를 분석을 위한 R 프로그래밍 능력을 향상시키는 것이 목표임.  ",
+            "curriculum": "금융시계열분석 및 R 프로그래밍 소개YUMMIAR models 이해YUMMIMA models 이해YUMMIARMA models 이해YUMMIARCH models 이해\n YUMMIGARCH models 이해YUMMIOther Volatility models 이해YUMMI중간고사 (향후 다시 공지할 예정)YUMMIVAR models 이해YUMMIVAR models 이해\n YUMMIVAR models 이해YUMMIState Space models 이해YUMMIState Space models 이해YUMMIState Space models 이해YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "금융시계열분석 금융 및 거시경제 데이터를 분석할 수 있는 역량을 키우는 것을 목표로 함. \n이론 이외에도 데이터를 분석을 위한 R 프로그래밍 능력을 향상시키는 것이 목표임.  ",
+            "similarity": 0.26263565006564854
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "description": "데이터 사이언스에 필수적인 데이터 마이닝에 방법론을 익히고 적용능력을 키움.\n시각화 및 EDA, 협업 필터링, 연과규칙 분석, 차원축소법, 군집분석, 이상치 탐색 등을 다룸.  ",
+            "curriculum": "소개 및 목표YUMMI데이터 시각화 YUMMI데이터 시각화 YUMMIEDAYUMMI협업필터링YUMMI협업필터링YUMMI연관규칙 분석YUMMI연관규칙 분석 및 중간고사YUMMI주성분 분석YUMMI비선형 차원 축소법YUMMI군집분석 (1)YUMMI군집분석 (2)YUMMI군집분석 (3)YUMMI이상치 탐색 (1)YUMMI이상치 탐색 (2)\n기말발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "데이터마이닝 데이터 사이언스에 필수적인 데이터 마이닝에 방법론을 익히고 적용능력을 키움.\n시각화 및 EDA, 협업 필터링, 연과규칙 분석, 차원축소법, 군집분석, 이상치 탐색 등을 다룸.  ",
+            "similarity": 0.1813982837153429
+        }
+    ]
+}

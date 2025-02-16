@@ -1,0 +1,135 @@
+{
+    "meta_info": {
+        "user_query": "최근 드론은 군사 및 보안 분야에서 자율 정찰, 감시, 무인 경계 시스템 등으로 활용되고 있으며, AI와 결합하여 스마트 감시 및 자동 대응 시스템으로 발전하고 있습니다. 저는 이러한 기술을 더욱 발전시켜 도시 및 국경 감시 시스템, 응급 구조 드론, 재난 지역 자동 탐색 및 구조 드론 등을 개발하는 데 기여하고 싶습니다. 이를 위해 임베디드 시스템 설계, AI 기반 영상 분석, 드론의 네트워크 통신 및 실시간 제어 시스템, IoT 기반 센서 네트워크, 머신러닝을 활용한 자동 탐색 알고리즘 등을 배워야 할 것 같은데, 구체적으로 어떤 학습이 필요할까요?",
+        "expanded_query": "최근 드론은 군사 및 보안 분야에서 자율 정찰, 감시, 무인 경계 시스템 등으로 활용되고 있으며, AI와 결합하여 스마트 감시 및 자동 대응 시스템으로 발전하고 있습니다. 저는 이러한 기술을 더욱 발전시켜 도시 및 국경 감시 시스템, 응급 구조 드론, 재난 지역 자동 탐색 및 구조 드론 등을 개발하는 데 기여하고 싶습니다. 이를 위해 임베디드 시스템 설계, AI 기반 영상 분석, 드론의 네트워크 통신 및 실시간 제어 시스템, IoT 기반 센서 네트워크, 머신러닝을 활용한 자동 탐색 알고리즘 등을 배워야 할 것 같은데, 구체적으로 어떤 학습이 필요할까요? 드론 개발과 활용을 위한 IoT 및 AI 기술 완전 학습 고급 드론 기술을 바탕으로 한 감시 및 구조 시스템 개발 드론 기술 및 관련 시스템 엔지니어링 드론 시스템 엔지니어 드론 시스템 엔지니어는 드론을 활용한 감시 및 구조 시스템의 설계 및 발전을 담당하며, AI와 네트워크 통신 기술을 통합하여 실시간 자동화 및 효율성을 극대화하는 역할을 수행합니다. 드론 설계 및 시스템 통합 AI 기반 영상 및 데이터 분석 시스템 개발 실시간 드론 제어 및 네트워크 통신 최적화 IoT 및 센서 네트워크 구축 및 관리 임베디드 시스템 설계 AI 기반 영상 분석 드론 네트워크 통신 실시간 제어 시스템 IoT 기반 센서 네트워크 머신러닝 기반 자동 탐색 알고리즘 시스템 집중 통합 및 최적화 능력 드론 하드웨어 및 소프트웨어 융합 기술 임베디드 시스템 및 마이크로컨트롤러 인공지능 및 기계 학습 이론 네트워크 통신 기초 및 프로토콜 고급 영상 처리 기법 드론 항공역학 및 비행 제어 시스템 실시간 시스템 통합 및 디버깅 IoT 센서 데이터 관리 및 분석 머신러닝을 활용한 실무적 알고리즘 구현 및 최적화",
+        "given_departments": null,
+        "selected_departments": [
+            "항공우주공학과",
+            "컴퓨터인공지능학부",
+            "생물산업기계공학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4287,
+            "name": "디지털농업기계개론",
+            "description": "수강생들은 본 강의에서 다음 내용을 습득한다\no. 디지털 농업 및 농업기계의 개념을 이해함\no. 다양한 디지털 농업기계 시스템 개발에 필요한 핵심 기술을 이해함\no. 보고서 작성에 필요한 자료 탐색 방법과 보고서 작성 요령을 익힘",
+            "curriculum": "디지털 농업기계 이해 및 활용 능력 배양YUMMI4차산업혁명기술 이해 및 활용 능력 배양YUMMI디지털 농업 이해 YUMMI농업기계와 디지털 기술 이해YUMMI스마트팜 이해 YUMMI농업용 로봇 이해 YUMMI농업용 로봇 활용 능력 배양YUMMI중간시험YUMMI디지털 농업 핵심기술-컨트롤러 이해YUMMI디지털 농업 핵심기술-센서 이해YUMMI디지털 농업 핵심기술-구동기 이해YUMMI디지털 농업 핵심기술-SW 이해YUMMI프로젝트 발표-1YUMMI프로젝트 발표-2YUMMI보고서 제출YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "full_text": "디지털농업기계개론 수강생들은 본 강의에서 다음 내용을 습득한다\no. 디지털 농업 및 농업기계의 개념을 이해함\no. 다양한 디지털 농업기계 시스템 개발에 필요한 핵심 기술을 이해함\no. 보고서 작성에 필요한 자료 탐색 방법과 보고서 작성 요령을 익힘",
+            "similarity": 0.1125525793937758
+        },
+        {
+            "id": 818,
+            "name": "리눅스프로그래밍",
+            "description": "리눅스 시스템에서의 프로그래밍을 학습한다. 본 수업의 목표는 다음과 같다. \n1) 리눅스 환경에서 CLI 사용 능력 배양, 2) 리눅스 OS 사용 능력 및 시스템 이해, 3) 리눅스 환경에서의 네트워크 서비스 관리",
+            "curriculum": "수업 소개\n리눅스 개요 및 설치YUMMI리눅스 시스템과 명령YUMMI디렉토리와 파일YUMMI시스템 사용자와 권한YUMMI프로세스와 재지정YUMMI기타 리눅스 명령어YUMMI리눅스 환경에서의 C언어 프로그래밍 이해YUMMI중간고사YUMMI시스템콜의 기초 / 파일 입출력1YUMMI파일 입출력2YUMMI동적 메모리 관리\n프로세스 관리YUMMIIPC – 시그널, 공유메모리YUMMIIPC – 소켓\n스레드YUMMI병렬 프로그래밍과 스레드YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "리눅스프로그래밍 리눅스 시스템에서의 프로그래밍을 학습한다. 본 수업의 목표는 다음과 같다. \n1) 리눅스 환경에서 CLI 사용 능력 배양, 2) 리눅스 OS 사용 능력 및 시스템 이해, 3) 리눅스 환경에서의 네트워크 서비스 관리",
+            "similarity": 0.12621035151557192
+        },
+        {
+            "id": 819,
+            "name": "생물응용수학",
+            "description": "1. 미분방정식의 기본개념 및 여러가지 해법 습득\n2. 시스템 모델링 및 그 해법 습득",
+            "curriculum": "서론YUMMI1계 상미분방정식의 개념 및 변수분리법YUMMI완전상미분방정식의 해법YUMMI2계 선형미분방정식의 해법YUMMI비제차 상미분방정식 및 시스템 모델링YUMMI연립상미분방정식, 상평면 및 정성법 개념YUMMI중간시험YUMMI위상평면법YUMMI비선형연립방정식에 대한 정성법YUMMI라플라스 변환 개요 (s-이동)YUMMI라플라스 변환 응용 1 (도함수와 적분의 변환. 상미분방정식 적용)YUMMI라플라스 변환 응용 2 (단위계산 함수, t-이동, 델타함수)YUMMI라플라스 변환 응용 3 (합성곱, 적분방정식)YUMMI라플라스 변환 응용 4 (연립상미분방정식 적용) 및 시스템 모델링2YUMMI기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "full_text": "생물응용수학 1. 미분방정식의 기본개념 및 여러가지 해법 습득\n2. 시스템 모델링 및 그 해법 습득",
+            "similarity": 0.1039706365741473
+        },
+        {
+            "id": 3117,
+            "name": "모바일프로그래밍",
+            "description": "태블릿 및 스마트폰과 같은 모바일 시스템 위에서 동작하는 응용 프로그램을 만들기 위한 과정을 학습합니다.",
+            "curriculum": "수업 개요 및 안드로이드 OS 의 특징 소개YUMMI안드로이드 스튜디오 설치 및 사용YUMMIHello world 앱 구현 및 단말 연결 실습YUMMI레이아웃 익히기YUMMI위젯 및 이벤트 관리YUMMI안드로이드 화면 전환 익히기YUMMI프래그먼트 실습YUMMI서비스 및 브로드캐스트 리시버 관리YUMMI중간 시험 평가 YUMMI위젯 응용 및 애니메이션 관리YUMMI스레드 및 핸들러의 이해YUMMI네트워크 프로그램 구현YUMMI단말과의 DB, 그래픽 및 멀티미디어 연동YUMMI팀 프로젝트 준비YUMMI팀 프로젝트 발표YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "모바일프로그래밍 태블릿 및 스마트폰과 같은 모바일 시스템 위에서 동작하는 응용 프로그램을 만들기 위한 과정을 학습합니다.",
+            "similarity": 0.1441280468964549
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "description": " 본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "curriculum": "Introduction & problem-solving by searchingYUMMIProblem-solving: Uninformed/Informed Search, Advanced searchYUMMIProblem-solving: Adversarial Search, Constraint satisfaction problemYUMMISymbolic AI: First order logicYUMMISymbolic AI: Inference in FOLYUMMIMachine Learning: Linear classification, logistic regressionYUMMIMidtermYUMMIMachine Learning: Deep learning basics - Feedforward neural networks, Backpropagation, Convolutional networksYUMMIProbabilistic reasonsing: Bayesian networks & InferenceYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIReinforcement learning: Monte carlo learning/Termporal difference learningYUMMIReinforcement learning: Policy gradient methods, Deep Q networksYUMMIGame theory, evolutionary computation, & AI YUMMIFinaltermYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인공지능  본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "similarity": 0.15425025521190405
+        },
+        {
+            "id": 1583,
+            "name": "컴퓨터네트워크",
+            "description": "본 과목은 데이터통신과 연계되는 과목으로 지난 학기에 이어 TCP/IP 계층 구조 중 네트워크 계층 , 전송계층 , 그리고 응용 계층에 대해서 다룬다. \n이론을 중심으로 오늘날 인터넷 및 네트워크 구축 및 운용에 활용되는 핵심적인 개념을 이해하고, 해당 기능 중 일부를 실습하는 것을 목적으로 한다",
+            "curriculum": "강의 개요YUMMI네트워크 계층과 인터넷YUMMI네트워크 계층 프로토콜YUMMI유니캐스트 라우팅YUMMIIP Version 6YUMMI전송 계층 개요YUMMI전송 계층 프로토콜YUMMI전송 계층 프로토콜/중간고사YUMMI응용 계층 소개YUMMI표준 클라이언트YUMMI멀티 미디어YUMMI네트워크 관리YUMMI암호학과 네트워크 보안YUMMI서비스 품질YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "컴퓨터네트워크 본 과목은 데이터통신과 연계되는 과목으로 지난 학기에 이어 TCP/IP 계층 구조 중 네트워크 계층 , 전송계층 , 그리고 응용 계층에 대해서 다룬다. \n이론을 중심으로 오늘날 인터넷 및 네트워크 구축 및 운용에 활용되는 핵심적인 개념을 이해하고, 해당 기능 중 일부를 실습하는 것을 목적으로 한다",
+            "similarity": 0.1535890951600417
+        },
+        {
+            "id": 3303,
+            "name": "메카트로닉스및실험",
+            "description": "메카트로닉스 구성요소인 센서 및 신호처리, 구동기, 컴퓨터 인터페이스 등에 관한 기초지식을 습득하고 시스템 구현을 위한 설계 및 하드웨어 실장과정을 이해한다. ",
+            "curriculum": "메카트로닉스 개요 및 항공우주분야 응용사례소개 YUMMI시스템 응답 : 계측시스템, 1차 및 2차 동적 시스템의 응답특성 YUMMI아날로그 신호처리 : OP-Amp 이용 기본연산, 신호처리 기초 YUMMI데이터 수집 : 정량화 원리, A/D 및 D/A, DAQ 디바이스 및 소프트웨어 YUMMI센서 I : 위치, 속도, 응력, 변형률 측정 YUMMI\n\n센서 II : 온도, 진동, 가속도 측정 YUMMI구동기(actuator) : 전자기의 원리, 직류모터 및 모터선정, 스텝모터, 유압 및 공압, 압전구동기 등YUMMI교과목 상담 YUMMI종합시험 YUMMILabVIEW 기초 YUMMILabVIEW 활용 (My-Rio)YUMMIMicro Vehicle  실습 (IR Sensor 보정, 모터 제어, 주행 재어 및 장애물 탐지)YUMMIMicro Vehicle  실습 (IR Sensor 보정, 모터 제어, 주행 재어 및 장애물 탐지)YUMMI실습 결과 발표회YUMMI종합토론YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "메카트로닉스및실험 메카트로닉스 구성요소인 센서 및 신호처리, 구동기, 컴퓨터 인터페이스 등에 관한 기초지식을 습득하고 시스템 구현을 위한 설계 및 하드웨어 실장과정을 이해한다. ",
+            "similarity": 0.20006669454437404
+        },
+        {
+            "id": 2311,
+            "name": "임베디드시스템",
+            "description": "본 수업은 임베디드 시스템(내장형 시스템)의 내부 구성 요소와 그 동작 방법에 대한 기본 개념을 소개 하고 임베디드 시스템의 구동 및 제어 방법을 실습한다. 이를 위해 다양한 유형의 IoT 디바이스를 직접 개발 할 수 있는 초소형 컴퓨터인 라즈베리파이를 활용하여 다양한 센서와 액추에이터들을 직접 제어 할 수 있는 프로그래밍 기법을 익힌다. 이를 통해 임베디드 컴퓨팅에 대한 전반적인 이해 뿐만 아니라, 임베디드 컴퓨팅을 활용한 다양한 IoT 디바이스를 직접 제작할 수 있는 능력을 배양한다. \n강의 초반에는 임베디드 시스템의 주요 부분에 대한 개괄적인 내용을 습득하고, 이후 파이썬 언어에 대한 수업이 진행된다. 중간 고사 이후에는 라즈베리 파이를 이용하여 초음파 센서, 온도 센서 등 다양한 센서를 통해 현실세계의 데이터를 직접 입력 받아 이를 통해 액추에이터가 원하는 동작을 수행 할 수 있는 임베디드 프로그램을 직접 작성하고, 이를 이용하여 다양한 유형의 IoT 디바이스 제작 프로젝트를 수행한다.\n\n** 모든 수업 자료 및 공지사항은 LMS (https://ieilms.jbnu.ac.kr/)를 활용합니다.\n** J-Edutools  활용 예정 ",
+            "curriculum": "** 주차별 강의 내용과 일정은 상황에 따라 변경 될 수 있습니다. \n\n임베디드 시스템의 전체적인 내용과 기술 트렌드를 이해한다. YUMMI대표적인 임베디드 프로세서인 ARM을 이해한다. YUMMI라즈베라파이 보드의 특징과 구성을 이해한다YUMMI퀴즈YUMMI라즈베리파이의 개발 환경을 소개하고 개발 환경을 셋업한다.YUMMI라즈베리파이의 센서구성및 기초 회로구성을 이해한다.YUMMI라즈베리파이의 GPIO를 활용한 센서 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 GPIO를 활용한 센서 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 모터 및 그외 다양한 센서의 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 모터 및 그외 다양한 센서의 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 모터 및 그외 다양한 센서의 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMI라즈베리파이의 모터 및 그외 다양한 센서의 구동 방법을 이해하고, 실제 구동할 수 있다. YUMMIProject 수행 YUMMIProject 수행 YUMMIProject 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "임베디드시스템 본 수업은 임베디드 시스템(내장형 시스템)의 내부 구성 요소와 그 동작 방법에 대한 기본 개념을 소개 하고 임베디드 시스템의 구동 및 제어 방법을 실습한다. 이를 위해 다양한 유형의 IoT 디바이스를 직접 개발 할 수 있는 초소형 컴퓨터인 라즈베리파이를 활용하여 다양한 센서와 액추에이터들을 직접 제어 할 수 있는 프로그래밍 기법을 익힌다. 이를 통해 임베디드 컴퓨팅에 대한 전반적인 이해 뿐만 아니라, 임베디드 컴퓨팅을 활용한 다양한 IoT 디바이스를 직접 제작할 수 있는 능력을 배양한다. \n강의 초반에는 임베디드 시스템의 주요 부분에 대한 개괄적인 내용을 습득하고, 이후 파이썬 언어에 대한 수업이 진행된다. 중간 고사 이후에는 라즈베리 파이를 이용하여 초음파 센서, 온도 센서 등 다양한 센서를 통해 현실세계의 데이터를 직접 입력 받아 이를 통해 액추에이터가 원하는 동작을 수행 할 수 있는 임베디드 프로그램을 직접 작성하고, 이를 이용하여 다양한 유형의 IoT 디바이스 제작 프로젝트를 수행한다.\n\n** 모든 수업 자료 및 공지사항은 LMS (https://ieilms.jbnu.ac.kr/)를 활용합니다.\n** J-Edutools  활용 예정 ",
+            "similarity": 0.2538576424150214
+        },
+        {
+            "id": 2406,
+            "name": "네트워크보안",
+            "description": "네트워크 보안 기술에 관한 기본 개념 및 응용 방법 이해",
+            "curriculum": "네트워크 보안 개요YUMMI네트워크에 대한 이해YUMMIWhois와 DNSYUMMIIP 주소 추적YUMMI목록화YUMMI스니핑YUMMI중간 고사YUMMI스푸핑YUMMI터널링YUMMI세션 하이재킹YUMMIDoS와 DDoS 공격YUMMI방화벽YUMMI네트워크 장비의 보안 설정YUMMI침입 탐지 및 모니터링YUMMI기말 고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "네트워크보안 네트워크 보안 기술에 관한 기본 개념 및 응용 방법 이해",
+            "similarity": 0.15891003378733334
+        },
+        {
+            "id": 144,
+            "name": "농업기계창의설계 1",
+            "description": "농업기계 창의설계 과목을 통해 수강생들은 PBL을 이용하여 프로젝트를 수행하여 농업용 메카트로닉스 시스템 설계. 프로젝트 발표, 프로젝트 보고서 작성 등 다양한 농업용 \n메카트로닉스 시스템 개발에 필요한 기초적인 실무 내용을 직접 익히며, 농업용 메카트로닉스 시스템의 시작기 설계에 집중할 수 있다. 또한 PBL 디자인의 개념과 수행방법, 팀별 협업 방법을\n통해 실질적인 프로젝트 완성 방법을 학습한다.",
+            "curriculum": "서론YUMMI농업용 메카트로닉스 시스템의 이해YUMMIIoT, 인공지능 기술의 이해 및 경향 분석YUMMI농업용 메카트로닉스기술의 이해 1(영상처리)YUMMI농업용 메카트로닉스기술의 이해 2(비파괴센싱)YUMMI농업용 메카트로닉스기술의 이해 3(스마트팜 등)YUMMI농업용 메카트로닉스기술의 창의설계 적용YUMMI중간고사YUMMIPBL(Problem Based Learning)에 근거한 문제 도출 및 프로젝트 팀 구성\n프로젝트 수행YUMMI프로젝트 주제 및 수행 계획 발표 \n프로젝트 수행YUMMI프로젝트 수행YUMMI프로젝트 중간 발표 및 토론\n수정사항 YUMMI프로젝트 수정사항 수행YUMMI프로젝트 수정사항 수행YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "full_text": "농업기계창의설계 1 농업기계 창의설계 과목을 통해 수강생들은 PBL을 이용하여 프로젝트를 수행하여 농업용 메카트로닉스 시스템 설계. 프로젝트 발표, 프로젝트 보고서 작성 등 다양한 농업용 \n메카트로닉스 시스템 개발에 필요한 기초적인 실무 내용을 직접 익히며, 농업용 메카트로닉스 시스템의 시작기 설계에 집중할 수 있다. 또한 PBL 디자인의 개념과 수행방법, 팀별 협업 방법을\n통해 실질적인 프로젝트 완성 방법을 학습한다.",
+            "similarity": 0.11068339258401494
+        },
+        {
+            "id": 4308,
+            "name": "시스템보안",
+            "description": "컴퓨터 시스템에서 서비스 제공을 위한 프로그램 개발과 관련된 보안 이슈, 그리고 시스템 운영과 관련된 보안 설정에 대해 학습한다. ",
+            "curriculum": "시스템 해킹 기초 지식YUMMI시스템 해킹 기초 지식YUMMI시스템 해킹 기초 지식YUMMI시스템 해킹YUMMI시스템 해킹YUMMI시스템 해킹YUMMI중간고사YUMMI시스템 해킹YUMMI시스템 해킹YUMMI시스템 해킹YUMMI운영체제 보안YUMMI운영체제 보안YUMMI운영체제 보안YUMMI운영체제 보안YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "시스템보안 컴퓨터 시스템에서 서비스 제공을 위한 프로그램 개발과 관련된 보안 이슈, 그리고 시스템 운영과 관련된 보안 설정에 대해 학습한다. ",
+            "similarity": 0.13929469137220793
+        }
+    ]
+}

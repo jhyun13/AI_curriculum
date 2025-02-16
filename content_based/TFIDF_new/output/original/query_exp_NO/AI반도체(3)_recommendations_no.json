@@ -1,0 +1,101 @@
+{
+    "meta_info": {
+        "user_query": "저전력 반도체 설계 및 AI 반도체 에너지 효율 최적화 연구를 진행하고 싶어요. 이에 적합한 학습 과정과 필수 기술이 궁금합니다.",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "반도체과학기술학과",
+            "신소재공학부(정보소재공학)"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 1755,
+            "name": "반도체공학개론",
+            "description": "-. 반도체 소자의 기본 지식 함양.\n-. 에너지 밴드에 대한 이해.\n-. 접합영역 분석과 예측능력 \n",
+            "curriculum": "물질의 성질YUMMI결정구조YUMMI결정성징YUMMI캐리어 모델링YUMMI캐리어 모델링YUMMI캐리어의 움직임YUMMI캐리어의 움직임YUMMI중간고사YUMMI캐리어의 움직임YUMMIPN junctionYUMMIPN junctionYUMMISeminarYUMMIMOSCAPYUMMIMOSFETYUMMITerm examination YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체공학개론 -. 반도체 소자의 기본 지식 함양.\n-. 에너지 밴드에 대한 이해.\n-. 접합영역 분석과 예측능력 \n",
+            "similarity": 0.2456504352251168
+        },
+        {
+            "id": 466,
+            "name": "회로이론 1",
+            "description": "반도체 전자회로, 또는 회로망을 이해하기 위한 기초과목으로 회로의 기본 해석방법을 습득함",
+            "curriculum": "전기회로의 기본개념YUMMI직렬 및 병렬 저항회로YUMMI저항회로의 해석YUMMI회로망정리YUMMI인덕턴스와 커패시턴스YUMMI사인파YUMMI회로소자와 사인파 및 임피던스YUMMI중간고사YUMMI복소수와 페이저YUMMI페이저YUMMI페이저에 의한 전류-전압 관계YUMMI간단한 교류회로해석YUMMI교류회로해석과 회로망정리의 응용YUMMI교류회로에서의 전력YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "회로이론 1 반도체 전자회로, 또는 회로망을 이해하기 위한 기초과목으로 회로의 기본 해석방법을 습득함",
+            "similarity": 0.1358634121877331
+        },
+        {
+            "id": 320,
+            "name": "반도체재료학개론",
+            "description": "태양광을 포괄하는 반도체 산업의 기초가 되는 재료의 구조, 특성 및 응용에 대해 학습한다.\n특히 금속/세라믹/고분자 3대 재료에 대한 체계적인 학습을 목표로 한다.",
+            "curriculum": "전자재료 공학 소개YUMMI원자구조YUMMI결정질 고체와 구조YUMMI고체내결합YUMMI확산YUMMI재료의기계적성질YUMMI재료의기계적성질YUMMI중간고사YUMMI재료의강화기구YUMMI재료의상태도YUMMI재료의상태도YUMMI세라믹 재료구조YUMMI세라믹재료특성YUMMI고분자구조, 고분자물성YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체재료학개론 태양광을 포괄하는 반도체 산업의 기초가 되는 재료의 구조, 특성 및 응용에 대해 학습한다.\n특히 금속/세라믹/고분자 3대 재료에 대한 체계적인 학습을 목표로 한다.",
+            "similarity": 0.10411499491995853
+        },
+        {
+            "id": 3092,
+            "name": "전자공학",
+            "description": "전기전자, 정보통신, 제어공학 등 다양한 첨단 산업에 사용되는 주요 소재/부품의 구조 (주로 반도체 소자) 및 동작 특성을 응용의 관점에서 배우고 익혀 소재와 응용분야의 연관성을 이해하고 활용할 수 있는 지식을 습득하는 것을 목표로 한다. 추가적으로 반도체 트랜지스터 및 전기전자 부품을 활용하여 원하는 동작 특성을 갖는 회로를 설계하면서 실무를 간접적으로 학습한다.",
+            "curriculum": "신소재공학부에서 전기전자공학의 의미, 전기전자공학 개요YUMMI 반도체 이론1YUMMI반도체 이론 2YUMMI반도체 다이오드 구조 및 동작특성YUMMI반도체 다이오드 회로 및 응용 1YUMMI반도체 다이오드 회로 및 응용 2YUMMIBipolar Junction Transistor 구조 및 동작특성YUMMIBipolar Junction Transistor 응용 1YUMMIBipolar Junction Transistor 응용 2, 중간고사YUMMITransistor 바이어스 회로 및 고장진단YUMMIField Effect Transistor 구조 및 동작특성YUMMIField Effect Transistor 응용 (증폭기, 스위치 등)YUMMI연산증폭기 개념 및 동작특성YUMMI기본 연산증폭기 회로 및 특수 목적 연산증폭기 회로YUMMI반도체 부품을 이용한 전기전자회로 설계1, 기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "신소재공학부(정보소재공학)",
+            "full_text": "전자공학 전기전자, 정보통신, 제어공학 등 다양한 첨단 산업에 사용되는 주요 소재/부품의 구조 (주로 반도체 소자) 및 동작 특성을 응용의 관점에서 배우고 익혀 소재와 응용분야의 연관성을 이해하고 활용할 수 있는 지식을 습득하는 것을 목표로 한다. 추가적으로 반도체 트랜지스터 및 전기전자 부품을 활용하여 원하는 동작 특성을 갖는 회로를 설계하면서 실무를 간접적으로 학습한다.",
+            "similarity": 0.1184113695836867
+        },
+        {
+            "id": 2343,
+            "name": "반도체패키징공학",
+            "description": "- 반도체 패키징의 개념과 각 부문의 기초에 대하여 이론적으로 이해한다.\n- 반도체 패키징에 사용되는 재료들의 구조적, 물리적, 기계적 특성에 대하여 이해한다.\n- 반도체 패키징의 종류와 패키징 제조 공정에 대하여 체계적으로 이해한다.\n- 반도체 패키지 소자 및 모듈의 전기적 및 구조적 해석을 진행한다.",
+            "curriculum": "1. 강좌 소개 & 진행 방식 설명\n2. 패키징 공학이란 무엇이며 왜 배워야 하는가?YUMMICHAPTER 1. 반도체 패키지 개요\n1 _ 패키지(Package)의 정의\n2 _ 패키지의 역할\n3 _ 패키지 기술 트렌드YUMMICHAPTER 2. 패키지 종류와 공정_Part 1\n1 _ 패키지의 종류YUMMICHAPTER 2. 패키지 종류와 공정_Part 2\n2 _ 패키지의 공정YUMMICHAPTER 3. Wafer 기반 패키지 기술_Part 1\n1 _ Wafer 기반 패키지 기술\n2 _ 범프(Bump)\n3 _ 카파 필라 범프(Cu Pillar Bump)YUMMICHAPTER 3 Wafer 기반 패키지 기술_Part 2\n4 _ 플립 칩 패키지(Flip Chip Package)\n5 _ 재배열(PDL, Re-Distribution Layer)\n6 _ Wafer Level CSPYUMMICHAPTER 3 Wafer 기반 패키지 기술_Part 3\n7 _ FOWLP(Fan Out Wafer Level Package)\n8 _ TSV(Through Silicon Via) 패키지YUMMI복습 및 중간고사YUMMICHAPTER 4. 전기 및 구조 해석\n1 _ 전기 해석\n2 _ 구조 해석YUMMICHAPTER 5. 패키지 설계\n1 _ 리드 프레임 설계 가이드(Lead Frame Design Guide)\n2 _ 반도체 기판 설계 가이드(Substrate Design GuideYUMMICHAPTER 6. 패키지 재료_Part 1\n1 _ 리드 프레임(Lead Frame)\n2 _ 기판(Substrate)\n3 _ 테이프(Tape)YUMMICHAPTER 6. 패키지 재료_Part 2\n4 _ 접착제(Adhesive)\n5 _ 금속(Metal)\n6 _ 기타YUMMICHAPTER 7. 패키지 신뢰성\n1 _ 패키지 신뢰성(Reliability)의 개요\n2 _ BGA, CSP 신뢰성YUMMICHAPTER 8 측정\n1 _ 웨이퍼 두께 측정\n2 _ 전기 단자 크레이터링 검사(PAD Cratering Inspection)\n3 _ 볼 인장/전단 시험(Wire Ball Pull/Shear Test)\n4 _ 솔더 볼 인장/전단 시험(Solder Ball Pull/Shear Test)\n5 _ 접촉각(Contact Angle) 측정\n6 _ 프로파일 프로젝트(Profile Project)\n7 _ 엑스레이(X-Ray) 검사\n8 _ 초음파 비파괴 검사기\n9 _ XRF(X-Ray Fluorescence) Spectroscopy\n10 _ Warpage 측정기YUMMI전체 복습 및 기말시험YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "신소재공학부(정보소재공학)",
+            "full_text": "반도체패키징공학 - 반도체 패키징의 개념과 각 부문의 기초에 대하여 이론적으로 이해한다.\n- 반도체 패키징에 사용되는 재료들의 구조적, 물리적, 기계적 특성에 대하여 이해한다.\n- 반도체 패키징의 종류와 패키징 제조 공정에 대하여 체계적으로 이해한다.\n- 반도체 패키지 소자 및 모듈의 전기적 및 구조적 해석을 진행한다.",
+            "similarity": 0.25991558177784796
+        },
+        {
+            "id": 1239,
+            "name": "반도체공정실험 2",
+            "description": "화합물계 반도체 소자를 설계하고, 제작, 측정을 진행해 봄으로써 반도체 공정 실무 능력을 배양시키고자 함\n\n한 학기 동안 팀별로 화합물 반도체 소자를 선정하여 제작, 측정, 평가함\n소자종류: Schottky diode, LED, HFET",
+            "curriculum": "IntroductionYUMMI반도체 소자의 종류와 특징 1YUMMI반도체 소자의 종류와 특징 2YUMMI반도체 소자 실험 계획 1YUMMI반도체 소자 실험 계획 2YUMMI반도체 소자 실험 - 단위공정YUMMI반도체 소자 실험 - 단위공정YUMMI반도체 소자 실험 1차 점검YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 2차 점검YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 3차 점검YUMMI반도체 소자 실험 - 측정YUMMI소자 제작 및 특성 측정 결과 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체공정실험 2 화합물계 반도체 소자를 설계하고, 제작, 측정을 진행해 봄으로써 반도체 공정 실무 능력을 배양시키고자 함\n\n한 학기 동안 팀별로 화합물 반도체 소자를 선정하여 제작, 측정, 평가함\n소자종류: Schottky diode, LED, HFET",
+            "similarity": 0.2163597662948763
+        },
+        {
+            "id": 1650,
+            "name": "반도체연구특론 1",
+            "description": "반도체과학기술의 (1) 기존 연구와 새로운 이론 학습, 혹은 (2) 반도체 공정 실험, 실습을 통한 연구 진행. 학습과 연구를 통한 결과물 제출과 발표  ",
+            "curriculum": "반도체 실습 소개 및 학습 방향 설정YUMMI반도체 실습 전공 분야의 선정, 선행 기술 및 논문 리뷰YUMMI반도체 실습 전공 분야 기술 리뷰 및 검토YUMMI반도체 실습 수행 1YUMMI반도체 실습 수행 2YUMMI반도체 실습 수행 3YUMMI반도체 실습 수행 4YUMMI반도체 실습 수행 - 1차 중간점검YUMMI반도체 실습 수행 5YUMMI반도체 실습 수행 6YUMMI반도체 실습 수행 7YUMMI반도체 실습 수행 - 2차 중간 점검YUMMI반도체 실습 수행 8YUMMI반도체 실습 수행 - 최종발표YUMMI반도체 실습 수행 논문 리포트 제출YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체연구특론 1 반도체과학기술의 (1) 기존 연구와 새로운 이론 학습, 혹은 (2) 반도체 공정 실험, 실습을 통한 연구 진행. 학습과 연구를 통한 결과물 제출과 발표  ",
+            "similarity": 0.20446060101028773
+        },
+        {
+            "id": 4111,
+            "name": "반도체연구특론 2",
+            "description": "반도체 실습분야의 연구과제 수행을 통한 학습으로 학기초에 부여받은 테마에 대한 졸업논문을 작성하여 학기말에 제출함. 반도체 물리, 소자, 공정분야 중에서 하나의 테마에 대해 심도 있게 연구하고 논문작성의 과정에서 논문의 작성법, Plagiarism의 문제, 기술의 현황과 미래에 대해 고찰하는데 학습목표가 있음.",
+            "curriculum": "반도체 실습 소개 및 학습방향 설정YUMMI반도체 실습 전공 분야의 선정 및 사전 기술 및 학문적 리뷰YUMMI반도체 실습 전공분야 기술리뷰 및 검토YUMMI반도체 리뷰/실습 수행1YUMMI반도체 리뷰/실습 수행2YUMMI반도체 리뷰/실습 수행3YUMMI반도체 리뷰/실습 수행4YUMMI반도체 리뷰/실습 수행 및 논문작성 1차 중간점검YUMMI반도체 리뷰/실습수행5YUMMI반도체 리뷰/실습 수행6YUMMI반도체 리뷰/실습 수행7YUMMI반도체 리뷰/실습 수행 및 논문작성 2차 중간점검YUMMI반도체 리뷰/실습 수행8YUMMI반도체 리뷰/실습 수행 최종발표YUMMI반도체 리뷰/실습 수행및 최종 논문 리포트 제출YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체연구특론 2 반도체 실습분야의 연구과제 수행을 통한 학습으로 학기초에 부여받은 테마에 대한 졸업논문을 작성하여 학기말에 제출함. 반도체 물리, 소자, 공정분야 중에서 하나의 테마에 대해 심도 있게 연구하고 논문작성의 과정에서 논문의 작성법, Plagiarism의 문제, 기술의 현황과 미래에 대해 고찰하는데 학습목표가 있음.",
+            "similarity": 0.14512192403990273
+        }
+    ]
+}

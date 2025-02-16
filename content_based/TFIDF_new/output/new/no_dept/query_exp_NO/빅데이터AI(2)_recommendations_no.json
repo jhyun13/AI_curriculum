@@ -1,0 +1,266 @@
+{
+    "meta_info": {
+        "user_query": "대량의 데이터를 분석하고 인공지능을 활용하여 의미 있는 패턴을 찾는 방법을 배우고 싶어요. 머신러닝과 데이터 마이닝을 함께 학습하려면 어떤 과목을 수강해야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3377,
+            "name": "과학학의기초",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "과학학과",
+            "similarity": 0.16084991530837858
+        },
+        {
+            "id": 4156,
+            "name": "사회문제론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.14458617304845647
+        },
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.11807450943393524
+        },
+        {
+            "id": 4031,
+            "name": "국제정치입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.1092590051313884
+        },
+        {
+            "id": 2349,
+            "name": "산림전산설계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산림환경과학과",
+            "similarity": 0.2888876968085605
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.26815180878815503
+        },
+        {
+            "id": 1993,
+            "name": "농업기계통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.1489820298077048
+        },
+        {
+            "id": 1586,
+            "name": "R프로그래밍",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.14357403112841244
+        },
+        {
+            "id": 737,
+            "name": "목공레크레이션론및실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "목재응용과학과",
+            "similarity": 0.11543431079765631
+        },
+        {
+            "id": 4277,
+            "name": "수리통계학 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.19681335292400787
+        },
+        {
+            "id": 3247,
+            "name": "행정통계학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.16009955235998016
+        },
+        {
+            "id": 4346,
+            "name": "데이터통신",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.15856470786434865
+        },
+        {
+            "id": 2552,
+            "name": "데이터로보는중남미",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.1536671865667284
+        },
+        {
+            "id": 4966,
+            "name": "독일어구문연습",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.13901519296215312
+        },
+        {
+            "id": 2082,
+            "name": "커뮤니케이션과의미",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.21876562565654642
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.12776672981557277
+        },
+        {
+            "id": 1706,
+            "name": "웹프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.12115490012260498
+        },
+        {
+            "id": 2192,
+            "name": "데이터시각화",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.11941606968777185
+        },
+        {
+            "id": 510,
+            "name": "생물정보학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생명과학부(분자생물학)",
+            "similarity": 0.11508941488557138
+        },
+        {
+            "id": 3907,
+            "name": "일본어어휘론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "일본학과",
+            "similarity": 0.2183109051146875
+        },
+        {
+            "id": 4354,
+            "name": "생체영상처리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.1612381898473806
+        },
+        {
+            "id": 3512,
+            "name": "경제분석을위한데이터사이언스",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.1492792271937296
+        },
+        {
+            "id": 2492,
+            "name": "디지털신호처리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.14568998371278422
+        },
+        {
+            "id": 4575,
+            "name": "딥러닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.14396170751234155
+        },
+        {
+            "id": 1404,
+            "name": "심리평가",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "심리학과",
+            "similarity": 0.1793684686088885
+        },
+        {
+            "id": 640,
+            "name": "데이터기반사회이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.15004025643087723
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.1488391160845298
+        },
+        {
+            "id": 2445,
+            "name": "원예진로탐색세미나",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "원예학과",
+            "similarity": 0.1467982563990572
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.1291653126323061
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.12578085416583482
+        },
+        {
+            "id": 3759,
+            "name": "창의적공학설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.1083928744068176
+        },
+        {
+            "id": 3952,
+            "name": "로봇비전",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.1062151193270276
+        }
+    ]
+}

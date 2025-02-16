@@ -1,0 +1,106 @@
+{
+    "meta_info": {
+        "user_query": "사회복지 정책이 효과적으로 실행되려면 행정 조직 운영과 재정 관리가 필수적으로 뒷받침되어야 합니다. 복지 실천뿐만 아니라 정책 기획, 재정 조달, 공공 조직의 운영을 함께 연구하여 실무에 적용하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 4156,
+            "name": "사회문제론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.16669731433524937
+        },
+        {
+            "id": 2723,
+            "name": "도서관정보센타경영론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.15092135648540345
+        },
+        {
+            "id": 1750,
+            "name": "한국무역법",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.10745013256767631
+        },
+        {
+            "id": 928,
+            "name": "감각과지각",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "심리학과",
+            "similarity": 0.10338891997851932
+        },
+        {
+            "id": 1518,
+            "name": "금속조직학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "신소재공학부(금속시스템공학)",
+            "similarity": 0.10314690602319528
+        },
+        {
+            "id": 1931,
+            "name": "건강가정론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "아동학과",
+            "similarity": 0.10186328254254379
+        },
+        {
+            "id": 2490,
+            "name": "디지털인터렉티브광고",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.1141121979783937
+        },
+        {
+            "id": 432,
+            "name": "사회복지윤리와철학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.21282835128988892
+        },
+        {
+            "id": 3146,
+            "name": "사회복지현장실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.1775593398317132
+        },
+        {
+            "id": 4236,
+            "name": "동물발달생물학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.15479045023175558
+        },
+        {
+            "id": 3593,
+            "name": "사회복지법제와실천",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.11317619876007745
+        },
+        {
+            "id": 3876,
+            "name": "자연자원관리론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.10749510002326346
+        }
+    ]
+}

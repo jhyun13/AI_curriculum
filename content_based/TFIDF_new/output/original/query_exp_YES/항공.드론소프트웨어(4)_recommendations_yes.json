@@ -1,0 +1,93 @@
+{
+    "meta_info": {
+        "user_query": "AI와 항공 기술을 융합하여 드론 물류 시스템 및 자동화 항공 네트워크를 구축하는 연구를 수행하고 싶어요. 필요한 과정은 무엇인가요?",
+        "expanded_query": "AI와 항공 기술을 융합하여 드론 물류 시스템 및 자동화 항공 네트워크를 구축하는 연구를 수행하고 싶어요. 필요한 과정은 무엇인가요? 드론 물류 시스템 및 자동화 항공 네트워크 구축을 위한 지식 습득 드론 및 자동화 항공 기술 연구원 항공 및 물류 자동화 드론 물류 시스템 연구원 드론을 활용한 물류 시스템을 디자인하고 자동화된 항공 네트워크 솔루션을 개발하는 역할을 수행. AI 기술을 적용하여 효율적인 물류 및 운송 체계를 연구 및 최적화. 드론 및 항공 네트워크 솔루션 개발, AI 기반 물류 시스템 설계 및 실험, 자동화 프로세스 분석 및 개선 AI, 드론 기술, 자동화 공학, 물류 관리 AI 기술 적용 능력- 드론 운영 및 관리 역량 물류 네트워크 설계 및 분석 능력 기계 학습, 항공 공학, 운영 연구 드론 시스템 설계, 항공 네트워크 분석 AI 기반 물류 시스템 프로그래밍, 드론 항공 운송 실습",
+        "given_departments": null,
+        "selected_departments": [
+            "항공우주공학과",
+            "컴퓨터인공지능학부",
+            "생물산업기계공학과",
+            "스마트팜학과",
+            "산업정보시스템공학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 2033,
+            "name": "생물전기전자공학및실습",
+            "description": "- 생물산업기계 분야에 필요한 전기전자 공학의 전반적인 내용 이해에 목표가 있음\n- 직류 및 교류의 회로분석, 연산증폭기, 반도체, 다이오드, 트랜지스터 등의 기초 지식과 실습, 시뮬레이션을 활용한 분석 기법을 습득\n- 생물산업기계의 자동화, 지능화를 위한 제어, 계측에 필요한 전기전자시스템의 이해, 설계 및 응용 능력을 학습",
+            "curriculum": "과목소개 및 개론YUMMI직류회로YUMMI등가회로YUMMI교류회로1YUMMI교류회로2YUMMI교류해석YUMMI교류심화YUMMI중간고사YUMMI연산증폭기YUMMI반도체YUMMI다이오드YUMMI트랜지스터 BJTYUMMI트랜지스터 FETYUMMI트랜지스터 심화YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "full_text": "생물전기전자공학및실습 - 생물산업기계 분야에 필요한 전기전자 공학의 전반적인 내용 이해에 목표가 있음\n- 직류 및 교류의 회로분석, 연산증폭기, 반도체, 다이오드, 트랜지스터 등의 기초 지식과 실습, 시뮬레이션을 활용한 분석 기법을 습득\n- 생물산업기계의 자동화, 지능화를 위한 제어, 계측에 필요한 전기전자시스템의 이해, 설계 및 응용 능력을 학습",
+            "similarity": 0.12279675985937134
+        },
+        {
+            "id": 818,
+            "name": "리눅스프로그래밍",
+            "description": "리눅스 시스템에서의 프로그래밍을 학습한다. 본 수업의 목표는 다음과 같다. \n1) 리눅스 환경에서 CLI 사용 능력 배양, 2) 리눅스 OS 사용 능력 및 시스템 이해, 3) 리눅스 환경에서의 네트워크 서비스 관리",
+            "curriculum": "수업 소개\n리눅스 개요 및 설치YUMMI리눅스 시스템과 명령YUMMI디렉토리와 파일YUMMI시스템 사용자와 권한YUMMI프로세스와 재지정YUMMI기타 리눅스 명령어YUMMI리눅스 환경에서의 C언어 프로그래밍 이해YUMMI중간고사YUMMI시스템콜의 기초 / 파일 입출력1YUMMI파일 입출력2YUMMI동적 메모리 관리\n프로세스 관리YUMMIIPC – 시그널, 공유메모리YUMMIIPC – 소켓\n스레드YUMMI병렬 프로그래밍과 스레드YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "리눅스프로그래밍 리눅스 시스템에서의 프로그래밍을 학습한다. 본 수업의 목표는 다음과 같다. \n1) 리눅스 환경에서 CLI 사용 능력 배양, 2) 리눅스 OS 사용 능력 및 시스템 이해, 3) 리눅스 환경에서의 네트워크 서비스 관리",
+            "similarity": 0.10028553555924721
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "description": " 본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "curriculum": "Introduction & problem-solving by searchingYUMMIProblem-solving: Uninformed/Informed Search, Advanced searchYUMMIProblem-solving: Adversarial Search, Constraint satisfaction problemYUMMISymbolic AI: First order logicYUMMISymbolic AI: Inference in FOLYUMMIMachine Learning: Linear classification, logistic regressionYUMMIMidtermYUMMIMachine Learning: Deep learning basics - Feedforward neural networks, Backpropagation, Convolutional networksYUMMIProbabilistic reasonsing: Bayesian networks & InferenceYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIReinforcement learning: Monte carlo learning/Termporal difference learningYUMMIReinforcement learning: Policy gradient methods, Deep Q networksYUMMIGame theory, evolutionary computation, & AI YUMMIFinaltermYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인공지능  본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "similarity": 0.14815811007439628
+        },
+        {
+            "id": 1583,
+            "name": "컴퓨터네트워크",
+            "description": "본 과목은 데이터통신과 연계되는 과목으로 지난 학기에 이어 TCP/IP 계층 구조 중 네트워크 계층 , 전송계층 , 그리고 응용 계층에 대해서 다룬다. \n이론을 중심으로 오늘날 인터넷 및 네트워크 구축 및 운용에 활용되는 핵심적인 개념을 이해하고, 해당 기능 중 일부를 실습하는 것을 목적으로 한다",
+            "curriculum": "강의 개요YUMMI네트워크 계층과 인터넷YUMMI네트워크 계층 프로토콜YUMMI유니캐스트 라우팅YUMMIIP Version 6YUMMI전송 계층 개요YUMMI전송 계층 프로토콜YUMMI전송 계층 프로토콜/중간고사YUMMI응용 계층 소개YUMMI표준 클라이언트YUMMI멀티 미디어YUMMI네트워크 관리YUMMI암호학과 네트워크 보안YUMMI서비스 품질YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "컴퓨터네트워크 본 과목은 데이터통신과 연계되는 과목으로 지난 학기에 이어 TCP/IP 계층 구조 중 네트워크 계층 , 전송계층 , 그리고 응용 계층에 대해서 다룬다. \n이론을 중심으로 오늘날 인터넷 및 네트워크 구축 및 운용에 활용되는 핵심적인 개념을 이해하고, 해당 기능 중 일부를 실습하는 것을 목적으로 한다",
+            "similarity": 0.10765768014835325
+        },
+        {
+            "id": 605,
+            "name": "농업환경지리정보시스템",
+            "description": "본 교과목은 노지스마트팜에서 주요한 정보인 공간정보를 효과적으로 다루기 위한 이론과 실습을 수행한다. 도구로는 지리정보시스템으로 QGIS를 활용하여, 자동화를 위하여 파이썬을 활용한 스크립트 작성을 포함한다. 적용대상으로 공공데이터로 제공되는 공간정보 이외에 항공 및 드론 영상을 활용하여 농업환경을 분석한다.",
+            "curriculum": "강의개요 및 GIS 소개YUMMI농업환경과 원격탐사YUMMI디지털 영상처리 하드웨어와 소프트웨어YUMMI영상 품질 평가 및 통계적 평가YUMMI표현방식 및 과학적 시각화YUMMI전자기 복사 원리 및 방사보정YUMMIGIS 활용: 기하보정YUMMI중간고사YUMMI농업환경 공간정보 국가 격자체계YUMMI패턴인식을 통한 토지이용분석YUMMI인공지능을 이용한 정보 추출YUMMI식생평가 (원격탐사와 측정데이터의 비교)YUMMI시계열 분석을 통한 변화탐지YUMMI농업환경지리정보의 현재와 미래YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "full_text": "농업환경지리정보시스템 본 교과목은 노지스마트팜에서 주요한 정보인 공간정보를 효과적으로 다루기 위한 이론과 실습을 수행한다. 도구로는 지리정보시스템으로 QGIS를 활용하여, 자동화를 위하여 파이썬을 활용한 스크립트 작성을 포함한다. 적용대상으로 공공데이터로 제공되는 공간정보 이외에 항공 및 드론 영상을 활용하여 농업환경을 분석한다.",
+            "similarity": 0.3191358546845003
+        },
+        {
+            "id": 2406,
+            "name": "네트워크보안",
+            "description": "네트워크 보안 기술에 관한 기본 개념 및 응용 방법 이해",
+            "curriculum": "네트워크 보안 개요YUMMI네트워크에 대한 이해YUMMIWhois와 DNSYUMMIIP 주소 추적YUMMI목록화YUMMI스니핑YUMMI중간 고사YUMMI스푸핑YUMMI터널링YUMMI세션 하이재킹YUMMIDoS와 DDoS 공격YUMMI방화벽YUMMI네트워크 장비의 보안 설정YUMMI침입 탐지 및 모니터링YUMMI기말 고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "네트워크보안 네트워크 보안 기술에 관한 기본 개념 및 응용 방법 이해",
+            "similarity": 0.11153477934857765
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "description": "본 과목에서는 학생들이 그동안 습득한 전공 지식을 바탕으로 항공 및 드론의 설계 원리를 이해하고, 이를 개선 및 개발하기 위한 창의력을 키움과 동시에 실제 산업 현장에서의 적응력을 향상시키는데 목적이 있다. 따라서 본 교과목을 통해 문제의 발견 및 분석, 문제 해결을 위한 체계적인 접근 방법, 문제 해석 방법 등을 공부하게 되며, 작품 제작을 통해 관련 기술의 적용성 향상, 아이디어의 구체화 등을 학습하게 된다.",
+            "curriculum": "창의적 공학설계 개요 설명, 팀 구성YUMMI작품제작 주제선정 및 연구계획서 작성을 위한 기초자료조사 #1YUMMI작품제작 주제선정 및 연구계획서 작성을 위한 기초자료조사 #1YUMMI주제선정 및 문제해결을 위한 접근방법 토의YUMMI시제품 설계를 위한 배경지식 탐구 #1YUMMI시제품 설계를 위한 배경지식 탐구 #1YUMMI시제품 설계, 부품 및 재료조사 #1YUMMI시제품 설계, 부품 및 재료조사 #2YUMMI시제품 설계, 부품 및 재료조사 #3YUMMI시제품 설계, 부품 및 재료조사 #4YUMMI시제품 제작 #1YUMMI시제품 제작 #2YUMMI시제품 제작 #3YUMMI시제품 제작 #4YUMMI종합발표회, 작품 전시 및 보고서 제출YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론융합설계 본 과목에서는 학생들이 그동안 습득한 전공 지식을 바탕으로 항공 및 드론의 설계 원리를 이해하고, 이를 개선 및 개발하기 위한 창의력을 키움과 동시에 실제 산업 현장에서의 적응력을 향상시키는데 목적이 있다. 따라서 본 교과목을 통해 문제의 발견 및 분석, 문제 해결을 위한 체계적인 접근 방법, 문제 해석 방법 등을 공부하게 되며, 작품 제작을 통해 관련 기술의 적용성 향상, 아이디어의 구체화 등을 학습하게 된다.",
+            "similarity": 0.13676588859672584
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "meta_info": {
+        "user_query": "항공 우주 분야에서 소프트웨어 보안 및 해킹 방지 기술을 연구하여 사이버 공격에 대비하는 시스템을 개발하고 싶어요. 필요한 역량은 무엇인가요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "컴퓨터인공지능학부",
+            "항공우주공학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 2594,
+            "name": "컴퓨터구조",
+            "description": "해당 강의는 프로세서, 메모리 등 컴퓨터 시스템을 구성하는 주요 요소 및 동작 원리를 이해하고, 동작 과정에서 거치는 소프트웨어/하드웨어 간 상호작용에 대한 이해를 목적으로 한다.\n(전반부) 컴퓨터 시스템을 구성하는 주요 구성요소, 성능 및, 컴퓨터를 구동하는 기본적인 연산,로직 구조 및 이를 활용한 인스트럭션 동작에 대해 이해한다.\n(후반부) 전반부의 내용을 바탕으로 컴퓨터 내의 연산 프로세서, 메모리의 동작을 분석하거나, 프로세서 혹은 클러스터 컴퓨팅에서의 병렬 동작을 이해한다.\n",
+            "curriculum": "Introduction to computing architecture\nYUMMIComputer abstractions and technologies\nYUMMIComputer abstractions and technologies\nYUMMIIntroduction: Language of the computer\nYUMMIIntroduction: Language of the computer\nYUMMIArithmetic for computers\nYUMMIArithmetic for computers\nYUMMI중간고사YUMMIThe Processor\nYUMMIThe Processor\nYUMMILarge and fast: Exploiting memory hierarchy\nYUMMILarge and fast: Exploiting memory hierarchy\nYUMMIParallel Processor from client to cloud\nYUMMIParallel Processor from client to cloud\nYUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "컴퓨터구조 해당 강의는 프로세서, 메모리 등 컴퓨터 시스템을 구성하는 주요 요소 및 동작 원리를 이해하고, 동작 과정에서 거치는 소프트웨어/하드웨어 간 상호작용에 대한 이해를 목적으로 한다.\n(전반부) 컴퓨터 시스템을 구성하는 주요 구성요소, 성능 및, 컴퓨터를 구동하는 기본적인 연산,로직 구조 및 이를 활용한 인스트럭션 동작에 대해 이해한다.\n(후반부) 전반부의 내용을 바탕으로 컴퓨터 내의 연산 프로세서, 메모리의 동작을 분석하거나, 프로세서 혹은 클러스터 컴퓨팅에서의 병렬 동작을 이해한다.\n",
+            "similarity": 0.10188462431480254
+        },
+        {
+            "id": 2819,
+            "name": "소프트웨어공학",
+            "description": "1. 소프트웨어 개발 주기 이해: 소프트웨어 개발 주기와 공학적 접근 방법을 이해하고, 요구사항 분석, 설계, 구현, 테스트, 배포 및 유지보수 단계를 포괄적으로 학습한다.\n2. 소프트웨어 요구사항 관리: 요구사항의 수집, 분석, 문서화, 추적 및 관리 기법을 학습하여 효율적이고 명확한 요구사항 정의의 중요성을 이해하고 실제 프로젝트에 적용한다.\n3. 소프트웨어 설계 기술: 소프트웨어 설계의 다양한 기법과 원칙에 대해 학습하고, 소프트웨어 아키텍처의 중요성과 올바른 설계 결정이 전체 개발 프로세스에 미치는 영향을 이해한다.\n4. 소프트웨어 테스트: 테스트 기법, 테스트 케이스 작성, 오류 추적 및 수정 등 소프트웨어 품질 향상을 위한 테스트 기법과 전략을 배우고, 실제 프로젝트에서 테스트 수행 능력을 향상시킨다.\n5. 소프트웨어 프로젝트 관리: 프로젝트 계획, 일정 관리, 리스크 관리, 팀 협업 등 소프트웨어 프로젝트 관리 기술을 습득하여 프로젝트의 성공적인 완수를 목표로 한다.\n6. 실무적인 소프트웨어 프로젝트 경험: 수강생들은 팀 프로젝트를 통해 실제 소프트웨어 개발 경험을 쌓고, 현업에서 요구되는 협업 능력과 문제 해결 능력을 향상시킨다.",
+            "curriculum": "Introduction to SEYUMMISoftware Development Process1YUMMISoftware Development Process2YUMMISoftware RequirementYUMMISystem ModelingYUMMISoftware ArchitectureYUMMIUMLYUMMI중간고사YUMMISoftware TestingYUMMIDependabilityYUMMISoftware ReuseYUMMIComponent based system, Distributed systemYUMMIProject PlanningYUMMITerm Project PresentationYUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "소프트웨어공학 1. 소프트웨어 개발 주기 이해: 소프트웨어 개발 주기와 공학적 접근 방법을 이해하고, 요구사항 분석, 설계, 구현, 테스트, 배포 및 유지보수 단계를 포괄적으로 학습한다.\n2. 소프트웨어 요구사항 관리: 요구사항의 수집, 분석, 문서화, 추적 및 관리 기법을 학습하여 효율적이고 명확한 요구사항 정의의 중요성을 이해하고 실제 프로젝트에 적용한다.\n3. 소프트웨어 설계 기술: 소프트웨어 설계의 다양한 기법과 원칙에 대해 학습하고, 소프트웨어 아키텍처의 중요성과 올바른 설계 결정이 전체 개발 프로세스에 미치는 영향을 이해한다.\n4. 소프트웨어 테스트: 테스트 기법, 테스트 케이스 작성, 오류 추적 및 수정 등 소프트웨어 품질 향상을 위한 테스트 기법과 전략을 배우고, 실제 프로젝트에서 테스트 수행 능력을 향상시킨다.\n5. 소프트웨어 프로젝트 관리: 프로젝트 계획, 일정 관리, 리스크 관리, 팀 협업 등 소프트웨어 프로젝트 관리 기술을 습득하여 프로젝트의 성공적인 완수를 목표로 한다.\n6. 실무적인 소프트웨어 프로젝트 경험: 수강생들은 팀 프로젝트를 통해 실제 소프트웨어 개발 경험을 쌓고, 현업에서 요구되는 협업 능력과 문제 해결 능력을 향상시킨다.",
+            "similarity": 0.190917047352799
+        },
+        {
+            "id": 2406,
+            "name": "네트워크보안",
+            "description": "네트워크 보안 기술에 관한 기본 개념 및 응용 방법 이해",
+            "curriculum": "네트워크 보안 개요YUMMI네트워크에 대한 이해YUMMIWhois와 DNSYUMMIIP 주소 추적YUMMI목록화YUMMI스니핑YUMMI중간 고사YUMMI스푸핑YUMMI터널링YUMMI세션 하이재킹YUMMIDoS와 DDoS 공격YUMMI방화벽YUMMI네트워크 장비의 보안 설정YUMMI침입 탐지 및 모니터링YUMMI기말 고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "네트워크보안 네트워크 보안 기술에 관한 기본 개념 및 응용 방법 이해",
+            "similarity": 0.2158525751654041
+        },
+        {
+            "id": 4308,
+            "name": "시스템보안",
+            "description": "컴퓨터 시스템에서 서비스 제공을 위한 프로그램 개발과 관련된 보안 이슈, 그리고 시스템 운영과 관련된 보안 설정에 대해 학습한다. ",
+            "curriculum": "시스템 해킹 기초 지식YUMMI시스템 해킹 기초 지식YUMMI시스템 해킹 기초 지식YUMMI시스템 해킹YUMMI시스템 해킹YUMMI시스템 해킹YUMMI중간고사YUMMI시스템 해킹YUMMI시스템 해킹YUMMI시스템 해킹YUMMI운영체제 보안YUMMI운영체제 보안YUMMI운영체제 보안YUMMI운영체제 보안YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "시스템보안 컴퓨터 시스템에서 서비스 제공을 위한 프로그램 개발과 관련된 보안 이슈, 그리고 시스템 운영과 관련된 보안 설정에 대해 학습한다. ",
+            "similarity": 0.2825700707427715
+        }
+    ]
+}

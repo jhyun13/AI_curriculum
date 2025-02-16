@@ -1,0 +1,46 @@
+{
+    "meta_info": {
+        "user_query": "빅데이터를 활용하여 마케팅 최적화, 사용자 맞춤 추천 시스템 등을 개발하는 데이터 분석 분야에서 일하고 싶어요. 필요한 기술과 학습 과정이 궁금합니다.",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "통계학과",
+            "컴퓨터인공지능학부"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4346,
+            "name": "데이터통신",
+            "description": "통신망을 이용하여 시스템간의 데이터를 주고받는 기술과 방법에 대하여 공부한다.\n\n프로토콜에 대한 기본 개념과 여러 가지 매체를 통하여 데이터를 안전하게 전달하는 기법에 대하여 배운다.\n\n배운 통신망의 물리계층과 데이터 링크 계층의 프로토콜에 대하여 개략적인 내용을 다룬다.",
+            "curriculum": "Chapter #1 Introduction\n\n분야소개 및 프로토콜과 표준 설명YUMMIChapter #2 Network Models\n\n인터넷 모델과 OSI 모델YUMMIChapter #3 Signals\n\n아날로그와 디지털 신호YUMMIChapter #4 Digital Transmission\n\n부호화, 전송모드YUMMIChapter #5 Analog Transmission\n\n아날로그 통신YUMMIChapter #6 Multiplexing\n\n아날로그와 디지털 신호의 다중화 방식YUMMIChapter #7 Transmission Media\n\n유선, 무선 전송 매체YUMMI중간시험YUMMIChapter #8 Circuit Switching and Telephone Network\n\n회선 교환과 전화망YUMMIChapter #9 High-Speed Digital Access\n\nxDSL, 케이블 모델, SONETYUMMIChapter #10 Error Detection and Correction\n\n오류 검출과 오류 정정YUMMIChapter #11 Data Link control and Protocols\n\n데이터링크 제어와 관련 프로토콜YUMMIChapter #12 Point-to Point\n\nPPPYUMMIChapter #13 Multiple Acess\n\n다중접속 : CSMA/CD, CSMA/CA, CDMAYUMMIChapter #14 Local Area Networks\n근거리 통신망 : 이더넷, 무선랜(802.11) 및 기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "데이터통신 통신망을 이용하여 시스템간의 데이터를 주고받는 기술과 방법에 대하여 공부한다.\n\n프로토콜에 대한 기본 개념과 여러 가지 매체를 통하여 데이터를 안전하게 전달하는 기법에 대하여 배운다.\n\n배운 통신망의 물리계층과 데이터 링크 계층의 프로토콜에 대하여 개략적인 내용을 다룬다.",
+            "similarity": 0.10008703418526785
+        },
+        {
+            "id": 26,
+            "name": "인간-컴퓨터상호작용",
+            "description": "인간-컴퓨터 상호작용(Human-Computer Interaction)의 기본 원리에 대해 학습한다. 본 수업의 주요 목표는 다음과 같다. \n1)사용자 및 사용자 중심 디자인(UCD)에 대한 이해, 2)사용성의 원리와 평가에 대한 이해, 3)인터페이스 설계 및 사용자 관점의 시스템 평가에 대한 경험 배양",
+            "curriculum": "Introduction / History of HCI YUMMIHCI Framework / Design Process / User Centered DesignYUMMIUsability PrinciplesYUMMIUser – Senses \nUser - Information ProcessingYUMMIUser Requirements\nDesign implications, TasksYUMMIPrototypingYUMMIDesign / Sketch / Mid-fi prototyping\nModels of UsersYUMMI중간고사YUMMIUsability EvaluationYUMMIEvaluation Data, HeuristicsYUMMIUniversal Design\nEthics and design\nInternational issuesYUMMIAR & VRYUMMIData visualizationYUMMI기말고사YUMMIFinal ProjectYUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인간-컴퓨터상호작용 인간-컴퓨터 상호작용(Human-Computer Interaction)의 기본 원리에 대해 학습한다. 본 수업의 주요 목표는 다음과 같다. \n1)사용자 및 사용자 중심 디자인(UCD)에 대한 이해, 2)사용성의 원리와 평가에 대한 이해, 3)인터페이스 설계 및 사용자 관점의 시스템 평가에 대한 경험 배양",
+            "similarity": 0.22261929963663518
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "description": "데이터 사이언스에 필수적인 데이터 마이닝에 방법론을 익히고 적용능력을 키움.\n시각화 및 EDA, 협업 필터링, 연과규칙 분석, 차원축소법, 군집분석, 이상치 탐색 등을 다룸.  ",
+            "curriculum": "소개 및 목표YUMMI데이터 시각화 YUMMI데이터 시각화 YUMMIEDAYUMMI협업필터링YUMMI협업필터링YUMMI연관규칙 분석YUMMI연관규칙 분석 및 중간고사YUMMI주성분 분석YUMMI비선형 차원 축소법YUMMI군집분석 (1)YUMMI군집분석 (2)YUMMI군집분석 (3)YUMMI이상치 탐색 (1)YUMMI이상치 탐색 (2)\n기말발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "데이터마이닝 데이터 사이언스에 필수적인 데이터 마이닝에 방법론을 익히고 적용능력을 키움.\n시각화 및 EDA, 협업 필터링, 연과규칙 분석, 차원축소법, 군집분석, 이상치 탐색 등을 다룸.  ",
+            "similarity": 0.1766088534142048
+        }
+    ]
+}

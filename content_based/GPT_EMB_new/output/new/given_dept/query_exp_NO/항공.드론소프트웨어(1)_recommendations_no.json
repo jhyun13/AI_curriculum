@@ -1,0 +1,398 @@
+{
+    "meta_info": {
+        "user_query": "최근 드론은 군사 및 보안 분야에서 자율 정찰, 감시, 무인 경계 시스템 등으로 활용되고 있으며, AI와 결합하여 스마트 감시 및 자동 대응 시스템으로 발전하고 있습니다. 저는 이러한 기술을 더욱 발전시켜 도시 및 국경 감시 시스템, 응급 구조 드론, 재난 지역 자동 탐색 및 구조 드론 등을 개발하는 데 기여하고 싶습니다. 이를 위해 임베디드 시스템 설계, AI 기반 영상 분석, 드론의 네트워크 통신 및 실시간 제어 시스템, IoT 기반 센서 네트워크, 머신러닝을 활용한 자동 탐색 알고리즘 등을 배워야 할 것 같은데, 구체적으로 어떤 학습이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": [
+            "소프트웨어공학과",
+            "항공우주공학과"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2071,
+            "name": "Python 프로그래밍 1",
+            "description": "1. 파이썬의 개발환경을 사용할 수 있는 능력의 배양\n2. 파이썬의 데이터구조를 활용할 수 있는 능력의 배양\n3. 파이썬을 활용하여 기초 코딩을 할 수 있는 능력의 배양\n4. 파이썬을 활용하여 다양한 응용분야를  이해할 수 있는 능력의 배양",
+            "curriculum": "프로그래밍 언어를 이해하고, 파이썬 프로그래밍을 위한 환경을 구축할 수 있다.YUMMIPython IDLE를 이용하여 소스코드를 작성하고 실행시킬 수 있다,YUMMI입력 함수를 이용하여 문자열과 숫자를 입력받을 수 있다.YUMMI다양한 연산자를 이용하여 숫자 및 문자열 연산을 수행할 수 있다.YUMMI데이터 형의 개념과 종류를 알 수 있다. \n문자열 처리 라이브러리 함수를 활용할 수 있다.YUMMI조건문을 사용하여 프로그램의 흐름을 제어할 수 있다.YUMMI반복문, continue, break를 사용하여 프로그램의 흐름을 제어할 수 있다.YUMMI중간고사YUMMI리스트, 튜플, 딕셔너리의 개념을 알고 자료를 저장 및 관리할 수 있다.YUMMI함수를 작성할 수 있고, 지역변수와 전역변수를 적절히 사용할 수 있다.YUMMI파일 입출력 함수를 사용하여 파일입출력을 할 수 있다.YUMMI객체지향 개념을 알고 클래스 모델링을 할 수 있다.YUMMIThinker 라이브러리를 이용하여 GUI 프로그래밍을 할 수 있다.YUMMI터틀 그래픽을 경험하고 지금까지 배운 내용을 활용하여  간단한 응용프로그램을 작성할 수 있다.YUMMI기말고사YUMMI",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "full_text": "Python 프로그래밍 1 1. 파이썬의 개발환경을 사용할 수 있는 능력의 배양\n2. 파이썬의 데이터구조를 활용할 수 있는 능력의 배양\n3. 파이썬을 활용하여 기초 코딩을 할 수 있는 능력의 배양\n4. 파이썬을 활용하여 다양한 응용분야를  이해할 수 있는 능력의 배양",
+            "similarity": 0.2994880760812222
+        },
+        {
+            "id": 4225,
+            "name": "디지털공학",
+            "description": " IC의 발달로 인해 컴퓨터와 관련된 각종 장비의 디지털화가 되고 있다. 이를 이해하고, 응용하기 위해서 디지털 공학에 대한 정확한 이론 파악이 필요하다. ",
+            "curriculum": " 디지털공학, 수의체계YUMMI디지털 코드YUMMI논리 게이트YUMMI 불대수YUMMI 논리식의 간소화YUMMI 조합논리회로 1YUMMI 조합논리회로 2YUMMI 중간고사YUMMI 플립플롭YUMMI 동기순서논리회로 1YUMMI 동기순서논리회로 2YUMMI 카운터YUMMI 레지스터YUMMI 메모리와 프로그램 논리장치YUMMI 기말고사YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "full_text": "디지털공학  IC의 발달로 인해 컴퓨터와 관련된 각종 장비의 디지털화가 되고 있다. 이를 이해하고, 응용하기 위해서 디지털 공학에 대한 정확한 이론 파악이 필요하다. ",
+            "similarity": 0.34738843275571146
+        },
+        {
+            "id": 3615,
+            "name": "창의적공학설계입문",
+            "description": "본 강좌는 소프트웨어공학 분야에 입문한 공학도들에게 강의와 팀별 프로젝트를 통하여 창의적 문제 해결 방법을 직？간접적으로 체험하도록 함으로써 공학자로서의 올바른 마인드를 형성하도록 하고 창의적 사고 능력을 배양시키며, 향후 공학도로서 업무 현장에서 생길 수 있는 다양한 문제들에 대해 전체적으로 조망하고 이에 창의적으로 대처해 나갈 수 있는 기본적인 소양을 갖도록 한다.\n\n(프로젝트(설계) 교과목으로서의 목표) - 설계학점 3학점으로 되어 있는 기초 프로젝트 교과목이므로 선정한 주제에서 요구하는 필요조건과 설계 구성요소 및 현실적 제한조건을 반영한 프로젝트를 팀 단위로 수행하여야 한다.",
+            "curriculum": "(준비사항) 기초 설문 조사, 기초설계 개요, 설계계획서 설명\n(1장) 공학과 창의성에 대해 이해하기\nYUMMI(팀 프로젝트 과제 유형) 글로벌 과제, 지역사회 연계 과제, 적정기술 과제YUMMI(2장) 공학설계의 개념과 창의적 공학설계 프로세스 이해하기YUMMI(3장) 브레인스토밍 제대로 하는 방법 이해하기YUMMI(3장) 팀워크와 팀 운영방법 이해하기                                               (3장) 마인드맵을 활용한 필기법 이해하기YUMMI(4장) 문제인식의 중요성과 문제인식 방법 이해하기\n(1차 팀 과제 발표)  YUMMI(4장) 시스템 사고를 통한 문제인식 방법 이해하기\n\n(2차 팀 과제 발표)YUMMI중간고사YUMMI(5장) 문제 정의의 중요성 및 문제 정의 방법 이해하기YUMMI(5장) 기능분석 및 기술적 모순 또는 물리적 모순을 활용한 문제 정의 방법 이해하기 \n(3차 팀 과제 발표)YUMMI(6장) 스캠퍼를 활용해서 아이디어를 도출하는 방법 이해하기\n(4차 팀 과제 중간발표)YUMMI(6장) 발명원리 및 분리원리 또는 ASIT을 활용해서 아이디어 도출하는 방법 이해하기YUMMI(7장) 아이디어 평가 방법에 대해 이해하기\n(5차 팀 과제 발표) YUMMI(8장) 하나의 과제를 선택해서 실습하고 발표하기YUMMI<기말고사>\n\n(16주) 팀별 프로젝트 최종 발표YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "full_text": "창의적공학설계입문 본 강좌는 소프트웨어공학 분야에 입문한 공학도들에게 강의와 팀별 프로젝트를 통하여 창의적 문제 해결 방법을 직？간접적으로 체험하도록 함으로써 공학자로서의 올바른 마인드를 형성하도록 하고 창의적 사고 능력을 배양시키며, 향후 공학도로서 업무 현장에서 생길 수 있는 다양한 문제들에 대해 전체적으로 조망하고 이에 창의적으로 대처해 나갈 수 있는 기본적인 소양을 갖도록 한다.\n\n(프로젝트(설계) 교과목으로서의 목표) - 설계학점 3학점으로 되어 있는 기초 프로젝트 교과목이므로 선정한 주제에서 요구하는 필요조건과 설계 구성요소 및 현실적 제한조건을 반영한 프로젝트를 팀 단위로 수행하여야 한다.",
+            "similarity": 0.3141046850025924
+        },
+        {
+            "id": 3154,
+            "name": "C++프로그래밍",
+            "description": "C언어의 응용, C++의 기본적인 지식에서 부터 객체지향언어의 전반적인 내용을 숙지하고(특히, 캡슐화, 정보은닉, 다형성, 상속과 같은 객체 지향의 핵심적인 개념을 완벽하게 이해하고) 충분한 프로그래밍 실습을 통하여 객체지향 언어로서의 응용력을 기른다.  객체지향 언어(MFC, JAVA, .Net 등)를 배우기 위한 기본을 다지며, Object 중심의 프로그래밍 기법에 대해 익힌다.\n\n(사전 이해도에 따라 강의 내용과 방향이 조정될 수 있음.)",
+            "curriculum": "C++ 소개, C언어 복습YUMMIC포인터와 구조체 이해YUMMIC포인터와 구조체, C++프로그래밍의 기본 이해YUMMI클래스와 객체의 개념 이해YUMMI객체 포인터와 객체 배열, 객체의 동적 생성 개념 이해 및 구현YUMMI객체 포인터와 객체 배열, 객체의 동적 생성 개념 이해 및 구현YUMMI함수와 참조, 복사 생성자 개념 이해 및 구현YUMMI중간고사YUMMI함수 중복과 static 멤버 개념 이해 및 구현YUMMI프렌드 함수 개념 이해 및 구현YUMMI연산자 중복, 상속 개념 이해 및 구현YUMMI상속YUMMI가상 함수와 추상 클래스 개념 이해 및 구현YUMMI템플릿 개념 이해 및 구현YUMMI기말고사YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "full_text": "C++프로그래밍 C언어의 응용, C++의 기본적인 지식에서 부터 객체지향언어의 전반적인 내용을 숙지하고(특히, 캡슐화, 정보은닉, 다형성, 상속과 같은 객체 지향의 핵심적인 개념을 완벽하게 이해하고) 충분한 프로그래밍 실습을 통하여 객체지향 언어로서의 응용력을 기른다.  객체지향 언어(MFC, JAVA, .Net 등)를 배우기 위한 기본을 다지며, Object 중심의 프로그래밍 기법에 대해 익힌다.\n\n(사전 이해도에 따라 강의 내용과 방향이 조정될 수 있음.)",
+            "similarity": 0.23505701425458142
+        },
+        {
+            "id": 3129,
+            "name": "Python 프로그래밍 2",
+            "description": "Python은 쉬운 문법과 지속적으로 발전하는 성능 및 언어적 특징을 바탕으로 기존의 C/C++/Java와 같은 고급 언어를 빠르게 대체하며 중요한 언어 중 하나로 급성장하고 있습니다. 본 강의는 1학기 기본 교육에 이은 심화과정으로서, “Python 프로그래밍 1” 과정에서 미흡했던 파일처리 및 GUI 프로그래밍 기법을 학습합니다. 또한 프로그래밍 실무 능력 향상을 위하여 COS Pro 2급 - Python 자격증 획득을 목적으로 하여 수업을 진행합니다.",
+            "curriculum": "본 수업의 목표와 진행 방향 등 수업개요를 \n알고, Python 실습환경을 구축할 수 있다.\n또한 사전이해도 설문을 실시하여 수업 전단\n계 상황을 파악한다.YUMMI자격시험 유형을 파악하고 해결할 수 있는 능력을 함양한다.YUMMI자격시험의 유형에 맞게 리스트 활용능력과 함수 활용능력을 점검하고, 주요 알고리즘을 프로그래밍한다.YUMMI자격시험의 유형에 맞게 문자열 처리 함수와 리스트 처리 함수를 활용하여 문제를 해결할 수 있다.YUMMICOSPRO 기출문제를 풀어봄으로써 응용문제의 솔루션을 찾는 능력을 함양한다,YUMMICOSPRO 기출문제를 풀어봄으로써 응용문제의 솔루션을 찾는 능력을 함양한다.YUMMICOSPRO 기출문제를 풀어봄으로써 응용문제의 솔루션을 찾는 능력을 함양한다.YUMMI중간고사( Python 활용 능력을 평가한다.)YUMMICOSPRO 기출문제를 풀어봄으로써 응용문제의 솔루션을 찾는 능력을 함양한다.YUMMICOSPRO 기출문제를 풀어봄으로써 응용문제의 솔루션을 찾는 능력을 함양한다.YUMMIPython 활용 능력을 평가한다.YUMMI파일로부터 입력받고 파일로 출력할 수 있다.YUMMIGUI 프로그래밍을 할 수 있다.YUMMIGUI 프로그래밍을 할 수 있다.YUMMI데이터베이스 프로그래밍을 할 수 있다.YUMMI",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "full_text": "Python 프로그래밍 2 Python은 쉬운 문법과 지속적으로 발전하는 성능 및 언어적 특징을 바탕으로 기존의 C/C++/Java와 같은 고급 언어를 빠르게 대체하며 중요한 언어 중 하나로 급성장하고 있습니다. 본 강의는 1학기 기본 교육에 이은 심화과정으로서, “Python 프로그래밍 1” 과정에서 미흡했던 파일처리 및 GUI 프로그래밍 기법을 학습합니다. 또한 프로그래밍 실무 능력 향상을 위하여 COS Pro 2급 - Python 자격증 획득을 목적으로 하여 수업을 진행합니다.",
+            "similarity": 0.2279045727559253
+        },
+        {
+            "id": 3,
+            "name": "항공드론기초설계",
+            "description": "창의적 엔지니어 양성을 위해 공학설계원리, 모델링 및 구형, 상세설계, 설계관리 자료수집 및 지시기법에 대한 기본 사항 학습 ",
+            "curriculum": "강의 소개. YUMMI공학과 기술YUMMI공학설계 기본원리YUMMI공학설계 과정 개요, 설계주제제시YUMMI공학설계 과정 1YUMMI공학설계 과정 2YUMMI공학설계 과정 3YUMMI공학설계 과정 관리YUMMI설계중간점검YUMMI공학설계 과정 4YUMMI의사결정YUMMI엔지니어링 커뮤니케이션YUMMI공학설게 과정 5YUMMI공학설계 과정 6YUMMI기말고사, 최종 보고서 및 설계품 팜플릿 제출 YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론기초설계 창의적 엔지니어 양성을 위해 공학설계원리, 모델링 및 구형, 상세설계, 설계관리 자료수집 및 지시기법에 대한 기본 사항 학습 ",
+            "similarity": 0.4736958689749783
+        },
+        {
+            "id": 420,
+            "name": "전산항공드론기초",
+            "description": "창의적 엔지니어 양성을 위해 공학설계원리, 모델링 및 구형, 상세설계, 설계관리 자료수집 및 지시기법에 대한 기본 사항 학습 ",
+            "curriculum": "강의 소개. YUMMIMATLAB 기초/응용 (1)YUMMIMATLAB 기초/응용 (2)YUMMI선형시스템의 풀이 (1)YUMMI선형시스템의 풀이 (2)YUMMI테일러 다항식YUMMI보간법YUMMI중간고사YUMMI보간법YUMMI수치해석을 이용한 근 찾기YUMMI수치 적분 (1)YUMMI수치 적분 (2)YUMMI수치 미분 (1)YUMMI수치 미분 (2)YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "전산항공드론기초 창의적 엔지니어 양성을 위해 공학설계원리, 모델링 및 구형, 상세설계, 설계관리 자료수집 및 지시기법에 대한 기본 사항 학습 ",
+            "similarity": 0.4710554764281891
+        },
+        {
+            "id": 814,
+            "name": "자료구조",
+            "description": "소프트웨어 시스템을 설계 구현하는데 필요한 여러 자료구조의 기본 개념과 이를 효율적으로 처리하는 방법에 대해 학습한다. 학습의 이해를 높이기 위해 C 언어를 이용한 실습 및 과제를 활용한다. 강의, 실습 및 과제를 통하여 리스트, 스택, 큐, 트리, 그래프, 정렬, 해싱, 탐색 등의 기본적인 자료구조의 이해, 설계 및 분석 방법을 숙지하여 실무에 적용할 수 있는 프로그래밍 능력 함양을 목표로 한다.",
+            "curriculum": "자료구조와 알고리즘의 개념, 시간 복잡도의 개념, 알고리즘 분석 기법, 자료구조 표기법을 이해YUMMI순환의 개념, 순환 알고리즘의 구조, 순환 호출 사용 시 주의점을 이해하고, 순환 호출 응용력을 배양YUMMI배열, 구조체, 포인터의 개념을 이해하고, 배열 응용 프로그램을 작성. 포인터 관련 연산자를 학습하고 동적 메모리 할당 및 반납 메카니즘을 이해YUMMI스택의 개념과 추상 자료형, 동작 원리를 이해하고 스택 응용 프로그램을 제작할 수 있는 능력을 배양YUMMI큐의 개념과 추상 자료형, 덱의 개념과 구현 방법을 이해하고, 큐를 이용하여 프로그램 할 수 있는 능력을 배양YUMMI리스트의 추상 데이터 타입을 이해하고, 배열과 연결 리스트를 이용하여 구현할 수 있는 능력을 배양YUMMI원형/이중 연결 리스트의 개념과 여러 가지 연산들을 이해하고, 연결된 스택과 연결된 큐를 이해YUMMI자료구조와 알고리즘, 순환, 배열, 구조체, 포인터, 스택, 큐, 연결 리스트에 대한 이해 정도를 평가YUMMI트리의 개념, 순회 알고리즘을 이해하고, 이진 탐색 트리의 동작 원리와 효율성을 이해YUMMI우선순위 큐의 개념과 배열, 리스트로 구현된 우선 순위 큐의 장단점을 이해하고, 히프의 동작 원리, 효율성, 배열을 이용한 구현을 이해YUMMI그래프의 개념, 2가지 표현 방법, 순회 방법을 이해YUMMI그래프의 최소 신장트리, 최단 경로, 위상 정렬 알고리즘을 이해YUMMI정렬의 개념을 이해하고, 각 정렬 알고리즘의 동작 원리, 장점과 단점, 효율성, C언어 구현을 이해YUMMI순차/이진 탐색의 장단점, 색인/보간 탐색의 개념, 균형 트리를 사용하는 목적을 이해하고, AVL 트리의 원리와 삽입 연산, 2-3 트리 및 2-3-4 트리의 개념을 이해YUMMI트리, 우선순위 큐, 그래프, 정렬, 탐색에 대한 이해 정도를 평가YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "full_text": "자료구조 소프트웨어 시스템을 설계 구현하는데 필요한 여러 자료구조의 기본 개념과 이를 효율적으로 처리하는 방법에 대해 학습한다. 학습의 이해를 높이기 위해 C 언어를 이용한 실습 및 과제를 활용한다. 강의, 실습 및 과제를 통하여 리스트, 스택, 큐, 트리, 그래프, 정렬, 해싱, 탐색 등의 기본적인 자료구조의 이해, 설계 및 분석 방법을 숙지하여 실무에 적용할 수 있는 프로그래밍 능력 함양을 목표로 한다.",
+            "similarity": 0.3349754622819945
+        },
+        {
+            "id": 813,
+            "name": "임베디드시스템개론",
+            "description": "어떠한 마이크로프로세서나 실시간 운영체제 그리고 소프트웨어 설계 방법론을 사용하든지에 상관없이 임베디드 시스템 소프트웨어에 대한 기본적인 원리는 같기 때문에 이 수업을 통해 어떠한 임베디드 시스템 프로젝트에도 적용할 수 있는 기본적인 원리를 다루는데 초점을 맞춘다. \n",
+            "curriculum": "강의소개, 기초 학력 조사, IoT 개론 1\nYUMMIIoT 개론 2\nYUMMI아두이노 개요\nYUMMI시리얼 통신\nYUMMILCD 출력\nYUMMILED 실험\nYUMMI디지털 신호 입력\nYUMMI중간 고사YUMMI아날로그 신호 입력\nYUMMI모터 구동\nYUMMIArduino 개별 발표\nYUMMI적외선 리모컨\nYUMMI여러가지 부품들\nYUMMI기타 프로젝트\nYUMMI기말 고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "full_text": "임베디드시스템개론 어떠한 마이크로프로세서나 실시간 운영체제 그리고 소프트웨어 설계 방법론을 사용하든지에 상관없이 임베디드 시스템 소프트웨어에 대한 기본적인 원리는 같기 때문에 이 수업을 통해 어떠한 임베디드 시스템 프로젝트에도 적용할 수 있는 기본적인 원리를 다루는데 초점을 맞춘다. \n",
+            "similarity": 0.3049833859089401
+        },
+        {
+            "id": 1398,
+            "name": "공업역학",
+            "description": "공업역학은 기계, 항공우주, 건축 등의 분야에서 다루어지는 강체 및 구조물에 대한 역학적인 해석의 기초를 제공한다. 본 강의에서는 기계 및 항공우주시스템을 구성하는 강체 및 구조물을 중심으로 힘의 정적평형상태를 다루는 정역학에 관하여 학습하며 정적평형상태에 있는 강체 및 구조물에 대한 역학적인 해석능력을 습득하는 것을 목표로 한다.",
+            "curriculum": "강의 소개 및 개요\nYUMMI질점의 정역학, 기초학력YUMMI질점의 정역학\nYUMMI강체: 힘의 등가계YUMMI강체: 힘의 등가계 YUMMI강체의 평형\nYUMMI강체의 평형\nYUMMI중간시험YUMMI도심과 무게중심\nYUMMI도심과 무게중심\nYUMMI구조물의 해석 YUMMI구조물의 해석 YUMMI마찰,  관성모멘트YUMMI관성모멘트, 가상일의 방법\nYUMMI기말고사\nYUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "공업역학 공업역학은 기계, 항공우주, 건축 등의 분야에서 다루어지는 강체 및 구조물에 대한 역학적인 해석의 기초를 제공한다. 본 강의에서는 기계 및 항공우주시스템을 구성하는 강체 및 구조물을 중심으로 힘의 정적평형상태를 다루는 정역학에 관하여 학습하며 정적평형상태에 있는 강체 및 구조물에 대한 역학적인 해석능력을 습득하는 것을 목표로 한다.",
+            "similarity": 0.30013234239915226
+        },
+        {
+            "id": 2832,
+            "name": "항공우주로봇입문",
+            "description": "- 로봇공학 기초과정 이해 \n\n- 사례조사를 통한 비행로봇 및 우주탐사로봇 이해   ",
+            "curriculum": "로봇 및 항공우주 응용 소개(비행로봇, 행성탐사로봇, 서비스 로봇 등)\n강의계획 안내YUMMI로봇이란? (정의, 구성, 분류, 용어 등)                                                                YUMMI로봇의 센서 1 (위치, 가속도, 힘, 촉각센서)YUMMI로봇의 센서 2 (거리, 방향센서) YUMMI로봇의 시각 (시스템구성, 영상획득 및 처리 알고리즘)YUMMI로봇의 액추에이터 1 (서보모터, 스텝모터) YUMMI로봇의 액추에이터 2 (유압, 공기압, SMA) YUMMI이동로봇의 운동학 (구조, 운동, 제어)  YUMMI이동로봇의 주행 (경로계획, 위치인식/지도작성 알고리즘) YUMMI로봇팔의 운동학 1 (회전과 평행이동, 자세각)  YUMMI로봇팔의 운동학 2 (자코비안) YUMMI로봇팔의 동역학 (라그랑지 운동방정식)YUMMI멀티로터 비행로봇의 모델링 / 행성탐사로봇의 주행역학YUMMI사례연구 (Multirotor flying robot, Planetary exploration rover)YUMMI기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공우주로봇입문 - 로봇공학 기초과정 이해 \n\n- 사례조사를 통한 비행로봇 및 우주탐사로봇 이해   ",
+            "similarity": 0.4454809499965432
+        },
+        {
+            "id": 4948,
+            "name": "알고리즘",
+            "description": "소프트웨어공학 전공에서 필요한 여러 알고리즘에 대한 기본 지식을 익히고, 실제 응용할 수 있는 능력을 배양한다.",
+            "curriculum": "여러가지 문제에 대한 알고리즘 방법을 이해YUMMI알고리즘의 표현 방법, 분류, 효율성 표현에 대한 이해YUMMI분할 정복 알고리즘에 대한 이해YUMMI분할 정복 알고리즘에 대한 다양한 응용 사례 이해YUMMI그리디 알고리즘에 대한 이해YUMMI그리디 알고리즘에 대한 다양한 응용사례 이해YUMMI동적 계획 알고리즘에 대한 이해YUMMI다양한 알고리즘 기법으로 해결되는 문제들에 대한 이해 정도 파악YUMMI동적 계획 알고리즘에 대한 다양한 응용사례 이해YUMMI정렬 알고리즘에 대한 이해 및 다양한 정렬 알고리즘 파악YUMMINP-완전 문제에 대한 이해YUMMI근사 알고리즘에 대한 이해YUMMI근사 알고리즘에 대한 다양한 응용사례 이해YUMMI해 탐색 알고리즘에 대한 이해 및 다양한 응용사례 파악YUMMI다양한 알고리즘 기법으로 해결되는 문제들에 대한 이해 정도 파악YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "full_text": "알고리즘 소프트웨어공학 전공에서 필요한 여러 알고리즘에 대한 기본 지식을 익히고, 실제 응용할 수 있는 능력을 배양한다.",
+            "similarity": 0.42253294810573616
+        },
+        {
+            "id": 3389,
+            "name": "데이터사이언스",
+            "description": "○ 데이터사이언스의 개념 이해, 데이터사이언스의 종류와 동작원리 이해, 데이터사이언스의 응용 및 사례\n ○ 데이터사이언스, 인공지능 및 머신러닝의 알고리즘 이해와 구현\n",
+            "curriculum": "데ㅇ터사이언스 소개 및 역할 YUMMI데이터 분석의 기초YUMMI데이터 분석의 기초YUMMI프로젝트 발표YUMMI데이터 분석 기법YUMMI데이터 분석 기법YUMMI데이터 분석 기법YUMMI중간고사YUMMI분석 1YUMMI분석 2YUMMI모델 검증, 튜닝YUMMI데이터사이언스 응용사례 1YUMMI데이터사이언스 응용사례 2YUMMI최종발표YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "full_text": "데이터사이언스 ○ 데이터사이언스의 개념 이해, 데이터사이언스의 종류와 동작원리 이해, 데이터사이언스의 응용 및 사례\n ○ 데이터사이언스, 인공지능 및 머신러닝의 알고리즘 이해와 구현\n",
+            "similarity": 0.36498353439487574
+        },
+        {
+            "id": 2638,
+            "name": "항공드론재료역학",
+            "description": "◎ 고체에 힘이 작용할 때 발생하는 내력과 변형에 대한 개념을 이해하고, 향후 비행체(항공기, 위성체, 발사체 등)의 구조 설계 및 해석에 요구되는 기초 이론을 학습함\n\n◎ 고체의 평형 방정식, 응력 및 변형도, 구성 방정식을 비롯하여 축 하중, 비틀림 하중, 굽힘 하중이 작용하는 구조물의 해석 기법을 다루며, 다양한 응용 문제(항공우주, 기계, 자동차, 풍력, 건축, 토목 분야 등)에 대한 해결 능력을 향상함",
+            "curriculum": "Ch. 1  IntroductionYUMMICh. 2  Measures of Stress and StrainYUMMICh. 2  Measures of Stress and StrainYUMMICh. 3  Axially Loaded BarsYUMMICh. 3  Axially Loaded BarsYUMMICh. 4  TorsionYUMMICh. 4  TorsionYUMMICh. 5  States of StressYUMMICh. 5  States of StressYUMMICh. 6  States of StrainYUMMICh. 7  Internal Forces and Moments in BeamsYUMMICh. 7  Internal Forces and Moments in BeamsYUMMICh. 8  Stresses in BeamsYUMMICh. 9  Deflections of BeamsYUMMICh. 9  Deflections of BeamsYUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론재료역학 ◎ 고체에 힘이 작용할 때 발생하는 내력과 변형에 대한 개념을 이해하고, 향후 비행체(항공기, 위성체, 발사체 등)의 구조 설계 및 해석에 요구되는 기초 이론을 학습함\n\n◎ 고체의 평형 방정식, 응력 및 변형도, 구성 방정식을 비롯하여 축 하중, 비틀림 하중, 굽힘 하중이 작용하는 구조물의 해석 기법을 다루며, 다양한 응용 문제(항공우주, 기계, 자동차, 풍력, 건축, 토목 분야 등)에 대한 해결 능력을 향상함",
+            "similarity": 0.36099788546296163
+        },
+        {
+            "id": 3859,
+            "name": "동역학",
+            "description": "- 물체의 위치 및 방향에 대한 공학적 이해\n\n- 뉴톤 운동 법칙에 근거한 고전 역학의 이해\n\n- 힘과 물체 (질점 및 강체)의 운동(위치, 속도, 자세, 각속도)의 상관 관계를 이해\n\n- 항공기, 인공위성, 자동차 등 실생활과 연계한 동역학의 활용 범위에 대한 이해",
+            "curriculum": "동역학 강의 소개 및 필요성YUMMICh. 1 Introduction to DynamicsYUMMICh. 2 Kinematics of particles (1)YUMMICh. 2 Kinematics of particles (2)YUMMICh. 3 Kinetics of particles (1): Force, Mass and AccelerationYUMMICh. 3 Kinetics of particles (1): Force, Mass and AccelerationYUMMI중간 시험YUMMICh. 4 Kinetics of Systems of ParticlesYUMMICh. 5 Plane Kinematics of Rigid Bodies (1)YUMMICh. 5 Plane Kinematics of Rigid Bodies (2)YUMMIQuizYUMMICh. 6 Plane Kinetics of Rigid Bodies (1)YUMMICh. 6 Plane Kinetics of Rigid Bodies (2)YUMMICh. 7 Introduction to Three-Dimensional Dynamics of Rigid BodiesYUMMI기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "동역학 - 물체의 위치 및 방향에 대한 공학적 이해\n\n- 뉴톤 운동 법칙에 근거한 고전 역학의 이해\n\n- 힘과 물체 (질점 및 강체)의 운동(위치, 속도, 자세, 각속도)의 상관 관계를 이해\n\n- 항공기, 인공위성, 자동차 등 실생활과 연계한 동역학의 활용 범위에 대한 이해",
+            "similarity": 0.32150086156742363
+        },
+        {
+            "id": 311,
+            "name": "항공드론제어설계",
+            "description": "항공기(무인기)와 우주선을 비롯하여 로봇과 자동화시스템 등 항공우주 및 기계전자시스템의 제어에 관한 원리를 이해하고 기초적인 설계과정을 연습한다.",
+            "curriculum": "제어공학 소개 \n- 기초학습과제 : 수학 및 전기기초 문제풀이(미분방정식, 벡터, 행렬, 전기회로 등)YUMMI전기회로 기초 : 직류회로, 임피던스/교류회로YUMMILaplace 변환 및 전달함수YUMMI전기 및 기계시스템의 전달함수 YUMMI전기 및 기계시스템의 전달함수 \n- Case study : 안테나 제어시스템의 전달함수YUMMI전기 및 기계시스템의 상태방정식\n- Case study : 안테나 제어시스템의 상태방정식YUMMI1차 및 2차 시스템YUMMI제어시스템의 과도응답\n- Case study : 안테나 제어시스템의 open-loop 응답 YUMMI등가 시스템  \n- 설계 #1 : Closed-loop 응답설계(안테나 사례연구)YUMMI과도응답 안정도 \n- 설계 #2 : Gain에 의한 안정도 설계(안테나 사례연구)YUMMI정상상태 오차해석 \n- 설계 #3 : Gain에 의한 정상상태 오차 설계(안테나 사례연구)YUMMI근궤적 기법 \n- 설계 #4 : Gain에 의한 과도응답 설계(안테나 사례연구)YUMMI주파수 응답기법 YUMMI<지필 기말시험>YUMMI<구두 기말시험> YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론제어설계 항공기(무인기)와 우주선을 비롯하여 로봇과 자동화시스템 등 항공우주 및 기계전자시스템의 제어에 관한 원리를 이해하고 기초적인 설계과정을 연습한다.",
+            "similarity": 0.4982868836211713
+        },
+        {
+            "id": 1305,
+            "name": "항공드론CAD응용",
+            "description": "컴퓨터 이용설계의 개념 및 각종 하드웨어와 소프트웨어에 대한 최신 동향을 주지시키고, 3차원 형상 모델링에 대한 이해와 사용 능력을 배양한다. \n상용 CAD 소프트웨어인 CATIA V5를 이용하여 Sketcher / Part Design / Generative shape design Workbench를 활용한 Solid Modeling을 학습한다.\n3차원 형상을 바탕으로 2차원 도면을 추출하는 Drafting Workbench 과정에 대하여 학습하고 실습한다.\n항공드론 부품을 설계하고 Assembly design workbench를 이용하여 설계한 개별 부품과 상용 부품들을  조립한다.",
+            "curriculum": "Introduction, environment, operation\n\n - Tools & Icons, mouse\n\nModeling OverviewYUMMISketcher Workbench (1): Profiles, ConstraintsYUMMISketcher Workbench (2): Operation, etc.YUMMIPart Design Workbench (1): Sketch Based Features(1) - Pad, Stiffener, Solid CombineYUMMIPart Design Workbench (2): Sketch Based Features(2) - Shaft, Rib YUMMIPart Design Workbench (3): Reference Elements\n                                        (4): Dress-up FeaturesYUMMIPart Design Workbench (5): Boolean, Multi- section Solid\n                                        (6) : Multi-Section SolidYUMMIMid-testYUMMIGenarative Shape Design Workbench (1)YUMMIGenarative Shape Design Workbench (2)YUMMIAssembly Design WorkbenchYUMMIDrafting Workbench (1): Generative Drafting (Views & Properties)YUMMIDrafting Workbench (2) : Generative Drafting (Dimensioning & Properties)\nDrone Design Project (1)YUMMIDrone Design Project (2)YUMMI\nFinal TestYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론CAD응용 컴퓨터 이용설계의 개념 및 각종 하드웨어와 소프트웨어에 대한 최신 동향을 주지시키고, 3차원 형상 모델링에 대한 이해와 사용 능력을 배양한다. \n상용 CAD 소프트웨어인 CATIA V5를 이용하여 Sketcher / Part Design / Generative shape design Workbench를 활용한 Solid Modeling을 학습한다.\n3차원 형상을 바탕으로 2차원 도면을 추출하는 Drafting Workbench 과정에 대하여 학습하고 실습한다.\n항공드론 부품을 설계하고 Assembly design workbench를 이용하여 설계한 개별 부품과 상용 부품들을  조립한다.",
+            "similarity": 0.469302169739485
+        },
+        {
+            "id": 839,
+            "name": "항공드론센서공학",
+            "description": "항공드론의 기계적 물리량 측정을 위한 기초 계측이론을 학습하고, 각종 센서의 작동원리 및 특성을 이해한다.\n계측이론을 바탕으로 온도, 압력, 가속도 등의 물리량에 대한 실습 프로젝터를 팀 단위로 수행하여 센서의 작동원리 및 특성을 실물을 통하여 체험 하도록 한다.",
+            "curriculum": "제1장 계측방법: 기본개념YUMMI제2장 신호: 동적 정적 특성YUMMI제2장 신호: 동적 정적특성YUMMI제2장 신호: 동적 정적특성YUMMI제3장 계측시스템의 거동YUMMI제3장 계측시스템의 거동YUMMI제3장 계측시스템의 거동YUMMI중간고사YUMMI제4장 무작위 오차와 통계YUMMI제4장 무작위 오차와 통계YUMMI제5장 정확도 추정과 불확도 분석YUMMI제5장 정확도 추정과 불확도 분석YUMMI제5장 정확도 추정과 불확도 분석YUMMI제8장 온도측정YUMMI제9장 압력과 속도의 측정YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론센서공학 항공드론의 기계적 물리량 측정을 위한 기초 계측이론을 학습하고, 각종 센서의 작동원리 및 특성을 이해한다.\n계측이론을 바탕으로 온도, 압력, 가속도 등의 물리량에 대한 실습 프로젝터를 팀 단위로 수행하여 센서의 작동원리 및 특성을 실물을 통하여 체험 하도록 한다.",
+            "similarity": 0.4507043517269989
+        },
+        {
+            "id": 2430,
+            "name": "비행동역학",
+            "description": "항공기 운동 특성의 이해와 적용을 위하여 항공기 운동방정식의 유도 및 이에 근거한 비선형 시뮬레이션 수행 능력을 확보한다. 평형 비행 상태의 정의 및 이를 기준으로한 선형 운동방정식의 해석을 통하여 항공기 동특성을 분석한다. 항공기 동특성 해석 결과 및 항공기 설계 기준을 연계하고 궁극적으로 항공기 제어 시스템 설계에 관한 기본 전략을 강의한다. 또한, MATLAB 기반의 프로그래밍을 통한 프로젝트를 수행하여 프로그래밍 사용법 숙지와 설계 능력을 높인다.\n[참고자료1] 현 강의 계획은 비행동역학에 필요한 일반적인 내용을 정리한 것이며, 구체적이고 상세한 강의 계획, 일정, 평가 방법 등은 학기초에 상세한 자료와 함께 설명 예정입니다.\n[참고사항2] 대면수업 중심으로 비대면수업 (강의자료제공)과 혼합하는 방식입니다.",
+            "curriculum": "과목 소개 및 비행동역학 개론\n\n사전이해도 평가 시행YUMMIMATLAB 프로그래밍 및 Simulink 입문YUMMI질점 항공기의 운동 (1)YUMMI질점 항공기의 운동 (2)YUMMI세로안정성과 조종성 (1)YUMMI세로안정성과 조종성 (2)YUMMI가로,방향 안정성과 조종성 (2)YUMMI가로,방향 안정성과 조종성 (2)YUMMI중간고사YUMMI강체 항공기의 운동YUMMI안정미계수YUMMI항공기운동특성YUMMI스핀운동YUMMI항공기비행성YUMMI기말시험YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "비행동역학 항공기 운동 특성의 이해와 적용을 위하여 항공기 운동방정식의 유도 및 이에 근거한 비선형 시뮬레이션 수행 능력을 확보한다. 평형 비행 상태의 정의 및 이를 기준으로한 선형 운동방정식의 해석을 통하여 항공기 동특성을 분석한다. 항공기 동특성 해석 결과 및 항공기 설계 기준을 연계하고 궁극적으로 항공기 제어 시스템 설계에 관한 기본 전략을 강의한다. 또한, MATLAB 기반의 프로그래밍을 통한 프로젝트를 수행하여 프로그래밍 사용법 숙지와 설계 능력을 높인다.\n[참고자료1] 현 강의 계획은 비행동역학에 필요한 일반적인 내용을 정리한 것이며, 구체적이고 상세한 강의 계획, 일정, 평가 방법 등은 학기초에 상세한 자료와 함께 설명 예정입니다.\n[참고사항2] 대면수업 중심으로 비대면수업 (강의자료제공)과 혼합하는 방식입니다.",
+            "similarity": 0.34455407336307714
+        },
+        {
+            "id": 2473,
+            "name": "마이크로프로세서",
+            "description": "\n 마이크로프로세서 혹은 마이크로콘트롤러는 우리 주변의 많은 부분에서 활용되고 있다. 이 강좌에서는 ARM사의 Cortex-M를 활용하여, 하드웨어 및 인터페이스 회로 설계 제작을 위한 기술과 제어프로그램을 위한 기술을 습득하게 한다.\n 이를 위하여 쉽고 재미있는 교재와 부품을 선정하여 학습자의 흥미를 돋구고,\n 소프트웨어와 하드웨어에 대하여 균형있는 지식을 쌓게 하며,\n 액추에이터, 디스플레이 및 센서 등에 대한 기본 원리 및 지식을 알도록 한다.\n",
+            "curriculum": "강의에 대한 전반적인 사항 마이크로프로세서/마이크로콘트롤러의 정의를 알 수 있다.YUMMI개발환경 구축하고 주요 API를 활용할 수 있다.YUMMILED 제어를 통하여 디지털 출력을 알 수 있다.YUMMIPush Button 제어를 통하여 디지털 입력을 알 수 있다. YUMMIServo Motor 제어를 통하여 PWM을 알 수 있다.YUMMI가변저항 제어를 통하여 아날로그 입력을 알 수 있다. YUMMI인터럽트 제어에 대하여 알 수 있다.YUMMI중간 시험YUMMITicker 제어를 통하여 타이머를 알 수 있다. YUMMIUART 통신을 통하여 통신 프로토콜을 알 수 있다.YUMMII2C 통신을 통하여 통신 프로토콜을 알 수 있다.YUMMISPI 통신을 통하여 내장 클래스를 알 수 있다.YUMMIRGB LED와 FND를 제어하면서 버스 클래스를 알 수 있다.YUMMIUltrasonic Sensor를 제어하면서 다양한 센서를 제어할 수 있다.YUMMI기말 시험YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "full_text": "마이크로프로세서 \n 마이크로프로세서 혹은 마이크로콘트롤러는 우리 주변의 많은 부분에서 활용되고 있다. 이 강좌에서는 ARM사의 Cortex-M를 활용하여, 하드웨어 및 인터페이스 회로 설계 제작을 위한 기술과 제어프로그램을 위한 기술을 습득하게 한다.\n 이를 위하여 쉽고 재미있는 교재와 부품을 선정하여 학습자의 흥미를 돋구고,\n 소프트웨어와 하드웨어에 대하여 균형있는 지식을 쌓게 하며,\n 액추에이터, 디스플레이 및 센서 등에 대한 기본 원리 및 지식을 알도록 한다.\n",
+            "similarity": 0.3433276904531154
+        },
+        {
+            "id": 2561,
+            "name": "소프트웨어시스템분석및설계",
+            "description": "소프트웨어 시스템의 개발은 분석, 설계, 구현 3가지 단계의 반복적이고 점진적인 과정을 통해 이루어 진다. 본 강좌에서는 시스템을 분석하고 설계하는데 고려되어야 하는 이슈들과 함께 분석 및 설계를 위하여 사용되는 방법론들과 기법들에 대하여 다룬다. 특히 UML(Unified Modeling Language)을 이용한 객체 지향 소프트웨어 개발과 관련된 사항을 중점적으로 다루며, 실제 사례를 통한 학습을 통하여 시스템 전체에 대한 분석 및 설계가 가능한 인력 양성을 목표로 한다.",
+            "curriculum": "강의소개 및 강의 진행 관련 설문과 사전 지식 평가YUMMIIntroduction\n- Software Modeling\n- Object-Oriented Methods and the Unified Modeling LanguageYUMMIOverview of the UML NotationYUMMIGuided Tutorial in Analysis Modeling Problem Statements for Case Studies YUMMISoftware Design and Architecture ConceptsYUMMIRequirements DeterminationYUMMIOverview of Software Modeling and Design MethodYUMMI중간고사YUMMIUse Case ModelingYUMMIStatic ModelingYUMMIObject and Class StructuringYUMMIObject and Class StructuringYUMMIDynamic Interaction ModelingYUMMIFinite State MachinesYUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "full_text": "소프트웨어시스템분석및설계 소프트웨어 시스템의 개발은 분석, 설계, 구현 3가지 단계의 반복적이고 점진적인 과정을 통해 이루어 진다. 본 강좌에서는 시스템을 분석하고 설계하는데 고려되어야 하는 이슈들과 함께 분석 및 설계를 위하여 사용되는 방법론들과 기법들에 대하여 다룬다. 특히 UML(Unified Modeling Language)을 이용한 객체 지향 소프트웨어 개발과 관련된 사항을 중점적으로 다루며, 실제 사례를 통한 학습을 통하여 시스템 전체에 대한 분석 및 설계가 가능한 인력 양성을 목표로 한다.",
+            "similarity": 0.3393946790273033
+        },
+        {
+            "id": 3303,
+            "name": "메카트로닉스및실험",
+            "description": "메카트로닉스 구성요소인 센서 및 신호처리, 구동기, 컴퓨터 인터페이스 등에 관한 기초지식을 습득하고 시스템 구현을 위한 설계 및 하드웨어 실장과정을 이해한다. ",
+            "curriculum": "메카트로닉스 개요 및 항공우주분야 응용사례소개 YUMMI시스템 응답 : 계측시스템, 1차 및 2차 동적 시스템의 응답특성 YUMMI아날로그 신호처리 : OP-Amp 이용 기본연산, 신호처리 기초 YUMMI데이터 수집 : 정량화 원리, A/D 및 D/A, DAQ 디바이스 및 소프트웨어 YUMMI센서 I : 위치, 속도, 응력, 변형률 측정 YUMMI\n\n센서 II : 온도, 진동, 가속도 측정 YUMMI구동기(actuator) : 전자기의 원리, 직류모터 및 모터선정, 스텝모터, 유압 및 공압, 압전구동기 등YUMMI교과목 상담 YUMMI종합시험 YUMMILabVIEW 기초 YUMMILabVIEW 활용 (My-Rio)YUMMIMicro Vehicle  실습 (IR Sensor 보정, 모터 제어, 주행 재어 및 장애물 탐지)YUMMIMicro Vehicle  실습 (IR Sensor 보정, 모터 제어, 주행 재어 및 장애물 탐지)YUMMI실습 결과 발표회YUMMI종합토론YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "메카트로닉스및실험 메카트로닉스 구성요소인 센서 및 신호처리, 구동기, 컴퓨터 인터페이스 등에 관한 기초지식을 습득하고 시스템 구현을 위한 설계 및 하드웨어 실장과정을 이해한다. ",
+            "similarity": 0.3137626899322488
+        },
+        {
+            "id": 3357,
+            "name": "컴퓨팅문제와알고리즘",
+            "description": "기본적인 알고리즘을 이해하고, 주어진 컴퓨팅 문제에 습득한 알고리즘을 적용하여 최적의 해를 구하는 것을 목적으로 한다. \n또한, 적용 알고리즘의 성능을 비교하고 다양한 문제에 적절한 알고리즘을 선택할 수 있는 능력을 배양한다.",
+            "curriculum": "기본 프로그래밍 모델들을 이해한다.YUMMI추상 데이터 타입을 설계하고 구현할 수 있다.YUMMI백, 큐, 스택의 차이를 이해하고 구현할 수 있다.YUMMI알고리즘 분석 방법을 이해하고 분석할 수 있다.YUMMI기초적인 정렬 방법들을 이해하고 구현할 수 있다.YUMMI병합정렬, 퀵정렬을 이해하고 구현할 수 있다.YUMMI우선순위큐(힙을 이용한 알고리즘), 힙 정렬을 이해하고 구현할 수 있다.YUMMI중간시험YUMMI심볼테이블(순차심볼테이블/비순차연결리스트)을 이해하고 구현할 수 있다.YUMMI이진탐색, 이진탐색트리를 이해하고 구현할 수 있다.YUMMI균형 탐색 트리(2-3탐색, 레드-블랙 BST)를 이해하고 구현할 수 있다.YUMMI해시테이블을 이해하고 구현할 수 있다.YUMMI무방향 그래프(너비 우선, 깊이 우선 탐색)를 이해하고 구현할 수 있다.YUMMI방향 그래프, 최소 비용 신장 트리, 최단경로를 이해하고 구현할 수 있다.YUMMI기말시험YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "full_text": "컴퓨팅문제와알고리즘 기본적인 알고리즘을 이해하고, 주어진 컴퓨팅 문제에 습득한 알고리즘을 적용하여 최적의 해를 구하는 것을 목적으로 한다. \n또한, 적용 알고리즘의 성능을 비교하고 다양한 문제에 적절한 알고리즘을 선택할 수 있는 능력을 배양한다.",
+            "similarity": 0.31011361868632525
+        },
+        {
+            "id": 3489,
+            "name": "모바일앱프로그래밍",
+            "description": "모바일 앱프로그래밍 교과목에서는 다음의 수업의 목표를 갖고 있습니다. \n - 스마트 기기에서 가장 널리 사용되고 있는 안드로이드 운영체제의 특성에 대한 이해\n - Google에서 제공하는 안드로이드 SDK를 활용한 안드로이드 앱 프로그래밍을 위한 지식 학습\n - 실제 앱을 제작하여 안드로이드 프로그래밍 실력을 향상",
+            "curriculum": "강의 소개 및 사전 이해도를 조사한다.YUMMI안드로이드의 개요와 개발 환경을 설치할 수 있다.YUMMI안드로이드 애플리케이션을 만들 수 있다.YUMMI안드로이드를 위한 Kotlin 문법을 이해할 수 있다.YUMMI기본 위젯을 활용할 수 있다.YUMMI레이아웃(Layout)을 이해할 수 있다.YUMMI고급 위젯을 다룰 수 있다.YUMMI중간 시험YUMMI메뉴와 대화상자를 사용할 수 있다.YUMMI파일처리를 할 수 있다.YUMMI그래픽과 이미지를 이해할 수 있다.YUMMI액티비티와 인텐트를 응용할 수 있다.YUMMI데이터의 저장과 관리를 할 수 있다.YUMMI멀티미디어와 구글 지도를 사용할 수 있다.YUMMI기말 시험 또는 프로젝트 발표YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "full_text": "모바일앱프로그래밍 모바일 앱프로그래밍 교과목에서는 다음의 수업의 목표를 갖고 있습니다. \n - 스마트 기기에서 가장 널리 사용되고 있는 안드로이드 운영체제의 특성에 대한 이해\n - Google에서 제공하는 안드로이드 SDK를 활용한 안드로이드 앱 프로그래밍을 위한 지식 학습\n - 실제 앱을 제작하여 안드로이드 프로그래밍 실력을 향상",
+            "similarity": 0.3022718395920703
+        },
+        {
+            "id": 4840,
+            "name": "고급웹프로그래밍",
+            "description": "웹 개발은 크게 프론트엔드(Front-end)와 백엔드(Back-end) 기술로 구분할 수 있다. 프론트엔드는 웹페이지 디자인이나 버튼 기능처럼 사용자가 바로 볼 수 있는 부분이며, 백엔드는 사용자가 눈으로 볼 수 없는 뒷단 기술이다. 백엔드는 서버단 기술이라 불리기도 한다. HTML, CSS 등이 대표적인 프론트엔드 기술이며, DB나 서버를 다루는 부분이 백엔드 기술이다. 자바스크립트는 프론트엔드 분야에서 주로 활용되었으나 노드JS(Node JS)’가 등장하면서 자바스크립트로 서버단 기술까지 제어할 수 있게 되었다. 본 강의에서는  자바스크립트 언어를 학습하고 이를 기반으로 하고 있는 Node.js 프레임워크를 통합 웹애플리케이션 구축 및 응용능력 함양을 목표로 한다.",
+            "curriculum": "강의 소개, 사전이해도 조사\n웹 애플리케이션 구축 기술 개요YUMMI자바스크립트 개요, 개발환경 구축YUMMI기본 용어 및 출력YUMMI기본 자료형 및 연산자YUMMI조건문 및 반복문, 프로젝트 부과YUMMI함수 및 객체YUMMI표준 내장 객체YUMMI중간시험YUMMI예외처리YUMMINode.js 개요YUMMIexpress 모듈, 예제 실습YUMMI웹 브라우저에서의 자바스크립트, 문서 객체 모델YUMMIJQuery, 예제 실습YUMMI프로젝트 발표YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "full_text": "고급웹프로그래밍 웹 개발은 크게 프론트엔드(Front-end)와 백엔드(Back-end) 기술로 구분할 수 있다. 프론트엔드는 웹페이지 디자인이나 버튼 기능처럼 사용자가 바로 볼 수 있는 부분이며, 백엔드는 사용자가 눈으로 볼 수 없는 뒷단 기술이다. 백엔드는 서버단 기술이라 불리기도 한다. HTML, CSS 등이 대표적인 프론트엔드 기술이며, DB나 서버를 다루는 부분이 백엔드 기술이다. 자바스크립트는 프론트엔드 분야에서 주로 활용되었으나 노드JS(Node JS)’가 등장하면서 자바스크립트로 서버단 기술까지 제어할 수 있게 되었다. 본 강의에서는  자바스크립트 언어를 학습하고 이를 기반으로 하고 있는 Node.js 프레임워크를 통합 웹애플리케이션 구축 및 응용능력 함양을 목표로 한다.",
+            "similarity": 0.2872251425147605
+        },
+        {
+            "id": 1015,
+            "name": "전산항공드론심화",
+            "description": "Computer-Aided Engineering (CAE) 실습 프로그램을 활용하는 방법을 학습하고 전산설계문제를 해결하는 능력을 기른다. ",
+            "curriculum": "강의소개YUMMI항공드론CAEYUMMI수학적 모델링YUMMI근사해법YUMMI기초역학실습 1YUMMI기초역학실습 2YUMMI기초역학실습 3YUMMI기초역학실습 4YUMMI기초역학실습 5YUMMI기초역학실습 6YUMMI기초역학실습 7YUMMI기초역학실습 8YUMMI기초역학실습 9YUMMI기초역학실습 10YUMMIPBL 설계 주제 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "전산항공드론심화 Computer-Aided Engineering (CAE) 실습 프로그램을 활용하는 방법을 학습하고 전산설계문제를 해결하는 능력을 기른다. ",
+            "similarity": 0.3996046147105123
+        },
+        {
+            "id": 1792,
+            "name": "산학협업소프트웨어프로젝트 1",
+            "description": "산업현장 및 학교에서 많이 사용되는 임베디드 디바이스 기반  통신, 센서들을 실제로 다루어 보고 상호 협업하여 문제를 해결 할  수 있는 능력을 기른다.",
+            "curriculum": "산학 협업 소프트웨어 프로젝트 강의 소개YUMMI라즈베리파이,  파이썬 이해YUMMI라즈베리파이 운영체제(라즈비안) 설치YUMMI라즈비안 기본 설정YUMMI운영체제 사용 방법1 :YUMMI운영체제 사용 방법2YUMMI파이썬 기본 :연산자YUMMI파이썬 기본 :제어문 1YUMMI파이썬 기본 :제어문 2YUMMI파이썬 기본 :기본자료형 YUMMI파이썬  함수YUMMI파이썬  GUI 프로그래밍YUMMI파이썬을 이용한 임베디드 센서 다루기 1YUMMI파이썬을 이용한 임베디드 센서 다루기 2YUMMI기말평가YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "full_text": "산학협업소프트웨어프로젝트 1 산업현장 및 학교에서 많이 사용되는 임베디드 디바이스 기반  통신, 센서들을 실제로 다루어 보고 상호 협업하여 문제를 해결 할  수 있는 능력을 기른다.",
+            "similarity": 0.3903287137094003
+        },
+        {
+            "id": 2293,
+            "name": "현장실습",
+            "description": "현장 실습을 통하여 전공 관련 교육을 이수함으로 설계 능력을 향상한다.\n(CATIA, AUTOCAD 등 교육 실습)",
+            "curriculum": "현장실습에 대한 오리엔테이션YUMMI현장실습 계획서 작성법 교육YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 실시YUMMI현장실습 보고서 제출YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "현장실습 현장 실습을 통하여 전공 관련 교육을 이수함으로 설계 능력을 향상한다.\n(CATIA, AUTOCAD 등 교육 실습)",
+            "similarity": 0.34901657183942636
+        },
+        {
+            "id": 1549,
+            "name": "인공지능",
+            "description": "본 강좌에서는 인공지능의 기본 원리와 문제를 해결하는 방법에 대한 지식을 학습하고, 실습하는 것을 강의 목표로 한다.",
+            "curriculum": "Introduction to Artificial IntelligenceYUMMIKnowledge-based intelligence systemsYUMMIFuzzy expert systemsYUMMIEvolutionary computation and Genetic AlgorithmYUMMIArtificial neural networksYUMMIHybrid intelligence systemsYUMMI\n\nKnowledge engineering and data miningYUMMI\n\n중간 고사YUMMIPython, Tensorflow and Linear RegressionYUMMINeural network and Activation functionYUMMIConvolutional neural networkYUMMIRecurrent neural network and LSTMYUMMIReinforcement Learning (1/2)YUMMIReinforcement Learning (2/2)YUMMI기말 고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "full_text": "인공지능 본 강좌에서는 인공지능의 기본 원리와 문제를 해결하는 방법에 대한 지식을 학습하고, 실습하는 것을 강의 목표로 한다.",
+            "similarity": 0.3406612743744174
+        },
+        {
+            "id": 1723,
+            "name": "우주궤도역학",
+            "description": "우주비행에 필요한 기본 원리 및 인공위성 시스템에 대하여 소개한다. 우주환경, 위성 시스템의 기본구성, 운용, 우주탐사에 필요한 제반 기본 지식을 습득한다. 그러한 기본 지식을 배경으로 인공위성의 이해에 가장 필수적인 궤도 역학의 중요성 및 실제 적용시 필요한 수학적 모델링 및 해석 기법을 강의한다. 인공위성 궤도는 단순 2체 궤도는 물론 교란력 모델링 및 그 효과를 분석하고 초보적인 수준의 궤도 설계 과정을 이해한다. 2체 궤도 운동 방정식의 수치적, 해석적 풀이 과정을 실습하고, 궤도 전이 등의 문제데 적용하여 본다. 교제에 제시된 MATLAB 프로그램을 직접 수행해보고 프로젝트를 통해 프로그래밍에 대한 숙달능력을 향상시키고 설계 능력을 높인다.본 과목은 4학년 과목이지만 공업수학과 동역학만 이수하였다면 강의 수강이 가능함.\n참고사항 1: 상세한 강의계획, 일정, 평가 방법 등은 학기초에 별도의 상세히 자료 제공 및 설명 예정입니다.\n참고사항 2: 4학년 수업임을 감안하여, 대면중심과 비대면 (영상강의자료제공) 수업 혼합 방식입니다.",
+            "curriculum": "과목 소개 및 궤도 역학의 중요성 설명\n\n사전이해도평가 수행YUMMIDynamics of point masses (1)YUMMIDynamics of point masses (2)YUMMIThe two-body problem (1)YUMMIThe two-body problem (2)YUMMIOrbital position as a function of time (1)YUMMIOrbital position as a function of time (2)YUMMI중간고사YUMMIOrbital in three dimensions (1)YUMMIOrbital in three dimensions (2)YUMMIOrbital maneuvers (1)YUMMIOrbital maneuvers (2)YUMMIInterplanetary TrajectoriseYUMMIRigid body dynamicsYUMMI기말시험 (발표포함)YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "우주궤도역학 우주비행에 필요한 기본 원리 및 인공위성 시스템에 대하여 소개한다. 우주환경, 위성 시스템의 기본구성, 운용, 우주탐사에 필요한 제반 기본 지식을 습득한다. 그러한 기본 지식을 배경으로 인공위성의 이해에 가장 필수적인 궤도 역학의 중요성 및 실제 적용시 필요한 수학적 모델링 및 해석 기법을 강의한다. 인공위성 궤도는 단순 2체 궤도는 물론 교란력 모델링 및 그 효과를 분석하고 초보적인 수준의 궤도 설계 과정을 이해한다. 2체 궤도 운동 방정식의 수치적, 해석적 풀이 과정을 실습하고, 궤도 전이 등의 문제데 적용하여 본다. 교제에 제시된 MATLAB 프로그램을 직접 수행해보고 프로젝트를 통해 프로그래밍에 대한 숙달능력을 향상시키고 설계 능력을 높인다.본 과목은 4학년 과목이지만 공업수학과 동역학만 이수하였다면 강의 수강이 가능함.\n참고사항 1: 상세한 강의계획, 일정, 평가 방법 등은 학기초에 별도의 상세히 자료 제공 및 설명 예정입니다.\n참고사항 2: 4학년 수업임을 감안하여, 대면중심과 비대면 (영상강의자료제공) 수업 혼합 방식입니다.",
+            "similarity": 0.3335577243773832
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "description": "본 과목에서는 학생들이 그동안 습득한 전공 지식을 바탕으로 항공 및 드론의 설계 원리를 이해하고, 이를 개선 및 개발하기 위한 창의력을 키움과 동시에 실제 산업 현장에서의 적응력을 향상시키는데 목적이 있다. 따라서 본 교과목을 통해 문제의 발견 및 분석, 문제 해결을 위한 체계적인 접근 방법, 문제 해석 방법 등을 공부하게 되며, 작품 제작을 통해 관련 기술의 적용성 향상, 아이디어의 구체화 등을 학습하게 된다.",
+            "curriculum": "창의적 공학설계 개요 설명, 팀 구성YUMMI작품제작 주제선정 및 연구계획서 작성을 위한 기초자료조사 #1YUMMI작품제작 주제선정 및 연구계획서 작성을 위한 기초자료조사 #1YUMMI주제선정 및 문제해결을 위한 접근방법 토의YUMMI시제품 설계를 위한 배경지식 탐구 #1YUMMI시제품 설계를 위한 배경지식 탐구 #1YUMMI시제품 설계, 부품 및 재료조사 #1YUMMI시제품 설계, 부품 및 재료조사 #2YUMMI시제품 설계, 부품 및 재료조사 #3YUMMI시제품 설계, 부품 및 재료조사 #4YUMMI시제품 제작 #1YUMMI시제품 제작 #2YUMMI시제품 제작 #3YUMMI시제품 제작 #4YUMMI종합발표회, 작품 전시 및 보고서 제출YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공드론융합설계 본 과목에서는 학생들이 그동안 습득한 전공 지식을 바탕으로 항공 및 드론의 설계 원리를 이해하고, 이를 개선 및 개발하기 위한 창의력을 키움과 동시에 실제 산업 현장에서의 적응력을 향상시키는데 목적이 있다. 따라서 본 교과목을 통해 문제의 발견 및 분석, 문제 해결을 위한 체계적인 접근 방법, 문제 해석 방법 등을 공부하게 되며, 작품 제작을 통해 관련 기술의 적용성 향상, 아이디어의 구체화 등을 학습하게 된다.",
+            "similarity": 0.5311030022884906
+        },
+        {
+            "id": 2998,
+            "name": "항공우주공학프로젝트",
+            "description": "- 학부생들의 창의적 연구 활동을 지원하고 전공 분야 역량을 함양하기 위한 졸업연구 \n- 학부생들에게 연구 참여 기회를 제공함으로써 연구개발현장에서 필요한 실무역량 강화 ",
+            "curriculum": "OT 및 연구주제 선정 YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI- 개별(팀별)연구수행 또는 연구참여YUMMI발표 및 토론 YUMMI소논문(4쪽) 제출 YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "항공우주공학프로젝트 - 학부생들의 창의적 연구 활동을 지원하고 전공 분야 역량을 함양하기 위한 졸업연구 \n- 학부생들에게 연구 참여 기회를 제공함으로써 연구개발현장에서 필요한 실무역량 강화 ",
+            "similarity": 0.3253348261047909
+        },
+        {
+            "id": 4623,
+            "name": "인공위성임무설계및해석",
+            "description": "- 인공위성 궤도 설계\n- 인공위성 시스템 기본 설계\n- 참고사항: 최종 강의 계획은 학생들의 수강 상황에 따라 변동이 있을 수 있습니다. (수강생 부족시 설강하지 못함). \n- 2022년 2학기 강의 안내서를 첨부하니 참고하기 바랍니다.\n*인공위성 임무해석 S/W인 STK 또는 FreeFlyer의 기능, 사용법 및 적용 등에 대하여 학습 예정임.",
+            "curriculum": "(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI(주별 강의 내용은 개강시 별도로 제공합니다)YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "인공위성임무설계및해석 - 인공위성 궤도 설계\n- 인공위성 시스템 기본 설계\n- 참고사항: 최종 강의 계획은 학생들의 수강 상황에 따라 변동이 있을 수 있습니다. (수강생 부족시 설강하지 못함). \n- 2022년 2학기 강의 안내서를 첨부하니 참고하기 바랍니다.\n*인공위성 임무해석 S/W인 STK 또는 FreeFlyer의 기능, 사용법 및 적용 등에 대하여 학습 예정임.",
+            "similarity": 0.3152624630234004
+        },
+        {
+            "id": 2898,
+            "name": "소프트웨어아키텍처이론과실제",
+            "description": "소프트웨어 아키텍처 설계와 개발을 실무에서 리드할 수 있는 소프트웨어 아키텍트에게 요구되는 아키텍처 드라이버, 품질속성 시나리오, 아키텍처 스타일과 아키텍처 패턴, 아키텍처 분석 및 평가 등 소프트웨어 아키텍처의 이론 및 아키텍처의 기본 지식을 사례연구와 함께 배우고 이를 적용하는 실습을 수행한다. ",
+            "curriculum": "SW 아키텍처의 역할과 필요성을 이해한다.YUMMISW 아키텍처의 개념과 요소를 이해한다.YUMMISW 아키텍처의 개념과 요소를 이해한다.YUMMI아키텍처 관점체계, 아키텍처 뷰,  아키텍처 스타일, 아키텍처 패턴의 개념을 이해한다.YUMMI아키텍처 스타일을 이해한다.YUMMI아키텍처 스타일을 이해한다.YUMMI아키텍처 스타일을 이해한다.YUMMI중간시험YUMMI아키텍처 관점체계, 아키텍처 뷰별 아키텍처 모델을 작성할 수 있다.YUMMI아키텍처 뷰별 아키텍처 모델을 작성할 수 있다.YUMMI아키텍처 tactic(전술)의 종류를 알고 활용할 수 있다.YUMMI아키텍처 tactic(전술)의 종류를 알고 활용할 수 있다.YUMMI아키텍처 분석과 평가를 이해한다.YUMMI아키텍처 평가 방법인 ATAM을 이용하여 아키텍처 대안의 트레이드오프를 분석할 수 있다.YUMMI기말시험YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "full_text": "소프트웨어아키텍처이론과실제 소프트웨어 아키텍처 설계와 개발을 실무에서 리드할 수 있는 소프트웨어 아키텍트에게 요구되는 아키텍처 드라이버, 품질속성 시나리오, 아키텍처 스타일과 아키텍처 패턴, 아키텍처 분석 및 평가 등 소프트웨어 아키텍처의 이론 및 아키텍처의 기본 지식을 사례연구와 함께 배우고 이를 적용하는 실습을 수행한다. ",
+            "similarity": 0.3021944426392746
+        },
+        {
+            "id": 4401,
+            "name": "소프트웨어품질및테스팅",
+            "description": "최근 모든 산업도메인, 제품에서 소프트웨어가 중요한 역할을 하게되면서 소프트웨어의 품질 향상에 대한 관심이  높아져 왔으며, 품질로 인한 비용이 지속적으로 증가하고 있다. 본 교과목에서는 소프트웨어의 품질을 향상에 중요한 소프트웨어 테스팅의 이론적 체계를 정립하고 활용 가능한 테스팅 기법들을 학습한다.",
+            "curriculum": "사전 이해도 조사, 강의 소개YUMMI소프트웨어 테스팅의 심리학과 경제학 이해 YUMMI정적 테스팅의 이해YUMMI테스트 자동화YUMMI테스트케이스 설계 1YUMMI테스트케이스 설계 2YUMMI단위 테스트, 테스트 자동화 YUMMI중간고사YUMMI통합 시험, 테스트 자동화 YUMMI테스트 단계, Higher Order TestingYUMMITDDYUMMIDevOps, 지속적 통합YUMMI디버깅YUMMI모바일 어플리케이션 테스팅YUMMI기말고사 YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "full_text": "소프트웨어품질및테스팅 최근 모든 산업도메인, 제품에서 소프트웨어가 중요한 역할을 하게되면서 소프트웨어의 품질 향상에 대한 관심이  높아져 왔으며, 품질로 인한 비용이 지속적으로 증가하고 있다. 본 교과목에서는 소프트웨어의 품질을 향상에 중요한 소프트웨어 테스팅의 이론적 체계를 정립하고 활용 가능한 테스팅 기법들을 학습한다.",
+            "similarity": 0.2933090368365021
+        }
+    ]
+}

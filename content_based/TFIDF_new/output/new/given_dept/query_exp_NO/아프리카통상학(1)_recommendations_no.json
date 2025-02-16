@@ -1,0 +1,79 @@
+{
+    "meta_info": {
+        "user_query": "프랑스어권 국가들은 국제 경제에서 점점 더 중요한 역할을 하고 있습니다. 이러한 국가들과의 무역 및 투자 기회를 분석하고, 효과적인 진출 전략을 수립하기 위해 어떤 학습이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": [
+            "프랑스.아프리카학과",
+            "무역학과"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "description": "본 과목은 무역 실무에 대한 기초적이고 포괄적인 내용을 학습하여, 무역 실무를 처음 학습하는 학생들에게  무역 실무에 대한 전반적인 내용을 이해하도록 한다. 이러한 수업목표를 위해 무역계약, 무역관련서류, 무역의 흐름, 무역관련 법규 등에 대하여 사례를 기반으로 학습하고자 한다.",
+            "curriculum": "무역실무 기초YUMMI무역관리제도YUMMI무역계약의 체결 1YUMMI무역계약의 체결 2YUMMI정형거래조건YUMMI무역계약의 기본조건 1YUMMI무역계약의 기본조건 2YUMMI※ 중간고사\n신용장 1YUMMI신용장 2YUMMI수출물품의 확보\n국제운송 1YUMMI국제운송 2YUMMI수출통관절차 및 수출대금회수YUMMI수입대금결제 및 수입통관절차YUMMI무역계약위반에 대한 구제권YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "무역상무론 본 과목은 무역 실무에 대한 기초적이고 포괄적인 내용을 학습하여, 무역 실무를 처음 학습하는 학생들에게  무역 실무에 대한 전반적인 내용을 이해하도록 한다. 이러한 수업목표를 위해 무역계약, 무역관련서류, 무역의 흐름, 무역관련 법규 등에 대하여 사례를 기반으로 학습하고자 한다.",
+            "similarity": 0.18664645962996118
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "description": "모든 기업에게 새로운 비즈니스를 시작할 때뿐만 아니라 비즈니스를 성장시키기 위한 전략을 세울 때 시장 환경과 수요에 대한 충분한 데이터 확보와 이러한 데이터로부터 유용한 정보를 추출하는 일은 필수적인 일이 되고 있다. 이러한 상황에서 무역 분야의 전문가, 경영자, 정책담당자에게 데이터로부터 정보를 추출하기 위해 사용되어야 하는 통계기법에 대한 정확한 이해와 적용뿐만 아니라 통계분석결과를 정확하게 해석해낼 수 있는 능력이 점점 더 필수적인 역량으로 요구되고 있다. 이러한 시대 요청에 따라 본 강좌는 경영경제 기초 통계과정으로 기본적인 통계이론을 학습하고 다양한 사례와 자료를 이용해 추정 및 통계적 추론을 통해 학생들로 하여금 통계적 해석 능력을 함양하는 것을 목표로 한다.",
+            "curriculum": "과목 소개 및 개요설명YUMMI자료의 종류와 도시YUMMI중심경향치와 분산도YUMMI확률의 개념YUMMI확률분포YUMMI표본추출과 표본분포YUMMI통계적 추정과 신뢰구간YUMMI중간정리와 중간고사YUMMI통계적 추정과 신뢰구간YUMMI가설의 검정YUMMI가설의 검정YUMMI분산분석YUMMI상관분석과 단순회귀분석YUMMI다중회귀모형YUMMI기말정리와 기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "무역통계분석입문 모든 기업에게 새로운 비즈니스를 시작할 때뿐만 아니라 비즈니스를 성장시키기 위한 전략을 세울 때 시장 환경과 수요에 대한 충분한 데이터 확보와 이러한 데이터로부터 유용한 정보를 추출하는 일은 필수적인 일이 되고 있다. 이러한 상황에서 무역 분야의 전문가, 경영자, 정책담당자에게 데이터로부터 정보를 추출하기 위해 사용되어야 하는 통계기법에 대한 정확한 이해와 적용뿐만 아니라 통계분석결과를 정확하게 해석해낼 수 있는 능력이 점점 더 필수적인 역량으로 요구되고 있다. 이러한 시대 요청에 따라 본 강좌는 경영경제 기초 통계과정으로 기본적인 통계이론을 학습하고 다양한 사례와 자료를 이용해 추정 및 통계적 추론을 통해 학생들로 하여금 통계적 해석 능력을 함양하는 것을 목표로 한다.",
+            "similarity": 0.1852084479877357
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "description": "이제 현대사회에서 머신러닝과 빅데이터에 대한 이해는 사회과학을 공부하는 학생들이 필수적으로 가져야 하는 지식임에 틀림없다. 이 수업은 그에 대한 기초지식을 습득하기 위해 무역, 금융, 경제등 사회과학 분야에서 널리 쓰이는 계량분석론을 이해하는 데 목표를 하고 있다. ",
+            "curriculum": "Basic Concepts for Statistics and Linear Algebra\nYUMMIClassical Linear Models and Ordinary Least Squares Estimation \nYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIHypothesis TestingYUMMI중간고사\nYUMMIHypothesis TestingYUMMIModel SpecificationYUMMIModel SpecificationYUMMIDummy Variables\nYUMMIGeneralized Least Squares\nYUMMIForecastingYUMMI기말고사\nYUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역계량분석론 이제 현대사회에서 머신러닝과 빅데이터에 대한 이해는 사회과학을 공부하는 학생들이 필수적으로 가져야 하는 지식임에 틀림없다. 이 수업은 그에 대한 기초지식을 습득하기 위해 무역, 금융, 경제등 사회과학 분야에서 널리 쓰이는 계량분석론을 이해하는 데 목표를 하고 있다. ",
+            "similarity": 0.11901020396176265
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "description": "현대 세계 경제에서 서비스 무역의 중요성을 배울 수 있는 기회를 제공\n서비스 무역의 틀, 서비스 무역 분석 관련 주제 연구",
+            "curriculum": "서비스 산업의 이해YUMMI우리나라 경제 현황의 이해YUMMI우리나라 경제 현황의 이해YUMMI서비스 산업 프로젝트 1 구성YUMMI서비스 산업과 경제성장의 관련성YUMMI서비스 산업과 경제성장의 관련성YUMMI프로젝트 1 발표YUMMI프로젝트 1 발표YUMMI문화산업의 분류\n프로젝트 2 구성YUMMI문화산업 관련 이슈 연구YUMMI문화산업 정책 연구YUMMI문화산업의 국제적 전략 수립YUMMI프로젝트 2 조율YUMMI프로젝트 2 발표YUMMI프로젝트 2 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "서비스통상론 현대 세계 경제에서 서비스 무역의 중요성을 배울 수 있는 기회를 제공\n서비스 무역의 틀, 서비스 무역 분석 관련 주제 연구",
+            "similarity": 0.18480479557387108
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "description": "국제 무역 및 투자가 증가함에 따라서 관련 분쟁도 증가하고 있다. 따라서 본 과정에서는 무역클레임의 유형, 발생원인, 예방책, 그리고 해결방법 등을 사례를 증심으로 학습한다. 특히 국제 무역 및 투자 분쟁의 해결방식으로 많이 이용되고 있는 상사중재에 대해 보다 심도있게 학습한다.",
+            "curriculum": "무역클레임의 전반적인 사항에 대해 이해함.YUMMI무역클레임의 전반적인 사항에 대해 이해함, 무역분쟁 해결 방법에 대해 이해함.YUMMI무역분쟁 해결방법에 대해 이해함.(계속) 중재합의에 대해 이해함.YUMMI중재합의에 대해 이해함.(계속)YUMMI중재판정부에 대해 이해함YUMMI중재절차에 대해 이해함.YUMMI중재판정에 대해 이해함YUMMI중재판정 취소제도에 대해 이해함.YUMMI중재판정 승인 및 집행제도에 대해 이해함.YUMMI평가YUMMI중재판정 사례 발표YUMMI중재판정 사례 발표YUMMI중재판정 사례 발표YUMMI중재판정 사례 발표YUMMI중재판정 사례 발표YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역클레임해결론 국제 무역 및 투자가 증가함에 따라서 관련 분쟁도 증가하고 있다. 따라서 본 과정에서는 무역클레임의 유형, 발생원인, 예방책, 그리고 해결방법 등을 사례를 증심으로 학습한다. 특히 국제 무역 및 투자 분쟁의 해결방식으로 많이 이용되고 있는 상사중재에 대해 보다 심도있게 학습한다.",
+            "similarity": 0.3318585191717489
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "description": "한국의 경제성장과 무역의 상관관계, 한국 무역의 역사, 한국 정부의 무역 및 산업 정책 변화 과정, 한국 무역 관련 주요 기관 및 기능, 한국 무역 관련 주요 법률 고찰 및 한국 무역에 영향을 미치는 글로벌 무역 환경과 최근 주요 이슈 등을 분석 연구하여 궁극적으로 한국 및 세계 무역 환경과 그에 관련된 주요 이슈에 대한 분석 연구 능력을 제고코자 함 ",
+            "curriculum": "한국 무역학 연구 강좌 소개YUMMI무역의 개념 및 추세YUMMI경제성장과 무역의 상관관계YUMMI한국 경제와 한국 무역의 성장과정YUMMI최근 10년간 한국 무역의 특징 변화YUMMI한국의 무역관리 시스템YUMMI세계 경제 및 글로벌 무역의 이해YUMMI중간고사YUMMI글로벌 무역 운송 루트YUMMIWTO와 한국 무역YUMMIFTA와 한국 무역YUMMIFDI와 한국 무역YUMMI한국의 주요 수출시장 이해 I - 팀프로젝트YUMMI한국의 주요 수출시장 이해 II - 팀프로젝트YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "한국무역론 한국의 경제성장과 무역의 상관관계, 한국 무역의 역사, 한국 정부의 무역 및 산업 정책 변화 과정, 한국 무역 관련 주요 기관 및 기능, 한국 무역 관련 주요 법률 고찰 및 한국 무역에 영향을 미치는 글로벌 무역 환경과 최근 주요 이슈 등을 분석 연구하여 궁극적으로 한국 및 세계 무역 환경과 그에 관련된 주요 이슈에 대한 분석 연구 능력을 제고코자 함 ",
+            "similarity": 0.147371569783817
+        }
+    ]
+}

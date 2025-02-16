@@ -1,0 +1,57 @@
+{
+    "meta_info": {
+        "user_query": "데이터가 폭발적으로 증가하는 시대에서, AI 연산을 가속화하는 반도체와 메모리 기술이 필요합니다. AI와 반도체 아키텍처를 최적화하여 고성능 AI 칩을 개발하는 엔지니어가 되고 싶어요. 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "전자공학부",
+            "반도체과학기술학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 915,
+            "name": "인공지능",
+            "description": "이 과정은 기계 학습(Machine Learning)의 입문 학부 과정이다. 기계 학습은 이미지, 비디오, 음성을 포함한 데이터에서 예측 또는 결정을 내리는 수학적 모델 및 알고리즘을 개발하는 것을 목표로 한다. \n우리가 주로 다룰 주제는 선형 회귀, 로지스틱 회귀, 의사 결정 트리, 앙상블 학습, 차원 축소, 클러스터링과 같은 기계 학습 기초 알고리즘이다. 또한, 이미지, 시계열 데이터 처리 방법과 이를 CNN, RNN, 강화학습과 같은 다양한 딥러닝 알고리즘에 적용하는 방법을 습득한다. \n이 과정을 통해 4차 산업혁명의 기초인 인공지능의 최첨단 기계 학습 및 딥러닝 방법에 대해 이해할 수 있다.",
+            "curriculum": "Introduction, 실습 환경 구축YUMMI파이썬 실습(Numpy, Pandas) YUMMILinear Regression, Logistic RegressionYUMMIDecision Tree, Dimension ReductionYUMMIEnsemble LearningYUMMIRegression Review (in practice)YUMMIUnsupervised Learning, ClusteringYUMMIMidterm ExamYUMMIPerceptron, Neural Networks (Basic)YUMMINeural Networks (Backpropagation)YUMMINeural Networks (in practice)YUMMIConvolutional Neural NetworksYUMMIRecurrent Neural NetworksYUMMIReinforcement LearningYUMMIFinalYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "full_text": "인공지능 이 과정은 기계 학습(Machine Learning)의 입문 학부 과정이다. 기계 학습은 이미지, 비디오, 음성을 포함한 데이터에서 예측 또는 결정을 내리는 수학적 모델 및 알고리즘을 개발하는 것을 목표로 한다. \n우리가 주로 다룰 주제는 선형 회귀, 로지스틱 회귀, 의사 결정 트리, 앙상블 학습, 차원 축소, 클러스터링과 같은 기계 학습 기초 알고리즘이다. 또한, 이미지, 시계열 데이터 처리 방법과 이를 CNN, RNN, 강화학습과 같은 다양한 딥러닝 알고리즘에 적용하는 방법을 습득한다. \n이 과정을 통해 4차 산업혁명의 기초인 인공지능의 최첨단 기계 학습 및 딥러닝 방법에 대해 이해할 수 있다.",
+            "similarity": 0.10096363953527945
+        },
+        {
+            "id": 3211,
+            "name": "반도체소자",
+            "description": "본 교과에서는 전자회로의 기초가 되는 반도체 물성 이론과 기본적인 양자역학의 개념을 복습하고 이를 통해 다양한 반도체 소자(금속-반도체 접합, BJT, MOSFET)의 특성을 학습하는 것을 목표로 한다. 나아가 집적회로에서의 전자소자(MOSFET)의 스케일링에 따른 물리적 현상과 이를 극복하기 위한 FinFET, Nanosheet FET 신기술 내용을 학습하고 TCAD 시뮬레이션을 활용한 MOSFET 설계 실습을 수행한다.\n1. 반도체 물성의 이해\n2. 반도체 접합 및 금속-반도체 접합의 물성 및 동작 특성 이해\n3. MOS 캐피시터와 MOSFET의 물성 및 동작 특성 이해\n4. 집적회로에서의 MOSFET 축소화와 멀티게이트 MOSFET 소개",
+            "curriculum": "교과목 소개YUMMI에너지 밴드 다이어그램, 캐리어 분포, 캐리어 이동과 재결합YUMMI PN 접합의 구조와 물리적 특성YUMMI PN 접합 다이오드의 이상적 특성 및 비이상적 특성YUMMI금속-반도체 접합 종류와 특성YUMMI금속-반도체 접합 종류와 특성YUMMI바이폴라 트랜지스터YUMMI중간고사YUMMIMOS 캐패시터 구조와 특성YUMMIMOSFET의 구조와 동작 특성YUMMIMOSFET의 구조와 동작 특성YUMMIMOSFET 축소화와 멀티게이트 MOSFETYUMMIMOSFET 축소화와 멀티게이트 MOSFETYUMMIMOSFET 응용YUMMI기말고사를 통한 평가YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "반도체소자 본 교과에서는 전자회로의 기초가 되는 반도체 물성 이론과 기본적인 양자역학의 개념을 복습하고 이를 통해 다양한 반도체 소자(금속-반도체 접합, BJT, MOSFET)의 특성을 학습하는 것을 목표로 한다. 나아가 집적회로에서의 전자소자(MOSFET)의 스케일링에 따른 물리적 현상과 이를 극복하기 위한 FinFET, Nanosheet FET 신기술 내용을 학습하고 TCAD 시뮬레이션을 활용한 MOSFET 설계 실습을 수행한다.\n1. 반도체 물성의 이해\n2. 반도체 접합 및 금속-반도체 접합의 물성 및 동작 특성 이해\n3. MOS 캐피시터와 MOSFET의 물성 및 동작 특성 이해\n4. 집적회로에서의 MOSFET 축소화와 멀티게이트 MOSFET 소개",
+            "similarity": 0.10599764485450135
+        },
+        {
+            "id": 1239,
+            "name": "반도체공정실험 2",
+            "description": "화합물계 반도체 소자를 설계하고, 제작, 측정을 진행해 봄으로써 반도체 공정 실무 능력을 배양시키고자 함\n\n한 학기 동안 팀별로 화합물 반도체 소자를 선정하여 제작, 측정, 평가함\n소자종류: Schottky diode, LED, HFET",
+            "curriculum": "IntroductionYUMMI반도체 소자의 종류와 특징 1YUMMI반도체 소자의 종류와 특징 2YUMMI반도체 소자 실험 계획 1YUMMI반도체 소자 실험 계획 2YUMMI반도체 소자 실험 - 단위공정YUMMI반도체 소자 실험 - 단위공정YUMMI반도체 소자 실험 1차 점검YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 2차 점검YUMMI반도체 소자 실험 - 소자공정YUMMI반도체 소자 실험 3차 점검YUMMI반도체 소자 실험 - 측정YUMMI소자 제작 및 특성 측정 결과 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "full_text": "반도체공정실험 2 화합물계 반도체 소자를 설계하고, 제작, 측정을 진행해 봄으로써 반도체 공정 실무 능력을 배양시키고자 함\n\n한 학기 동안 팀별로 화합물 반도체 소자를 선정하여 제작, 측정, 평가함\n소자종류: Schottky diode, LED, HFET",
+            "similarity": 0.10255306310718752
+        },
+        {
+            "id": 4093,
+            "name": "시스템및메모리반도체",
+            "description": "본 과목에서는 시스템 반도체 및 메모리 반도체의 기본 개념에 대하여 학습하고, FPGA 보드를 이용하여 실습을 진행한다. ",
+            "curriculum": "과목소개/시스템반도체의 기본 개념YUMMI시스템반도체의 기본 구성 블록 1YUMMI시스템반도체의 기본 구성 블록 2YUMMI메모리반도체 1YUMMI메모리반도체 2YUMMI임베디드시스템YUMMI반도체설계 방법론YUMMI중간고사YUMMIVerilogYUMMI임베디드 소프트웨어 설계YUMMI디지털하드웨어 설계 1YUMMI디지털하드웨어 설계 2YUMMI임베디드소프트웨어 설계YUMMI메모리설계YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "시스템및메모리반도체 본 과목에서는 시스템 반도체 및 메모리 반도체의 기본 개념에 대하여 학습하고, FPGA 보드를 이용하여 실습을 진행한다. ",
+            "similarity": 0.1907348006224445
+        }
+    ]
+}

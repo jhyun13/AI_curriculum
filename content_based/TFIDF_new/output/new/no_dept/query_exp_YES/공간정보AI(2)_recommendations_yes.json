@@ -1,0 +1,194 @@
+{
+    "meta_info": {
+        "user_query": "컴퓨터 그래픽스와 3D 공간 설계를 배우고, 이를 활용해 도시 시뮬레이션을 구축하는 방법을 익히고 싶어요. 어떤 학습 과정을 거쳐야 할까요?",
+        "expanded_query": "컴퓨터 그래픽스와 3D 공간 설계를 배우고, 이를 활용해 도시 시뮬레이션을 구축하는 방법을 익히고 싶어요. 컴퓨터 그래픽스 및 3D 공간 설계와 도시 시뮬레이션 구축 기술 습득 도시 시뮬레이션 개발 전문가 가상 현실 및 시뮬레이션 개발 도시 시뮬레이션 개발자 컴퓨터 그래픽스와 3D 공간 설계 기술을 활용하여 도시 환경 및 시뮬레이션을 설계하고 구현하는 전문가로, 도시 계획과 설계에 관한 데이터를 현실감 있게 시뮬레이션하여 결과를 예측하거나 테스트하는 역할을 수행합니다. 도시 시뮬레이션 설계 및 개발 시뮬레이션 환경 생성 및 테스트 그래픽 렌더링을 통한 시각화 도시 계획 및 설계 자료의 분석 및 적용 3D 모델링 및 렌더링 컴퓨터 그래픽스 프로그래밍 시뮬레이션 소프트웨어 사용 및 개발  CAD 및 기타 3D 설계 도구 사용 과학적 컴퓨팅 및 데이터 분석 컴퓨터 그래픽스 이론 및 알고리즘 3D 공간 모델링/렌더링 기법  도시 계획 및 설계 원리 시뮬레이션 소프트웨어 개발 시뮬레이션 및 가상 현실 플랫폼 활용  프로젝트 관리 및 멀티 플랫폼 개발 기술",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2559,
+            "name": "제도및공간표현",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "주거환경학과",
+            "similarity": 0.12717354120485905
+        },
+        {
+            "id": 2983,
+            "name": "도시학개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.12380024040926035
+        },
+        {
+            "id": 1193,
+            "name": "소프트웨어공학개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.1556933691210904
+        },
+        {
+            "id": 1711,
+            "name": "소프트웨어공학개론 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.1540407944767515
+        },
+        {
+            "id": 1672,
+            "name": "컴퓨터응용제도및설계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.13466263554219526
+        },
+        {
+            "id": 354,
+            "name": "데이터구조및프로그래밍실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.10302790017090627
+        },
+        {
+            "id": 3887,
+            "name": "컴퓨터구조",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.12973611470347124
+        },
+        {
+            "id": 3118,
+            "name": "생태조경구조분석학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생태조경디자인학과",
+            "similarity": 0.1266088069306947
+        },
+        {
+            "id": 1842,
+            "name": "시스템시뮬레이션",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.31116059555553915
+        },
+        {
+            "id": 698,
+            "name": "CATIA및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.22926361537311335
+        },
+        {
+            "id": 545,
+            "name": "중국도시와인간",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "중어중문학과",
+            "similarity": 0.1658345621695039
+        },
+        {
+            "id": 1746,
+            "name": "도시및지역경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.16269135956074277
+        },
+        {
+            "id": 470,
+            "name": "CAD",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.15107053239725077
+        },
+        {
+            "id": 4131,
+            "name": "인공지능물리탐사",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(자원에너지공학)",
+            "similarity": 0.21853729959479087
+        },
+        {
+            "id": 2819,
+            "name": "소프트웨어공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.1949913339448738
+        },
+        {
+            "id": 4101,
+            "name": "도시림관리학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산림환경과학과",
+            "similarity": 0.18627279030135335
+        },
+        {
+            "id": 4606,
+            "name": "컴퓨터네트워크",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.14945175861517268
+        },
+        {
+            "id": 3607,
+            "name": "로봇공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.11697258793539689
+        },
+        {
+            "id": 741,
+            "name": "공정해석및설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "화학공학부",
+            "similarity": 0.15382168123540968
+        },
+        {
+            "id": 513,
+            "name": "공장자동화시스템및실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.11070851971459811
+        },
+        {
+            "id": 1104,
+            "name": "생산자동화시스템및실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.11070851971459811
+        },
+        {
+            "id": 2156,
+            "name": "화학공학종합설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "화학공학부",
+            "similarity": 0.1084494572273107
+        },
+        {
+            "id": 951,
+            "name": "졸업작품",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "주거환경학과",
+            "similarity": 0.10400055286615549
+        }
+    ]
+}

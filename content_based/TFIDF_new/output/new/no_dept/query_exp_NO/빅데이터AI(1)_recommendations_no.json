@@ -1,0 +1,162 @@
+{
+    "meta_info": {
+        "user_query": "데이터가 넘쳐나는 시대에서, 우리는 데이터를 활용하여 더 나은 결정을 내릴 수 있습니다. 저는 빅데이터와 인공지능 기술을 활용해 기업이 시장 동향을 예측하고 최적의 전략을 수립하는 데 도움을 주고 싶어요. 이를 위해 어떤 학습 경로를 따라야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.11625766085890876
+        },
+        {
+            "id": 4419,
+            "name": "한약한문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "한약자원학과",
+            "similarity": 0.1094774886269552
+        },
+        {
+            "id": 4696,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.10754240741280303
+        },
+        {
+            "id": 2349,
+            "name": "산림전산설계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산림환경과학과",
+            "similarity": 0.21046300120715095
+        },
+        {
+            "id": 2864,
+            "name": "위성영상처리및실습",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "지구환경과학과",
+            "similarity": 0.11645796145842896
+        },
+        {
+            "id": 2423,
+            "name": "산업조직론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.14490949321320876
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.11221547048914078
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.1087935577167981
+        },
+        {
+            "id": 3528,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.1431698364209428
+        },
+        {
+            "id": 3331,
+            "name": "시스템건전성관리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.1328630257315962
+        },
+        {
+            "id": 4820,
+            "name": "낭만주의이전영시",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "영어영문학과",
+            "similarity": 0.13108055200218566
+        },
+        {
+            "id": 4575,
+            "name": "딥러닝",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.11274912638171423
+        },
+        {
+            "id": 957,
+            "name": "노인복지론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.12913785980373793
+        },
+        {
+            "id": 1034,
+            "name": "미생물생명정보학 1",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생명공학부",
+            "similarity": 0.11335041742847043
+        },
+        {
+            "id": 1404,
+            "name": "심리평가",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "심리학과",
+            "similarity": 0.10487459478348375
+        },
+        {
+            "id": 640,
+            "name": "데이터기반사회이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.10192067167435959
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1947524541611085
+        },
+        {
+            "id": 3764,
+            "name": "동아시아와아세안",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.11578717382746259
+        },
+        {
+            "id": 3339,
+            "name": "사회복지와인권",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.10330808151128885
+        }
+    ]
+}

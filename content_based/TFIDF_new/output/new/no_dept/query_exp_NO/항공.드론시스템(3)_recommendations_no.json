@@ -1,0 +1,122 @@
+{
+    "meta_info": {
+        "user_query": "항공기 및 드론의 비행 성능을 최적화하기 위해 유체역학과 공기역학을 연구하고 싶습니다. 이론적 기초부터 실무 적용까지 고려할 때 어떤 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 381,
+            "name": "수목학및실습 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "산림환경과학과",
+            "similarity": 0.15187435688896328
+        },
+        {
+            "id": 744,
+            "name": "항공공학개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.1379823503225137
+        },
+        {
+            "id": 3538,
+            "name": "개발시스템공학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(자원에너지공학)",
+            "similarity": 0.11261988209673529
+        },
+        {
+            "id": 2430,
+            "name": "비행동역학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.20725457406127257
+        },
+        {
+            "id": 1844,
+            "name": "목재표면처리공학및실험",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "목재응용과학과",
+            "similarity": 0.17132860328695954
+        },
+        {
+            "id": 311,
+            "name": "항공드론제어설계",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.1233259845962277
+        },
+        {
+            "id": 1066,
+            "name": "수학교재연구및지도법",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "수학과",
+            "similarity": 0.1103822603298155
+        },
+        {
+            "id": 841,
+            "name": "한일무역실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.10716453198949141
+        },
+        {
+            "id": 3259,
+            "name": "드론농업응용",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.23685556651129802
+        },
+        {
+            "id": 4169,
+            "name": "항공기추진기관",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.19596167657929014
+        },
+        {
+            "id": 4755,
+            "name": "압축성유체역학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.1246538701945316
+        },
+        {
+            "id": 2724,
+            "name": "패션브랜드관리",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "의류학과",
+            "similarity": 0.10716998380015215
+        },
+        {
+            "id": 2634,
+            "name": "건축재료실험",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "건축공학과",
+            "similarity": 0.10335438325936572
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.12343819680837657
+        }
+    ]
+}

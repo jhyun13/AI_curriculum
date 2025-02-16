@@ -1,0 +1,30 @@
+{
+    "meta_info": {
+        "user_query": "컴퓨터 그래픽스와 3D 공간 설계를 배우고, 이를 활용해 도시 시뮬레이션을 구축하는 방법을 익히고 싶어요. 어떤 학습 과정을 거쳐야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "도시공학과",
+            "조경학과",
+            "산업디자인학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 2983,
+            "name": "도시학개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.1330244830474592
+        },
+        {
+            "id": 3272,
+            "name": "조경계획",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "조경학과",
+            "similarity": 0.10560401286138726
+        }
+    ]
+}

@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "환자의 움직임 데이터를 분석하여 AI 기반 재활 시스템을 개발하고 최적화하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "환자의 움직임 데이터를 분석하여 AI 기반 재활 시스템을 개발하고 최적화하려면 어떤 학습 과정이 필요할까요? AI 기반 재활 시스템 개발 및 최적화 학습 의료 분야의 인공지능 시스템 개발 전문가 헬스케어 및 의료 인공지능 의료 데이터 과학자 의료 데이터 과학자는 환자의 움직임 데이터를 분석하여 AI 알고리즘을 활용한 재활 시스템을 개발하고 최적화하는 역할을 합니다. 이들은 복합적인 의료 문제를 해결하기 위해 첨단 데이터 과학 기법을 활용하고, 데이터 기반의 결론을 통해 효과적인 치료 방법을 제시합니다. AI 알고리즘 설계 및 구현 환자 움직임 데이터 수집 및 분석 재활 치료 효과 향상을 위한 시스템 개발 시스템 최적화를 통한 사용자 경험 개선 인공지능 및 머신러닝 모델 개발 데이터 분석 및 처리 기술 헬스케어 도메인 지식 프로그래밍 언어(Python, R) 활용 능력 데이터 시각화 기법 프로젝트 관리 및 협업 능력 기계학습 이론 및 알고리즘 생명과학 기초 및 인간공학 의료 및 생체 정보학 신경공학 및 재활공학 데이터 처리 및 분석 도구 사용(예: Pandas, TensorFlow)  의료 데이터 표준과 규정 이해 임상 실무 환경에서의 시스템 통합 및 운영 기술",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 157,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "전기공학과",
+            "similarity": 0.27434413344617437
+        },
+        {
+            "id": 757,
+            "name": "컴퓨터응용제도및설계",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.2714707816521059
+        },
+        {
+            "id": 1094,
+            "name": "공학설계기초",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "기계공학과",
+            "similarity": 0.2677686461763121
+        },
+        {
+            "id": 2296,
+            "name": "스포츠해부학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "스포츠과학과",
+            "similarity": 0.2672387629587074
+        },
+        {
+            "id": 945,
+            "name": "기계공학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.2584025230162295
+        },
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.42115349657344325
+        },
+        {
+            "id": 3659,
+            "name": "딥러닝-AI기초",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.34182204929472093
+        },
+        {
+            "id": 2633,
+            "name": "동물생명공학및실험",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물생명공학과",
+            "similarity": 0.3363249868223858
+        },
+        {
+            "id": 2995,
+            "name": "스포츠생리학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.3312112663877137
+        },
+        {
+            "id": 3687,
+            "name": "지형분석및디자인",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생태조경디자인학과",
+            "similarity": 0.30132770249982266
+        },
+        {
+            "id": 302,
+            "name": "데이터기반헬스케어기술 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.4259018664125635
+        },
+        {
+            "id": 1586,
+            "name": "R프로그래밍",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.3873222718751722
+        },
+        {
+            "id": 1537,
+            "name": "확률통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3586402123994801
+        },
+        {
+            "id": 1773,
+            "name": "인체해부생리학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3506687713226524
+        },
+        {
+            "id": 2379,
+            "name": "컴퓨터정보처리",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.3482177856224188
+        },
+        {
+            "id": 4307,
+            "name": "데이터기반헬스케어기술 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.39488173561029477
+        },
+        {
+            "id": 4948,
+            "name": "알고리즘",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.37993687246971836
+        },
+        {
+            "id": 3389,
+            "name": "데이터사이언스",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.37276721270632895
+        },
+        {
+            "id": 2672,
+            "name": "전자자료처리 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "물리학과",
+            "similarity": 0.35877050436045194
+        },
+        {
+            "id": 3192,
+            "name": "데이터분석과 R",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.35725939304365534
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.40887600385925643
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.4053702795075483
+        },
+        {
+            "id": 2093,
+            "name": "바이오메카닉스활용및실습 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3992645042244845
+        },
+        {
+            "id": 923,
+            "name": "생체시스템개론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "기계설계공학부",
+            "similarity": 0.3778441656074578
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.3696996625564905
+        },
+        {
+            "id": 3577,
+            "name": "스포츠재활실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.4266110249154044
+        },
+        {
+            "id": 4131,
+            "name": "인공지능물리탐사",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(자원에너지공학)",
+            "similarity": 0.41311529955722026
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.4047021207412867
+        },
+        {
+            "id": 3528,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.3960987711456118
+        },
+        {
+            "id": 2921,
+            "name": "생명과학자료분석",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.3945676668357741
+        },
+        {
+            "id": 1968,
+            "name": "재활공학및실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.45609285336131766
+        },
+        {
+            "id": 1421,
+            "name": "스포츠바이오메디컬",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스포츠과학과",
+            "similarity": 0.38125508543400044
+        },
+        {
+            "id": 1561,
+            "name": "고령친화시스템공학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.37937949443437413
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.37797506849124796
+        },
+        {
+            "id": 1911,
+            "name": "딥러닝과신약개발",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생명과학부(분자생물학)",
+            "similarity": 0.3711610249441422
+        },
+        {
+            "id": 2845,
+            "name": "헬스케어기기디자인",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.3958022360905667
+        },
+        {
+            "id": 4024,
+            "name": "ICT융합공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.37523338154326796
+        },
+        {
+            "id": 3730,
+            "name": "IT융복합통섭연구",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.36639998879338237
+        },
+        {
+            "id": 2702,
+            "name": "바이오기기설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "기계설계공학부",
+            "similarity": 0.3605702899949825
+        },
+        {
+            "id": 3039,
+            "name": "장애아동의이해",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "아동학과",
+            "similarity": 0.3571273082816262
+        }
+    ]
+}

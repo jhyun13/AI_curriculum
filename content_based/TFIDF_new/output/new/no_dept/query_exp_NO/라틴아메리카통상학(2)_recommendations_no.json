@@ -1,0 +1,138 @@
+{
+    "meta_info": {
+        "user_query": "스페인어를 활용한 국제 비즈니스 협상 및 중남미 국가들과의 교류 능력을 향상시키기 위해 어떤 학습이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 169,
+            "name": "중남미문학개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.22941736328798595
+        },
+        {
+            "id": 2196,
+            "name": "중급스페인어강독 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.12969153297212682
+        },
+        {
+            "id": 4230,
+            "name": "회로이론 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.12376046443232765
+        },
+        {
+            "id": 4150,
+            "name": "중남미의고대문명",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "고고문화인류학과",
+            "similarity": 0.11538506924807575
+        },
+        {
+            "id": 4443,
+            "name": "GIS공간분석기초",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.11306450125246012
+        },
+        {
+            "id": 4662,
+            "name": "회로이론 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "전기공학과",
+            "similarity": 0.10958586771890697
+        },
+        {
+            "id": 4720,
+            "name": "회로이론 2",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "similarity": 0.1074825457171075
+        },
+        {
+            "id": 470,
+            "name": "CAD",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "similarity": 0.14110777922376536
+        },
+        {
+            "id": 4062,
+            "name": "중남미사회의이해",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.1975667244949644
+        },
+        {
+            "id": 3918,
+            "name": "프로젝트랩기초종합설계",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.16138092703375506
+        },
+        {
+            "id": 3017,
+            "name": "독일어논리및논술론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.1500158922568043
+        },
+        {
+            "id": 4327,
+            "name": "스페인어논리및논술",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.12995315892737455
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.24891471722222624
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.17120901206849215
+        },
+        {
+            "id": 3352,
+            "name": "중남미국제기구와개발협력",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.12277971427312333
+        },
+        {
+            "id": 4104,
+            "name": "회계사",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.11554742705936073
+        }
+    ]
+}

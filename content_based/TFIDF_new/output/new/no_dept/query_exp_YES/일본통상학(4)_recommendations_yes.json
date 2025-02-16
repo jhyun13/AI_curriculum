@@ -1,0 +1,114 @@
+{
+    "meta_info": {
+        "user_query": "국제 무역 전문가로서 일본과의 무역 거래를 원활하게 지원하는 역할을 하고 싶어요. 어떤 과정이 필요할까요?",
+        "expanded_query": "국제 무역 전문가로서 일본과의 무역 거래를 원활하게 지원하는 역할을 하고 싶어요. 어떤 과정이 필요할까요? 국제 무역 및 일본 시장에 관한 심화된 이해와 지식 획득 일본과의 무역 거래를 전문적으로 지원하는 컨설턴트 역할 수행 국제 무역 및 비즈니스 국제 무역 컨설턴트 (일본시장 전문) 국제 무역 컨설턴트는 일본과 무역 거래를 지원하며 시장 조사, 전략 개발, 계약 협상 및 실행을 비롯한 다양한 업무를 수행합니다. 일본 시장에 대한 무역 정보 수집 및 분석 고객의 필요에 맞춘 무역 전략 제안 계약서 작성 및 무역 관행 준수 보장 고객 및 파트너와의 관계 유지 시장 분석 및 리서치 능력 무역 법규 및 관세 지식 일본어 및 비즈니스 커뮤니케이션 능력 협상 및 계약 작성 기술 국제 경제학, 무역 이론, 글로벌 비즈니스 전략 일본 비즈니스 문화, 일본 무역 정책 및 규제, 국제 통상 법률 무역 계약 협상 실무, 일본 시장 접근 전략, 무역 금융 및 결제 방식",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.4251318005182326
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.1305886244001678
+        },
+        {
+            "id": 1651,
+            "name": "일본문학번역입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.1214861827653175
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.19649945363754684
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10012677242893879
+        },
+        {
+            "id": 841,
+            "name": "한일무역실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.2116196849343935
+        },
+        {
+            "id": 430,
+            "name": "국제운송·보험론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.16379611616562903
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.15642882978895783
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.3758932372548158
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.17121550050261186
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.49650957497051346
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4326289104872396
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.20294116941894685
+        }
+    ]
+}

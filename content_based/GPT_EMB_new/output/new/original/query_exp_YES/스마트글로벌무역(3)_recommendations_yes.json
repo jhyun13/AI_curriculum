@@ -1,0 +1,277 @@
+{
+    "meta_info": {
+        "user_query": "국제 시장에서는 환율 변동, 경제 정책 변화, 금융 흐름 등의 다양한 변수가 작용합니다. 인공지능과 데이터 분석을 활용하여 글로벌 시장 변화를 예측하고, 확률·통계를 활용해 투자 결정을 최적화하며, 무역 데이터를 분석하여 기업이 최적의 전략을 수립할 수 있도록 하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "국제 시장에서는 환율 변동, 경제 정책 변화, 금융 흐름 등의 다양한 변수가 작용합니다. 인공지능과 데이터 분석을 활용하여 글로벌 시장 변화를 예측하고, 확률·통계를 활용해 투자 결정을 최적화하며, 무역 데이터를 분석하여 기업이 최적의 전략을 수립할 수 있도록 하려면 어떤 학습 과정이 필요할까요? 글로벌 시장 변화 예측 및 최적 투자 결정 수행 능력 함양 데이터 분석 및 인공지능을 활용한 글로벌 투자 전략 개발 금융 데이터 분석 금융 데이터 분석가 금융 데이터 분석가는 글로벌 금융 시장의 데이터를 수집하고 분석하여 경제 정책, 환율 변동, 금융 흐름 등에 대한 통찰을 제공하며, 인공지능 및 통계 기법을 활용해 기업의 투자 결정을 최적화하는 책임을 진다. 글로벌 시장 흐름 분석, 인공지능 모델링, 투자 전략 최적화, 통계 분석 데이터 분석, 기계 학습, 확률 및 통계 프로그래밍(파이썬, R), 데이터 시각화, 공급망 분석 경제학 기초 회귀 분석 및 시계열 분석 머신 러닝 알고리즘 국제 무역 및 금융 정책 데이터 분석 도구(예: Pandas, NumPy) 인공지능 플랫폼(예: TensorFlow, PyTorch)",
+        "given_departments": null,
+        "selected_departments": [
+            "경제학부",
+            "무역학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4844,
+            "name": "국제무역입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.44969911314502686
+        },
+        {
+            "id": 3665,
+            "name": "무역학개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.36222451384445414
+        },
+        {
+            "id": 2904,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.337342242024017
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.4953564915659799
+        },
+        {
+            "id": 1513,
+            "name": "경제통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.3746110165427442
+        },
+        {
+            "id": 1194,
+            "name": "수리경제학입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.3452949701572593
+        },
+        {
+            "id": 1750,
+            "name": "한국무역법",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.32185783143274727
+        },
+        {
+            "id": 1053,
+            "name": "경제학원론 2",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.3150150337632174
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.46887210085687514
+        },
+        {
+            "id": 3847,
+            "name": "국제경제학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.46336674079850526
+        },
+        {
+            "id": 4313,
+            "name": "국제무역이론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4400110110101119
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.43715764617854574
+        },
+        {
+            "id": 4769,
+            "name": "화폐금융이론및정책",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.3955871599398473
+        },
+        {
+            "id": 649,
+            "name": "국제금융시장론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.49322615736246356
+        },
+        {
+            "id": 1200,
+            "name": "국제금융론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.44599722567561983
+        },
+        {
+            "id": 1505,
+            "name": "빅데이터경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.44214320904398474
+        },
+        {
+            "id": 2032,
+            "name": "외환및국제금융시장론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.4337228405255862
+        },
+        {
+            "id": 824,
+            "name": "재무경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.4242587529451278
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.46306481108040964
+        },
+        {
+            "id": 4167,
+            "name": "금융투자실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.4271909802550945
+        },
+        {
+            "id": 3679,
+            "name": "국제통상정책론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.39863044565006234
+        },
+        {
+            "id": 3512,
+            "name": "경제분석을위한데이터사이언스",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.3943744307571609
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.3921578149033018
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.5051483223936429
+        },
+        {
+            "id": 2121,
+            "name": "현대한국경제론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.3996805718880789
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.3657696911922391
+        },
+        {
+            "id": 2335,
+            "name": "FTA와WTO법",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.34567386581626264
+        },
+        {
+            "id": 1084,
+            "name": "경제발전론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.320589941693011
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.37936020663928316
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3555948593188386
+        },
+        {
+            "id": 3186,
+            "name": "국제벤처창업경영론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.34652777333460816
+        },
+        {
+            "id": 3394,
+            "name": "문화경제학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.3206605060082276
+        },
+        {
+            "id": 3342,
+            "name": "중국무역투자론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.3171620967363797
+        }
+    ]
+}

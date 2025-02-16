@@ -1,0 +1,343 @@
+{
+    "meta_info": {
+        "user_query": "금융 시장에서는 자동화된 데이터 분석과 투자 전략이 점점 중요해지고 있습니다. Python 프로그래밍과 금융 데이터 분석 기법을 활용하여 자동화된 투자 의사결정 시스템을 구축하고, 금융 리스크를 실시간으로 관리하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "금융 시장에서는 자동화된 데이터 분석과 투자 전략이 점점 중요해지고 있습니다. Python 프로그래밍과 금융 데이터 분석 기법을 활용하여 자동화된 투자 의사결정 시스템을 구축하고, 금융 리스크를 실시간으로 관리하려면 어떤 학습 과정이 필요할까요? 자동화된 투자 의사결정 시스템의 구축 및 금융 리스크의 실시간 관리 금융 기술 전문가로서의 경력 개발 금융 기술 금융 데이터 분석가 금융 시장에서 데이터를 수집하고 분석하여 자동화된 투자 전략을 개발함으로써 금융 리스크를 효과적으로 관리하고, 투자 결정을 지원하는 시스템을 설계합니다. 데이터 수집 및 분석, 투자 전략 개발, 시스템 설계 및 구현, 리스크 관리 Python 프로그래밍, 금융 데이터 분석 Python 프로그래밍 및 데이터 시각화 머신러닝 알고리즘 적용 금융 이론 (포트폴리오 관리, 리스크 관리) 프로그래밍 기초 (특히 Python) 금융 데이터 분석 기법 금융 시장의 구조와 작동 방식 자동화된 투자 시스템 설계 및 구현 실시간 데이터 처리 및 리스크 관리 방법론",
+        "given_departments": null,
+        "selected_departments": [
+            "경제학부",
+            "통계학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 1675,
+            "name": "Python 프로그래밍",
+            "description": "파이썬을 이용한 프로그래밍 방법을 익히고 데이터분석에 필수적인 몇 가지 패키지를 소개한다. 클래스와 객체지향적 프로그래밍의 개념을 설명한다. \n---\n* 주의: 성적미달시 F를 받을 수 있음. \n* 본 수업은 2023년 파이썬프로그래밍과 유사한 내용으로 진행하며 해당 강의노트는 https://guebin.github.io/PP2023/ 에서 확인가능함\n* 본 교과목은 플립러닝의 형식으로 진행하며 매주 퀴즈를 통해 학업성취도를 평가할 예정임. ",
+            "curriculum": "강의소개YUMMI파이썬의 소개YUMMI자료형,제어문,반복문,함수YUMMI자료형,제어문,반복문,함수YUMMI자료형,제어문,반복문,함수YUMMInumpyYUMMInumpyYUMMIpandasYUMMI중간고사YUMMI클래스YUMMI클래스YUMMI클래스YUMMI클래스YUMMI클래스YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "Python 프로그래밍 파이썬을 이용한 프로그래밍 방법을 익히고 데이터분석에 필수적인 몇 가지 패키지를 소개한다. 클래스와 객체지향적 프로그래밍의 개념을 설명한다. \n---\n* 주의: 성적미달시 F를 받을 수 있음. \n* 본 수업은 2023년 파이썬프로그래밍과 유사한 내용으로 진행하며 해당 강의노트는 https://guebin.github.io/PP2023/ 에서 확인가능함\n* 본 교과목은 플립러닝의 형식으로 진행하며 매주 퀴즈를 통해 학업성취도를 평가할 예정임. ",
+            "similarity": 0.4774596098149224
+        },
+        {
+            "id": 909,
+            "name": "빅데이터개론",
+            "description": "데이터 정리, 탐색, 추론으로 이어지는 데이터 분석의 합리적인 절차와 올바른 결과의 해석에 대하여 배우는 것을 목표로 한다. 자료의 형태 이해에 따른 수리적인 요약방법, 시각화방법에 대해 습득하고, 추론에 대한 기본 개념을 배운다. 상관관계를 이해하고 선형회귀모형 등 모델링의 기초 개념에 대해 간단히 다룬다. 학습한 개념 및 방법들을 파이썬을 이용하여 실제 데이터에 적용해 본다. ",
+            "curriculum": "강의 소개YUMMI파이선기초YUMMI파이선기초YUMMI자료의 형식YUMMI데이터프레임YUMMI분포와 확률YUMMI분포와 확률YUMMI중간고사 (4/25, 목)YUMMI표본과 경험적분포YUMMI표본과 경험적분포YUMMI유의성 검정YUMMI유의성 검정YUMMI관계와 예측YUMMI관계와 예측YUMMI\n기말고사 (6/13, 목)\nYUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "빅데이터개론 데이터 정리, 탐색, 추론으로 이어지는 데이터 분석의 합리적인 절차와 올바른 결과의 해석에 대하여 배우는 것을 목표로 한다. 자료의 형태 이해에 따른 수리적인 요약방법, 시각화방법에 대해 습득하고, 추론에 대한 기본 개념을 배운다. 상관관계를 이해하고 선형회귀모형 등 모델링의 기초 개념에 대해 간단히 다룬다. 학습한 개념 및 방법들을 파이썬을 이용하여 실제 데이터에 적용해 본다. ",
+            "similarity": 0.45872597568046114
+        },
+        {
+            "id": 1586,
+            "name": "R프로그래밍",
+            "description": "데이터를 이용하여 해결할 수 있는 실제 문제를 공략하는데 필요한 R 프로그래밍 능력을 기른다. ",
+            "curriculum": "R 언어 기초 IYUMMIR 언어 기초 IIYUMMIR 언어 기초 IIIYUMMIR 언어 기초 IVYUMMIR 그래픽YUMMIR 그래픽YUMMIR 그래픽YUMMI중간 시험YUMMIggplot2YUMMIggplot2YUMMIggplot2YUMMIR 언어 활용YUMMIR 언어 활용YUMMIR 언어 활용YUMMI기말 시험YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "R프로그래밍 데이터를 이용하여 해결할 수 있는 실제 문제를 공략하는데 필요한 R 프로그래밍 능력을 기른다. ",
+            "similarity": 0.39348658963170335
+        },
+        {
+            "id": 678,
+            "name": "선형대수학",
+            "description": "현대에 데이터분석을 위해서는 수많은 숫자들로 이루어진 데이터집합을 다루어야 한다. 선형대수를 이용하면 정확하고 효과적으로 대량의 데이터를 기술하고 계산할 수 있다. 또한, 분석이나 모형화 과정의 함의를 이해하는 데에도 도움이 될 수 있다. 본 강의를 통하여 선형대수학의 기본 내용을 이해하고 이후 회귀분석, 기계학습, 다변량분석 등 타 교과목의 학습 및 이해를 위한 기초를 쌓는다.",
+            "curriculum": "벡터와 행렬YUMMI행렬식YUMMI행렬연산YUMMI행렬연산, 역행렬YUMMI행렬계수YUMMI특수행렬YUMMI고유치와 고유벡터 1YUMMI중간평가YUMMI고유치와 고유벡터 2YUMMI행렬 대각화 YUMMI일반화역행렬YUMMI행렬 미적분YUMMI다변량분포와 이차형식YUMMI통계학에서의 활용YUMMI기말평가YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "선형대수학 현대에 데이터분석을 위해서는 수많은 숫자들로 이루어진 데이터집합을 다루어야 한다. 선형대수를 이용하면 정확하고 효과적으로 대량의 데이터를 기술하고 계산할 수 있다. 또한, 분석이나 모형화 과정의 함의를 이해하는 데에도 도움이 될 수 있다. 본 강의를 통하여 선형대수학의 기본 내용을 이해하고 이후 회귀분석, 기계학습, 다변량분석 등 타 교과목의 학습 및 이해를 위한 기초를 쌓는다.",
+            "similarity": 0.3795229234303225
+        },
+        {
+            "id": 1194,
+            "name": "수리경제학입문",
+            "description": "수학이 경제학을 공부하는데 왜 그토록 중요한가를 강조하기 위하여 수학적 기법이 경제학자들의 분석적 필요성 때문에 요구됨을 밝히고, 적당한 경제모형을 들어 설명하고자 한다. 또한 수학적 도구상자들을 설명함에 있어서도, 초보적인 도구들이 디딤돌이 되어서 후의 보다 세련된 도구들의 이해에 무리가 없도록 강의하고자 한다. 다시 말하자면 경제분석의 주요한 유형들, 정태분석(균형분석), 비교정태분석, 최적화분석 등을 공략하기 위하여 행렬대수학, 미분 등의 수학적 방법들을 사용할 것이다. 더불어 상당히 많은 미시 및 거시 경제모형들을 예로 들어 설명할 것이다.",
+            "curriculum": "경제학과 수학 / 수학의 기본지식YUMMI선형모형과 행렬대수(1)YUMMI선형모형과 행렬대수(2)YUMMI선형모형과 행렬대수(3) YUMMI비교정태분석과 도함수YUMMI미분법칙과 비교정태분석YUMMI중간고사대비 문제풀이 및 질의응답YUMMI중간고사YUMMI일반함수모형의 비교정태분석(1)YUMMI일반함수모형의 비교정태분석(2)YUMMI최적화분석YUMMI다변수함수의 극대극소YUMMI등식제약하의 최적화YUMMI기말고사대비 문제풀이 및 질의응답YUMMI기말고사 YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "수리경제학입문 수학이 경제학을 공부하는데 왜 그토록 중요한가를 강조하기 위하여 수학적 기법이 경제학자들의 분석적 필요성 때문에 요구됨을 밝히고, 적당한 경제모형을 들어 설명하고자 한다. 또한 수학적 도구상자들을 설명함에 있어서도, 초보적인 도구들이 디딤돌이 되어서 후의 보다 세련된 도구들의 이해에 무리가 없도록 강의하고자 한다. 다시 말하자면 경제분석의 주요한 유형들, 정태분석(균형분석), 비교정태분석, 최적화분석 등을 공략하기 위하여 행렬대수학, 미분 등의 수학적 방법들을 사용할 것이다. 더불어 상당히 많은 미시 및 거시 경제모형들을 예로 들어 설명할 것이다.",
+            "similarity": 0.3524564919444422
+        },
+        {
+            "id": 3337,
+            "name": "기계학습활용",
+            "description": "1. 데이터 분석 경진대회 참가하여 데이터를 분석할 수 있는 기초 역량 함양\n2. 트리계열 알고리즘과 트랜스포머 모델의 기본 개념 이해\n3. 주요 알고리즘의 구현 및 튜닝 방법 습득\n4. 실제 데이터셋을 활용한 모델 구축 및 평가 능력 향상\n5. 데이터분석 경진대회에서의 활용 전략 학습\n-*주의사항*-\n1. 이 수업은 파이썬프로그래밍을 수강하였거나 객체지향 언어 중 하나로 프로그래밍을 할 줄 아는 학생을 대상으로 한다. (그렇지 않은 학생은 수강을 권장하지 않음.)\n2. 강의는 플립러닝으로 진행하며, 매주 퀴즈를 실시할 예정임. \n3. 부정행위 적발시 혹은 성적미달시 F를 받을 수 있음. ",
+            "curriculum": "강의소개YUMMI기본기 다지기 - 데이터 시각화 기법YUMMI기본기 다지기 - 탐색적 자료 분석(EDA)  YUMMI기본기 다지기 - 데이터 전처리YUMMI기본기 다지기 - 하이퍼파라메터 튜닝YUMMI기본기 다지기 - 평가지표의 이해YUMMI트랜스포머와 트리계열 모델 개념 설명YUMMI머신러닝 패키지 활용 - sklearn YUMMI머신러닝 패키지 활용 - Hugging FaceYUMMI머신러닝 패키지 활용 - AutoGluon YUMMI실제 자료 분석 - Tabular 데이터YUMMI실제 자료 분석 - 시계열 데이터YUMMI실제 자료 분석 - 이미지 데이터YUMMI실제 자료 분석 - 음성 데이터YUMMI실제 자료 분석 - 텍스트 데이터YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "full_text": "기계학습활용 1. 데이터 분석 경진대회 참가하여 데이터를 분석할 수 있는 기초 역량 함양\n2. 트리계열 알고리즘과 트랜스포머 모델의 기본 개념 이해\n3. 주요 알고리즘의 구현 및 튜닝 방법 습득\n4. 실제 데이터셋을 활용한 모델 구축 및 평가 능력 향상\n5. 데이터분석 경진대회에서의 활용 전략 학습\n-*주의사항*-\n1. 이 수업은 파이썬프로그래밍을 수강하였거나 객체지향 언어 중 하나로 프로그래밍을 할 줄 아는 학생을 대상으로 한다. (그렇지 않은 학생은 수강을 권장하지 않음.)\n2. 강의는 플립러닝으로 진행하며, 매주 퀴즈를 실시할 예정임. \n3. 부정행위 적발시 혹은 성적미달시 F를 받을 수 있음. ",
+            "similarity": 0.54831092156608
+        },
+        {
+            "id": 4769,
+            "name": "화폐금융이론및정책",
+            "description": "기초적 경제분석 방법중 거시분석을 주로 공부하되 미시적 방법도 보완한다. 개별 경제주체들로 구성된 국민경제 전체의 인과관계와 흐름을 다루며, 국민소득 계정 및 개년, 균형국민소득의 결정 메카니즘, 화폐금융이론과 정책 및 제도, 인플레이션과 실업, 경제성장과 발전, 국제경제학의 기초를 살펴본다. ",
+            "curriculum": "경제학이란 무엇인가?YUMMI수요 공급과 시장균형YUMMI국가경제의 실물순환YUMMI국가경제의 실물순환, 국가경제의 자금순환YUMMI국가경제의 자금순환YUMMI국가경제의 특징YUMMI국가경제의 장기적 경제성장YUMMI임시시험 및 중간고사YUMMI국가경제의 장기적 경제성장YUMMI경제성장이론과 경제성장정책YUMMI국가경제의 단기적 경기변동, 화폐와 거시경제YUMMI화폐와 거시경제YUMMI경기변동이론 : 총수요 총공급 모형YUMMI경기변동이론 : 총수요 총공급 모형, 경기안정화정책이란 무엇인가?YUMMI임시시험 및 기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "화폐금융이론및정책 기초적 경제분석 방법중 거시분석을 주로 공부하되 미시적 방법도 보완한다. 개별 경제주체들로 구성된 국민경제 전체의 인과관계와 흐름을 다루며, 국민소득 계정 및 개년, 균형국민소득의 결정 메카니즘, 화폐금융이론과 정책 및 제도, 인플레이션과 실업, 경제성장과 발전, 국제경제학의 기초를 살펴본다. ",
+            "similarity": 0.38164921125727924
+        },
+        {
+            "id": 4277,
+            "name": "수리통계학 2",
+            "description": "통계적 추론의 핵심이 되는 추정과 검정에 대한 이론적 기초와 방법을 배우고, 실제 데이터 분석에 적용할 수 있다.",
+            "curriculum": "수리통계학 복습YUMMI4장 추정YUMMI4장 추정YUMMI4장 추정YUMMI4장 추정YUMMI4장 추정YUMMI4장 추정YUMMI중간고사 (10/28, 월)YUMMI5장 가설검정YUMMI5장 가설검정YUMMI5장 가설검정YUMMI5장 가설검정YUMMI5장 가설검정YUMMI5장 가설검정YUMMI기말고사 (12/16, 월)YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "full_text": "수리통계학 2 통계적 추론의 핵심이 되는 추정과 검정에 대한 이론적 기초와 방법을 배우고, 실제 데이터 분석에 적용할 수 있다.",
+            "similarity": 0.3616702521421208
+        },
+        {
+            "id": 3647,
+            "name": "계량경제학",
+            "description": "본과목은 경제이론에서 도출된  경제변수들간의 관계를 실증적으로 규명해보자 한다.\n경제이론에 대한 지식과 수집된 자료를 정리하고 추론하는 통계학적 기초가 필요하다.\n그러나 수학적 정리나 증명에 의존하지 않고 사례 중심의 EXCEL과 GRETL 등 통계프로그램을 사용하는 실중분석 위주이다.\n본 과목을 제대로 수강하면 이론과 현실에 대한 균형감각이 생기고 경제학과 학생들이 다른 사회과학 전공자들에 비해 경쟁력을 갖출 수 있을 것으로 기대한다.  ",
+            "curriculum": "계량경제학 및 GRETL프로그램 소개YUMMI단순회귀분석  표본분포 및 특성YUMMI단순회귀분석 ？ 최소자승법 (OLS)YUMMI단순회귀분석 - OLS 추정 및 가설검정YUMMI다중회귀분석 ？ 추정 YUMMI다중회귀분석 ？ 추정 YUMMI다중회귀분석 ？ 가설검정  YUMMI중간고사YUMMI다중회귀분석  - 함수형태, 모형의 적합도YUMMI가변수 회귀모형YUMMI모형설정의 오류 및 다중 공선성YUMMI이분산의 식별 및 교정YUMMI자기상관의 식별 및 교정YUMMI패널데이터 특성 반영YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "계량경제학 본과목은 경제이론에서 도출된  경제변수들간의 관계를 실증적으로 규명해보자 한다.\n경제이론에 대한 지식과 수집된 자료를 정리하고 추론하는 통계학적 기초가 필요하다.\n그러나 수학적 정리나 증명에 의존하지 않고 사례 중심의 EXCEL과 GRETL 등 통계프로그램을 사용하는 실중분석 위주이다.\n본 과목을 제대로 수강하면 이론과 현실에 대한 균형감각이 생기고 경제학과 학생들이 다른 사회과학 전공자들에 비해 경쟁력을 갖출 수 있을 것으로 기대한다.  ",
+            "similarity": 0.3478623909510153
+        },
+        {
+            "id": 4490,
+            "name": "회귀분석 1",
+            "description": "회귀분석은 독립변수들과 종속변수 사이의 함수 관계를 데이터에 의하여 규명하는 통계적 방법으로서, 모형 적합과 예측에 사용되는 기법이다. 단순회귀 모형을 중심으로 모형 적합 및 회귀진단 등에 대하여 학습을 한다.  R을 이용한 실습을 병행한다. ",
+            "curriculum": "강의 소개 및 기초적 통계 이론 1YUMMI기초적 통계 이론2YUMMI단순회귀분석1YUMMI단순회귀분석2YUMMI단순회귀분석3\n단순 회귀분석에 관한 추론 1YUMMI단순 회귀분석에 관한 추론 2YUMMI기초적 회귀분석의 기타 논제 1YUMMI중간고사YUMMI행렬의 기초 이론YUMMI기초적 회귀분석의 기타 논제 2YUMMI기초적 중회귀 분석 1YUMMI기초적 중회귀 분석 2YUMMI추정과 가설검정 1YUMMI추정과 가설검정 2YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "통계학과",
+            "full_text": "회귀분석 1 회귀분석은 독립변수들과 종속변수 사이의 함수 관계를 데이터에 의하여 규명하는 통계적 방법으로서, 모형 적합과 예측에 사용되는 기법이다. 단순회귀 모형을 중심으로 모형 적합 및 회귀진단 등에 대하여 학습을 한다.  R을 이용한 실습을 병행한다. ",
+            "similarity": 0.33413511161209697
+        },
+        {
+            "id": 1630,
+            "name": "통계데이터베이스",
+            "description": "데이터 분석에 필요한 데이터베이스에 대해서 이해하며, R과 Python을 이용한 실제 응응과 활용 능력을 키운다.    ",
+            "curriculum": "소개YUMMI데이터베이스의 이해YUMMI관계형데이터베이스 YUMMI비정형 데이터 베이스 YUMMIR & Python ReviewYUMMIR & Python ReviewYUMMIR & Python ReviewYUMMIR & Python Review \n/ 중간고사YUMMI데이터 베이스 설계의 이해 YUMMI데이터 베이스 설계의 이해YUMMIR DB 설계YUMMIR DB 설계YUMMIPython DB 설계YUMMIPython DB 설계YUMMI기말 발표YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "통계데이터베이스 데이터 분석에 필요한 데이터베이스에 대해서 이해하며, R과 Python을 이용한 실제 응응과 활용 능력을 키운다.    ",
+            "similarity": 0.4936800799940139
+        },
+        {
+            "id": 824,
+            "name": "재무경제학",
+            "description": "국내외 금융시장의 환경에서 기업, 금융권 등의 재무적 의사결정에 필요한 기본적인 개념과 분석체계를 갖추도록 하는데 목적을 두고  있음. 이러한 목적 하에, 3대 시장(채권, 주식, 외환)의 가격결정 과정 및 요인을 연구하고, 투자를 위한 자금조달, 포트폴리오 구성, 투자안 평가 등 실제 기업과 금융시장에서 행해지고 있는 주요 업무에 대하여 연구함. 특히 별도의 실습 과정을 통해 금융이론과 실제 금융업무에 대한 체계적인 이해를 병행할 수 있음.",
+            "curriculum": "IntroductionYUMMITime value of moneyYUMMIBond marketYUMMIYield curveYUMMIApplication(1)YUMMIStock market YUMMIDividend policyYUMMICapital financing YUMMIMid-termYUMMIReturn & RiskYUMMITheory of PortfolioYUMMIApplication(2)YUMMICAPMYUMMIPension FinanceYUMMIFinalYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "재무경제학 국내외 금융시장의 환경에서 기업, 금융권 등의 재무적 의사결정에 필요한 기본적인 개념과 분석체계를 갖추도록 하는데 목적을 두고  있음. 이러한 목적 하에, 3대 시장(채권, 주식, 외환)의 가격결정 과정 및 요인을 연구하고, 투자를 위한 자금조달, 포트폴리오 구성, 투자안 평가 등 실제 기업과 금융시장에서 행해지고 있는 주요 업무에 대하여 연구함. 특히 별도의 실습 과정을 통해 금융이론과 실제 금융업무에 대한 체계적인 이해를 병행할 수 있음.",
+            "similarity": 0.4728220599538436
+        },
+        {
+            "id": 649,
+            "name": "국제금융시장론",
+            "description": "이 과정에서는 국제금융시장의 동향, 전망 등에 대해서 학습한다. 특히 주식, 채권, 외환 등 3대 시장에서의 가격결정원리와 요인을 이해하고, 시장의 변동성에 영향을 미치는 주요 요인들에 대하여 학습한다. 특히 경기변동, 경제위기 등 국제금융시장에 구조적인 변화가 발생하였을 때 이들 시장들이 어떻게 반응하는지 주요 이론과 실제 사례를 통하여 학습할 수 있다.",
+            "curriculum": "IntroductionYUMMIGlobal Imbalances / Capital MobilityYUMMIBP/ National Account / M-F ModelYUMMIBond Market and Bond PriceYUMMIInternational Capital Market / Stock Market and PriceYUMMIFEX Market /  Exchange RateYUMMIMoney, Inflation, Interest Rate and EX / Two Regimes of EXYUMMIMidterm YUMMIOCAYUMMICrisisYUMMICentral Bank / ResponsesYUMMIRisk Diversification, PortfolioYUMMIFEX Forecasting, Speculative TransactionYUMMIFC Crisis RMYUMMIFinalYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "국제금융시장론 이 과정에서는 국제금융시장의 동향, 전망 등에 대해서 학습한다. 특히 주식, 채권, 외환 등 3대 시장에서의 가격결정원리와 요인을 이해하고, 시장의 변동성에 영향을 미치는 주요 요인들에 대하여 학습한다. 특히 경기변동, 경제위기 등 국제금융시장에 구조적인 변화가 발생하였을 때 이들 시장들이 어떻게 반응하는지 주요 이론과 실제 사례를 통하여 학습할 수 있다.",
+            "similarity": 0.4490057655420651
+        },
+        {
+            "id": 1505,
+            "name": "빅데이터경제학",
+            "description": "이 과목은 경제에 가장 큰 영향을 미치는 빅 데이터를 사용하여 교육에서 금융에 이르기까지 다양한 경제 영역을 다루는데 필요한 방법과 경제이론을 습득하는 것을 목적으로 합니다. ",
+            "curriculum": "빅데이터 경제학의 소개YUMMI기본적인 R 사용법 실습YUMMI선형회귀 방법에 대한 복습YUMMI패널데이터 분석 방법 1YUMMI패널데이터 분석 방법 2YUMMI시계열 데이터 분석 방법 1YUMMI시계열 데이터 분석 방법 2YUMMI중간고사YUMMI베이지안 추정의 개념YUMMI베이지안 통계학 실습YUMMI베이지안 선형 회귀 추정 1YUMMI베이지안 선형 회귀 추정 2YUMMI베이지안 시뮬레이션 실습 1YUMMI베이지안 시뮬레이션 실습 2YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "빅데이터경제학 이 과목은 경제에 가장 큰 영향을 미치는 빅 데이터를 사용하여 교육에서 금융에 이르기까지 다양한 경제 영역을 다루는데 필요한 방법과 경제이론을 습득하는 것을 목적으로 합니다. ",
+            "similarity": 0.400570128153793
+        },
+        {
+            "id": 2105,
+            "name": "보험수리학",
+            "description": "보험 및 금융산업에서 발생되는 위험을 평가하기 위하여 수학적 또는 통계적 방법론을 다룬다. 이와같이 보험에서 위험을 관리하기 위해 필요한 제반적인 내용을 준비한다. ",
+            "curriculum": " Chapter 1 ,  보험학 개요 YUMMIChapter 3 . 이자론(1)YUMMIChapter 3 . 이자론(2)YUMMIChapter 4. 생존분포와 생명표 YUMMIChapter 4. 생존분포와 생명표 YUMMIChapter 5. 생명보험 YUMMIChapter 5. 생명보험 YUMMI중간고사YUMMIChapter 6.  생명연금 YUMMIChapter 6.  생명연금 YUMMIChapter 7. 순보험료YUMMIChapter 7 .순보험료YUMMIChapter 8. 책임 준비금 YUMMIChapter 8. 책임 준비금 YUMMI기말고사 YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "보험수리학 보험 및 금융산업에서 발생되는 위험을 평가하기 위하여 수학적 또는 통계적 방법론을 다룬다. 이와같이 보험에서 위험을 관리하기 위해 필요한 제반적인 내용을 준비한다. ",
+            "similarity": 0.34912000422882783
+        },
+        {
+            "id": 2923,
+            "name": "금융리스크관리",
+            "description": "주식, 채권, 외환시장 등에 존재하는 다양한 리스크를 확인, 측정하며, 이에 대한 관리기법을 이해하고 이를 활용함.",
+            "curriculum": "IntroductionYUMMIBasic Statistics\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIBIC (BASEL)\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIMarket Risk Management\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIVaR(Value at Risk)\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIimmunisation strategyYUMMICredit RM \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIMid-term\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIOperation RM / Liquidity RM\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIRAPM\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIPortfolio Insurance YUMMIApplication on Risk Management\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMISecuritization\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMILoan Sales\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIDerivative Market RM\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "금융리스크관리 주식, 채권, 외환시장 등에 존재하는 다양한 리스크를 확인, 측정하며, 이에 대한 관리기법을 이해하고 이를 활용함.",
+            "similarity": 0.5000916652425563
+        },
+        {
+            "id": 4167,
+            "name": "금융투자실습",
+            "description": "금융시장에 대한 전반적인 이해도를 높이며, 자산가격결정 및 거래행태에 대한 보다 전문적인 지식을 갖추게 하는데 그 목적이 있음.",
+            "curriculum": "Q. 왜 금융자산을 공부하여야 하는가?YUMMIQ. 주가 예측값은 어느 정도 신뢰할 수 있는가?YUMMIQ. 딜러의 성향, 투자방식의 차이가 수익률의 차이를 유발하는가?YUMMIQ. 주식시장의 수익률을 결정하는 요인은 무엇인가? YUMMIQ. 미국발 주식시장의 충격은 한국시장에 어느 정도 전이되는가? YUMMIQ. 주가는 월요일에 하락하는가? / 주가는 1월에 상승하는가?YUMMIQ. 시가총액 1%의 상승은 대형주와 소형주에게 모두 같은 의미인가?YUMMI중간고사YUMMIQ. 주식과 채권 중에서 주식에 투자할 확률은 몇 %인가? YUMMIQ. 외국인의 거래를 추세추종하면 더 높은 수익률을 얻을 수 있는가?YUMMIQ. 한국의 주식시장이 외환 및 금융위기의 영향을 받은 정확한 시점은 언제인가?YUMMIQ. 한국의 주식시장은 미국의 주식시장의 영향을 어느 정도 받고 있는가? YUMMIQ. 채권 전문 딜러의 성과분석에서 주식 수익률이 포함되면 어떠한 결과가 나타나게 되는가? YUMMIQ. 대형주와 중형주, 소형주가 모두 포함된 경우 보다 정확한 분석을 위한 방법은 무엇인가? YUMMIQ. 실제 펀드매니저들은 포트폴리오를 어떻게 구성하는가?YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "금융투자실습 금융시장에 대한 전반적인 이해도를 높이며, 자산가격결정 및 거래행태에 대한 보다 전문적인 지식을 갖추게 하는데 그 목적이 있음.",
+            "similarity": 0.49724133520791536
+        },
+        {
+            "id": 3586,
+            "name": "기계학습",
+            "description": "통계적 기계학습의 기본적인 개념, 이를 위한 모형 및 알고리즘, 평가 및 응용 등에 대하여 다룬다.  주되게 지도 학습 방법론들을 이해하고 실제 빅데이터에 적용할 수 있는 능력을 기르는 것을 목표로 한다. 분석도구로는 R과 python을 함께 이용한다.",
+            "curriculum": "통계적 기계학습YUMMI선형회귀모형YUMMI로지스틱모형YUMMI판별분석, K-NNYUMMI모형선택 및 축소추정법 IYUMMI모형선택 및 축소추정법 IIYUMMI최적화 (특강)YUMMI중간고사YUMMI비선형모형 : 다항회귀모형, 스플라인, 가법모형YUMMI나무모형 (회귀 및 분류나무)YUMMI앙상블(ensemble) 방법: Bagging & Boosting 1YUMMI앙상블(ensemble) 방법: Bagging & Boosting 2YUMMI서포트벡터기계 (SVM)YUMMI비지도학습(주성분분석, 군집분석 등) YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "full_text": "기계학습 통계적 기계학습의 기본적인 개념, 이를 위한 모형 및 알고리즘, 평가 및 응용 등에 대하여 다룬다.  주되게 지도 학습 방법론들을 이해하고 실제 빅데이터에 적용할 수 있는 능력을 기르는 것을 목표로 한다. 분석도구로는 R과 python을 함께 이용한다.",
+            "similarity": 0.4944541799286254
+        },
+        {
+            "id": 4383,
+            "name": "파생금융시장론",
+            "description": "파생금융시장에 대한 다양한 실무투자기법을 익히게 하는데 목적이 있음.\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+            "curriculum": "Introduction\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIBasic Concepts / Market Scale\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIFutures\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIFutures Market Pricing\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIHedge Ratio\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIApplication(1)YUMMIVarious Futures\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIMid-term\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIOptions\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIOptions Market Pricing\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIApplication(2)YUMMIVarious Options & Options Strategy\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMISwaps\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMIArbitrage TradeYUMMIFinalYUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "파생금융시장론 파생금융시장에 대한 다양한 실무투자기법을 익히게 하는데 목적이 있음.\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+            "similarity": 0.4348459615549834
+        },
+        {
+            "id": 2921,
+            "name": "생명과학자료분석",
+            "description": "생명과학 자료의 특성을 익히고,생명과학 자료 분석을 이해 자주 사용되는 통계적 방법들을 학습하여 SAS를 사용하여 실제 자료 분석을 할 수 있다.",
+            "curriculum": "1장 서론, 9장 임상 시험 연구의 개념 및 설계 /  가설 검정 YUMMI2장 집단의 비교 / 자료다루기 및 SAS 사용법YUMMI2장 숙제 발표/ 3장 분할표의 분석 YUMMI3장 분할표의 분석YUMMI3장 숙제발표/ 5장 공분산 분석YUMMI5장 공분산 분석YUMMI5장 과제 발표YUMMI중간고사 (10/28, 월)YUMMI6장 반복측정 자료분석 YUMMI6장 숙제 발표 / 4장 로짓 및 로그-선형 분석YUMMI7장 생존분석 / 4장 로짓 분석 숙제 발표YUMMI7장 생존분석YUMMI7장 생존분석/ 7장 숙제 발표 \n\nYUMMI \n10장 연구대상자수의 결정, 11장 임상시험의 운용 , 12장 임상시험연구결과의 보고 \nYUMMI기말고사 (12/16, 월)YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "통계학과",
+            "full_text": "생명과학자료분석 생명과학 자료의 특성을 익히고,생명과학 자료 분석을 이해 자주 사용되는 통계적 방법들을 학습하여 SAS를 사용하여 실제 자료 분석을 할 수 있다.",
+            "similarity": 0.39942466878770166
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "description": "금융 및 거시경제 데이터를 분석할 수 있는 역량을 키우는 것을 목표로 함. \n이론 이외에도 데이터를 분석을 위한 R 프로그래밍 능력을 향상시키는 것이 목표임.  ",
+            "curriculum": "금융시계열분석 및 R 프로그래밍 소개YUMMIAR models 이해YUMMIMA models 이해YUMMIARMA models 이해YUMMIARCH models 이해\n YUMMIGARCH models 이해YUMMIOther Volatility models 이해YUMMI중간고사 (향후 다시 공지할 예정)YUMMIVAR models 이해YUMMIVAR models 이해\n YUMMIVAR models 이해YUMMIState Space models 이해YUMMIState Space models 이해YUMMIState Space models 이해YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "금융시계열분석 금융 및 거시경제 데이터를 분석할 수 있는 역량을 키우는 것을 목표로 함. \n이론 이외에도 데이터를 분석을 위한 R 프로그래밍 능력을 향상시키는 것이 목표임.  ",
+            "similarity": 0.5501246260950754
+        },
+        {
+            "id": 989,
+            "name": "금융통계",
+            "description": "주식에 대한 기초 지식과 웹에서 주식 데이터를 스크래핑하여 전처리, 시각화, 예측모형 등을 다룬다.",
+            "curriculum": "주식 용어 기초YUMMI주식 데이터 스크래핑YUMMI주식 데이터 전처리 YUMMI주식 데이터 시각화YUMMI주식 데이터 시각화YUMMI주식 데이터 시각화YUMMI주식 데이터 시각화YUMMI중간고사YUMMI증권 뉴스 스크래핑YUMMI증권 뉴스 스크래핑YUMMI주식 가격 예측 모형 탐색YUMMI주식 가격 예측 모형 탐색YUMMI주식 가격 예측 모형 비교YUMMI주식 가격 예측 모형 비교YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "금융통계 주식에 대한 기초 지식과 웹에서 주식 데이터를 스크래핑하여 전처리, 시각화, 예측모형 등을 다룬다.",
+            "similarity": 0.5299479264918326
+        },
+        {
+            "id": 1186,
+            "name": "부동산금융",
+            "description": "부동산 시장 및  자산에 대한 이해를 높이고 부동산 가치평가, 투자 및 금융 지식 배양을 통한 실무역량 습득을 주요 목표로 한다.   ",
+            "curriculum": "강의개요 및 화폐의 시간가치 이해 YUMMI부동산가치평가 이해YUMMI부동산투자분석 이해YUMMI재무레버리지 이해YUMMI수익용 부동산 투자에서 세금의 영향 이해YUMMI실물옵션의 이해YUMMI중간모의시험YUMMI중간고사YUMMI글로벌 투자 위험관리 이해YUMMI모기지분석 이해YUMMI부동산증권화 이해YUMMI기업부동산 금융의 이해YUMMI부동산 Project Financing 이해YUMMI기말모의시험YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "full_text": "부동산금융 부동산 시장 및  자산에 대한 이해를 높이고 부동산 가치평가, 투자 및 금융 지식 배양을 통한 실무역량 습득을 주요 목표로 한다.   ",
+            "similarity": 0.43402925250278734
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "description": "데이터 사이언스에 필수적인 데이터 마이닝에 방법론을 익히고 적용능력을 키움.\n시각화 및 EDA, 협업 필터링, 연과규칙 분석, 차원축소법, 군집분석, 이상치 탐색 등을 다룸.  ",
+            "curriculum": "소개 및 목표YUMMI데이터 시각화 YUMMI데이터 시각화 YUMMIEDAYUMMI협업필터링YUMMI협업필터링YUMMI연관규칙 분석YUMMI연관규칙 분석 및 중간고사YUMMI주성분 분석YUMMI비선형 차원 축소법YUMMI군집분석 (1)YUMMI군집분석 (2)YUMMI군집분석 (3)YUMMI이상치 탐색 (1)YUMMI이상치 탐색 (2)\n기말발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "데이터마이닝 데이터 사이언스에 필수적인 데이터 마이닝에 방법론을 익히고 적용능력을 키움.\n시각화 및 EDA, 협업 필터링, 연과규칙 분석, 차원축소법, 군집분석, 이상치 탐색 등을 다룸.  ",
+            "similarity": 0.42856551492526745
+        },
+        {
+            "id": 619,
+            "name": "딥러닝",
+            "description": "1. 다양한 딥러닝 분석기법의 원리를 이해한다. \n2. 파이토치 사용방법을 익힌다. \n--- \n* 주의: 성적미달시 F를 받을 수 있음. \n* 본 수업은 2022년 딥러닝과 유사한 내용으로 진행하며 해당 강의노트는 https://guebin.github.io/DL2022/ 에서 확인가능함\n* 파이썬 기본문법은 리뷰하지 않음. (파이썬을 사용해보지 않은 학생은 수강을 권장하지 않음)",
+            "curriculum": "강의소개YUMMI딥러닝의 기초 YUMMI딥러닝의 기초 YUMMI딥러닝의 기초 YUMMI딥러닝의 기초 YUMMI딥러닝의 기초 YUMMI이미지 자료 분석YUMMI이미지 자료 분석YUMMI중간고사YUMMI텍스트와 시퀀스 자료 분석YUMMI텍스트와 시퀀스 자료 분석YUMMI텍스트와 시퀀스 자료 분석YUMMI텍스트와 시퀀스 자료 분석YUMMI텍스트와 시퀀스 자료 분석YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "딥러닝 1. 다양한 딥러닝 분석기법의 원리를 이해한다. \n2. 파이토치 사용방법을 익힌다. \n--- \n* 주의: 성적미달시 F를 받을 수 있음. \n* 본 수업은 2022년 딥러닝과 유사한 내용으로 진행하며 해당 강의노트는 https://guebin.github.io/DL2022/ 에서 확인가능함\n* 파이썬 기본문법은 리뷰하지 않음. (파이썬을 사용해보지 않은 학생은 수강을 권장하지 않음)",
+            "similarity": 0.4132616400530787
+        },
+        {
+            "id": 4591,
+            "name": "텍스트마이닝",
+            "description": "- 텍스트 마이닝의 기본 개념을 이해한다\n- 사전 처리 및 분석 방법 활용 능력을 배양한다",
+            "curriculum": "텍스트 마이닝 개요YUMMI텍스트 마이닝을 위한 R언어 기초1YUMMI텍스트 마이닝을 위한 R언어 기초2YUMMI텍스트 패키지YUMMI한국어 텍스트 기초분석YUMMI영어 텍스트 기초분석YUMMI단어의 상대적 중요도 분석YUMMI중간 프로젝트YUMMI감정분석YUMMI사회 연결망 분석YUMMI군집화와 분류YUMMI토픽 모델링1YUMMI토픽 모델링2YUMMI데이터 크롤링YUMMI기말 프로젝트 및 수업 정리YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "통계학과",
+            "full_text": "텍스트마이닝 - 텍스트 마이닝의 기본 개념을 이해한다\n- 사전 처리 및 분석 방법 활용 능력을 배양한다",
+            "similarity": 0.35558072883410785
+        },
+        {
+            "id": 4897,
+            "name": "인사관리경제학",
+            "description": "This class is about the economics of incentives and information, with all of its motivation, examples and applications taken from \nthe  employment  relationships.          ",
+            "curriculum": "IntroductionYUMMIOptimizationYUMMITraditional Labor Market AnalysisYUMMICompensation and MotivationYUMMIPiece RatesYUMMIProblems with Piece ratesYUMMIMotivating multiple typesYUMMIGame theory YUMMITournaments YUMMIEfficiency Wages and Team Incentives  YUMMIComparison of Incentive SchemesYUMMIExecutive Compensation  and performance EvaluationYUMMIAdverse Selection and SignallingYUMMISearch and BargainingYUMMITraining and Benefit,  Final Exam YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "인사관리경제학 This class is about the economics of incentives and information, with all of its motivation, examples and applications taken from \nthe  employment  relationships.          ",
+            "similarity": 0.27551661014327855
+        },
+        {
+            "id": 4523,
+            "name": "통계세미나",
+            "description": "확률, 확률변수, 분포, 밀도함수에 대하여 다룬다. ",
+            "curriculum": "강의소개YUMMI확률의 이해YUMMI확률의 이해YUMMI확률의 이해YUMMI측도론YUMMI측도론YUMMI측도론YUMMI측도론YUMMI중간고사YUMMI확률론YUMMI확률론YUMMI확률론YUMMI확률론YUMMI확률론YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "통계학과",
+            "full_text": "통계세미나 확률, 확률변수, 분포, 밀도함수에 대하여 다룬다. ",
+            "similarity": 0.27475338347085254
+        },
+        {
+            "id": 3394,
+            "name": "문화경제학",
+            "description": "1. 개인효용의 서수적 비교만으로 상대가격에 반응하는 개인의 효용극대화 문제를 풀어왔던 신(新)고전파경제학 미시적 분석의 근간을 흔드는 변화를 가져온, 가히 혁명적인 발상의 전환이 바로 문화경제학이다. \n2. 예술 활동에 관한 경제학적 분석, 한국의 문화산업 현황 분석, 문화산업 진흥을 위한 정책과 효율적인 문화경영관리 조직을 제시한다,\n3. 국내외 문화산업의 전망을 제시하고 있어 문화의 세기, 국내 문화예술 정책을 점검하고 앞으로의 진흥 방향을 논의할 것이다. \n4. 경제성과 예술성을 접목시킨 공연예술의 현황과 진흥방향, 국내 미술시장, 유형문화재의 경제적 가치와 문화재 보존을 위한 정부의 정책, 예술에 대한 정부와 기업의 지원 현황에 대해 국내외 실제 사례와 함께 알아보고자 한다.",
+            "curriculum": "강의소개 및 총론YUMMI미술품에 대한 수요와 공급YUMMI경매와 미술시장YUMMI문화유산의 경제학YUMMI박물관 및 미술관 운영의 경제학YUMMI공연예술의 경제학YUMMI디지털혁명과 문화산업의 변화YUMMI중  간  고  사\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI문화산업과 지적재산권YUMMI문화산업의 특성과 현황YUMMI영화산업YUMMI음악산업YUMMI방송산업YUMMI문화와 국가 : 경제성장과 창의도시 / 문화정책론YUMMI기 말 고 사\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "문화경제학 1. 개인효용의 서수적 비교만으로 상대가격에 반응하는 개인의 효용극대화 문제를 풀어왔던 신(新)고전파경제학 미시적 분석의 근간을 흔드는 변화를 가져온, 가히 혁명적인 발상의 전환이 바로 문화경제학이다. \n2. 예술 활동에 관한 경제학적 분석, 한국의 문화산업 현황 분석, 문화산업 진흥을 위한 정책과 효율적인 문화경영관리 조직을 제시한다,\n3. 국내외 문화산업의 전망을 제시하고 있어 문화의 세기, 국내 문화예술 정책을 점검하고 앞으로의 진흥 방향을 논의할 것이다. \n4. 경제성과 예술성을 접목시킨 공연예술의 현황과 진흥방향, 국내 미술시장, 유형문화재의 경제적 가치와 문화재 보존을 위한 정부의 정책, 예술에 대한 정부와 기업의 지원 현황에 대해 국내외 실제 사례와 함께 알아보고자 한다.",
+            "similarity": 0.2690007891848721
+        },
+        {
+            "id": 4427,
+            "name": "게임과협상전략",
+            "description": "비협조 게임이론은 행위자들의 선택이 서로의 이해관계에 영향을 미칠 수 있는 상황에서, 합리적인 행위자들의 의사결정을 분석하고, 그 결과를 예측하는 학문이다. 경제학은 정치학, 생물학, 컴퓨터공학 등과 함께 게임이론이 널리 응용되는 분야이다. 이 수업의 목표는 비협조 게임이론의 기초와 비협조 게임이론이 경제현상 분석에 응용되는 대표적인 사례들을 학습하는 것이다.",
+            "curriculum": "강의 소개, 게임이론이란?YUMMI정보가 완전한 정태적 게임 1YUMMI정보가 완전한 정태적 게임 2YUMMI정보가 완전한 정태적 게임 3YUMMI정보가 완전한 정태적 게임 4YUMMI정보가 완전한 동태적 게임 1YUMMI정보가 완전한 동태적 게임 2YUMMI중간고사YUMMI정보가 완전한 동태적 게임 3YUMMI정보가 불완전한 정태적 게임 1YUMMI정보가 불완전한 정태적 게임 2YUMMI정보가 불완전한 동태적 게임 1YUMMI정보가 불완전한 동태적 게임 2YUMMI정보가 불완전한 동태적 게임 3YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "게임과협상전략 비협조 게임이론은 행위자들의 선택이 서로의 이해관계에 영향을 미칠 수 있는 상황에서, 합리적인 행위자들의 의사결정을 분석하고, 그 결과를 예측하는 학문이다. 경제학은 정치학, 생물학, 컴퓨터공학 등과 함께 게임이론이 널리 응용되는 분야이다. 이 수업의 목표는 비협조 게임이론의 기초와 비협조 게임이론이 경제현상 분석에 응용되는 대표적인 사례들을 학습하는 것이다.",
+            "similarity": 0.24168765462900235
+        }
+    ]
+}

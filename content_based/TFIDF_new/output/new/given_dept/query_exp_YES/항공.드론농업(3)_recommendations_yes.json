@@ -1,0 +1,68 @@
+{
+    "meta_info": {
+        "user_query": "드론의 경량화와 내구성을 높이면서 농업 환경에 최적화된 기체를 설계하고 싶습니다. 공기역학, 구조공학, 센서 기술 등을 포함한 학습 과정은 무엇이 될까요?",
+        "expanded_query": "드론의 경량화와 내구성을 높이면서 농업 환경에 최적화된 기체를 설계하고 싶습니다. 공기역학, 구조공학, 센서 기술 등을 포함한 학습 과정은 무엇이 될까요? 드론 설계 및 최적화에 대한 심층적 이해 농업 분야에 적합한 드론 설계 전문가가 되기 항공우주공학 및 드론 기술 드론 설계 엔지니어 드론 설계 엔지니어는 드론의 경량화와 내구성을 향상시키고 특정 용도, 특히 농업 환경에 적합하도록 드론을 설계합니다. 공기역학적 효율성, 구조적 강도, 그리고 센서 통합 및 최적화를 고려해야 합니다. 공기역학적 연구 및 설계, 구조 공학적 분석, 센서 기술 및 통합, 농업 환경에 맞는 드론 기체 개발 및 테스트 공기역학, 구조 공학, 센서 기술 CAD 소프트웨어 활용, 물리적 시뮬레이션, 재료 과학 이해 항공역학, 구조 역학, 드론 기초 이론 드론 설계와 관련된 첨단 재료 및 제조 공정, 드론의 제어 시스템 드론 설계 소프트웨어(CAD) 사용법, 센서 데이터 분석, 프로토타입 제작 및 평가",
+        "given_departments": [
+            "생물산업기계공학과",
+            "항공우주공학과"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3324,
+            "name": "농업데이터이해및분석",
+            "description": "농업 환경, 작물 및 가축 생육, 기상, 농산물 생산량 및 가격 정보 등 다양한 형태의 농업데이터를 소개하고, 데이터 분석을 위한 관련 소프트웨어 활용 능력을 제고시키는 데 있다. ",
+            "curriculum": "서론YUMMI농업 농촌 데이터YUMMI파이썬 개요YUMMI데이터 형식 및 구조YUMMI기본 분석 및 데이터 시각화YUMMI평균 및 표준편차YUMMI추측통계의 기본YUMMI중간평가YUMMI이산형 확률변수YUMMI연속형 확률변수YUMMI독립동일분포YUMMI통계적 추정YUMMI통계적 가설검정YUMMI회귀 분석YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "full_text": "농업데이터이해및분석 농업 환경, 작물 및 가축 생육, 기상, 농산물 생산량 및 가격 정보 등 다양한 형태의 농업데이터를 소개하고, 데이터 분석을 위한 관련 소프트웨어 활용 능력을 제고시키는 데 있다. ",
+            "similarity": 0.10455114471016805
+        },
+        {
+            "id": 1861,
+            "name": "항공우주구조역학",
+            "description": "◎ 항공기와 인공위성과 같은 비행체 구조물에는 보, 기둥, 박판 등의 부재가 주로 사용된다. 본 강의에서는 각종 설계 요구 조건과 외부 환경에 따른 비행체 구조물의 변위, 변형, 응력, 에너지, 재료 특성에 관한 기초 이론을 학습한다.\n\n◎ 실용적인 관점에서는 기본적으로 항공우주 비행체에 대한 구조 해석과 설계 능력의 향상에 중점을 두며, 자동차 또는 로봇과 같은 다양한 기계 장치의 구조적 문제 해결을 위한 응용 능력도 동시에 배양한다.",
+            "curriculum": "IntroductionYUMMICharacteristics of Aircraft Structures and Materials ⅠYUMMICharacteristics of Aircraft Structures and Materials ⅡYUMMIIntroduction to Elasticity Ⅰ: Displacement, StainYUMMIIntroduction to Elasticity Ⅱ: StressYUMMIIntroduction to Elasticity Ⅲ: Stress-Strain RelationsYUMMIIntroduction to Elasticity Ⅳ: Strain EnergyYUMMIMidterm Evaluation: Exam (75 Pts.) + Report (25 Pts.)YUMMITorsion ⅠYUMMITorsion ⅡYUMMIBending and Flexural Shear ⅠYUMMIBending and Flexural Shear ⅡYUMMIFlexural Shear Flow in Thin-Walled Sections ⅠYUMMIFlexural Shear Flow in Thin-Walled Sections ⅡYUMMIFlexural Shear Flow in Thin-Walled Sections Ⅲ\n\nFinal Evaluation: Exam (75 Pts.) + Report (25 Pts.)YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "full_text": "항공우주구조역학 ◎ 항공기와 인공위성과 같은 비행체 구조물에는 보, 기둥, 박판 등의 부재가 주로 사용된다. 본 강의에서는 각종 설계 요구 조건과 외부 환경에 따른 비행체 구조물의 변위, 변형, 응력, 에너지, 재료 특성에 관한 기초 이론을 학습한다.\n\n◎ 실용적인 관점에서는 기본적으로 항공우주 비행체에 대한 구조 해석과 설계 능력의 향상에 중점을 두며, 자동차 또는 로봇과 같은 다양한 기계 장치의 구조적 문제 해결을 위한 응용 능력도 동시에 배양한다.",
+            "similarity": 0.1218114606453088
+        },
+        {
+            "id": 1970,
+            "name": "응용계측학및실습",
+            "description": "- 측정 원리의 이해와 계측기 활용 방법을 습득하고 관련 데이터를 분석하는데 목표가 있음\n- 계측의 범위에는 기계, 전기, 전자, 농생명에 이르며 데이터의 특징, 센서 응용을 학습",
+            "curriculum": "과목소개 및 개론YUMMI측정의 개요YUMMI계측 표준과 차원 단위YUMMI데이터의 평가 및 표현1YUMMI데이터의 평가 및 표현2YUMMI아날로그 특성YUMMI계측계의 응답YUMMI중간고사YUMMI센서1YUMMI센서2YUMMI계측의 디지털 기술1YUMMI계측의 디지털 기술2YUMMI데이터 처리 심화YUMMI응용 계측YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "full_text": "응용계측학및실습 - 측정 원리의 이해와 계측기 활용 방법을 습득하고 관련 데이터를 분석하는데 목표가 있음\n- 계측의 범위에는 기계, 전기, 전자, 농생명에 이르며 데이터의 특징, 센서 응용을 학습",
+            "similarity": 0.10898392492950541
+        },
+        {
+            "id": 3303,
+            "name": "메카트로닉스및실험",
+            "description": "메카트로닉스 구성요소인 센서 및 신호처리, 구동기, 컴퓨터 인터페이스 등에 관한 기초지식을 습득하고 시스템 구현을 위한 설계 및 하드웨어 실장과정을 이해한다. ",
+            "curriculum": "메카트로닉스 개요 및 항공우주분야 응용사례소개 YUMMI시스템 응답 : 계측시스템, 1차 및 2차 동적 시스템의 응답특성 YUMMI아날로그 신호처리 : OP-Amp 이용 기본연산, 신호처리 기초 YUMMI데이터 수집 : 정량화 원리, A/D 및 D/A, DAQ 디바이스 및 소프트웨어 YUMMI센서 I : 위치, 속도, 응력, 변형률 측정 YUMMI\n\n센서 II : 온도, 진동, 가속도 측정 YUMMI구동기(actuator) : 전자기의 원리, 직류모터 및 모터선정, 스텝모터, 유압 및 공압, 압전구동기 등YUMMI교과목 상담 YUMMI종합시험 YUMMILabVIEW 기초 YUMMILabVIEW 활용 (My-Rio)YUMMIMicro Vehicle  실습 (IR Sensor 보정, 모터 제어, 주행 재어 및 장애물 탐지)YUMMIMicro Vehicle  실습 (IR Sensor 보정, 모터 제어, 주행 재어 및 장애물 탐지)YUMMI실습 결과 발표회YUMMI종합토론YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "메카트로닉스및실험 메카트로닉스 구성요소인 센서 및 신호처리, 구동기, 컴퓨터 인터페이스 등에 관한 기초지식을 습득하고 시스템 구현을 위한 설계 및 하드웨어 실장과정을 이해한다. ",
+            "similarity": 0.16544881138343506
+        },
+        {
+            "id": 3259,
+            "name": "드론농업응용",
+            "description": "농업분야에 다양하게 사용되고 있는 농업용 드론의 개념, 특성, 응용분야등을 소개한다.\n농업용 드론의 활용분야에 대한 이해를 높히기 위하여 보조자료 활용 및 실습 강화를 목표로 두고 있다.",
+            "curriculum": "교과목 개요YUMMI농업용 드론 배경YUMMI드론의 농업적 이용 필요성 및 발달사YUMMI농업 드론 응용 분야 1YUMMI농업 드론 응용 분야 2YUMMI농업 드론 응용 분야 3YUMMI드론 응용 분야 기타 (산림 등)YUMMI중간고사 과제물YUMMI드론의 비행원리와 기초YUMMI농업 드론 실험 실습 1YUMMI농업 드론 실험 실습 2YUMMI농업 드론 실험 실습 3YUMMI농업 드론 실험 실습 4YUMMI농업 드론 실험 실습 5YUMMI기말고사 발표YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "full_text": "드론농업응용 농업분야에 다양하게 사용되고 있는 농업용 드론의 개념, 특성, 응용분야등을 소개한다.\n농업용 드론의 활용분야에 대한 이해를 높히기 위하여 보조자료 활용 및 실습 강화를 목표로 두고 있다.",
+            "similarity": 0.13569943735570714
+        }
+    ]
+}

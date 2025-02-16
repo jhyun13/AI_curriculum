@@ -1,0 +1,343 @@
+{
+    "meta_info": {
+        "user_query": "공공 정책이 실질적인 사회적 영향을 가지려면 재정적 지속 가능성과 정책 기획이 필수적입니다. 복지 정책, 공공 예산 운영, 조직 혁신을 함께 연구하며 실무에서 활용할 수 있도록 학습하려면 어떤 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "사회복지학과",
+            "행정학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 1250,
+            "name": "행정조사방법론",
+            "description": "사회과학 연구를 위한 방법론을 익히고 관심있는 행정문제에 대한 연구계획서를 작성한다.",
+            "curriculum": " 강의소개YUMMI과학적 연구의 의미와 목적YUMMI연구의 일반적 절차YUMMI연구문제의 선정YUMMI개념의 측정YUMMI가설구성YUMMI인과 관계의 추론YUMMI발표YUMMI실험설계YUMMI자료수집YUMMI자료수집YUMMI표본추출YUMMI연구계획서 작성 및 제출\nYUMMI연구계획서 발표 및 토론YUMMI연구계획서 발표 및 토론YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "full_text": "행정조사방법론 사회과학 연구를 위한 방법론을 익히고 관심있는 행정문제에 대한 연구계획서를 작성한다.",
+            "similarity": 0.4642601599669271
+        },
+        {
+            "id": 661,
+            "name": "사회복지역사",
+            "description": "사회복지제도나 실천이 진공상태에서 출현한 것이 아니라 어떤 배경이나 맥락에서 등장했음을 이해한다. 그렇다고 하여 특정의 배경이나 맥락이 제공되면 동일한 내용이나 방식의 제도나 실천이 나타나는 것이 아니라, 역사적 행위의 주인공인 인간 집단들의 역동적인 상호작용에 의해 매우 다양한 양상으로 전개될 수 있음을 이해한다. 지나온 역사를 이해함으로써 현재를 보다 정확하게 포착할 수 있고, 한 걸음 더 나아가면 미래의 발전양상에 대한 예지력도 지닐 수 있게 된다.   ",
+            "curriculum": "교과목 오리엔테이션 /사회복지 역사탐구의 의의와 이론 YUMMI전근대의 자발적 원조체계와 공공복지의 출현YUMMI구빈법의 등장과 발전YUMMI근대 상호부조제도의 발전YUMMI사회사업 전문직의 발전YUMMI사회보험제도의 등장과 확산YUMMI자유주의 개혁과 구빈법 해체YUMMI중간고사YUMMI복지국가의 형성과 발전YUMMI복지국가의 위기와 재편, 그리고 전망YUMMI해방 이전 한국 사회복지의 전개YUMMI해방 이후부터 개발독재시기까지의 한국 사회복지의 전개YUMMI한국 사회복지의 재구조화YUMMI한국사회복지사의 흐름(특강)YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "full_text": "사회복지역사 사회복지제도나 실천이 진공상태에서 출현한 것이 아니라 어떤 배경이나 맥락에서 등장했음을 이해한다. 그렇다고 하여 특정의 배경이나 맥락이 제공되면 동일한 내용이나 방식의 제도나 실천이 나타나는 것이 아니라, 역사적 행위의 주인공인 인간 집단들의 역동적인 상호작용에 의해 매우 다양한 양상으로 전개될 수 있음을 이해한다. 지나온 역사를 이해함으로써 현재를 보다 정확하게 포착할 수 있고, 한 걸음 더 나아가면 미래의 발전양상에 대한 예지력도 지닐 수 있게 된다.   ",
+            "similarity": 0.4109369172530135
+        },
+        {
+            "id": 455,
+            "name": "기획론",
+            "description": "불확실한 환경의 변화를 분석하고 그 변화에 적응하기 위한 전략을 설계할 수 있도록 함. 한편, 환경의 변화뿐만 아니라 미래 비전의 수립, 그에 따른 전략과 집행 체계의 설계 등 다양한 주제들의 논의를 통해 기획 역량을 배양한다. ",
+            "curriculum": "오리엔테이션YUMMI전략적 기획이란 무엇인가YUMMI공공조직에서의 전략적 기획YUMMI기획을 위하여 필요한 것들YUMMI목표와 비전의 설정YUMMI환경 분석YUMMI 우선 순위의 결정YUMMI중간 고사 YUMMI미래 전략의 개발YUMMI운영 전략의 개발YUMMI전략적 기획안 작성 하기 YUMMI전략적 기획을 위한 제안YUMMI전략적 기획의 사례 YUMMI전략적 기획의 사례 YUMMI기말 고사 YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "full_text": "기획론 불확실한 환경의 변화를 분석하고 그 변화에 적응하기 위한 전략을 설계할 수 있도록 함. 한편, 환경의 변화뿐만 아니라 미래 비전의 수립, 그에 따른 전략과 집행 체계의 설계 등 다양한 주제들의 논의를 통해 기획 역량을 배양한다. ",
+            "similarity": 0.4084563767354212
+        },
+        {
+            "id": 2469,
+            "name": "사회보장론",
+            "description": "복지국가 발전에 따라 사회보장제도는 정치, 경제, 교육 등의 주요 사회제도들과 더불어 사회구성원의 삶을 규정하는 핵심 요소가 되고 있다. \n본 강좌에서는 사회보장제도의 개념, 원리, 역사 등에 대한 전반적 개괄과 더불어 한국 사회보장제도의 실태와 쟁점에 대한 고찰을 통해, 사회보장에 관한 기본 지식을 습득할 수 있도록 하고, 전문적 식견을 함양토록 함에 수업 목표를 두고, 강좌를 운영하고자 한다. ",
+            "curriculum": "강의 소개 및 일정/계획 안내 YUMMI사회보장에 대한 다양한 개념 및 관점들의 파악   YUMMI사회보장의 주요 방식 및 쟁점들에 대한 이해    YUMMI사회보장의 역사에 대한  이해  YUMMI사회보장제도의 긍정적 및 부정적 역할/기능에 대한 이해 YUMMI노후소득보장제도의 유형 및 원리 이해 YUMMI한국 노후소득보장(국민연금/기초연금)의 이해   YUMMI중간 고사YUMMI실업보상제도 유형 및 원리의 이해 YUMMI한국 실업보상제도(고용보험/실업부조)의 이해 YUMMI의료보장제도 유형 및 원리의 이해 YUMMI한국 의료보장제도(건강보험/장기요양보험)의 이해YUMMI1. 산재보상제도 유형 및 원리의 이해  2. 한국의 산재보상제도(산재보험)에 대한 이해 YUMMI1. 공공부조제도 유형 및 원리의 이해 2. 한국의 공공부조제도(국민기초생활보장제도)에 대한 이해  YUMMI기말 고사 YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "full_text": "사회보장론 복지국가 발전에 따라 사회보장제도는 정치, 경제, 교육 등의 주요 사회제도들과 더불어 사회구성원의 삶을 규정하는 핵심 요소가 되고 있다. \n본 강좌에서는 사회보장제도의 개념, 원리, 역사 등에 대한 전반적 개괄과 더불어 한국 사회보장제도의 실태와 쟁점에 대한 고찰을 통해, 사회보장에 관한 기본 지식을 습득할 수 있도록 하고, 전문적 식견을 함양토록 함에 수업 목표를 두고, 강좌를 운영하고자 한다. ",
+            "similarity": 0.40340119148933595
+        },
+        {
+            "id": 2447,
+            "name": "정부와시민사회",
+            "description": "1. 시민사회의 등장배경 및 형성과정에 대해서 이해한다.\n\n2. 시민사회의 핵심이라고 할 수 있는 NGO의 특성에 대해서 고찰한다.\n\n3. NGO와 정부 간의 효율적인 협력체제 구축방안을 모색한다. ",
+            "curriculum": "시민사회의 개념\nYUMMI시민사회의 형성과정\nYUMMINGO의 개념 및 유형\nYUMMINGO에 관한 주요 이론\nYUMMINGO의 발전과정\nYUMMINGO의 조직적 특성\nYUMMI거버넌스의 등장\nYUMMI중간시험YUMMI거버넌스와 시민사회\nYUMMI정부와 NGO 간의 관계\nYUMMI정책과정에서 NGO의 역할\nYUMMI사회적 환경변화와 NGO\nYUMMI정부와 시민사회의 발전방향\nYUMMI개별/조별 발표\nYUMMI기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "full_text": "정부와시민사회 1. 시민사회의 등장배경 및 형성과정에 대해서 이해한다.\n\n2. 시민사회의 핵심이라고 할 수 있는 NGO의 특성에 대해서 고찰한다.\n\n3. NGO와 정부 간의 효율적인 협력체제 구축방안을 모색한다. ",
+            "similarity": 0.39646663486620837
+        },
+        {
+            "id": 4536,
+            "name": "재무행정론",
+            "description": "  재무행정에 대한 공부가 왜 중요한가? 그 본질적인 논거는 정부의 예산 운영이 국민경제와 복지에 지대한 영향을 미치기 때문이라고 볼 수 있다. 그러나 재무행정론은 그 중요성에도 불구하고 상당히 이해하기 어려운 특성을 내포하고 있다. 재무행정론에 요구되는 기본 개념과 학습내용을 이해하면서도 “알기 쉽고 체계적인 강의 수행”이라는 궁극적 목적을 위해 본 강좌에서는 재무행정론을 예산 제도론, 예산과정, 예산 이론 등으로 구별하고, 예산의 의의, 예산의 종류, 예산 과정, 예산제도의 변천, 예산 이론, 조세체제, 예산 개혁, 정부회계, 정부조달 등의 주제를 통해 재무행정론에 대한 이해를 증진시키는데 강의의 초점을 두고자 한다. 강의방식은 대면 강의를 중심으로 진행하며, 학생들의 발표 및 토론을 부분적으로 병행하여 진행하고자 한다.",
+            "curriculum": "재무행정 강의 및 과제 전반에 대한 오리엔테이션YUMMI 정부활동에 대한 이해 제고YUMMI예산에 대한 이해 제고 YUMMI중앙정부와 지방정부 예산과정에 대한 이해YUMMI예산이론의 유형과 이해YUMMI기획과 예산, 입법부와 예산심의YUMMI과제 평가 및 피드백, 평가 YUMMI예산 과정에 대한 이해YUMMI예산 과정에 대한 이해YUMMI예산개혁의 이해제고 YUMMI국가 조세체제에 대한 이해 YUMMI중앙 정부와 지방정부 회계에 대한 이해 YUMMI중앙정부 재정관리와 재정 정책, 채무관리 이해YUMMI조달과 정부계약의 의미 탐색YUMMI재무행정의 변화 방향 논의 및 기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "full_text": "재무행정론   재무행정에 대한 공부가 왜 중요한가? 그 본질적인 논거는 정부의 예산 운영이 국민경제와 복지에 지대한 영향을 미치기 때문이라고 볼 수 있다. 그러나 재무행정론은 그 중요성에도 불구하고 상당히 이해하기 어려운 특성을 내포하고 있다. 재무행정론에 요구되는 기본 개념과 학습내용을 이해하면서도 “알기 쉽고 체계적인 강의 수행”이라는 궁극적 목적을 위해 본 강좌에서는 재무행정론을 예산 제도론, 예산과정, 예산 이론 등으로 구별하고, 예산의 의의, 예산의 종류, 예산 과정, 예산제도의 변천, 예산 이론, 조세체제, 예산 개혁, 정부회계, 정부조달 등의 주제를 통해 재무행정론에 대한 이해를 증진시키는데 강의의 초점을 두고자 한다. 강의방식은 대면 강의를 중심으로 진행하며, 학생들의 발표 및 토론을 부분적으로 병행하여 진행하고자 한다.",
+            "similarity": 0.47389963634970805
+        },
+        {
+            "id": 4567,
+            "name": "사회복지실천론",
+            "description": "이 과목은 사회복지학의 발달과 맥을 같이하는 개별사회사업, 집단사회사업, 지역사회조직의 3대 방법론을 통합하여 사회복지실천과정에 필요한 지식과 기술을 학습하는 것이다. 구체적으로 이 과목은 사회복지실천의 이념과 철학, 역사, 가치와 윤리, 사회복지현장 이해 등 총론을 학습하고, 통합적 방법론, 사례관리 등을 살펴본다. 또한 사회복지실천의 과정에 필수적인 관계론, 면담론, 과정론, 기록, 실천모델 들을 학습함으로써 학생들이 사회복지실천과정의 이해와 클라이언트에 대한 다양한 개입 방법을 습득하도록 한다. 이를 통해 이 과목은 학생들의 사회복지현장에 대한 이해와 사회복지사로서의 전문능력 향상에 그 기본 목표가 있다. ",
+            "curriculum": "과목에 대한 소개 및 학생들의 기대YUMMI1부. 총론\n사회복지실천의 개념과 가치YUMMI사회복지실천의 윤리와 인권YUMMI사회복지실천의 역사YUMMI제2부 통합적 실천: 임파워먼트 모델YUMMI사례관리모델YUMMI통합적 관계론YUMMI중간고사YUMMI제3부 사회복지실천과정 : 사회복지실천의 과정 IYUMMI사회복지실천의 과정 IIYUMMI사회복지실천의 상담/ 사회복지실천의 기록 \n YUMMI특강: 사회복지실천 현장 전문가YUMMI제4부 다양한 수준의 실천: 개인수준의 실천/ 가족수준의 실천\n YUMMI집단수준의 실천/ 지역수준의 실천/ 종합정리 YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "full_text": "사회복지실천론 이 과목은 사회복지학의 발달과 맥을 같이하는 개별사회사업, 집단사회사업, 지역사회조직의 3대 방법론을 통합하여 사회복지실천과정에 필요한 지식과 기술을 학습하는 것이다. 구체적으로 이 과목은 사회복지실천의 이념과 철학, 역사, 가치와 윤리, 사회복지현장 이해 등 총론을 학습하고, 통합적 방법론, 사례관리 등을 살펴본다. 또한 사회복지실천의 과정에 필수적인 관계론, 면담론, 과정론, 기록, 실천모델 들을 학습함으로써 학생들이 사회복지실천과정의 이해와 클라이언트에 대한 다양한 개입 방법을 습득하도록 한다. 이를 통해 이 과목은 학생들의 사회복지현장에 대한 이해와 사회복지사로서의 전문능력 향상에 그 기본 목표가 있다. ",
+            "similarity": 0.45479815138147994
+        },
+        {
+            "id": 4639,
+            "name": "정책형성론",
+            "description": "본 강의의 목표는 첫째 공공정책형성 과정을 이해하고 \n둘째 정책형성과정에 대한 정보 및 자료수집 능력을 향상시키며\n셋째 정책형성과정에 대한 분석능력을 제고하여\n넷째 분석된 정책형성과정에 대한 의견개진 등 토론능력을 발전시킨다",
+            "curriculum": "강의 내용과 수업 가이든스 안내: YUMMIo 정책의 개념과 유형\no 정책형성과정의 의미와 단계 그리고 구조\nYUMMI중앙정부의 정책형성과정\n지방정부의 정책형성과정YUMMIo 왜 그러한 정책어젠더가 설정되는가?\n-정책어젠더의 설정(1)\n-정책어젠더의 설정(2)YUMMIo 정책을 형성, 변화, 결정시키는 주요 요인은 무엇인가?  권력, 이익, 제도, 아이디어\n- 정책형성의 요인(1): 권력, 이익\n- 정책형성의 요인(2): 제도, 아이디어 YUMMIo 정책형성에 관여하는 행위자는 누구이며 어떠한 영향력을 발휘하는가? \n-정책형성과정에서의 행위자(1) \n-정책형성과정에서의 행위자(2)YUMMIo 정책형성과정에서 어떠한 네트워크가 형성, 구축되는가?\n-정책형성과 네트워크: 행위자간의 연계(1)\n- 정책형성과 네트워크: 행위자간의 연계(2) YUMMI중간시험YUMMI정책은 어디에서 어떻게 결정되는가?\n-정책결정의 장\n-정책결정의 모델YUMMIo  정책형성에서 외국 사례들은 어떠한 영향을 미치는가?\n-정책형성과 외국사례: 정책이전(1)\n-정책형성과 외국사례: 정책이전(2)YUMMIo 정책은 어디에서 어떻게 확산되는가? 확산의 촉진제는 무엇인가?\n- 정책형성과 정책확산\n- 정책형성과 사회적 자본YUMMI국가별로 정책형성과정의 차이는 어떠한가?\n-정책형성의 국가별 비교(1): 일본\n-정책형성의 국가별 비교(2) 미국YUMMI정책형성 사례 발표(1)YUMMI정책형성 사례 발표(2)YUMMI기말시험YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "full_text": "정책형성론 본 강의의 목표는 첫째 공공정책형성 과정을 이해하고 \n둘째 정책형성과정에 대한 정보 및 자료수집 능력을 향상시키며\n셋째 정책형성과정에 대한 분석능력을 제고하여\n넷째 분석된 정책형성과정에 대한 의견개진 등 토론능력을 발전시킨다",
+            "similarity": 0.4367214778395157
+        },
+        {
+            "id": 3079,
+            "name": "빈곤론",
+            "description": "1) 빈곤 및 불평등 문제에 대한 전문적인 관점의 정립\n2) 빈곤 및 불평등 문제 분석과 대책 마련에 필요한 주요개념/이론의 습득\n3) 빈곤 및 불평등 문제에 대한 정책 이해\n4) 지역사회 빈곤 문제에 대한 실태와 개선방안",
+            "curriculum": "오리엔테이션YUMMI빈곤 문제에 대한 관점YUMMI빈곤의 개념과 정의YUMMI빈곤 측정에의 쟁점YUMMI빈곤 원인론 1YUMMI빈곤 원인론2YUMMI빈곤 정책의 유형과 특성YUMMI중간고사YUMMI빈곤과 불평등YUMMI빈곤의 개인적, 구조적 양상YUMMI한국의 빈곤정책YUMMI아동 빈곤YUMMI여성과 빈곤YUMMI노인과 빈곤YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "full_text": "빈곤론 1) 빈곤 및 불평등 문제에 대한 전문적인 관점의 정립\n2) 빈곤 및 불평등 문제 분석과 대책 마련에 필요한 주요개념/이론의 습득\n3) 빈곤 및 불평등 문제에 대한 정책 이해\n4) 지역사회 빈곤 문제에 대한 실태와 개선방안",
+            "similarity": 0.42268072351823205
+        },
+        {
+            "id": 4215,
+            "name": "지역사회복지론",
+            "description": "지역사회복지의 이론적 배경과 실천에 관한 지식습득을 위해, 지역사회복지의 개념, 지역사회복지의 역사 및 변천과정, 지역사회복지실천의 방법론 및 지원 분야, 지역사회복지가의 역할 등에 대해 알아보고 나아가 지역사회복지의 다양한 분야를 이해함으로써 지역사회를 위한 전문 사회복지사로서의 능력과 자질을 함양한다.",
+            "curriculum": "오리엔테이션YUMMI지역사회와 지역사회복지YUMMI지역사회복지 관련 이론YUMMI지역사회복지의 역사YUMMI지역사회복지실천의 원칙ㆍ가치ㆍ윤리 및 과정YUMMI지역사회복지의 실천모델에 대한 이해 1\nYUMMI지역사회복지 실천모델에 대한 이해2YUMMI중간고사YUMMI지역사회복지실천에서 사회복지사의 기술YUMMI지방자치,사회복지전달체계, 지역사회보장계획YUMMI지역사회복지운동YUMMI지역사회복지 지원체계YUMMI지역사회복지추진체계: 직접적 서비스YUMMI지역사회복지의 과제와 전망YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "full_text": "지역사회복지론 지역사회복지의 이론적 배경과 실천에 관한 지식습득을 위해, 지역사회복지의 개념, 지역사회복지의 역사 및 변천과정, 지역사회복지실천의 방법론 및 지원 분야, 지역사회복지가의 역할 등에 대해 알아보고 나아가 지역사회복지의 다양한 분야를 이해함으로써 지역사회를 위한 전문 사회복지사로서의 능력과 자질을 함양한다.",
+            "similarity": 0.40758723711871914
+        },
+        {
+            "id": 1920,
+            "name": "사회복지행정론",
+            "description": "공적 및 민간 차원의 사회복지정책을 사회복지서비스로 전환하는 사회복지조직과 이들의 연계체계인 사회복지 전달체계를 이해하고 사회복지조직의 요원으로서 사회복지조직을 관리, 운영하는데 필요한 지식과 기술을 이해하도록 한다.\n(1) 사회복지행정에 적용 가능한 다양한 조직이론 등을 이해한다.\n(2) 사회복지행정 자원관리와 사회복지조직의 서비스 질 향상 방법에 대해 탐색한다.",
+            "curriculum": "오리엔테이션YUMMI사회복지행정의 개념과 특성YUMMI사회복지행정의 역사YUMMI조직의 유형과 이론, 우리나라 사회복지조직의 실제YUMMI사회복지서비스 전달체계, 리더십과 조직문화YUMMI기획과 의사결정, 인적자원관리, 재정관리, 정보 및 사무관리YUMMI마케팅과 홍보, 프로그램 개발과 평가YUMMI중간고사YUMMI중간고사 문제 해석, 찾아가는 동주민센터YUMMI사회복지시설 평가, 사회복지조직과 환경의 변화YUMMI사회복지행정 이슈YUMMI사회복지행정 이슈YUMMI사회복지행정 이슈YUMMI사회복지행정 이슈YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "full_text": "사회복지행정론 공적 및 민간 차원의 사회복지정책을 사회복지서비스로 전환하는 사회복지조직과 이들의 연계체계인 사회복지 전달체계를 이해하고 사회복지조직의 요원으로서 사회복지조직을 관리, 운영하는데 필요한 지식과 기술을 이해하도록 한다.\n(1) 사회복지행정에 적용 가능한 다양한 조직이론 등을 이해한다.\n(2) 사회복지행정 자원관리와 사회복지조직의 서비스 질 향상 방법에 대해 탐색한다.",
+            "similarity": 0.5085247635473037
+        },
+        {
+            "id": 2400,
+            "name": "사례관리론",
+            "description": "- 사회복지 분야 중 사례관리 관련 이론 및 실천 과정에 관한 학습\n- 간접적 사례관리 경험을 통해 사례관리 이해\n- 미래 사회복지사로서 갖추어야 할 태도 및 역량 강화",
+            "curriculum": "사례관리 수업 안내 및 수업 방향 나누기YUMMI사례관리의 개념과 원리YUMMI사례관리의 역사적 발달과정YUMMI관점과 이론YUMMI사례관리 구성 체계YUMMI사례관리의 기능과 사례관리자의 역할YUMMI사례관리 실천과정과 단계별 과업1 (초기, 사정)YUMMI중간고사YUMMI사례관리 실천과정과 단계별 과업2(계획, 실행)YUMMI사례관리 실천과정과 단계별 과업3(평가 및 종결)YUMMI사례관리의 실제1(장애인, 노인)YUMMI사례관리의 실제2(아동, 청소년)YUMMI사례관리의 실제3(다문화, 1인가구)YUMMI사례관리의 실제4(민간, 공공영역)YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "full_text": "사례관리론 - 사회복지 분야 중 사례관리 관련 이론 및 실천 과정에 관한 학습\n- 간접적 사례관리 경험을 통해 사례관리 이해\n- 미래 사회복지사로서 갖추어야 할 태도 및 역량 강화",
+            "similarity": 0.4583002432976621
+        },
+        {
+            "id": 432,
+            "name": "사회복지윤리와철학",
+            "description": "실제 사회복지에서는 인권을 옹호하는 사회복지 전문직으로서 윤리와 철학이 필요합니다. 본 강좌에서는 사회복지 윤리와 철학에 대한 기본적 이해를 바탕으로 사회복지 전문직에서의 가치와 사회복지 실천에서 윤리적 이슈등에 대한 인식을 확대하고 민감성을 키우며 사회복지실천에서의 사례들에 이를 적용함으로써 윤리적 실천가로서 자질을 함양하고자 합니다. ",
+            "curriculum": "  사회복지와 윤리학의 만남YUMMI철학의 개념과 특성,                                        철학, 과학, 예술, 종교.                                    사회복지철학의 개념과 체계YUMMI윤리학의 개념,                                               윤리학의 주요이론,                                         사회복지윤리학의개념, 영역, 체계YUMMI공리주의,                                                       자유지상주의YUMMI평등적 자유주의,                                            공동체주의YUMMI사회복지전문직의 성장과 윤리강령의 변화,     사회복지사 윤리강령의 기능과 실제,               최근 사회복지사 윤리강령의 쟁점과 과제YUMMI윤리적 관점과 책임YUMMI중간고사YUMMI윤리적 딜레마와 사회복지 전문직,                   윤리적 의사결정의 개념과 모형,                      윤리적 의사결정의 실제YUMMI자기결정과 온정적 개입YUMMI비밀보장과 알권리YUMMI전문적 관계와 이중 관계,                                충실성의 상충YUMMI인권지향적 사회복지,                                     제한된 자원의 배분,                                         사회복지에 대한 정부와 민간의 사회적 책임YUMMI법률과 규칙의 준수,                                        조직적 내부갈등과 윤리,                                 조사와 평가의 윤리,                                        정보통신기술의 발달과 윤리YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "full_text": "사회복지윤리와철학 실제 사회복지에서는 인권을 옹호하는 사회복지 전문직으로서 윤리와 철학이 필요합니다. 본 강좌에서는 사회복지 윤리와 철학에 대한 기본적 이해를 바탕으로 사회복지 전문직에서의 가치와 사회복지 실천에서 윤리적 이슈등에 대한 인식을 확대하고 민감성을 키우며 사회복지실천에서의 사례들에 이를 적용함으로써 윤리적 실천가로서 자질을 함양하고자 합니다. ",
+            "similarity": 0.45782540120760173
+        },
+        {
+            "id": 359,
+            "name": "사회복지실천기술론",
+            "description": "○ 사회복지실천의 전문성에 대한 이해와 이러한 전문성을 뒷받침하는 주요 실천모델과 실천기술을      다양한 클라이언트에게 적용하는 역량 향상\n○ 개인, 집단, 가족 등을 대상으로 한 개입 및 변화를 촉진하는 심층 기법 학습\n○ 다양한 사회복지실천모델의 기본적 전제와 가정, 주요 기법 습득 및 적용능력 향상\n",
+            "curriculum": "사회복지 실천기술의 이해YUMMI사회복지실천현장과 사회복지사 핵심 실천역량YUMMI실천모델과 기술(1)YUMMI실천모델과 기술(2)YUMMI실천모델과 기술(3)YUMMI개인대상 사회복지실천기술(1)  YUMMI개인대상 사회복지 실천기술(2)YUMMI사회복지실천기술의 이해YUMMI가족대상 사회복지실천 기술(1)YUMMI가족대상 사회복지실천기술(2)YUMMI집단대상 사회복지실천 기술(1)YUMMI집단대상 사회복지실천 기술(2)YUMMI지역사회실천기술YUMMI사회복지실천 평가 및 기록 YUMMI 사회복지실천기술 평가YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "full_text": "사회복지실천기술론 ○ 사회복지실천의 전문성에 대한 이해와 이러한 전문성을 뒷받침하는 주요 실천모델과 실천기술을      다양한 클라이언트에게 적용하는 역량 향상\n○ 개인, 집단, 가족 등을 대상으로 한 개입 및 변화를 촉진하는 심층 기법 학습\n○ 다양한 사회복지실천모델의 기본적 전제와 가정, 주요 기법 습득 및 적용능력 향상\n",
+            "similarity": 0.43837125539188493
+        },
+        {
+            "id": 1953,
+            "name": "사회복지자료분석론",
+            "description": "-본 수업은 spss실습이 주가 되므로 전산실 활용이 필수임. \n최근 사회과학의 다양한 분야에서 조사와 통계의 중요성이 증대되고 있으며, 사회복지분야 또한 이에 해당된다. 수집된 데이터를 이용하여 적절하게 분설할 수 있는 능력은 사회복지 실천 및 정책 분야에서도 중요하게 다루어지는 부분이다. 이에 따른 수업목표는 다음과 같음.\n첫째, 사회과학분야에서의 조사 및 통게의 개념을 살펴본다.\n둘째, 축적된 자료를 수집하고 입력, 분석하는 기술을 습득한다.\n셋째, 이를 위해 사회과학분야에서 가장 보편적으로 사용되는 SPSS 통계 프로그램의 활용방법을 익힌다.",
+            "curriculum": "오리엔테이션YUMMI통계의 기초YUMMIspss 실습(1)\nYUMMIspss 실습(2)YUMMI기초분석(1)\nYUMMI기초분석(2)\nYUMMI중간고사YUMMIt-검증YUMMI분산분석YUMMI카이스퀘어YUMMI상관관계분석YUMMI회귀분석 1YUMMI회귀분석 2YUMMI신뢰도YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "full_text": "사회복지자료분석론 -본 수업은 spss실습이 주가 되므로 전산실 활용이 필수임. \n최근 사회과학의 다양한 분야에서 조사와 통계의 중요성이 증대되고 있으며, 사회복지분야 또한 이에 해당된다. 수집된 데이터를 이용하여 적절하게 분설할 수 있는 능력은 사회복지 실천 및 정책 분야에서도 중요하게 다루어지는 부분이다. 이에 따른 수업목표는 다음과 같음.\n첫째, 사회과학분야에서의 조사 및 통게의 개념을 살펴본다.\n둘째, 축적된 자료를 수집하고 입력, 분석하는 기술을 습득한다.\n셋째, 이를 위해 사회과학분야에서 가장 보편적으로 사용되는 SPSS 통계 프로그램의 활용방법을 익힌다.",
+            "similarity": 0.4349241692814646
+        },
+        {
+            "id": 4721,
+            "name": "정책평가론",
+            "description": " 본 강의는 오늘날 정부의 각종 정책들이 구체적으로 그 대상집단에게, 나아가 사회에 어떤 영향을 미치는지를 평가한다. 이를 위해 평가에 관한 기본이론들을 습득한 후, 각종 평가기법에 대해서 알아보고 이를 바탕으로 경험적인 평가작업을 함으로써 정책의 효과에 대한 체계적인 평가에 도움이 되도록 한다. ",
+            "curriculum": "강의개요YUMMI정책평가의 의미와 성격, 필요성 YUMMI정책평가의 유형YUMMI정책평가의 이론 및 접근방법YUMMI정책평가의 과정 및 설계YUMMI성과의 모니터링: 성과관리(BSC), 성과지표YUMMI정책평가에 있어서 인과적 추론과 타당성 I: 인과적 추론, 타당성의 유형YUMMI정책평가에 있어서 인과적 추론과 타당성 II: 내적 타당도 저해요인YUMMI중간고사YUMMI정책결과평가 I: 진실험YUMMI정책결과평가 II: 준실험YUMMI정책결과평가 III: 비실험 YUMMISPSS 실습YUMMI정책평가의 관리와 활용YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "full_text": "정책평가론  본 강의는 오늘날 정부의 각종 정책들이 구체적으로 그 대상집단에게, 나아가 사회에 어떤 영향을 미치는지를 평가한다. 이를 위해 평가에 관한 기본이론들을 습득한 후, 각종 평가기법에 대해서 알아보고 이를 바탕으로 경험적인 평가작업을 함으로써 정책의 효과에 대한 체계적인 평가에 도움이 되도록 한다. ",
+            "similarity": 0.4957295514432189
+        },
+        {
+            "id": 4081,
+            "name": "사회복지정책론",
+            "description": " 1) 사회복지정책 개념 및 특성에 대한 이해\n 2) 사회복지정책의 역사 및 발달에 대한 이해\n 3) 사회복지정책의 내용 분석틀의 이해 및 적용 \n 4) 사회복지정책 형성 및 집행 과정에 대한 이론적 이해\n 5) 한국 사회복지정책의 실태와 이슈/쟁점",
+            "curriculum": "사회복지정책의 개괄적 이해YUMMI사회복지정책의 개념 및 특성에 대한 이해YUMMI사회복지정책에 대한 관점의 이해YUMMI사회복지정책에 대한 관점의 이해YUMMI사회복지정책의 역사와 발달이론에 대한 이해YUMMI사회복지정책 분석틀에 대한 이해YUMMI사회복지정책 내용에 대한 이해YUMMI중간고사YUMMI사회복지정책 내용에 대한 이해YUMMI사회복지정책 과정에 대한 이해YUMMI사회복지정책 과정에 대한 이해YUMMI한국사회복지정책의 실태와 쟁점에 대한 이해YUMMI한국사회복지정책의 실태와 쟁점에 대한 이해YUMMI한국사회복지정책의 실태와 쟁점에 대한 이해YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "full_text": "사회복지정책론  1) 사회복지정책 개념 및 특성에 대한 이해\n 2) 사회복지정책의 역사 및 발달에 대한 이해\n 3) 사회복지정책의 내용 분석틀의 이해 및 적용 \n 4) 사회복지정책 형성 및 집행 과정에 대한 이론적 이해\n 5) 한국 사회복지정책의 실태와 이슈/쟁점",
+            "similarity": 0.48956974301601286
+        },
+        {
+            "id": 4968,
+            "name": "연금제도",
+            "description": "- 사회보장, 사회보험 및 노후소득보장 등에 대한 기초지식을 학습한다.\n- 해외 공.사연금제도, 공적연금의 재정추계 등에 대한 기본적인 내용을 학습한다.\n- 연금 관련 주요이슈에 대한 이해도를 높인다.",
+            "curriculum": "- 오리엔테이션\n- 사회보장의 이해YUMMI- 사회보장의 이해YUMMI- 사회보험제도YUMMI- 국민연금의 이해YUMMI- 다층소득보장제도\n\n\n- 해외공사연금제도YUMMI- 다층소득보장제도YUMMI- 공적연금의 재정추계\n\n- 국민연금 자격관리YUMMI- 중간고사YUMMI- 국민연금 급여YUMMI- 현장 수업YUMMI- 국민연금 심화학습YUMMI- 국민연금 심화학습YUMMI- 국민연금기금YUMMI- 사회보장협정\n- 국민연금공단 직원 채용안내YUMMI- 기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "full_text": "연금제도 - 사회보장, 사회보험 및 노후소득보장 등에 대한 기초지식을 학습한다.\n- 해외 공.사연금제도, 공적연금의 재정추계 등에 대한 기본적인 내용을 학습한다.\n- 연금 관련 주요이슈에 대한 이해도를 높인다.",
+            "similarity": 0.4465500073188948
+        },
+        {
+            "id": 4571,
+            "name": "비교사회복지론",
+            "description": "This course is taught in English, but students with limited English proficiency are welcome to take it. Students will learn theories on the concept, background, ideology, and development of the welfare state, as well as policy cases of the welfare state. In particular, students will learn new welfare state issues in the era of digital transformation.  \n이 수업은 영어과목이지만 영어가 부족해도 수강할 수 있습니다. 복지국가의 개념, 배경, 이념, 발달과정 등에 관한 이론들을 학습하고 복지국가의 정첵사례를 학습한다. 특히, 최근 디지털전환 시대를 맞아 새로운 복지국가 쟁점을 학습하도록 한다.  ",
+            "curriculum": "Comparative Welfare Theory OrientationYUMMIComparative Welfare State Theory Overview YUMMIIs it income security (cash benefits) or social services (in-kind benefits)?YUMMIResearch on the future of work and how to rebuild the \"social stateYUMMIThe Technological Revolution and the Future of Welfare State Reform: Back to Social Investment and Social ProtectionYUMMIIs a universal welfare state the future of South Korea?YUMMIIncome-led growth and welfare policyYUMMIMid-termYUMMIBasic incomeYUMMIthe example of basic incomeYUMMIThe South Korean welfare state and economic independence: The reality and challenges of de-familialization and familializationYUMMIThe nature of German childcare and parental leave policies:\nMale breadwinner model or dual-earner model?YUMMIDigital Transformation, Blockchain, and the Welfare State YUMMIIs South Korea a welfare state? YUMMIFinal assessmentYUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "full_text": "비교사회복지론 This course is taught in English, but students with limited English proficiency are welcome to take it. Students will learn theories on the concept, background, ideology, and development of the welfare state, as well as policy cases of the welfare state. In particular, students will learn new welfare state issues in the era of digital transformation.  \n이 수업은 영어과목이지만 영어가 부족해도 수강할 수 있습니다. 복지국가의 개념, 배경, 이념, 발달과정 등에 관한 이론들을 학습하고 복지국가의 정첵사례를 학습한다. 특히, 최근 디지털전환 시대를 맞아 새로운 복지국가 쟁점을 학습하도록 한다.  ",
+            "similarity": 0.42400251830466207
+        },
+        {
+            "id": 3146,
+            "name": "사회복지현장실습",
+            "description": "사회복지 현장 실습",
+            "curriculum": "오리엔테이션YUMMI사회복지 실천현장의 이해YUMMI사회복지 실천현장의 이해YUMMI사회복지 실천현장의 이해YUMMI사회복지 실천현장의 이해YUMMI사회복지 실천현장의 이해YUMMI사회복지 실천현장의 이해YUMMI사회복지 실천현장의 이해YUMMI사회복지 실천현장의 이해YUMMI사회복지 실천현장의 이해YUMMI사회복지 실천현장의 이해YUMMI사회복지 실천현장의 이해YUMMI사회복지 실천현장의 이해YUMMI사회복지 실천현장의 이해YUMMI사회복지 실천현장의 이해YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "full_text": "사회복지현장실습 사회복지 현장 실습",
+            "similarity": 0.4169054809478775
+        },
+        {
+            "id": 2300,
+            "name": "사회서비스정책론",
+            "description": "This course is taught in English, but students with limited English proficiency are welcome to take it. Students will learn theories on the concept, background, ideology, and development of the welfare state, as well as policy cases of the welfare state. In particular, students will learn new welfare state issues in the era of digital transformation.  \n이 수업은 영어과목이지만 영어가 부족해도 수강할 수 있습니다. 복지국가의 개념, 배경, 이념, 발달과정 등에 관한 이론들을 학습하고 복지국가의 정첵사례를 학습한다. 특히, 최근 디지털전환 시대를 맞아 새로운 복지국가 쟁점을 학습하도록 한다.  ",
+            "curriculum": "Social services Theory OrientationYUMMISocial services Theory Overview YUMMIIs it income security (cash benefits) or social services (in-kind benefits)?YUMMIResearch on the future of work and how to rebuild the \"social stateYUMMIThe Technological Revolution and the Future of Welfare State Reform: Back to Social Investment and Social ProtectionYUMMIIs a universal welfare state the future of South Korea?YUMMIIncome-led growth and welfare policyYUMMIMid-termYUMMIBasic servicesYUMMIthe example of basic incomeYUMMIThe South Korean welfare state and economic independence: The reality and challenges of de-familialization and familializationYUMMIThe nature of German childcare and parental leave policies:\nMale breadwinner model or dual-earner model?YUMMIDigital Transformation, Blockchain, and the Welfare State YUMMIIs South Korea a welfare state of social servies? YUMMIFinal assessmentYUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "full_text": "사회서비스정책론 This course is taught in English, but students with limited English proficiency are welcome to take it. Students will learn theories on the concept, background, ideology, and development of the welfare state, as well as policy cases of the welfare state. In particular, students will learn new welfare state issues in the era of digital transformation.  \n이 수업은 영어과목이지만 영어가 부족해도 수강할 수 있습니다. 복지국가의 개념, 배경, 이념, 발달과정 등에 관한 이론들을 학습하고 복지국가의 정첵사례를 학습한다. 특히, 최근 디지털전환 시대를 맞아 새로운 복지국가 쟁점을 학습하도록 한다.  ",
+            "similarity": 0.455813495574947
+        },
+        {
+            "id": 1096,
+            "name": "지방재정론",
+            "description": "자본주의 국가경제체제하에서 민간부문과 함께 국민경제를 책임지고 있는 국가는 매우 중요한 역할을 수행하고 있다. 특히 정부와 지방자치단체, 공기업, 사회보장제도 등 공공부문의 주요 재정적 활동이 국민경제에 미치는 영향은 날로 확대되고 있는 바, 그 기능과 역할에 대해 탐색하는 것은 공공부문을 연구하는 행정학도들에게는 매우 의미있는 논의라고 사료된다. 지방재정론은 지방의 재정에 대한 이론과 제도에 관한 것이다. 분권균형효율이 전제된 정부 간 재정플랫폼, 중앙정부의 과부하 등의 문제해결을 위해 지방재정에 대한 이해가 필요하며, 이를 위해 본 강좌에서는 재정위기로 이해되고 있는 지방재정에 대한 이론적 논의, 국가 및 지방 세입론, 정부간 재정조정제도, 중앙 및 지방재정관리제도, 예산 과정과 주민참여, 지방재정과 지역경제 등을 중심으로 강의를 진행함으로써 학생들의 지방재정에 대한 이해를 제고시키는데 강의의 목적을 두고자 한다.",
+            "curriculum": "강의 개요 소개YUMMI정부와 재정 YUMMI재정의 기본 구조 YUMMI재정의 기본 구조YUMMI국가 및 지방세입론YUMMI지방세입론(자체수입)YUMMI재정의 건전화 YUMMI중간고사 시행 및 지방재정 조정제도 이해YUMMI지방세입론(의존수입)YUMMI지방재정 조정제도YUMMI지방재정 조정제도YUMMI지방세출 및 지방재정관리제도YUMMI지방재정의 분석과 위기관리YUMMI지방공기업과 경영관리YUMMI기말고사 및 한국 지방재정 과제\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "full_text": "지방재정론 자본주의 국가경제체제하에서 민간부문과 함께 국민경제를 책임지고 있는 국가는 매우 중요한 역할을 수행하고 있다. 특히 정부와 지방자치단체, 공기업, 사회보장제도 등 공공부문의 주요 재정적 활동이 국민경제에 미치는 영향은 날로 확대되고 있는 바, 그 기능과 역할에 대해 탐색하는 것은 공공부문을 연구하는 행정학도들에게는 매우 의미있는 논의라고 사료된다. 지방재정론은 지방의 재정에 대한 이론과 제도에 관한 것이다. 분권균형효율이 전제된 정부 간 재정플랫폼, 중앙정부의 과부하 등의 문제해결을 위해 지방재정에 대한 이해가 필요하며, 이를 위해 본 강좌에서는 재정위기로 이해되고 있는 지방재정에 대한 이론적 논의, 국가 및 지방 세입론, 정부간 재정조정제도, 중앙 및 지방재정관리제도, 예산 과정과 주민참여, 지방재정과 지역경제 등을 중심으로 강의를 진행함으로써 학생들의 지방재정에 대한 이해를 제고시키는데 강의의 목적을 두고자 한다.",
+            "similarity": 0.43706312279410126
+        },
+        {
+            "id": 1998,
+            "name": "규제정책론",
+            "description": "합리적으로 만들어진 규제는 예측가능하고 안정적인 사회를 만드는데 기여하지만, 불합리한 규제는 비효율적일 뿐만 아니라 사회적 자원의 왜곡을 가져온다. 규제에 대해 점검하고 관리하는 활동은 좋은 사회를 만드는 전제가 된다. \n규제정책론에서는  좋은 사회를 만들기 위해 규제를  관리하는  방반을 학습하고자 한다. 이를 통해 행정학을 넘어 사회과학 전반에 대한  이해를 제고하고자 한다.",
+            "curriculum": "규제정책론에서는 무엇을 배울 것인가?YUMMI규제란 무엇인가YUMMI규제의 역사와 발달과정YUMMI규제관리의 개념과 근거YUMMI규제는 어떤 유형이 있는가?1YUMMI규제의 유향은 어떠한 것이 있는가?YUMMI규제관리체계는 어떤 것인가YUMMI중간고사YUMMI신설, 강화된  규제관리는 어떻게 할 것인가?YUMMI기존 규제관리는 어떻게 할 것인가?YUMMI규제 갈등을 어떻게 관리할 것인가?YUMMI규제관리의 발표 및 토론1YUMMI규제관리의 발표 및 토론2YUMMI규제관리의 발표 및 토론3YUMMI기말시험YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "full_text": "규제정책론 합리적으로 만들어진 규제는 예측가능하고 안정적인 사회를 만드는데 기여하지만, 불합리한 규제는 비효율적일 뿐만 아니라 사회적 자원의 왜곡을 가져온다. 규제에 대해 점검하고 관리하는 활동은 좋은 사회를 만드는 전제가 된다. \n규제정책론에서는  좋은 사회를 만들기 위해 규제를  관리하는  방반을 학습하고자 한다. 이를 통해 행정학을 넘어 사회과학 전반에 대한  이해를 제고하고자 한다.",
+            "similarity": 0.4149699496518908
+        },
+        {
+            "id": 957,
+            "name": "노인복지론",
+            "description": "본 과목은 노인들의 어제와 오늘 그리고 보다 나은 내을의 삶을 영위하는데 필요한 제반 여건과 방법들을 이해하는데 그 목표가 있습니다. 이를 위해 노화와 노인의 이해에 필요한 내용들, 현재의 노인들이 살아가고 있는 방식, 노인들의 욕구와 이들 욕구를 해결하기 위해 마련된 사회의 제반 제도와 정책들에 대해 학습을 합니다. 더 나아가 우리나라의 바람직한 노인복지 시스템 구축을 위해 서구 선진국가의 사례들을 검토 하면서 그 함의를 찾아보는 것도 중요한 수업목표 가운데 하나입니다. 이러한 수업목표 달성을 위해서는 사회복지 관련 기본과목들을 충분히 이해하여야 하며 외국의 사례를 접하기 위해 외국 문헌들에 대한 이해력을 갖추어야 합니다.",
+            "curriculum": "- 교수 및 학생 소개\n - 한 학기동안의 강의 내용/방법/교재/과제 등 소개 \n - gerontology, social gerontology\n - PIE Perspective on gerontological social work\n - Why studying aging?YUMMI- 인구변화와 노인문제\n\n - 노화와 노인문제에 대한 이론적 접근: \n\n    physiological & psychological contextYUMMI- 노인문제에 대한 이론적 접근: social contextYUMMI- 노인복지 정책 1\n\n   노인복지 정책의 개념, 관련법, 관련예산의 이해YUMMI- 노인복지 정책 2\n\n   소득보장정책: 필요성 및 제도YUMMI- 노인복지 정책 3\n\n  의료보장정책: 필요성 및 제도YUMMI- 노인복지 정책 4\n\n  장기요양보험제도: 필요성, 문제점, 개선방안, \n\n  외국의 사례 검토YUMMI중간고사YUMMI- 영화감상 및 토론\n\n - 노인복지 서비스 1\n\n  재가복지서비스 필요성, 종류, 내용, 문제 및 개선점YUMMI- 노인복지 서비스 2\n\n  시설보호서비스 필요성, 종류, 내용, 문제 및 개선점YUMMI- 노인의 신체 및 정신 건강(치매, 우울, 자살)YUMMI- 노인부양과 학대 \n\n  Informal care vs. institutional care, elder abuseYUMMI- 노인복지 실천의 실재\n\n   노인상담 및 통합사례관리\n\n - 기타 노인복지 관련 이슈모음YUMMI고령화사회에 따른 쟁점과 과제 1\nYUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "full_text": "노인복지론 본 과목은 노인들의 어제와 오늘 그리고 보다 나은 내을의 삶을 영위하는데 필요한 제반 여건과 방법들을 이해하는데 그 목표가 있습니다. 이를 위해 노화와 노인의 이해에 필요한 내용들, 현재의 노인들이 살아가고 있는 방식, 노인들의 욕구와 이들 욕구를 해결하기 위해 마련된 사회의 제반 제도와 정책들에 대해 학습을 합니다. 더 나아가 우리나라의 바람직한 노인복지 시스템 구축을 위해 서구 선진국가의 사례들을 검토 하면서 그 함의를 찾아보는 것도 중요한 수업목표 가운데 하나입니다. 이러한 수업목표 달성을 위해서는 사회복지 관련 기본과목들을 충분히 이해하여야 하며 외국의 사례를 접하기 위해 외국 문헌들에 대한 이해력을 갖추어야 합니다.",
+            "similarity": 0.411221255937866
+        },
+        {
+            "id": 2194,
+            "name": "과학기술정책론",
+            "description": "과학기술정책의 이론과 실제를 이해하는 전공교과과목으로 운영됨. 한국의 과학기술정책과  산업기술혁신에 대한 이론설명, 사례분석과 토론으로 진행함. \n기재부 경영평가단, 행안부 및 국무조정실, 소방청 등의 경영평가위원 등 다양한 정책성과평가 위원회 활동을 토대로 \n공기업 및 공공기관 취업을 준비하는 학생들을 위한 수업내용 구성을 통해, 연구기획 및 성과평가의 관점에서 자연스러운 발표와 논의가 되도록 진행됨.",
+            "curriculum": "강의 오리엔테이션YUMMIPost COVID-19 시대의 기업의 기회와 위기, 그리고 혁신YUMMI기업의 기술혁신과 자본YUMMI지역의 일자리와 기술혁신정책YUMMI디자인과 모빌리티의 미래전략YUMMI바이오 산업의 기술혁신과 정책YUMMI지속가능한 개발과 기술혁신을 위한 국제개발협력의 전략YUMMI정책환경 변화와 중소기업 정책YUMMI기술사업화의 개념과 주요사례YUMMI과학, 기술, 혁신, 그리고 정책YUMMI모빌리티 산업의 기술혁신YUMMI사례연구과제 (중간발표)YUMMI과학기술정책과 지역혁신YUMMI프리젠테이션: 사례발표(1)YUMMI프리젠테이션: 사례발표(2)YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "full_text": "과학기술정책론 과학기술정책의 이론과 실제를 이해하는 전공교과과목으로 운영됨. 한국의 과학기술정책과  산업기술혁신에 대한 이론설명, 사례분석과 토론으로 진행함. \n기재부 경영평가단, 행안부 및 국무조정실, 소방청 등의 경영평가위원 등 다양한 정책성과평가 위원회 활동을 토대로 \n공기업 및 공공기관 취업을 준비하는 학생들을 위한 수업내용 구성을 통해, 연구기획 및 성과평가의 관점에서 자연스러운 발표와 논의가 되도록 진행됨.",
+            "similarity": 0.4060837180327012
+        },
+        {
+            "id": 4557,
+            "name": "복지행정론",
+            "description": "1) 사회복지의 발달과 복지행정의 중요성을 이해하고 설명할 수 있다.\n2) 한국의 복지행정에 발전과정에 대해 파악하고 설명할 수 있다. \n3) 복지행정조직과 환경에 대한 이해를 통해 환경관리전략을 제시할 수 있다.\n4) 복지행정의 프로그램개발 방법을 습득하고 적용할 수 있다.                                                       \n5) 한국 복지행정의 혁신과제를 제시할 수 있다.",
+            "curriculum": "복지행정이란? - 사회복지와 행정의 관계 YUMMI사회복지의 시작YUMMI산업화와 사회복지의 발전YUMMI전후 복지국가의 발전과 새로운 복지국가YUMMI한국의 사회복지와 복지행정-1YUMMI한국의 사회복지와 복지행정-2YUMMI복지행정의 대상, 욕구, 급여, 재원YUMMI중간고사YUMMI복지행정의 환경관리와 전달체계YUMMI복지행정조직의 프로그램 개발YUMMI복지행정조직의 프로그램 평가 YUMMI지방자치단체의 사회복지프로그램 개발 - 방법과 실제 1YUMMI지방자치단체의 사회복지프로그램 개발 - 방법과 실제 2YUMMI지방자치단체의 사회복지프로그램 개발 - 방법과 실제 3YUMMI복지행정조직의 혁신과 복지행정의 과제/기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "full_text": "복지행정론 1) 사회복지의 발달과 복지행정의 중요성을 이해하고 설명할 수 있다.\n2) 한국의 복지행정에 발전과정에 대해 파악하고 설명할 수 있다. \n3) 복지행정조직과 환경에 대한 이해를 통해 환경관리전략을 제시할 수 있다.\n4) 복지행정의 프로그램개발 방법을 습득하고 적용할 수 있다.                                                       \n5) 한국 복지행정의 혁신과제를 제시할 수 있다.",
+            "similarity": 0.5038536428365545
+        },
+        {
+            "id": 3593,
+            "name": "사회복지법제와실천",
+            "description": "사회복지 실천현장에서 사회복지법을 이해하고, 사회적 약자들을 위한 각종 제도를 안내하여 혜택을 받도록 원조하며, 사회복지사로서 사회복지법에 대한 전문지식을 함양한다. ",
+            "curriculum": "오리엔테이션\n법에 대한 이해(개념과 이념)YUMMI사회복지 법에 대한 이해1YUMMI사회복지 법에 대한 이해2YUMMI사회복지 법에 대한 이해3YUMMI사회복지 법에 대한 이해4YUMMI사회복지 기본법률1YUMMI사회보험법1YUMMI중간고사YUMMI공공부조법1YUMMI공공부조법2YUMMI사회서비스법1YUMMI사회서비스법2YUMMI사회서비스법3YUMMI사회서비스법4YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "full_text": "사회복지법제와실천 사회복지 실천현장에서 사회복지법을 이해하고, 사회적 약자들을 위한 각종 제도를 안내하여 혜택을 받도록 원조하며, 사회복지사로서 사회복지법에 대한 전문지식을 함양한다. ",
+            "similarity": 0.47439196346674967
+        },
+        {
+            "id": 4353,
+            "name": "정책사례연구",
+            "description": "이 수업에서는 다양한 정책사례를 살펴보고 이를 바탕으로 이론을 접목하고  어떻게 연구 논문 및 보고서로 어떻게 발전시킬 수 있는지 살펴보는 시간이다. 이를 기반으로 장기적으로 그동안 배워온 정책학 및 행정학에서 배운 사례를 적용하는 것을 목표로 한다. ",
+            "curriculum": "강의소개와 개요, 정책학 및 행정학의 흐름을 이해하고 설명할 수 있다.YUMMI정책학 및 행정학의 흐름과 정책학의 위치  흐름을 이해하고 설명할 수 있다.YUMMI정책 참여자 및 환경 사례에 대해서 이해하고 설명할 수 있다.\nYUMMI정책 참여자 및 환경 사례에 대해서 이해하고 설명할 수 있다.\n\nYUMMI정책 형성 및 결정 사례에 대해서 이해하고 설명할 수 있다.\n\nYUMMI정책 형성 및 결정 사례에 대해서 이해하고 설명할 수 있다.\n\nYUMMI정책 형성 및 결정 사례 대해서 이해하고 설명할 수 있다.\n\nYUMMI중간고사YUMMI정책 집행 사례에 대해서 이해하고 설명할 수 있다.\n\nYUMMI정책 집행 사례에 대해서 이해하고 설명할 수 있다.\n\nYUMMI정책 집행 사례에 대해서 이해하고 설명할 수 있다.\nYUMMI정책 평가 및 개혁 사례에 대해서 이해하고 설명할 수 있다.\n\nYUMMI정책 평가 및 개혁 사례에 대해서 이해하고 설명할 수 있다.\nYUMMI정책학 및 사례 전반 및 기타에 대해서 정리하여 설명할 수 있다.YUMMI기말고사 및 종강 YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "full_text": "정책사례연구 이 수업에서는 다양한 정책사례를 살펴보고 이를 바탕으로 이론을 접목하고  어떻게 연구 논문 및 보고서로 어떻게 발전시킬 수 있는지 살펴보는 시간이다. 이를 기반으로 장기적으로 그동안 배워온 정책학 및 행정학에서 배운 사례를 적용하는 것을 목표로 한다. ",
+            "similarity": 0.44618868421025104
+        },
+        {
+            "id": 2601,
+            "name": "지역개발정책",
+            "description": "지역개발정책에 대한 기본적인 이론을 숙지하고 우리나라의 지역개발정책의 사례와 문제점을 연구하는 한편 급변하는 미래사회에 대비한 지역개발정책의 방향을 이해하고 정책대안을 제시할 수 있는 역량을 키운다.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+            "curriculum": "강의 소개 및 지역개발정책 개관\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI지역개발과 지역문제\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI공간흐름과 지역공간 구조\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI지역성장의 이론\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI우리나라의 국토개발정책의 전개\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI지역개발전략 01\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI지역개발전략 02\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI중간고사\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI지방재정 재정체계\t\t\t\t\t\t\t\t\t\t\t\t\t\nYUMMI지역개발과 민간자본\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI지역정책의 의의\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI지역정책과 갈등관리\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI기말 발표\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI지역개발의 전망과 방향 모색\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI기말고사\t\t\t\t\t\t\t\t\t\t\t\t\tYUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "full_text": "지역개발정책 지역개발정책에 대한 기본적인 이론을 숙지하고 우리나라의 지역개발정책의 사례와 문제점을 연구하는 한편 급변하는 미래사회에 대비한 지역개발정책의 방향을 이해하고 정책대안을 제시할 수 있는 역량을 키운다.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+            "similarity": 0.4181459631968591
+        },
+        {
+            "id": 3555,
+            "name": "사회복지와문화다양성",
+            "description": "-세계화 추세에 있는 다문화현상과 관련하여 다문화와 문화다양성에 대한 올바른 인식과 이해를 돕고자 함 \n-다문화사회에서 효과적인 사회복지 실천을 위한 기초마련을 위해 다문화에 대한 기본 개념과 이론을 학습하고, 자신의 인식과 편견을 성찰함으로써 다문화감수성과 문화적 역량을 증진하고자 함. ",
+            "curriculum": "강의 소개, 다문화에 대한 나의 인식 점검하기YUMMI문화다양성의 기반-인간, 사회 그리고 문화YUMMI차이와 차별 이해하YUMMI문화다양성개념YUMMI문화다양성 이해하기YUMMI문화적 역량과 사회복지실천YUMMI사회복지실천 현장을 통해 문화 역량 키우기1YUMMI사회복지실천 현장을 통해 문화 역량 키우기 2YUMMI중간시험YUMMI사회복지실천 현장을 통해 문화역량 키우기3YUMMI사회복지실천 현장을 통해 문화역량 키우기4YUMMI한국사회의 다문화 YUMMI다문화관련 정책과 법YUMMI발표YUMMI발표YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "full_text": "사회복지와문화다양성 -세계화 추세에 있는 다문화현상과 관련하여 다문화와 문화다양성에 대한 올바른 인식과 이해를 돕고자 함 \n-다문화사회에서 효과적인 사회복지 실천을 위한 기초마련을 위해 다문화에 대한 기본 개념과 이론을 학습하고, 자신의 인식과 편견을 성찰함으로써 다문화감수성과 문화적 역량을 증진하고자 함. ",
+            "similarity": 0.40841263933893174
+        }
+    ]
+}

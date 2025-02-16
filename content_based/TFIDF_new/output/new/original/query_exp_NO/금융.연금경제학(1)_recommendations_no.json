@@ -1,0 +1,24 @@
+{
+    "meta_info": {
+        "user_query": "금융 시장에서의 위험을 효과적으로 관리하는 것이 중요해지고 있습니다. 저는 금융 리스크 관리 및 금융 수학을 활용하여 보다 정교한 리스크 모델을 구축하고, 투자 결정을 돕는 연구를 하고 싶어요. 어떤 과정을 학습해야 할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "수학과",
+            "통계학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 2105,
+            "name": "보험수리학",
+            "description": "보험 및 금융산업에서 발생되는 위험을 평가하기 위하여 수학적 또는 통계적 방법론을 다룬다. 이와같이 보험에서 위험을 관리하기 위해 필요한 제반적인 내용을 준비한다. ",
+            "curriculum": " Chapter 1 ,  보험학 개요 YUMMIChapter 3 . 이자론(1)YUMMIChapter 3 . 이자론(2)YUMMIChapter 4. 생존분포와 생명표 YUMMIChapter 4. 생존분포와 생명표 YUMMIChapter 5. 생명보험 YUMMIChapter 5. 생명보험 YUMMI중간고사YUMMIChapter 6.  생명연금 YUMMIChapter 6.  생명연금 YUMMIChapter 7. 순보험료YUMMIChapter 7 .순보험료YUMMIChapter 8. 책임 준비금 YUMMIChapter 8. 책임 준비금 YUMMI기말고사 YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "보험수리학 보험 및 금융산업에서 발생되는 위험을 평가하기 위하여 수학적 또는 통계적 방법론을 다룬다. 이와같이 보험에서 위험을 관리하기 위해 필요한 제반적인 내용을 준비한다. ",
+            "similarity": 0.1388242270447027
+        }
+    ]
+}

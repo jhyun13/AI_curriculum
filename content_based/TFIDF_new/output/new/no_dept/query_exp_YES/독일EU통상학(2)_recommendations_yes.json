@@ -1,0 +1,154 @@
+{
+    "meta_info": {
+        "user_query": "독일과의 무역을 전문으로 하는 무역 전문가가 되어 한국 기업의 유럽 시장 진출을 돕고 싶어요. 어떤 과정이 필요할까요?",
+        "expanded_query": "독일과의 무역을 전문으로 하는 무역 전문가가 되어 한국 기업의 유럽 시장 진출을 돕고 싶어요. 어떤 과정이 필요할까요? 독일어 및 국제 무역 분야의 전문가가 되기 위한 학문적 지식과 실무 경험 획득 유럽, 특히 독일 시장에 한국 기업의 성공적인 진출을 지원하는 무역 전문가 국제 무역 및 비즈니스 무역 전문가 (Trade Specialist) 독일과의 무역을 전문으로 하여 한국 기업이 유럽 시장에 효과적으로 진출하도록 지원. 시장 분석, 전략 개발, 계약 협상 및 현지화 전략 제공. 유럽 시장, 특히 독일 시장에 대한 심층적인 조사 및 분석 국제 비즈니스 전략 수립 및 실행 한국 기업과 독일 파트너 간의 무역 관계 구축 및 관리 법규 및 문화적 차이를 고려한 무역 절차 조정 국제 시장 분석 및 전략 수립 무역 계약 및 협상 독일어 및 문화적 이해 국제 비즈니스 커뮤니케이션 및 협상 기술 시장 조사 및 데이터 분석 능력 국제 무역 이론 및 정책 경제학 기초 유럽 경제 및 법규 독일 문화 및 언어 무역 절차 및 물류 관리 국제 계약법 및 상관습",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.3084643204484601
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.14199067163843337
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.12612007573818307
+        },
+        {
+            "id": 4171,
+            "name": "재정학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.10484229056166387
+        },
+        {
+            "id": 2423,
+            "name": "산업조직론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.17260815612261338
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.17122637552540557
+        },
+        {
+            "id": 841,
+            "name": "한일무역실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.13508924917100265
+        },
+        {
+            "id": 430,
+            "name": "국제운송·보험론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.11307624011555391
+        },
+        {
+            "id": 47,
+            "name": "고전시가론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "국어국문학과",
+            "similarity": 0.1097853013485516
+        },
+        {
+            "id": 4371,
+            "name": "유럽현대예술과문화",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.14346733405752893
+        },
+        {
+            "id": 4305,
+            "name": "독일드라마의이해",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "독일학과",
+            "similarity": 0.10096925533997718
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.26091676776257955
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.1434982798609177
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4184082779864612
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.38657423689327514
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.14953044338772392
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1443258533113456
+        },
+        {
+            "id": 3874,
+            "name": "식품산업조직론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.12335896598635511
+        }
+    ]
+}

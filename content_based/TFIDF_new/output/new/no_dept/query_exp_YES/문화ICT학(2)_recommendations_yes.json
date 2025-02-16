@@ -1,0 +1,274 @@
+{
+    "meta_info": {
+        "user_query": "문헌 데이터베이스를 구축하고 한국 문헌을 디지털화하는 프로젝트를 수행하고 싶어요. 관련된 기술과 학습 과정은 무엇인가요?",
+        "expanded_query": "문헌 데이터베이스를 구축하고 한국 문헌을 디지털화하는 프로젝트를 수행하고 싶어요. 관련된 기술과 학습 과정은 무엇인가요? 디지털 도서관 기술 및 데이터베이스 구축 능력 습득 문헌 정보 및 데이터 관리 정보 관리 및 데이터 과학 디지털 아카이브 전문가 디지털 아카이브 전문가는 문헌 자료를 수집, 보존 및 관리하며, 디지털 형식으로 변환하여 데이터베이스를 구축하는 업무를 수행합니다. 한국 문헌의 수집과 디지털화를 통해 자료의 접근성을 높이고 정보를 보존합니다. 문헌 자료의 평가 및 선정 디지털화 워크플로우 설계 및 관리 데이터베이스 설계 및 구현 데이터 품질 관리 및 접근성 최적화 디지털 자료의 지속적인 유지보수 및 보존 전략 수립 문헌 디지털화 기술 데이터베이스 설계 및 관리 디지털 보존 기술 데이터베이스 관리 시스템(DBMS) 활용능력 데이터 변환 및 관리 기술 디지털 데이터 품질 관리 정보 관리 이론 데이터베이스 시스템 기본 원리 디지털 콘텐츠 관리 및 보존 전략 디지털화 프로세스 및 기술 SQL 및 NoSQL 데이터베이스 운영 최신 디지털화 도구 및 소프트웨어 사용 프로젝트 관리 기술 및 방법론",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3479,
+            "name": "디지털논리공학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.20298286636430554
+        },
+        {
+            "id": 3196,
+            "name": "디지털논리공학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "전기공학과",
+            "similarity": 0.20208748018161327
+        },
+        {
+            "id": 2581,
+            "name": "동물실험통계학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "동물자원과학과",
+            "similarity": 0.12851443862331463
+        },
+        {
+            "id": 4287,
+            "name": "디지털농업기계개론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.12391537860850119
+        },
+        {
+            "id": 1604,
+            "name": "디지털공학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.1819302050315614
+        },
+        {
+            "id": 1886,
+            "name": "미디어와대중문화",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.17195813571270585
+        },
+        {
+            "id": 2299,
+            "name": "디지털공학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "반도체과학기술학과",
+            "similarity": 0.16813812520158014
+        },
+        {
+            "id": 1554,
+            "name": "논리설계",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.1657891539981914
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.15958012858051288
+        },
+        {
+            "id": 3401,
+            "name": "데이터베이스론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.31866341125222836
+        },
+        {
+            "id": 4811,
+            "name": "특용수재배학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "산림환경과학과",
+            "similarity": 0.2435383084985797
+        },
+        {
+            "id": 4547,
+            "name": "디지털스토리텔링과데이터시각화",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.22790371012636895
+        },
+        {
+            "id": 4505,
+            "name": "데이터베이스",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.2255693138414244
+        },
+        {
+            "id": 3749,
+            "name": "응용소프트웨어개발",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.13510818237062555
+        },
+        {
+            "id": 1183,
+            "name": "데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.3641229161198682
+        },
+        {
+            "id": 2044,
+            "name": "데이터베이스및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.2949150105315263
+        },
+        {
+            "id": 1786,
+            "name": "디지털도서관론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.27531870649703294
+        },
+        {
+            "id": 1833,
+            "name": "경관재료및시공",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생태조경디자인학과",
+            "similarity": 0.2023451033872505
+        },
+        {
+            "id": 1450,
+            "name": "데이터베이스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.18132480915840593
+        },
+        {
+            "id": 4654,
+            "name": "디지털도서관기술과실제",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.2626865413030913
+        },
+        {
+            "id": 2819,
+            "name": "소프트웨어공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.238942793979528
+        },
+        {
+            "id": 3812,
+            "name": "영유아디지털리터러시",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "아동학과",
+            "similarity": 0.22956228790183578
+        },
+        {
+            "id": 3702,
+            "name": "디지털시스템설계",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.16587294386541687
+        },
+        {
+            "id": 4434,
+            "name": "디지털미디어리터러시",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.14966897904351056
+        },
+        {
+            "id": 53,
+            "name": "데이터베이스시스템설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.21690271615279846
+        },
+        {
+            "id": 1435,
+            "name": "식사요법및실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "식품영양학과",
+            "similarity": 0.20421557784564753
+        },
+        {
+            "id": 1417,
+            "name": "출판저작권의이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "문헌정보학과",
+            "similarity": 0.1707536788789467
+        },
+        {
+            "id": 1080,
+            "name": "서식처관리및응용계획학",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "생태조경디자인학과",
+            "similarity": 0.1550349170267322
+        },
+        {
+            "id": 1899,
+            "name": "운영체제",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.13470689017691317
+        },
+        {
+            "id": 3832,
+            "name": "의약품품질관리학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "한약자원학과",
+            "similarity": 0.21424478509833594
+        },
+        {
+            "id": 2783,
+            "name": "일반버섯학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "농생물학과",
+            "similarity": 0.11652931155849308
+        },
+        {
+            "id": 3316,
+            "name": "제자백가문선독",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "중어중문학과",
+            "similarity": 0.11247645905468512
+        },
+        {
+            "id": 4528,
+            "name": "농산물안전성",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "생물환경화학과",
+            "similarity": 0.10925090836271491
+        }
+    ]
+}

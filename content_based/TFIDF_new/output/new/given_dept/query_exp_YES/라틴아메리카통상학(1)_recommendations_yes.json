@@ -1,0 +1,134 @@
+{
+    "meta_info": {
+        "user_query": "스페인어 기반의 경제 데이터를 분석하고, 국제 무역 정책과 금융 전략을 연구하여 기업과 국가가 최적의 경제 결정을 내릴 수 있도록 하려면 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "스페인어 기반의 경제 데이터를 분석하고, 국제 무역 정책과 금융 전략을 연구하여 기업과 국가가 최적의 경제 결정을 내릴 수 있도록 하려면 어떤 학습 과정이 필요할까요? 스페인어 기반 경제 데이터 분석 능력과 국제 경제 및 금융 전략에 대한 깊이 있는 이해. 경제 및 금융 분석 전문가로서 기업과 국가의 경제 의사결정 지원. 경제 분석 및 국제 금융. 국제 경제 분석가 국제 경제 분석가는 글로벌 경제 데이터와 무역 정책, 금융 전략을 분석하여 기업과 정부의 경제적 의사 결정을 지원한다. 스페인어로 작성된 경제 및 금융 자료 해석 국제 무역 정책 및 금융 전략 연구 스페인어 언어 능력 국제 금융 및 무역 정책 이해 경제 연구 및 보고서 작성 능력 향후 경제적 추세 예측 능력 경제학 기초 이론 (거시경제학, 미시경제학) 스페인어 언어와 문법 국제 무역 및 금융 이론 글로벌 경제 보고서 작성 및 프레젠테이션 능력",
+        "given_departments": [
+            "스페인.중남미학과",
+            "무역학과"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "description": "본 과목은 무역 실무에 대한 기초적이고 포괄적인 내용을 학습하여, 무역 실무를 처음 학습하는 학생들에게  무역 실무에 대한 전반적인 내용을 이해하도록 한다. 이러한 수업목표를 위해 무역계약, 무역관련서류, 무역의 흐름, 무역관련 법규 등에 대하여 사례를 기반으로 학습하고자 한다.",
+            "curriculum": "무역실무 기초YUMMI무역관리제도YUMMI무역계약의 체결 1YUMMI무역계약의 체결 2YUMMI정형거래조건YUMMI무역계약의 기본조건 1YUMMI무역계약의 기본조건 2YUMMI※ 중간고사\n신용장 1YUMMI신용장 2YUMMI수출물품의 확보\n국제운송 1YUMMI국제운송 2YUMMI수출통관절차 및 수출대금회수YUMMI수입대금결제 및 수입통관절차YUMMI무역계약위반에 대한 구제권YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "무역상무론 본 과목은 무역 실무에 대한 기초적이고 포괄적인 내용을 학습하여, 무역 실무를 처음 학습하는 학생들에게  무역 실무에 대한 전반적인 내용을 이해하도록 한다. 이러한 수업목표를 위해 무역계약, 무역관련서류, 무역의 흐름, 무역관련 법규 등에 대하여 사례를 기반으로 학습하고자 한다.",
+            "similarity": 0.13072710560318831
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "description": "이제 현대사회에서 머신러닝과 빅데이터에 대한 이해는 사회과학을 공부하는 학생들이 필수적으로 가져야 하는 지식임에 틀림없다. 이 수업은 그에 대한 기초지식을 습득하기 위해 무역, 금융, 경제등 사회과학 분야에서 널리 쓰이는 계량분석론을 이해하는 데 목표를 하고 있다. ",
+            "curriculum": "Basic Concepts for Statistics and Linear Algebra\nYUMMIClassical Linear Models and Ordinary Least Squares Estimation \nYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIHypothesis TestingYUMMI중간고사\nYUMMIHypothesis TestingYUMMIModel SpecificationYUMMIModel SpecificationYUMMIDummy Variables\nYUMMIGeneralized Least Squares\nYUMMIForecastingYUMMI기말고사\nYUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역계량분석론 이제 현대사회에서 머신러닝과 빅데이터에 대한 이해는 사회과학을 공부하는 학생들이 필수적으로 가져야 하는 지식임에 틀림없다. 이 수업은 그에 대한 기초지식을 습득하기 위해 무역, 금융, 경제등 사회과학 분야에서 널리 쓰이는 계량분석론을 이해하는 데 목표를 하고 있다. ",
+            "similarity": 0.18373393557348533
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "description": "- 세계경제의 글로벌화에 따른 기업들의 자금조달과 운용도 국내금융시장 이외 글로벌 금융시장에서 활발하게 이루어 지고 있어 국제금융시장의 역할과 기능에 관한 지식을 터득함\n- 자본시장, 채권시장 등  국제금융시장의 기능과 특성에 대한 이해를 바탕으로 글로벌 기업들의 자금차입과 운용과 관련하여 금융상품과 기법을 터득하여 국제 재무관리 실무자로서 기본 역할을 수행할 수 있는 지식을 함양함\n- 대외 결제수단인 외환거래와 연관된 환위험 개념과 환율결정에 관한 이론 등 외환시장의 기능과 특성 등 무역거래에 따른 결제, 송금 등 외국환 관리에 대한 내용을 이해한다",
+            "curriculum": "ch11. International Financing and Natioanl Capital Markets(국제금융과 자본시장의 특성)YUMMIch 12. The Euromarkets(유로금융시장: 유로본드 발행 및 유통시장)YUMMIch3. The International Monetary System(국제통화제도)YUMMIch5. The Balance of Payments and International Economic linkages(국제경상수지의 개념과 자금흐름)YUMMIch6. The Foreign Exchange Market(외환시장의 특성)YUMMIch8. Currency, Interest Rate, and Credit Derivatives and Swaps(이자율 스왑, 통화스왑, 구조화 파생상품)YUMMI 중간고사YUMMIch9. Measuring and Managing Translation and Transaction Exposure( 거래적 환위험, 환산적 환위험 측정 등)YUMMIch10. Measuring and Managing Economic Exposure(경제적 환위험의 개념과 관리)YUMMIch11. International Financing and National Capital Markets(국제금융시장과 국내자본시장)YUMMIch12. International Portfolio Management(국제포트폴리오 투자 및 관리)YUMMIch15. The Cost of Capital for Foreign Investments(해외투자 자본비용 개념과 측정)YUMMIch17. Capital Budgeting for the Multinational Corporation(다국적기업의 자본예산 배정관리),YUMMIch 18. Managing the International Capital Markets of Multinational Corporations(다국적기업의 자금관리 전략 등)YUMMI기말시험 평가YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제재무론 - 세계경제의 글로벌화에 따른 기업들의 자금조달과 운용도 국내금융시장 이외 글로벌 금융시장에서 활발하게 이루어 지고 있어 국제금융시장의 역할과 기능에 관한 지식을 터득함\n- 자본시장, 채권시장 등  국제금융시장의 기능과 특성에 대한 이해를 바탕으로 글로벌 기업들의 자금차입과 운용과 관련하여 금융상품과 기법을 터득하여 국제 재무관리 실무자로서 기본 역할을 수행할 수 있는 지식을 함양함\n- 대외 결제수단인 외환거래와 연관된 환위험 개념과 환율결정에 관한 이론 등 외환시장의 기능과 특성 등 무역거래에 따른 결제, 송금 등 외국환 관리에 대한 내용을 이해한다",
+            "similarity": 0.11900004239581992
+        },
+        {
+            "id": 1536,
+            "name": "스페인어의이해 1",
+            "description": "본 수업은 중급 수준의 스페인어 문법 지식을 갖춘 수강생을 대상으로 스페인어 문법의 주요 항목을 보다 심층적으로 살펴보는 것을 목적으로 합니다. 본 수업의 진행 방식은 주요 스페인어 문법 항목에 대해 살펴보고 다양한 예문을 분석합니다. 이후 해당 항목 문법 연습 문제를 함께 풀어보며 관련 지식을 강화합니다.",
+            "curriculum": "ARTÍCULOS\nYUMMIPRONOMBRES PERSONALES\nYUMMIINTERROGATIVOSYUMMISER y ESTARYUMMIPRESENTE DE INDICATIVO\nYUMMIDURACIÓNYUMMIPRETÉRITO IMPERFECTO Y INDEFINIDO DE INDICATIVO\nYUMMI중간고사YUMMIFUTURO DE INDICATIVO\nYUMMICONDICIONAL DE INDICATIVO\nYUMMISUBJUNTIVOYUMMIPRETÉRITO IMPERFECTO DE SUBJUNTIVOYUMMIPRETÉRITO PERFECTO DE SUBJUNTIVO  YUMMIPRETÉRITO PLUSCUAMPERFECTO DE SUBJUNTIVOYUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "full_text": "스페인어의이해 1 본 수업은 중급 수준의 스페인어 문법 지식을 갖춘 수강생을 대상으로 스페인어 문법의 주요 항목을 보다 심층적으로 살펴보는 것을 목적으로 합니다. 본 수업의 진행 방식은 주요 스페인어 문법 항목에 대해 살펴보고 다양한 예문을 분석합니다. 이후 해당 항목 문법 연습 문제를 함께 풀어보며 관련 지식을 강화합니다.",
+            "similarity": 0.10694437449648128
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "description": "- 국제적인 비즈니스 환경에서의 도전에 대한 이해\n- 글로벌 시장에서의 기회를 효과적으로 활용하는 능력 강화\n- 문화적 다양성을 고려한 효과적인 국제마케팅 전략 수립 능력 향상\n- 글로벌 브랜딩과 가격 책정에 대한 전문 지식 습득",
+            "curriculum": "-오리엔테이션\n-기업의 글로벌화와 글로벌마케팅의 개념YUMMI-글로벌마케팅 환경YUMMI글로벌 마케팅조사\nYUMMI-글로벌 시장세분화전략\n-사례연구YUMMI-글로벌 표적시장선정과 포지셔닝전략\n-사례연구YUMMI-글로벌 시장진입전략\n-사례연구YUMMI-글로벌마케팅 믹스전략의 개념적 기초\n-사례연구YUMMI중간시험 YUMMI-글로벌 제품전략, 가격전략\n-사례연구YUMMI-글로벌 유통전략, 촉진전략                       -사례연구YUMMI- 전시마케팅                                            -사례연구YUMMI-글로벌마케팅 관리\n-사례연구YUMMI-글로벌마케팅의 조직\n-사례연구YUMMI- 디지털 시대의 국제마케팅                 ---사례연구YUMMI기말시험 YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "full_text": "국제마케팅 - 국제적인 비즈니스 환경에서의 도전에 대한 이해\n- 글로벌 시장에서의 기회를 효과적으로 활용하는 능력 강화\n- 문화적 다양성을 고려한 효과적인 국제마케팅 전략 수립 능력 향상\n- 글로벌 브랜딩과 가격 책정에 대한 전문 지식 습득",
+            "similarity": 0.10387575606394395
+        },
+        {
+            "id": 3220,
+            "name": "동남아무역실무론",
+            "description": "본과목은 동남아 지역의 정치, 경제, 사회, 역사, 문화, 예술, 문학, 언어 등 제반 분야에 대하여 학습한다. 특히, 이들 지역의 상거래 관습을 학습하여 향후 이들 국가에 진출하였을 때 알아야 할 지식과 무역을 행할때 주의할 점등을 미리 학습하는 것이 이 과목의 목표이다. ",
+            "curriculum": "동남아시아 입문YUMMI동남아시아의 역사, 종교 YUMMI동남아시아의 사회, 경제YUMMI동남아시아의 무역상관습 1YUMMI동남아시아의 무역상관습 2YUMMI동남아시아의 무역상관습 3YUMMI중간고사YUMMI베트남 지역연구-베트남의 정치, 경제, 문화 및 상거래 관습YUMMI말레이지아 지역연구-베트남의 정치, 경제, 문화 및 상거래 관습YUMMI태국 지역연구-베트남의 정치, 경제, 문화 및 상거래 관습YUMMI인도네시아 지역연구-베트남의 정치, 경제, 문화 및 상거래 관습YUMMI필리핀 지역연구-베트남의 정치, 경제, 문화 및 상거래 관습YUMMI캄보디아 지역연구-베트남의 정치, 경제, 문화 및 상거래 관습YUMMI라오스, 미얀마 지역연구-베트남의 정치, 경제, 문화 및 상거래 관습YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "동남아무역실무론 본과목은 동남아 지역의 정치, 경제, 사회, 역사, 문화, 예술, 문학, 언어 등 제반 분야에 대하여 학습한다. 특히, 이들 지역의 상거래 관습을 학습하여 향후 이들 국가에 진출하였을 때 알아야 할 지식과 무역을 행할때 주의할 점등을 미리 학습하는 것이 이 과목의 목표이다. ",
+            "similarity": 0.10840902601807437
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "description": "21세기 중남미 국가에서 관찰되는 무역·통상의 특성, 역내 주요국이 당면하고 있는 무역·통상 현안, 그리고 이에 대한 각국의 정책적 대응을 살펴보고자 합니다. 수업 진행 과정에서는 무역·통상에 관한 기초적인 이론을 소개할 것입니다. 또한, 실습을 통해 무역‧투자 관련 원자료를 수집하고, 수집한 자료를 목적에 맞게 가공하며, 가공된 자료에 대한 기초적인 분석을 수행할 수 있는 능력을 배양하고자 합니다. 전공과 학년에 관계없이 누구나 수강할 수 있고, 중남미, 무역·통상, 데이터 등에 관한 사전지식이나 선수과목을 요구하지 않습니다.\n\n강의 슬라이드, 토론, 데이터 실습을 기반으로 탄력적으로 수업을 진행합니다. 주요 교재는 존재하지 않습니다. 평가는 절대평가 방식으로 이루어지며, 기말고사(40%)와 과제물 제출(40%)이 대부분을 차지합니다. 기말고사와 과제물의 구성 또는 방식에 대해 학생-교수 간 조율이 일부 가능합니다.",
+            "curriculum": "수업 소개YUMMI세계 무역·통상 환경 변화와 중남미 국가의 무역·통상정책 IYUMMI세계 무역·통상 환경 변화와 중남미 국가의 무역·통상정책 IIYUMMI단순한 무역 이론과 중남미 국가에의 적용 IYUMMI단순한 무역 이론과 중남미 국가에의 적용 IIYUMMI중남미 국가의 상품·서비스무역 및 투자 흐름의 특성과 쟁점 IYUMMI중남미 국가의 상품·서비스무역 및 투자 흐름의 특성과 쟁점 IIYUMMI중남미 국가의 상품·서비스무역 및 투자 흐름의 특성과 쟁점 IIIYUMMI글로벌 가치사슬과 중남미 IYUMMI글로벌 가치사슬과 중남미 IIYUMMI중남미 국가의 특혜무역협정과 산업정책 IYUMMI중남미 국가의 특혜무역협정과 산업정책 IIYUMMI과제물YUMMI과제물YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "full_text": "중남미무역과통상 21세기 중남미 국가에서 관찰되는 무역·통상의 특성, 역내 주요국이 당면하고 있는 무역·통상 현안, 그리고 이에 대한 각국의 정책적 대응을 살펴보고자 합니다. 수업 진행 과정에서는 무역·통상에 관한 기초적인 이론을 소개할 것입니다. 또한, 실습을 통해 무역‧투자 관련 원자료를 수집하고, 수집한 자료를 목적에 맞게 가공하며, 가공된 자료에 대한 기초적인 분석을 수행할 수 있는 능력을 배양하고자 합니다. 전공과 학년에 관계없이 누구나 수강할 수 있고, 중남미, 무역·통상, 데이터 등에 관한 사전지식이나 선수과목을 요구하지 않습니다.\n\n강의 슬라이드, 토론, 데이터 실습을 기반으로 탄력적으로 수업을 진행합니다. 주요 교재는 존재하지 않습니다. 평가는 절대평가 방식으로 이루어지며, 기말고사(40%)와 과제물 제출(40%)이 대부분을 차지합니다. 기말고사와 과제물의 구성 또는 방식에 대해 학생-교수 간 조율이 일부 가능합니다.",
+            "similarity": 0.12449516967041453
+        },
+        {
+            "id": 1070,
+            "name": "남미의이해",
+            "description": "남미 국가의 정치‧경제‧사회를 둘러싼 주요 현안에 대한 기초적인 이해를 배양하는 것을 목표합니다. 수업 진행 과정에서는 다양한 정치‧경제‧사회 문제를 접근할 때 활용할 수 있는 기초적인 이론을 알아보고, 현안 분석에 요구되는 체계적 사고 능력을 함께 기르고자 합니다. 전공과 학년에 관계없이 누구나 수강할 수 있고, 사전지식이나 선수과목을 요구하지 않습니다.\n\n강의 슬라이드와 토론을 기반으로 탄력적으로 수업을 진행합니다. 주요 교재는 존재하지 않습니다. 평가는 절대평가 방식으로 이루어지며, 기말고사(40%)와 과제물 제출(40%)이 대부분을 차지합니다. 기말고사와 과제물의 구성 또는 방식에 대해 학생-교수 간 조율이 일부 가능합니다.",
+            "curriculum": "수업 소개YUMMI천연자원과 식민시대YUMMI천연자원과 현대사회YUMMI빈곤, 불평등, 사회정책 IYUMMI빈곤, 불평등, 사회정책 IIYUMMI민주주의의 이행, 과제, 후퇴 IYUMMI민주주의의 이행, 과제, 후퇴 IIYUMMI포퓰리즘의 부상과 지속 IYUMMI포퓰리즘의 부상과 지속 IIYUMMI미국-중국-남미 트라이앵글 IYUMMI미국-중국-남미 트라이앵글 IIYUMMI과제물YUMMI과제물YUMMI과제물YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "full_text": "남미의이해 남미 국가의 정치‧경제‧사회를 둘러싼 주요 현안에 대한 기초적인 이해를 배양하는 것을 목표합니다. 수업 진행 과정에서는 다양한 정치‧경제‧사회 문제를 접근할 때 활용할 수 있는 기초적인 이론을 알아보고, 현안 분석에 요구되는 체계적 사고 능력을 함께 기르고자 합니다. 전공과 학년에 관계없이 누구나 수강할 수 있고, 사전지식이나 선수과목을 요구하지 않습니다.\n\n강의 슬라이드와 토론을 기반으로 탄력적으로 수업을 진행합니다. 주요 교재는 존재하지 않습니다. 평가는 절대평가 방식으로 이루어지며, 기말고사(40%)와 과제물 제출(40%)이 대부분을 차지합니다. 기말고사와 과제물의 구성 또는 방식에 대해 학생-교수 간 조율이 일부 가능합니다.",
+            "similarity": 0.11691599175491355
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "description": "국제 무역 및 투자가 증가함에 따라서 관련 분쟁도 증가하고 있다. 따라서 본 과정에서는 무역클레임의 유형, 발생원인, 예방책, 그리고 해결방법 등을 사례를 증심으로 학습한다. 특히 국제 무역 및 투자 분쟁의 해결방식으로 많이 이용되고 있는 상사중재에 대해 보다 심도있게 학습한다.",
+            "curriculum": "무역클레임의 전반적인 사항에 대해 이해함.YUMMI무역클레임의 전반적인 사항에 대해 이해함, 무역분쟁 해결 방법에 대해 이해함.YUMMI무역분쟁 해결방법에 대해 이해함.(계속) 중재합의에 대해 이해함.YUMMI중재합의에 대해 이해함.(계속)YUMMI중재판정부에 대해 이해함YUMMI중재절차에 대해 이해함.YUMMI중재판정에 대해 이해함YUMMI중재판정 취소제도에 대해 이해함.YUMMI중재판정 승인 및 집행제도에 대해 이해함.YUMMI평가YUMMI중재판정 사례 발표YUMMI중재판정 사례 발표YUMMI중재판정 사례 발표YUMMI중재판정 사례 발표YUMMI중재판정 사례 발표YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역클레임해결론 국제 무역 및 투자가 증가함에 따라서 관련 분쟁도 증가하고 있다. 따라서 본 과정에서는 무역클레임의 유형, 발생원인, 예방책, 그리고 해결방법 등을 사례를 증심으로 학습한다. 특히 국제 무역 및 투자 분쟁의 해결방식으로 많이 이용되고 있는 상사중재에 대해 보다 심도있게 학습한다.",
+            "similarity": 0.301579207795065
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "description": "한국의 경제성장과 무역의 상관관계, 한국 무역의 역사, 한국 정부의 무역 및 산업 정책 변화 과정, 한국 무역 관련 주요 기관 및 기능, 한국 무역 관련 주요 법률 고찰 및 한국 무역에 영향을 미치는 글로벌 무역 환경과 최근 주요 이슈 등을 분석 연구하여 궁극적으로 한국 및 세계 무역 환경과 그에 관련된 주요 이슈에 대한 분석 연구 능력을 제고코자 함 ",
+            "curriculum": "한국 무역학 연구 강좌 소개YUMMI무역의 개념 및 추세YUMMI경제성장과 무역의 상관관계YUMMI한국 경제와 한국 무역의 성장과정YUMMI최근 10년간 한국 무역의 특징 변화YUMMI한국의 무역관리 시스템YUMMI세계 경제 및 글로벌 무역의 이해YUMMI중간고사YUMMI글로벌 무역 운송 루트YUMMIWTO와 한국 무역YUMMIFTA와 한국 무역YUMMIFDI와 한국 무역YUMMI한국의 주요 수출시장 이해 I - 팀프로젝트YUMMI한국의 주요 수출시장 이해 II - 팀프로젝트YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "한국무역론 한국의 경제성장과 무역의 상관관계, 한국 무역의 역사, 한국 정부의 무역 및 산업 정책 변화 과정, 한국 무역 관련 주요 기관 및 기능, 한국 무역 관련 주요 법률 고찰 및 한국 무역에 영향을 미치는 글로벌 무역 환경과 최근 주요 이슈 등을 분석 연구하여 궁극적으로 한국 및 세계 무역 환경과 그에 관련된 주요 이슈에 대한 분석 연구 능력을 제고코자 함 ",
+            "similarity": 0.18063905720271303
+        },
+        {
+            "id": 3342,
+            "name": "중국무역투자론",
+            "description": "세계 정치 및 경제 무대에서의 위상이 급상승하고 있는 중국의 통상환경에 대한 기본개념을 파악하기 위하여 중국의 대외개방정책의 성립 및 전개과정, 통상정책의 변화와 한중무역, 대중국 직접투자 등의 고찰을 통한 중국통상에 관한 이해증진을 목표로 한다.",
+            "curriculum": "중국개황YUMMI중국과 중국인 1 : 중국민족YUMMI중국과 중국인 2 : 중국의 소비시장YUMMI중국의 대외개방경제체제 성립YUMMI중국의 대외개방정책 전개과정YUMMI중국의 통상정책YUMMI중국의 WTO가입과 통상정책의 변화YUMMI중간고사YUMMI중국의 대외무역구조의 변화YUMMI한중 경제관계의 변화YUMMI중국의 외자유치정책과 중국기업의 해외진출 1YUMMI중국의 외자유치정책과 중국기업의 해외진출 2YUMMI글로벌기업의 대중국투자YUMMI한국기업의 대중국 권역별 진출전략YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "중국무역투자론 세계 정치 및 경제 무대에서의 위상이 급상승하고 있는 중국의 통상환경에 대한 기본개념을 파악하기 위하여 중국의 대외개방정책의 성립 및 전개과정, 통상정책의 변화와 한중무역, 대중국 직접투자 등의 고찰을 통한 중국통상에 관한 이해증진을 목표로 한다.",
+            "similarity": 0.12729614666148917
+        }
+    ]
+}

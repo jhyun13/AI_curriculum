@@ -1,0 +1,138 @@
+{
+    "meta_info": {
+        "user_query": "프랑스어권 국가들과의 무역을 효과적으로 수행하기 위해 필요한 경제 개념과 프랑스어를 배우고 싶어요. 이를 위해 어떤 과목을 중심으로 학습해야 할까요?",
+        "expanded_query": " 프랑스어권 국가들과의 무역을 효과적으로 수행하기 위해 필요한 경제 개념과 프랑스어를 배우고 싶어요. 이를 위해 어떤 과목을 중심으로 학습해야 할까요? 프랑스어와 경제 학문 숙달 프랑스어권 국가들과의 무역 업무 수행 국제 비즈니스 및 무역  국제 무역 전문가 국제 무역 전문가는 다양한 국가와의 무역 거래를 효과적으로 관리하며, 언어와 경제적 지식을 활용하여 무역 협상, 계약 관리, 시장 분석 등을 수행한다. 프랑스어권 국가의 시장 조사 및 분석 무역 협상 및 계약 체결 경제적 리스크 관리 사업 확장을 위한 전략 수립 프랑스어 숙달 경제 이론 및 국제 무역 기초 문화적 이해 및 소통 분석 및 문제 해결 능력 미시경제학/거시경제학 국제 경제학 국제 무역 법규 무역 협상 및 전략 시장 분석 도구 사용법 프랑스어 비즈니스 커뮤니케이션 ",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.3888014815236922
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.14508228391017985
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.16410521050487936
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10143143956920497
+        },
+        {
+            "id": 841,
+            "name": "한일무역실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.19401110351190348
+        },
+        {
+            "id": 430,
+            "name": "국제운송·보험론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.14811949167247024
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.1394473144432702
+        },
+        {
+            "id": 2423,
+            "name": "산업조직론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.11426706793635981
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.1423414883823088
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.11782162929399659
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10463414452135882
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.32919186209726836
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.16844350200724256
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.5005922672384255
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.38769429672363753
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.1635697060122644
+        }
+    ]
+}

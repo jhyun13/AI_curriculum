@@ -1,0 +1,36 @@
+{
+    "meta_info": {
+        "user_query": "드론 및 항공 시스템에서 센서를 활용한 자동 비행과 최적화 기술이 중요해지고 있습니다. 이를 연구하고 개발하려면 어떤 이론과 실습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "항공우주공학과",
+            "산업정보시스템공학과",
+            "생물산업기계공학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 470,
+            "name": "CAD",
+            "description": "기계도면 작성을 위한 원칙을 학습하고 실습을 통해 이를 연습한다.\nAutoCAD를 활용한 기계도면 작성법을 익힌다.\nInventor를 활용한 3D 모델링 능력을 배양한다.",
+            "curriculum": "수업소개, 사전지식이해도 조사YUMMI도면, 선과 글자YUMMI투상법YUMMI단면도, 치수기입법YUMMI치수공차와 끼워맞춤, 기하공차YUMMI주요부품(나사, 기어, 베어링)의 제도YUMMI중간고사YUMMIAutoCAD 소개, 화면 구성, 기본조작법, 좌표계YUMMI기본 도면 그리기1 (선, 곡선, 도형, 해치)YUMMI도면 수정하기1 (모따기, 모깎기, 간격띄우기, 등)YUMMI도면 수정하기2 (이동, 복사, 대칭, 회전, 등)YUMMI3D Inventor 소개, 화면 구성, 기본조작법, 좌표계YUMMI부품 모델링의 기본 개념 (돌출형 부품 모델링)YUMMI부품 모델링의 기본 개념 (원통 형상 모델링)YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "full_text": "CAD 기계도면 작성을 위한 원칙을 학습하고 실습을 통해 이를 연습한다.\nAutoCAD를 활용한 기계도면 작성법을 익힌다.\nInventor를 활용한 3D 모델링 능력을 배양한다.",
+            "similarity": 0.1360884341182356
+        },
+        {
+            "id": 2644,
+            "name": "전산구조모형및해석",
+            "description": "◎ 유한요소법의 기초 이론과 전산 구조 해석 전반에 대한 기초 지식의 함양을 목표로 한다.\n\n◎ 기본적인 이론 강의와 실습 교육을 통하여 상용 구조 해석 프로그램인 NASTRAN 등을 활용한 실제 구조물의 해석 능력을 배양한다.",
+            "curriculum": "강의 소개, 전산 항공우주 구조 개괄YUMMI유한요소법의 개념 / 스프링 시스템과 방정식의 체계YUMMI트러스와 프레임의 해석 / 직접법의 요소 방정식YUMMI요소의 보간과 형상 함수 / 요소의 기본 방정식YUMMI요소 방정식의 정식화 / 수렴 조건YUMMI요소 방정식의 적분 / 방정식의 조립 해법YUMMI응력의 복구와 평활화 / 전처리와 후처리YUMMI중간시험YUMMINASTRAN : 소개, 해석의 형태 및 조건 설정YUMMINASTRAN : 절점 및 좌표계YUMMINASTRAN : 기본적인 유한요소YUMMINASTRAN : 재료 상수, 경계 조건YUMMINASTRAN : 하중, 결과 출력 제어, 기타 고려 사항YUMMINASTRAN : 종합 실습 ⅠYUMMI기말시험YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "full_text": "전산구조모형및해석 ◎ 유한요소법의 기초 이론과 전산 구조 해석 전반에 대한 기초 지식의 함양을 목표로 한다.\n\n◎ 기본적인 이론 강의와 실습 교육을 통하여 상용 구조 해석 프로그램인 NASTRAN 등을 활용한 실제 구조물의 해석 능력을 배양한다.",
+            "similarity": 0.11203459387680573
+        }
+    ]
+}

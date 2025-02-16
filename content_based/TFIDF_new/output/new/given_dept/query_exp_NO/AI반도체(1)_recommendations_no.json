@@ -1,0 +1,57 @@
+{
+    "meta_info": {
+        "user_query": "데이터가 폭발적으로 증가하는 시대에서, AI 연산을 가속화하는 반도체와 메모리 기술이 필요합니다. AI와 반도체 아키텍처를 최적화하여 고성능 AI 칩을 개발하는 엔지니어가 되고 싶어요. 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": [
+            "전자공학부",
+            "컴퓨터인공지능학부"
+        ],
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 793,
+            "name": "인공지능",
+            "description": " 본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "curriculum": "Introduction & problem-solving by searchingYUMMIProblem-solving: Uninformed/Informed Search, Advanced searchYUMMIProblem-solving: Adversarial Search, Constraint satisfaction problemYUMMISymbolic AI: First order logicYUMMISymbolic AI: Inference in FOLYUMMIMachine Learning: Linear classification, logistic regressionYUMMIMidtermYUMMIMachine Learning: Deep learning basics - Feedforward neural networks, Backpropagation, Convolutional networksYUMMIProbabilistic reasonsing: Bayesian networks & InferenceYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIProbabilistic reasonsing: First-order probabilistic models & Markov logic networksYUMMIReinforcement learning: Monte carlo learning/Termporal difference learningYUMMIReinforcement learning: Policy gradient methods, Deep Q networksYUMMIGame theory, evolutionary computation, & AI YUMMIFinaltermYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인공지능  본 강의에서는 최근 비약적으로 발전하고 있는  '인공지능'에 대한 전반적인 이론적 지식을 익히는데 목적이 있다. 본 '인공지능' 강의에서는 탐색(search)에 기반한 problem-solving AI부터, 지식표현에 기반한 Symbolic AI, 베이지안 네트워크 및 확률 추론에 기반한 AI, 또한 최근 각광을 받고 있는 기계 학습/딥러닝/ 강화학습 등 현대적 AI 방법에 대해 포괄적으로 공부한다. 이론적 지식외에 AlphaGo 등에 적용된 방법들을 실제로 작성해보는 프로그래밍 과제도 포함할 계획이다. ",
+            "similarity": 0.24079708033844907
+        },
+        {
+            "id": 915,
+            "name": "인공지능",
+            "description": "이 과정은 기계 학습(Machine Learning)의 입문 학부 과정이다. 기계 학습은 이미지, 비디오, 음성을 포함한 데이터에서 예측 또는 결정을 내리는 수학적 모델 및 알고리즘을 개발하는 것을 목표로 한다. \n우리가 주로 다룰 주제는 선형 회귀, 로지스틱 회귀, 의사 결정 트리, 앙상블 학습, 차원 축소, 클러스터링과 같은 기계 학습 기초 알고리즘이다. 또한, 이미지, 시계열 데이터 처리 방법과 이를 CNN, RNN, 강화학습과 같은 다양한 딥러닝 알고리즘에 적용하는 방법을 습득한다. \n이 과정을 통해 4차 산업혁명의 기초인 인공지능의 최첨단 기계 학습 및 딥러닝 방법에 대해 이해할 수 있다.",
+            "curriculum": "Introduction, 실습 환경 구축YUMMI파이썬 실습(Numpy, Pandas) YUMMILinear Regression, Logistic RegressionYUMMIDecision Tree, Dimension ReductionYUMMIEnsemble LearningYUMMIRegression Review (in practice)YUMMIUnsupervised Learning, ClusteringYUMMIMidterm ExamYUMMIPerceptron, Neural Networks (Basic)YUMMINeural Networks (Backpropagation)YUMMINeural Networks (in practice)YUMMIConvolutional Neural NetworksYUMMIRecurrent Neural NetworksYUMMIReinforcement LearningYUMMIFinalYUMMI",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "full_text": "인공지능 이 과정은 기계 학습(Machine Learning)의 입문 학부 과정이다. 기계 학습은 이미지, 비디오, 음성을 포함한 데이터에서 예측 또는 결정을 내리는 수학적 모델 및 알고리즘을 개발하는 것을 목표로 한다. \n우리가 주로 다룰 주제는 선형 회귀, 로지스틱 회귀, 의사 결정 트리, 앙상블 학습, 차원 축소, 클러스터링과 같은 기계 학습 기초 알고리즘이다. 또한, 이미지, 시계열 데이터 처리 방법과 이를 CNN, RNN, 강화학습과 같은 다양한 딥러닝 알고리즘에 적용하는 방법을 습득한다. \n이 과정을 통해 4차 산업혁명의 기초인 인공지능의 최첨단 기계 학습 및 딥러닝 방법에 대해 이해할 수 있다.",
+            "similarity": 0.10096363953527945
+        },
+        {
+            "id": 3211,
+            "name": "반도체소자",
+            "description": "본 교과에서는 전자회로의 기초가 되는 반도체 물성 이론과 기본적인 양자역학의 개념을 복습하고 이를 통해 다양한 반도체 소자(금속-반도체 접합, BJT, MOSFET)의 특성을 학습하는 것을 목표로 한다. 나아가 집적회로에서의 전자소자(MOSFET)의 스케일링에 따른 물리적 현상과 이를 극복하기 위한 FinFET, Nanosheet FET 신기술 내용을 학습하고 TCAD 시뮬레이션을 활용한 MOSFET 설계 실습을 수행한다.\n1. 반도체 물성의 이해\n2. 반도체 접합 및 금속-반도체 접합의 물성 및 동작 특성 이해\n3. MOS 캐피시터와 MOSFET의 물성 및 동작 특성 이해\n4. 집적회로에서의 MOSFET 축소화와 멀티게이트 MOSFET 소개",
+            "curriculum": "교과목 소개YUMMI에너지 밴드 다이어그램, 캐리어 분포, 캐리어 이동과 재결합YUMMI PN 접합의 구조와 물리적 특성YUMMI PN 접합 다이오드의 이상적 특성 및 비이상적 특성YUMMI금속-반도체 접합 종류와 특성YUMMI금속-반도체 접합 종류와 특성YUMMI바이폴라 트랜지스터YUMMI중간고사YUMMIMOS 캐패시터 구조와 특성YUMMIMOSFET의 구조와 동작 특성YUMMIMOSFET의 구조와 동작 특성YUMMIMOSFET 축소화와 멀티게이트 MOSFETYUMMIMOSFET 축소화와 멀티게이트 MOSFETYUMMIMOSFET 응용YUMMI기말고사를 통한 평가YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "반도체소자 본 교과에서는 전자회로의 기초가 되는 반도체 물성 이론과 기본적인 양자역학의 개념을 복습하고 이를 통해 다양한 반도체 소자(금속-반도체 접합, BJT, MOSFET)의 특성을 학습하는 것을 목표로 한다. 나아가 집적회로에서의 전자소자(MOSFET)의 스케일링에 따른 물리적 현상과 이를 극복하기 위한 FinFET, Nanosheet FET 신기술 내용을 학습하고 TCAD 시뮬레이션을 활용한 MOSFET 설계 실습을 수행한다.\n1. 반도체 물성의 이해\n2. 반도체 접합 및 금속-반도체 접합의 물성 및 동작 특성 이해\n3. MOS 캐피시터와 MOSFET의 물성 및 동작 특성 이해\n4. 집적회로에서의 MOSFET 축소화와 멀티게이트 MOSFET 소개",
+            "similarity": 0.10599764485450135
+        },
+        {
+            "id": 4093,
+            "name": "시스템및메모리반도체",
+            "description": "본 과목에서는 시스템 반도체 및 메모리 반도체의 기본 개념에 대하여 학습하고, FPGA 보드를 이용하여 실습을 진행한다. ",
+            "curriculum": "과목소개/시스템반도체의 기본 개념YUMMI시스템반도체의 기본 구성 블록 1YUMMI시스템반도체의 기본 구성 블록 2YUMMI메모리반도체 1YUMMI메모리반도체 2YUMMI임베디드시스템YUMMI반도체설계 방법론YUMMI중간고사YUMMIVerilogYUMMI임베디드 소프트웨어 설계YUMMI디지털하드웨어 설계 1YUMMI디지털하드웨어 설계 2YUMMI임베디드소프트웨어 설계YUMMI메모리설계YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전자공학부",
+            "full_text": "시스템및메모리반도체 본 과목에서는 시스템 반도체 및 메모리 반도체의 기본 개념에 대하여 학습하고, FPGA 보드를 이용하여 실습을 진행한다. ",
+            "similarity": 0.1907348006224445
+        }
+    ]
+}

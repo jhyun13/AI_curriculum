@@ -1,0 +1,162 @@
+{
+    "meta_info": {
+        "user_query": "다국적 기업에서 프랑스 및 프랑스어권 아프리카 시장 진출을 담당하는 국제 마케팅 전문가가 되고 싶어요. 이를 위해 어떤 학습이 필요할까요?",
+        "expanded_query": "다국적 기업에서 프랑스 및 프랑스어권 아프리카 시장 진출을 담당하는 국제 마케팅 전문가가 되고 싶어요. 이를 위해 어떤 학습이 필요할까요? 국제 마케팅 및 프랑스어권 시장에 대한 전문 지식 습득 국제 마케팅 전문가 국제 마케팅 국제 마케팅 전문가 국제 마케팅 전문가는 다국적 기업의 해외 시장 진출 전략을 수립하고 실행하는 역할을 합니다. 프랑스 및 프랑스어권 아프리카 시장에 대한 이해를 바탕으로 현지화된 마케팅 전략을 개발하고 실행합니다. 시장 조사 및 분석, 마케팅 전략 수립, 현지 파트너십 구축, 프랑스어 커뮤니케이션 마케팅 전략 개발, 국제 비즈니스, 프랑스어 프랑스어 시장 및 문화 조사 문화적 차이에 대한 이해 및 적용 국제 마케팅 원리, 비즈니스 커뮤니케이션 프랑스어 시장 분석, 문화적 마케팅 전략 사례 연구 분석, 다국적 기업 운영 및 진출 전략, 프랑스어권 지역의 비즈니스 환경 이해",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 2106,
+            "name": "마케팅원론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.2723008882751125
+        },
+        {
+            "id": 2490,
+            "name": "디지털인터렉티브광고",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.17387564709143627
+        },
+        {
+            "id": 3443,
+            "name": "중급프랑스어문법",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.1432394489072936
+        },
+        {
+            "id": 3173,
+            "name": "프랑스언어학의이해",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.11196628406821973
+        },
+        {
+            "id": 2970,
+            "name": "중급프랑스어회화",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.11020803238703443
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10809259867982816
+        },
+        {
+            "id": 2423,
+            "name": "산업조직론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.1949870080494315
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.16157958621602772
+        },
+        {
+            "id": 1336,
+            "name": "프랑스어교육론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.12429601994266809
+        },
+        {
+            "id": 451,
+            "name": "농식품유통론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.11979897595338275
+        },
+        {
+            "id": 4673,
+            "name": "문화콘텐츠관리기술",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "문헌정보학과",
+            "similarity": 0.22127897095910803
+        },
+        {
+            "id": 3699,
+            "name": "프랑스어교재연구및지도법",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "프랑스.아프리카학과",
+            "similarity": 0.12728529924009369
+        },
+        {
+            "id": 3041,
+            "name": "급식경영학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "식품영양학과",
+            "similarity": 0.12007351275254749
+        },
+        {
+            "id": 1495,
+            "name": "식품마케팅및캡스톤",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.39683402529576806
+        },
+        {
+            "id": 2325,
+            "name": "소비자행동론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.10049964173756888
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.2237958104510321
+        },
+        {
+            "id": 3435,
+            "name": "세계지역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.12956339531743724
+        },
+        {
+            "id": 3874,
+            "name": "식품산업조직론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.10977885461002272
+        },
+        {
+            "id": 2650,
+            "name": "해외지역연구연습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.10831158609152955
+        }
+    ]
+}

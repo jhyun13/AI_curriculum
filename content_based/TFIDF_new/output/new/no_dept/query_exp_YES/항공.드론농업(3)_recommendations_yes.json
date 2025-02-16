@@ -1,0 +1,170 @@
+{
+    "meta_info": {
+        "user_query": "드론의 경량화와 내구성을 높이면서 농업 환경에 최적화된 기체를 설계하고 싶습니다. 공기역학, 구조공학, 센서 기술 등을 포함한 학습 과정은 무엇이 될까요?",
+        "expanded_query": "드론의 경량화와 내구성을 높이면서 농업 환경에 최적화된 기체를 설계하고 싶습니다. 공기역학, 구조공학, 센서 기술 등을 포함한 학습 과정은 무엇이 될까요? 드론 설계 및 최적화에 대한 심층적 이해 농업 분야에 적합한 드론 설계 전문가가 되기 항공우주공학 및 드론 기술 드론 설계 엔지니어 드론 설계 엔지니어는 드론의 경량화와 내구성을 향상시키고 특정 용도, 특히 농업 환경에 적합하도록 드론을 설계합니다. 공기역학적 효율성, 구조적 강도, 그리고 센서 통합 및 최적화를 고려해야 합니다. 공기역학적 연구 및 설계, 구조 공학적 분석, 센서 기술 및 통합, 농업 환경에 맞는 드론 기체 개발 및 테스트 공기역학, 구조 공학, 센서 기술 CAD 소프트웨어 활용, 물리적 시뮬레이션, 재료 과학 이해 항공역학, 구조 역학, 드론 기초 이론 드론 설계와 관련된 첨단 재료 및 제조 공정, 드론의 제어 시스템 드론 설계 소프트웨어(CAD) 사용법, 센서 데이터 분석, 프로토타입 제작 및 평가",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 550,
+            "name": "실험통계학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생명공학부",
+            "similarity": 0.12949403175470578
+        },
+        {
+            "id": 117,
+            "name": "농촌자원경제학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생명자원융합학과",
+            "similarity": 0.114448431122747
+        },
+        {
+            "id": 1193,
+            "name": "소프트웨어공학개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.10211542633336927
+        },
+        {
+            "id": 1711,
+            "name": "소프트웨어공학개론 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.10103154353664504
+        },
+        {
+            "id": 354,
+            "name": "데이터구조및프로그래밍실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.10014415610501948
+        },
+        {
+            "id": 4794,
+            "name": "농업기상학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.11377298607328097
+        },
+        {
+            "id": 3749,
+            "name": "응용소프트웨어개발",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스마트팜학과",
+            "similarity": 0.11372432134989775
+        },
+        {
+            "id": 3324,
+            "name": "농업데이터이해및분석",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.10455114471016805
+        },
+        {
+            "id": 1861,
+            "name": "항공우주구조역학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "항공우주공학과",
+            "similarity": 0.1218114606453088
+        },
+        {
+            "id": 1970,
+            "name": "응용계측학및실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.10898392492950541
+        },
+        {
+            "id": 3137,
+            "name": "드론측량굴착공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(자원에너지공학)",
+            "similarity": 0.2781843600152635
+        },
+        {
+            "id": 3303,
+            "name": "메카트로닉스및실험",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.16544881138343506
+        },
+        {
+            "id": 2819,
+            "name": "소프트웨어공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.1534028170553394
+        },
+        {
+            "id": 3259,
+            "name": "드론농업응용",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.13569943735570714
+        },
+        {
+            "id": 3243,
+            "name": "3D설계기법및실습",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "바이오메디컬공학부",
+            "similarity": 0.11284610031443898
+        },
+        {
+            "id": 605,
+            "name": "농업환경지리정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.18830224204346505
+        },
+        {
+            "id": 2156,
+            "name": "화학공학종합설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "화학공학부",
+            "similarity": 0.11744450882090768
+        },
+        {
+            "id": 513,
+            "name": "공장자동화시스템및실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.10667480859573186
+        },
+        {
+            "id": 1104,
+            "name": "생산자동화시스템및실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.10667480859573186
+        },
+        {
+            "id": 4953,
+            "name": "농업.농촌의사회학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.10724813795660143
+        }
+    ]
+}

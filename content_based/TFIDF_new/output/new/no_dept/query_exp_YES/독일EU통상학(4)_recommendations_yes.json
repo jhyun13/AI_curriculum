@@ -1,0 +1,122 @@
+{
+    "meta_info": {
+        "user_query": "국제 무역 전문가로서 독일과의 무역 거래를 원활하게 지원하는 역할을 하고 싶어요. 어떤 과정이 필요할까요?",
+        "expanded_query": "국제 무역 전문가로서 독일과의 무역 거래를 원활하게 지원하는 역할을 하고 싶어요. 어떤 과정이 필요할까요? 국제 무역 및 경영 관리의 전문가가 되어 독일 시장과 관련된 지식과 경험을 축적함. 글로벌 비즈니스 분야에서 독일과의 무역 거래를 전문적으로 지원하는 경력을 쌓기. 국제 무역 및 경제   국제 무역 전문가 (International Trade Specialist) 독일과의 무역 거래를 포함한 국제 무역 거래를 조정, 지원 및 관리하며, 구성원들이 효과적으로 협력할 수 있도록 의사소통을 원활하게 하고 문제 해결을 돕습니다. 무역 계약 협상, 시장 분석, 물류 계획 및 실행, 무역 규정 준수, 독일 및 기타 국가의 고객 및 공급업체와의 관계 구축 및 유지. 외국어 능력 (특히 독일어), 국제 무역 법규 이해, 문화 간 커뮤니케이션 능력. 분석적 사고, 협상 능력, 조직 및 관리 능력. 국제 경제의 원리, 무역 정책 및 협정, 경영 관리 기초. 독일 시장의 경제 및 문화적 특성, 유럽 연합의 무역 법규 및 정책. 무역 서류 및 절차 관리, 무역 관련 소프트웨어 및 도구 활용.",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 202,
+            "name": "무역상무론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.438259421170637
+        },
+        {
+            "id": 2017,
+            "name": "무역통계분석입문",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.12309336370148417
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.19549620113711644
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.10009144413367344
+        },
+        {
+            "id": 841,
+            "name": "한일무역실습",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "일본학과",
+            "similarity": 0.18022632913665043
+        },
+        {
+            "id": 430,
+            "name": "국제운송·보험론",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.17318155931537604
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.10398068691581253
+        },
+        {
+            "id": 4636,
+            "name": "건축법규",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "건축공학과",
+            "similarity": 0.10741633228546241
+        },
+        {
+            "id": 1683,
+            "name": "중남미무역과통상",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.3774394448039176
+        },
+        {
+            "id": 515,
+            "name": "서비스통상론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.17184641547566837
+        },
+        {
+            "id": 1435,
+            "name": "식사요법및실습",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "식품영양학과",
+            "similarity": 0.11261814389750913
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.5182584584092912
+        },
+        {
+            "id": 3781,
+            "name": "한국무역론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.4344557595887297
+        },
+        {
+            "id": 3490,
+            "name": "비즈니스스페인어",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.1505743774453779
+        }
+    ]
+}

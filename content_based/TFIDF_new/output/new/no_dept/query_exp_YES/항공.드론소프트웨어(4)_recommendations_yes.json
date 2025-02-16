@@ -1,0 +1,114 @@
+{
+    "meta_info": {
+        "user_query": "AI와 항공 기술을 융합하여 드론 물류 시스템 및 자동화 항공 네트워크를 구축하는 연구를 수행하고 싶어요. 필요한 과정은 무엇인가요?",
+        "expanded_query": "AI와 항공 기술을 융합하여 드론 물류 시스템 및 자동화 항공 네트워크를 구축하는 연구를 수행하고 싶어요. 필요한 과정은 무엇인가요? 드론 물류 시스템 및 자동화 항공 네트워크 구축을 위한 지식 습득 드론 및 자동화 항공 기술 연구원 항공 및 물류 자동화 드론 물류 시스템 연구원 드론을 활용한 물류 시스템을 디자인하고 자동화된 항공 네트워크 솔루션을 개발하는 역할을 수행. AI 기술을 적용하여 효율적인 물류 및 운송 체계를 연구 및 최적화. 드론 및 항공 네트워크 솔루션 개발, AI 기반 물류 시스템 설계 및 실험, 자동화 프로세스 분석 및 개선 AI, 드론 기술, 자동화 공학, 물류 관리 AI 기술 적용 능력- 드론 운영 및 관리 역량 물류 네트워크 설계 및 분석 능력 기계 학습, 항공 공학, 운영 연구 드론 시스템 설계, 항공 네트워크 분석 AI 기반 물류 시스템 프로그래밍, 드론 항공 운송 실습",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1161,
+            "name": "고체역학 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "기계시스템공학부",
+            "similarity": 0.12339183770718777
+        },
+        {
+            "id": 2033,
+            "name": "생물전기전자공학및실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "생물산업기계공학과",
+            "similarity": 0.12279675985937134
+        },
+        {
+            "id": 818,
+            "name": "리눅스프로그래밍",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.10028553555924721
+        },
+        {
+            "id": 3780,
+            "name": "동물시스템생물학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "동물생명공학과",
+            "similarity": 0.11119594692953347
+        },
+        {
+            "id": 548,
+            "name": "위성영상AI프로그래밍",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "지구환경과학과",
+            "similarity": 0.15571914446845556
+        },
+        {
+            "id": 793,
+            "name": "인공지능",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.14815811007439628
+        },
+        {
+            "id": 1583,
+            "name": "컴퓨터네트워크",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.10765768014835325
+        },
+        {
+            "id": 3137,
+            "name": "드론측량굴착공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(자원에너지공학)",
+            "similarity": 0.22565247040915223
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.12739891487592053
+        },
+        {
+            "id": 605,
+            "name": "농업환경지리정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.3191358546845003
+        },
+        {
+            "id": 2406,
+            "name": "네트워크보안",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.11153477934857765
+        },
+        {
+            "id": 3203,
+            "name": "멀티미디어시스템",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.1554216694474642
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.13676588859672584
+        }
+    ]
+}

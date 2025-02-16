@@ -1,0 +1,93 @@
+{
+    "meta_info": {
+        "user_query": "빅데이터를 활용하여 마케팅 최적화, 사용자 맞춤 추천 시스템 등을 개발하는 데이터 분석 분야에서 일하고 싶어요. 필요한 기술과 학습 과정이 궁금합니다.",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "통계학과",
+            "산업정보시스템공학과",
+            "농경제유통학부",
+            "경제학부",
+            "컴퓨터인공지능학부"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 2106,
+            "name": "마케팅원론",
+            "description": "모든 학문은 현상으로부터 일정한 법칙을 발견하여 체계화하는 것을 목표로 한다.\n\n마케팅원론은 시장에서 일어나는 마케팅 현상을 파악하고 그 원인과 메카니즘을 찾아내는 과정에 대한 기본개념을 학습한다.\n\n이를 통해 파악된 마케팅현상에 대한 전략과 의사결정 능력을 배양하는데 학습의 목표를 두고 있다.\n\n본 강좌에서는 마케팅 컨셉트의 발전과정, 소비자 행동, 시장세분화, 포지셔닝, 마케팅조사, 제품관리, 가격관리, 경로관리, 촉진관리등을 중점적으로 학습하고자 한다. 본 강좌를 통해 학생들은 기업가입장에서 마케팅활동을 체계적으로 설명할수 있으며, 활용할수 있도록 하는데 본 강좌의 목표를 두고 있으며 세부적인 목표는 다음과 같다.\n\n-기업경영자나 마케팅관리자로서의 적합한 자질의 함양\n\n-마케팅 이론에 대한 토대의 구축\n\n-시장과 경쟁에 대한 이해를 통한 소비자지향적 감각의 양성\n\n-전략적 마케팅게획 수립과정에서 의사결정 능력의 함양",
+            "curriculum": "교과목소개와 강의계획에 대한 안내\n\n마케팅 개념의 이해(공유가치 창출, 마케팅 3.0, 사회적책임마케팅등에 대한 것은 Report)\n\n-마케팅기능과 마케팅관리\n\n-마케팅 의의와 역할YUMMI(공유가치 창출, 마케팅 3.0, 사회적책임마케팅행동에 대한 발표)\n\n전략적 시장계획 : 기업전략과 마케팅전략YUMMI마케팅환경분석YUMMI마케팅정보시스템과 마케팅 조사YUMMI구매행동의 이해YUMMI시장세분화. 표적시장선택, 포지셔닝YUMMI시장세분화, 표적시장선택, 포지셔닝YUMMI중간고사YUMMI제품관리YUMMI신제품개발과 제품수명주기YUMMI유통관리YUMMI촉진믹스YUMMI4차산업혁명과 마케팅YUMMI전과정 리뷰YUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "full_text": "마케팅원론 모든 학문은 현상으로부터 일정한 법칙을 발견하여 체계화하는 것을 목표로 한다.\n\n마케팅원론은 시장에서 일어나는 마케팅 현상을 파악하고 그 원인과 메카니즘을 찾아내는 과정에 대한 기본개념을 학습한다.\n\n이를 통해 파악된 마케팅현상에 대한 전략과 의사결정 능력을 배양하는데 학습의 목표를 두고 있다.\n\n본 강좌에서는 마케팅 컨셉트의 발전과정, 소비자 행동, 시장세분화, 포지셔닝, 마케팅조사, 제품관리, 가격관리, 경로관리, 촉진관리등을 중점적으로 학습하고자 한다. 본 강좌를 통해 학생들은 기업가입장에서 마케팅활동을 체계적으로 설명할수 있으며, 활용할수 있도록 하는데 본 강좌의 목표를 두고 있으며 세부적인 목표는 다음과 같다.\n\n-기업경영자나 마케팅관리자로서의 적합한 자질의 함양\n\n-마케팅 이론에 대한 토대의 구축\n\n-시장과 경쟁에 대한 이해를 통한 소비자지향적 감각의 양성\n\n-전략적 마케팅게획 수립과정에서 의사결정 능력의 함양",
+            "similarity": 0.1306824375055585
+        },
+        {
+            "id": 4346,
+            "name": "데이터통신",
+            "description": "통신망을 이용하여 시스템간의 데이터를 주고받는 기술과 방법에 대하여 공부한다.\n\n프로토콜에 대한 기본 개념과 여러 가지 매체를 통하여 데이터를 안전하게 전달하는 기법에 대하여 배운다.\n\n배운 통신망의 물리계층과 데이터 링크 계층의 프로토콜에 대하여 개략적인 내용을 다룬다.",
+            "curriculum": "Chapter #1 Introduction\n\n분야소개 및 프로토콜과 표준 설명YUMMIChapter #2 Network Models\n\n인터넷 모델과 OSI 모델YUMMIChapter #3 Signals\n\n아날로그와 디지털 신호YUMMIChapter #4 Digital Transmission\n\n부호화, 전송모드YUMMIChapter #5 Analog Transmission\n\n아날로그 통신YUMMIChapter #6 Multiplexing\n\n아날로그와 디지털 신호의 다중화 방식YUMMIChapter #7 Transmission Media\n\n유선, 무선 전송 매체YUMMI중간시험YUMMIChapter #8 Circuit Switching and Telephone Network\n\n회선 교환과 전화망YUMMIChapter #9 High-Speed Digital Access\n\nxDSL, 케이블 모델, SONETYUMMIChapter #10 Error Detection and Correction\n\n오류 검출과 오류 정정YUMMIChapter #11 Data Link control and Protocols\n\n데이터링크 제어와 관련 프로토콜YUMMIChapter #12 Point-to Point\n\nPPPYUMMIChapter #13 Multiple Acess\n\n다중접속 : CSMA/CD, CSMA/CA, CDMAYUMMIChapter #14 Local Area Networks\n근거리 통신망 : 이더넷, 무선랜(802.11) 및 기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "데이터통신 통신망을 이용하여 시스템간의 데이터를 주고받는 기술과 방법에 대하여 공부한다.\n\n프로토콜에 대한 기본 개념과 여러 가지 매체를 통하여 데이터를 안전하게 전달하는 기법에 대하여 배운다.\n\n배운 통신망의 물리계층과 데이터 링크 계층의 프로토콜에 대하여 개략적인 내용을 다룬다.",
+            "similarity": 0.10008703418526785
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "description": "미시경제학 이론에 기반한 경제 데이터 분석 능력을 기르도록 함",
+            "curriculum": "소비자 이론 : 소비자의 선호체계YUMMI소비자 이론 : 소비자의 최적선택 1YUMMI소비자 이론 : 소비자의 최적선택 2YUMMI소비자 이론 : 소비자의 최적선택 3YUMMI소비자 이론을 적용한 연구소개YUMMI데이터를 활용한 소비자 이론 분석 1YUMMI데이터를 활용한 소비자 이론 분석 2YUMMI중간고사YUMMI생산자이론 : 기업과 생산기술YUMMI생산자이론 : 생산비용 1YUMMI생산자이론 : 생산비용 2YUMMI생산자이론 : 이윤극대화YUMMI데이터를 활용한 생산자이론 추정 1YUMMI데이터를 활용한 생산자이론 추정 2YUMMI기말고사YUMMI",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "full_text": "실증미시경제학 미시경제학 이론에 기반한 경제 데이터 분석 능력을 기르도록 함",
+            "similarity": 0.12575138225312726
+        },
+        {
+            "id": 26,
+            "name": "인간-컴퓨터상호작용",
+            "description": "인간-컴퓨터 상호작용(Human-Computer Interaction)의 기본 원리에 대해 학습한다. 본 수업의 주요 목표는 다음과 같다. \n1)사용자 및 사용자 중심 디자인(UCD)에 대한 이해, 2)사용성의 원리와 평가에 대한 이해, 3)인터페이스 설계 및 사용자 관점의 시스템 평가에 대한 경험 배양",
+            "curriculum": "Introduction / History of HCI YUMMIHCI Framework / Design Process / User Centered DesignYUMMIUsability PrinciplesYUMMIUser – Senses \nUser - Information ProcessingYUMMIUser Requirements\nDesign implications, TasksYUMMIPrototypingYUMMIDesign / Sketch / Mid-fi prototyping\nModels of UsersYUMMI중간고사YUMMIUsability EvaluationYUMMIEvaluation Data, HeuristicsYUMMIUniversal Design\nEthics and design\nInternational issuesYUMMIAR & VRYUMMIData visualizationYUMMI기말고사YUMMIFinal ProjectYUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "full_text": "인간-컴퓨터상호작용 인간-컴퓨터 상호작용(Human-Computer Interaction)의 기본 원리에 대해 학습한다. 본 수업의 주요 목표는 다음과 같다. \n1)사용자 및 사용자 중심 디자인(UCD)에 대한 이해, 2)사용성의 원리와 평가에 대한 이해, 3)인터페이스 설계 및 사용자 관점의 시스템 평가에 대한 경험 배양",
+            "similarity": 0.22261929963663518
+        },
+        {
+            "id": 1495,
+            "name": "식품마케팅및캡스톤",
+            "description": "농식품 마케팅의 개념 및 소비자 행동의 이해 마케팅 조사 등을 학습한 후, 농식품 마케팅 전략을 수립할 수 있다. ",
+            "curriculum": "농산물 유통의 개요 및 특성을 이해 할 수 있다.YUMMI농산물 생산과 소비, 가공을 이해 할 수 있다.YUMMI동영상 시청-농업강소국 희망의 조건-을 통해 조직화의 중요성을 이해 할 수 있다. YUMMI농산물 시장을 이해 할 수 있다.YUMMI농산물 유통경로 및 마진을 이해 할 수 있다.YUMMI농산물 마케팅의 이해을 이해 할 수 있다.YUMMI농산물 마케팅의 이해_마케팅 관리의 구성요소 등을 이해 할 수 있다.YUMMI중간고사YUMMI농산물 시장 및 소비자 행동의 이해를 이해 할 수 있다. YUMMI농산물 마케팅 조사(현장학습병행)에 대한 개념과 절차를 이해 할 수 있다. YUMMI조사계획 수립 및 실행을 통해 마케팅 역량을 강화한다. YUMMI농식품 마케팅 전략의 수립과정을 이해 할 수 있다. YUMMI자료분석 및 보고서 작성을 통해 마케팅 조사의 성과를 측정한다.YUMMI관심 품기업의 마케팅 전략을 수립할 수 있다. YUMMI기말고사YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "full_text": "식품마케팅및캡스톤 농식품 마케팅의 개념 및 소비자 행동의 이해 마케팅 조사 등을 학습한 후, 농식품 마케팅 전략을 수립할 수 있다. ",
+            "similarity": 0.19781394252927245
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "description": "데이터 사이언스에 필수적인 데이터 마이닝에 방법론을 익히고 적용능력을 키움.\n시각화 및 EDA, 협업 필터링, 연과규칙 분석, 차원축소법, 군집분석, 이상치 탐색 등을 다룸.  ",
+            "curriculum": "소개 및 목표YUMMI데이터 시각화 YUMMI데이터 시각화 YUMMIEDAYUMMI협업필터링YUMMI협업필터링YUMMI연관규칙 분석YUMMI연관규칙 분석 및 중간고사YUMMI주성분 분석YUMMI비선형 차원 축소법YUMMI군집분석 (1)YUMMI군집분석 (2)YUMMI군집분석 (3)YUMMI이상치 탐색 (1)YUMMI이상치 탐색 (2)\n기말발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "full_text": "데이터마이닝 데이터 사이언스에 필수적인 데이터 마이닝에 방법론을 익히고 적용능력을 키움.\n시각화 및 EDA, 협업 필터링, 연과규칙 분석, 차원축소법, 군집분석, 이상치 탐색 등을 다룸.  ",
+            "similarity": 0.1766088534142048
+        },
+        {
+            "id": 405,
+            "name": "빅데이터분석과응용",
+            "description": "4차 산업혁명, 데이터 과학, 빅데이터의 관계를 이해하고 빅데이터 분석에 적용할 데이터 과학 방법론을 배웁니다. ",
+            "curriculum": "강좌소개,  1장. 4차 산업혁명과 데이터 과학YUMMI빅데이터분석 이해\n2장. 빅데이터의 이해와 활용YUMMI빅데이터분석 이해\n3장. 데이터 과학 기반의 빅데이터 분석YUMMI빅데이터분석 준비\n4장. 파이썬 프로그래밍 기초YUMMI빅데이터분석 준비\n5장. 파이썬 크롤링 – API 이용 (공공데이터)YUMMI빅데이터분석 준비\n6장. 파이썬 크롤링 – 라이브러리 이용 (정적, 동적)YUMMI빅데이터분석 기본 프로젝트\n7장. 통계 분석 (기술통계+그래프, 상관분석+히트맵)YUMMI중간시험YUMMI빅데이터분석 기본 프로젝트\n8장. 텍스트 빈도 분석 (영문분석+워드클라우드, 한글분석+워드클라우드)YUMMI빅데이터분석 기본 프로젝트\n9장. 지리 정보 분석 (주소데이터 분석+지오맵, 행정구역별 데이터 분석+블록맵)YUMMI빅데이터분석 머신러닝 프로젝트\n10장. 회귀분석 (선형 회귀분석+산점도, 그래프, 회귀분석+산점도, 그래프)\n텀프로젝트 1차 제안서YUMMI빅데이터분석 머신러닝 프로젝트\n11장. 분류분석 (로지스틱 회귀분석, 결정트리분석)YUMMI빅데이터분석 머신러닝 프로젝트\n12장. 군집분석 (k-평균 군집화 분석 + 그래프)\n텀프로젝트 2차 중간보고서YUMMI빅데이터분석 머신러닝 프로젝트\n13장. 텍스트 마이닝 (감성분석 + 토픽 모델링)YUMMI기말시험 및 평가\n텀프로젝트 3차 최종 발표YUMMI",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "산업정보시스템공학과",
+            "full_text": "빅데이터분석과응용 4차 산업혁명, 데이터 과학, 빅데이터의 관계를 이해하고 빅데이터 분석에 적용할 데이터 과학 방법론을 배웁니다. ",
+            "similarity": 0.10094530855742466
+        }
+    ]
+}

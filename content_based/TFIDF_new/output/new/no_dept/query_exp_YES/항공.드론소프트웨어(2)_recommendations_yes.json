@@ -1,0 +1,146 @@
+{
+    "meta_info": {
+        "user_query": "항공 우주 분야에서 소프트웨어 보안 및 해킹 방지 기술을 연구하여 사이버 공격에 대비하는 시스템을 개발하고 싶어요. 필요한 역량은 무엇인가요?",
+        "expanded_query": "항공 우주 분야에서 소프트웨어 보안 및 해킹 방지 기술을 연구하여 사이버 공격에 대비하는 시스템을 개발하고 싶어요. 필요한 역량은 무엇인가요? 항공 우주 분야의 소프트웨어 보안 시스템 개발 전문 지식 습득 안전한 항공 우주 시스템 개발 및 구현 항공 우주 소프트웨어 보안 항공 우주 소프트웨어 보안 전문가 항공 우주 시스템에서의 소프트웨어 보안 문제를 분석하고 해결하며, 해킹을 방지하기 위한 보안 기술을 연구 개발함. 항공 우주 시스템의 전체 보안 아키텍처 설계 소프트웨어와 네트워크의 취약점 진단 및 개선 사이버 보안 정책 및 시스템 프로토콜 개발 네트워크 보안 암호화 기술 소프트웨어 취약점 분석 보안 소프트웨어 개발 해킹 방지 기술 시스템 보안 관리 보안 이론 및 암호학 항공 우주 공학 원리 사이버 보안 프로토콜 항공기 소프트웨어 시스템 침투 테스트 및 취약점 스캐닝 항공 우주 시스템의 보안 관행",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1193,
+            "name": "소프트웨어공학개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.21208590046791337
+        },
+        {
+            "id": 1711,
+            "name": "소프트웨어공학개론 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.20983475911543567
+        },
+        {
+            "id": 813,
+            "name": "임베디드시스템개론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.11745442998958656
+        },
+        {
+            "id": 927,
+            "name": "JAVA프로그래밍및실습 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.11285775223418112
+        },
+        {
+            "id": 1539,
+            "name": "JAVA프로그래밍",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.10677699911132858
+        },
+        {
+            "id": 1533,
+            "name": "차량용소프트웨어언어",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT융합기전공학)",
+            "similarity": 0.19262779356312454
+        },
+        {
+            "id": 716,
+            "name": "소프트웨어개발프로세스",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.1531058171107764
+        },
+        {
+            "id": 2357,
+            "name": "전산이론응용",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.1461309935933577
+        },
+        {
+            "id": 2819,
+            "name": "소프트웨어공학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.26163594338190194
+        },
+        {
+            "id": 2561,
+            "name": "소프트웨어시스템분석및설계",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.1441019427857275
+        },
+        {
+            "id": 2406,
+            "name": "네트워크보안",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.40469250201401724
+        },
+        {
+            "id": 605,
+            "name": "농업환경지리정보시스템",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.13494965087574867
+        },
+        {
+            "id": 1354,
+            "name": "스마트팜창의설계",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스마트팜학과",
+            "similarity": 0.11520017314164262
+        },
+        {
+            "id": 2126,
+            "name": "소프트웨어공학캡스톤프로젝트",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.10540811008846418
+        },
+        {
+            "id": 4308,
+            "name": "시스템보안",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "컴퓨터인공지능학부",
+            "similarity": 0.5424617880208213
+        },
+        {
+            "id": 2898,
+            "name": "소프트웨어아키텍처이론과실제",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "소프트웨어공학과",
+            "similarity": 0.1513036352191903
+        },
+        {
+            "id": 3275,
+            "name": "항공드론융합설계",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "항공우주공학과",
+            "similarity": 0.10275642578376175
+        }
+    ]
+}

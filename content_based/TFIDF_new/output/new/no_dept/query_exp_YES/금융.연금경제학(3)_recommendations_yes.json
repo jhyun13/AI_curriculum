@@ -1,0 +1,250 @@
+{
+    "meta_info": {
+        "user_query": "국제 금융 시장에서 환율 변동성과 주요 경제 지표를 분석하여 글로벌 경제 흐름을 예측하는 일이 중요해지고 있어요. 이러한 분석을 기반으로 인사이트를 제공하는 글로벌 경제 애널리스트가 되고 싶어요. 이를 위해 어떤 학습 과정이 필요할까요?",
+        "expanded_query": "국제 금융 시장에서 환율 변동성과 주요 경제 지표를 분석하여 글로벌 경제 흐름을 예측하는 일이 중요해지고 있어요. 이러한 분석을 기반으로 인사이트를 제공하는 글로벌 경제 애널리스트가 되고 싶어요. 이를 위해 어떤 학습 과정이 필요할까요? 글로벌 경제 분석 및 예측 기법에 대한 심도 있는 이해와 실무 적용 능력을 갖추는 것. 글로벌 경제 레포트 작성 및 인사이트 제공 금융 및 경제 분석 글로벌 경제 애널리스트 국제 금융 시장의 변동성을 기반으로 경제 지표를 분석하여 글로벌 경제의 흐름을 예측. 분석 결과를 통해 경제적 인사이트를 제공하며, 투자자 및 기업의 전략 개발 지원. 환율 및 주요 경제 지표 모니터링, 데이터 분석, 경제 보고서 작성, 경제 예측 모델 개발 및 인사이트 제공. 경제 데이터 분석 능력, 예측 모델링, 리서치 및 리포팅 데이터 분석 및 통계적 기법 경제적 트렌드 모니터링 의사소통 및 프레젠테이션 경제학 이론, 통계학, 계량 경제학 국제 금융 시장의 구조와 역학, 거시경제 지표 분석 금융 데이터 분석 도구, 예측 및 분석 소프트웨어 활용 (예: MATLAB, R, Python)",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.22348973187123156
+        },
+        {
+            "id": 2544,
+            "name": "통계학입문",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "통계학과",
+            "similarity": 0.1127939438663693
+        },
+        {
+            "id": 563,
+            "name": "고급프로그래밍언어",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.21094635706628692
+        },
+        {
+            "id": 2219,
+            "name": "결정학",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "신소재공학부(전자재료공학)",
+            "similarity": 0.13467864296615226
+        },
+        {
+            "id": 354,
+            "name": "데이터구조및프로그래밍실습",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "전자공학부",
+            "similarity": 0.13152819807612154
+        },
+        {
+            "id": 2383,
+            "name": "농식품연관산업론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "농경제유통학부",
+            "similarity": 0.12988555440442565
+        },
+        {
+            "id": 2469,
+            "name": "사회보장론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.11182022498188446
+        },
+        {
+            "id": 2565,
+            "name": "중국사회경제사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.18994183173695053
+        },
+        {
+            "id": 3474,
+            "name": "조선시대사",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "사학과",
+            "similarity": 0.15009628679707215
+        },
+        {
+            "id": 3912,
+            "name": "국제재무론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.14308599235960162
+        },
+        {
+            "id": 3247,
+            "name": "행정통계학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.13489627930793205
+        },
+        {
+            "id": 4443,
+            "name": "GIS공간분석기초",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "도시공학과",
+            "similarity": 0.11561702781957948
+        },
+        {
+            "id": 1848,
+            "name": "국제마케팅",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "무역학과",
+            "similarity": 0.15793429000578416
+        },
+        {
+            "id": 1505,
+            "name": "빅데이터경제학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.13978882022141825
+        },
+        {
+            "id": 2315,
+            "name": "제어공학 1",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "융합기술공학부(IT응용시스템공학)",
+            "similarity": 0.1055751269611889
+        },
+        {
+            "id": 4736,
+            "name": "실증미시경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "경제학부",
+            "similarity": 0.3434512229545059
+        },
+        {
+            "id": 3953,
+            "name": "사회적경제론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.19949541868239107
+        },
+        {
+            "id": 4789,
+            "name": "해외시장조사론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.17047117918237883
+        },
+        {
+            "id": 3775,
+            "name": "AI스포츠 1",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.16009769960769238
+        },
+        {
+            "id": 3576,
+            "name": "국제물류론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1252580555376009
+        },
+        {
+            "id": 1061,
+            "name": "미디어경제경영론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.214735469350873
+        },
+        {
+            "id": 93,
+            "name": "데이터마이닝",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "통계학과",
+            "similarity": 0.14586555766225484
+        },
+        {
+            "id": 279,
+            "name": "일반사회논리및논술론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.13969360025031918
+        },
+        {
+            "id": 1070,
+            "name": "남미의이해",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "스페인.중남미학과",
+            "similarity": 0.1382099272792532
+        },
+        {
+            "id": 1534,
+            "name": "금융시계열분석",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "경제학부",
+            "similarity": 0.13414823159571312
+        },
+        {
+            "id": 4941,
+            "name": "환경경영및정책",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "토목환경자원에너지공학부(환경공학)",
+            "similarity": 0.1589356128826733
+        },
+        {
+            "id": 4480,
+            "name": "미래형자동차공학",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "전기공학과",
+            "similarity": 0.1401121122061291
+        },
+        {
+            "id": 3342,
+            "name": "중국무역투자론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "similarity": 0.1373683586140849
+        },
+        {
+            "id": 3098,
+            "name": "한국사회분석실습",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "사회학과",
+            "similarity": 0.13022647182617048
+        },
+        {
+            "id": 3867,
+            "name": "문화기획과전시",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "고고문화인류학과",
+            "similarity": 0.10755805219711714
+        }
+    ]
+}

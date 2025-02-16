@@ -1,0 +1,57 @@
+{
+    "meta_info": {
+        "user_query": "스페인어권 국가들과의 무역을 활성화하고, 국제 시장에서 효과적인 금융 및 결제 솔루션을 제공하는 분야에 관심이 있어요. 이를 위해 어떤 학습 과정이 필요할까요?",
+        "expanded_query": null,
+        "given_departments": null,
+        "selected_departments": [
+            "스페인.중남미학과",
+            "무역학과"
+        ]
+    },
+    "recommendations": [
+        {
+            "id": 4601,
+            "name": "무역계약론",
+            "description": "무역계약에 대한 기본 이해와 무역전문가로서의 국제매매계약서를 작성할 수 있는 기본소양을 제공하는 것을 목표로 한다.",
+            "curriculum": "Chapter 1. 계약기초YUMMIChapter 2. 계약의 성립과 항변YUMMIChapter 3. 무역계약의 의의YUMMIChapter 4. 무역계약의 성립YUMMIChapter 5. 대금결제조건YUMMIChapter 6. 인코톰즈 2020YUMMIChapter 7. 무역클레임과 분쟁해결YUMMI중간고사 YUMMIChapter 9. 국제물품매매계약YUMMI Chapter 10. 특수한 계약YUMMIChapter 11. 국제물품매매법(협약)개관YUMMIChapter 12. 국제물품매매법(협약)의 적용범위 및 해석원칙YUMMIChapter 13. 물품의 매매YUMMIChapter 14. 기타YUMMI기말고사 YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역계약론 무역계약에 대한 기본 이해와 무역전문가로서의 국제매매계약서를 작성할 수 있는 기본소양을 제공하는 것을 목표로 한다.",
+            "similarity": 0.17310055196815574
+        },
+        {
+            "id": 2859,
+            "name": "국제경영학",
+            "description": "본 수업은 세계경제의 글로벌화 및 다국적기업에 대해 관심이 있고 공부를 하고자 하는 학부 학생들의 국제경영학 분야에 대한 기초적이고 종합적인 이해 함양을 주요 목표로 한다.",
+            "curriculum": "국제경영학 소개 및 개론YUMMI글로벌경영환경에 대한 이해YUMMI새로운 국제무역질서YUMMI글로벌금융 및 정치적, 문화적 환경YUMMI글로벌전략의 수립YUMMI수출과 계약을 통한 해외사업운영YUMMI해외직접투자YUMMI중간고사YUMMI국제합작투자와 전략적 제휴YUMMI해외인수합병YUMMI글로벌기업의 조직구조와 인적자원관리YUMMI글로벌제품개발과 마케팅활동의 조정, 생산 및 연구개발활동의 세계적인 배치와 조정YUMMI글로벌경영활동의 재무적.회계적 통제, 미래의 글로벌기업YUMMIGroup presentationYUMMI기말고사YUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "국제경영학 본 수업은 세계경제의 글로벌화 및 다국적기업에 대해 관심이 있고 공부를 하고자 하는 학부 학생들의 국제경영학 분야에 대한 기초적이고 종합적인 이해 함양을 주요 목표로 한다.",
+            "similarity": 0.1431861984609047
+        },
+        {
+            "id": 3415,
+            "name": "무역계량분석론",
+            "description": "이제 현대사회에서 머신러닝과 빅데이터에 대한 이해는 사회과학을 공부하는 학생들이 필수적으로 가져야 하는 지식임에 틀림없다. 이 수업은 그에 대한 기초지식을 습득하기 위해 무역, 금융, 경제등 사회과학 분야에서 널리 쓰이는 계량분석론을 이해하는 데 목표를 하고 있다. ",
+            "curriculum": "Basic Concepts for Statistics and Linear Algebra\nYUMMIClassical Linear Models and Ordinary Least Squares Estimation \nYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIClassical Linear Models and Ordinary Least Squares EstimationYUMMIHypothesis TestingYUMMI중간고사\nYUMMIHypothesis TestingYUMMIModel SpecificationYUMMIModel SpecificationYUMMIDummy Variables\nYUMMIGeneralized Least Squares\nYUMMIForecastingYUMMI기말고사\nYUMMI",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역계량분석론 이제 현대사회에서 머신러닝과 빅데이터에 대한 이해는 사회과학을 공부하는 학생들이 필수적으로 가져야 하는 지식임에 틀림없다. 이 수업은 그에 대한 기초지식을 습득하기 위해 무역, 금융, 경제등 사회과학 분야에서 널리 쓰이는 계량분석론을 이해하는 데 목표를 하고 있다. ",
+            "similarity": 0.12594867076481492
+        },
+        {
+            "id": 3084,
+            "name": "무역클레임해결론",
+            "description": "국제 무역 및 투자가 증가함에 따라서 관련 분쟁도 증가하고 있다. 따라서 본 과정에서는 무역클레임의 유형, 발생원인, 예방책, 그리고 해결방법 등을 사례를 증심으로 학습한다. 특히 국제 무역 및 투자 분쟁의 해결방식으로 많이 이용되고 있는 상사중재에 대해 보다 심도있게 학습한다.",
+            "curriculum": "무역클레임의 전반적인 사항에 대해 이해함.YUMMI무역클레임의 전반적인 사항에 대해 이해함, 무역분쟁 해결 방법에 대해 이해함.YUMMI무역분쟁 해결방법에 대해 이해함.(계속) 중재합의에 대해 이해함.YUMMI중재합의에 대해 이해함.(계속)YUMMI중재판정부에 대해 이해함YUMMI중재절차에 대해 이해함.YUMMI중재판정에 대해 이해함YUMMI중재판정 취소제도에 대해 이해함.YUMMI중재판정 승인 및 집행제도에 대해 이해함.YUMMI평가YUMMI중재판정 사례 발표YUMMI중재판정 사례 발표YUMMI중재판정 사례 발표YUMMI중재판정 사례 발표YUMMI중재판정 사례 발표YUMMI",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "무역학과",
+            "full_text": "무역클레임해결론 국제 무역 및 투자가 증가함에 따라서 관련 분쟁도 증가하고 있다. 따라서 본 과정에서는 무역클레임의 유형, 발생원인, 예방책, 그리고 해결방법 등을 사례를 증심으로 학습한다. 특히 국제 무역 및 투자 분쟁의 해결방식으로 많이 이용되고 있는 상사중재에 대해 보다 심도있게 학습한다.",
+            "similarity": 0.17687070388251017
+        }
+    ]
+}

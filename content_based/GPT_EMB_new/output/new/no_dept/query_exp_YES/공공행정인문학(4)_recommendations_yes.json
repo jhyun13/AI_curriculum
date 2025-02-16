@@ -1,0 +1,330 @@
+{
+    "meta_info": {
+        "user_query": "정치 및 행정 조직에서 윤리적 문제를 고려하고, 공정하고 책임 있는 정책 운영을 지원하는 공공 윤리 전문가가 되고 싶어요. 이를 위해 어떤 학문적 배경이 필요할까요?",
+        "expanded_query": "정치 및 행정 조직에서 윤리적 문제를 고려하고, 공정하고 책임 있는 정책 운영을 지원하는 공공 윤리 전문가가 되고 싶어요. 이를 위해 어떤 학문적 배경이 필요할까요? 공공 윤리 및 정책 운영에서의 윤리적 문제 해결 능력 습득 공공 윤리 전문가로 활동 공공 행정 및 정책 공공 윤리 전문가 공공 윤리 전문가는 정치 및 행정 조직 내에서 윤리적 기준을 설정하고, 공정하고 책임 있는 의사결정을 지원하는 역할을 한다. 윤리적 문제 분석 및 개선 방안 제시 조직의 윤리적 기준 설정 및 감독 공정하고 책임 있는 정책 개발 지원 윤리적 판단 및 분석 능력 정책 개발 및 분석 기술 연구 및 분석 기술 의사소통 및 설득 기술 문제 해결 및 의사 결정 능력 정치 철학 및 윤리 이론 공공 정책 및 행정 이론 사회 정의 및 평등 이론 윤리적 의사결정 프레임워크 정책 분석 및 평가 기법",
+        "given_departments": null,
+        "selected_departments": null
+    },
+    "recommendations": [
+        {
+            "id": 1653,
+            "name": "사회복지학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.3451704180527054
+        },
+        {
+            "id": 1099,
+            "name": "경관자원론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "생명자원융합학과",
+            "similarity": 0.30428602534046795
+        },
+        {
+            "id": 735,
+            "name": "한옥학개론",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "한옥학과",
+            "similarity": 0.2982280974078031
+        },
+        {
+            "id": 157,
+            "name": "창의적공학설계입문",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "전기공학과",
+            "similarity": 0.27792908610811495
+        },
+        {
+            "id": 623,
+            "name": "환경생태학",
+            "student_grade": 1,
+            "semester": 1,
+            "department_name": "조경학과",
+            "similarity": 0.26988150922667664
+        },
+        {
+            "id": 4253,
+            "name": "정책학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.41297402647710285
+        },
+        {
+            "id": 4156,
+            "name": "사회문제론",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.3500905495006081
+        },
+        {
+            "id": 4651,
+            "name": "인간행동과사회환경",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.3484082312196999
+        },
+        {
+            "id": 3583,
+            "name": "경제학원론 1",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.3447358730678797
+        },
+        {
+            "id": 4494,
+            "name": "일반심리학",
+            "student_grade": 1,
+            "semester": 2,
+            "department_name": "심리학과",
+            "similarity": 0.33364793933799275
+        },
+        {
+            "id": 1250,
+            "name": "행정조사방법론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4063511043762637
+        },
+        {
+            "id": 2075,
+            "name": "행정법 1",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4006192105287013
+        },
+        {
+            "id": 2000,
+            "name": "헌법과정치",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "정치외교학과",
+            "similarity": 0.3870485867176723
+        },
+        {
+            "id": 1157,
+            "name": "식품분석학및실험",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "식품공학과",
+            "similarity": 0.3577852100279606
+        },
+        {
+            "id": 2209,
+            "name": "민주정치론",
+            "student_grade": 2,
+            "semester": 1,
+            "department_name": "정치외교학과",
+            "similarity": 0.35176325746594284
+        },
+        {
+            "id": 2934,
+            "name": "윤리학",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "철학과",
+            "similarity": 0.4862531044972917
+        },
+        {
+            "id": 4639,
+            "name": "정책형성론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.41589323735319006
+        },
+        {
+            "id": 4510,
+            "name": "스포츠윤리",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "스포츠과학과",
+            "similarity": 0.4044595666494252
+        },
+        {
+            "id": 3591,
+            "name": "식품정책론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.4034730225392156
+        },
+        {
+            "id": 4254,
+            "name": "갈등관리론",
+            "student_grade": 2,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.39739214589475463
+        },
+        {
+            "id": 432,
+            "name": "사회복지윤리와철학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "사회복지학과",
+            "similarity": 0.5199214921272287
+        },
+        {
+            "id": 1676,
+            "name": "과학기술과윤리",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "과학학과",
+            "similarity": 0.49067105825891427
+        },
+        {
+            "id": 1908,
+            "name": "행정철학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4525943903591023
+        },
+        {
+            "id": 1499,
+            "name": "정의와사회윤리",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "철학과",
+            "similarity": 0.43958270045596504
+        },
+        {
+            "id": 1038,
+            "name": "응용윤리와인간학",
+            "student_grade": 3,
+            "semester": 1,
+            "department_name": "철학과",
+            "similarity": 0.43200191118431286
+        },
+        {
+            "id": 3745,
+            "name": "환경정책론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.4462625954197941
+        },
+        {
+            "id": 2803,
+            "name": "공공관계론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.41507701475182257
+        },
+        {
+            "id": 4721,
+            "name": "정책평가론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.3965730327638368
+        },
+        {
+            "id": 4553,
+            "name": "정치경제학",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "농경제유통학부",
+            "similarity": 0.39036573452703216
+        },
+        {
+            "id": 4081,
+            "name": "사회복지정책론",
+            "student_grade": 3,
+            "semester": 2,
+            "department_name": "사회복지학과",
+            "similarity": 0.3819872547410386
+        },
+        {
+            "id": 2375,
+            "name": "행정통제와감사",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.42905595045538414
+        },
+        {
+            "id": 2194,
+            "name": "과학기술정책론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.4223385436736643
+        },
+        {
+            "id": 261,
+            "name": "철학논리및논술",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "철학과",
+            "similarity": 0.39583716931271
+        },
+        {
+            "id": 386,
+            "name": "행정사무관리론",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "행정학과",
+            "similarity": 0.3712408645153559
+        },
+        {
+            "id": 408,
+            "name": "정치커뮤니케이션",
+            "student_grade": 4,
+            "semester": 1,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.3657660384603689
+        },
+        {
+            "id": 4158,
+            "name": "회계윤리",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "회계학과",
+            "similarity": 0.457559151907125
+        },
+        {
+            "id": 4751,
+            "name": "공공외교이론과실제",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.410610923907819
+        },
+        {
+            "id": 4557,
+            "name": "복지행정론",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "행정학과",
+            "similarity": 0.39074488152689585
+        },
+        {
+            "id": 3587,
+            "name": "PR과전략커뮤니케이션",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "미디어커뮤니케이션학과",
+            "similarity": 0.38842321739769947
+        },
+        {
+            "id": 2498,
+            "name": "한국정치의쟁점",
+            "student_grade": 4,
+            "semester": 2,
+            "department_name": "정치외교학과",
+            "similarity": 0.3750200009130116
+        }
+    ]
+}
